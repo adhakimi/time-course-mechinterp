@@ -1,0 +1,3905 @@
+{
+    "text": "The capital of Colombia is",
+    "answer": " Bog",
+    "subject": " Colombia",
+    "0_pre_0": {
+        "token_idx": 0,
+        "tokens": "\u308c\u3069, greg, utron, \ufffd, ister, efon,  Nov\u00e1, \u0e49\u0e2d, actly, udi",
+        "rank_subject": 50569,
+        "rank_answer": 33487,
+        "logit_subject": 0.0016937255859375,
+        "logit_answer": 0.0040283203125,
+        "prob_subject": 7.808208465576172e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "0_pre_1": {
+        "token_idx": 1,
+        "tokens": "odor, oret, odore, oretical,  only, iet, stad, cheng,  same, .scalablytyped",
+        "rank_subject": 115243,
+        "rank_answer": 114745,
+        "logit_subject": -0.006805419921875,
+        "logit_answer": -0.006683349609375,
+        "prob_subject": 7.748603820800781e-06,
+        "prob_answer": 7.748603820800781e-06
+    },
+    "0_pre_2": {
+        "token_idx": 2,
+        "tokens": " inch,  inf,  tol,  front, uch,  Brennan, \u68d2, ynn,  her,  Suite",
+        "rank_subject": 7581,
+        "rank_answer": 113,
+        "logit_subject": 0.01104736328125,
+        "logit_answer": 0.02294921875,
+        "prob_subject": 7.867813110351562e-06,
+        "prob_answer": 7.987022399902344e-06
+    },
+    "0_pre_3": {
+        "token_idx": 3,
+        "tokens": " course, course,  sorts,  Kong, icina, \uad50, ure,  Temper, irsch, ician",
+        "rank_subject": 100296,
+        "rank_answer": 94209,
+        "logit_subject": -0.00311279296875,
+        "logit_answer": -0.002532958984375,
+        "prob_subject": 7.748603820800781e-06,
+        "prob_answer": 7.748603820800781e-06
+    },
+    "0_pre_4": {
+        "token_idx": 4,
+        "tokens": "reater, gnore,  indem, \u015fk,  Keys,  Zucker, 324, unk, Hz, ibe",
+        "rank_subject": 20945,
+        "rank_answer": 95111,
+        "logit_subject": 0.0086669921875,
+        "logit_answer": -0.00567626953125,
+        "prob_subject": 7.867813110351562e-06,
+        "prob_answer": 7.748603820800781e-06
+    },
+    "0_pre_5": {
+        "token_idx": 5,
+        "tokens": "jav, /w, otope,  bubble,  bubbles,  Wyn,  esp, \u064a\u062b,  Hundred, isphere",
+        "rank_subject": 45034,
+        "rank_answer": 112694,
+        "logit_subject": 0.001678466796875,
+        "logit_answer": -0.005279541015625,
+        "prob_subject": 7.808208465576172e-06,
+        "prob_answer": 7.748603820800781e-06
+    },
+    "0_mid_0": {
+        "token_idx": 0,
+        "tokens": "udi, lak, veau, unma, .createComponent, greg, \ufffd,  Nov\u00e1, ister, _lineno",
+        "rank_subject": 62175,
+        "rank_answer": 43157,
+        "logit_subject": 0.00023746490478515625,
+        "logit_answer": 0.0024871826171875,
+        "prob_subject": 7.808208465576172e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "0_mid_1": {
+        "token_idx": 1,
+        "tokens": "odor,  only, odore, oretical,  D\u00fcn, addy, oret, iet,  tapped,  falsely",
+        "rank_subject": 123309,
+        "rank_answer": 112857,
+        "logit_subject": -0.0115966796875,
+        "logit_answer": -0.00750732421875,
+        "prob_subject": 7.68899917602539e-06,
+        "prob_answer": 7.748603820800781e-06
+    },
+    "0_mid_2": {
+        "token_idx": 2,
+        "tokens": "cams, o\u017e,  inch, .cam, .LA, \u0447\u0443\u043a,  Casc,  inf, \u68da,  acres",
+        "rank_subject": 32605,
+        "rank_answer": 355,
+        "logit_subject": 0.005645751953125,
+        "logit_answer": 0.0244140625,
+        "prob_subject": 7.867813110351562e-06,
+        "prob_answer": 7.987022399902344e-06
+    },
+    "0_mid_3": {
+        "token_idx": 3,
+        "tokens": " nackte,  Stuart, istani,  all, \ufffd\ufffd,  Garner, \ufffd\ufffd, /Area, woke,  \u200b\u200b",
+        "rank_subject": 53972,
+        "rank_answer": 76016,
+        "logit_subject": 0.0016937255859375,
+        "logit_answer": -0.00177001953125,
+        "prob_subject": 7.808208465576172e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "0_mid_4": {
+        "token_idx": 4,
+        "tokens": " Zucker,  Bol, TH, reater,  Mand, beck, -DD, \u970d, chine,  indem",
+        "rank_subject": 27277,
+        "rank_answer": 75518,
+        "logit_subject": 0.00787353515625,
+        "logit_answer": -0.002166748046875,
+        "prob_subject": 7.867813110351562e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "0_mid_5": {
+        "token_idx": 5,
+        "tokens": "'gc,  \u201c, \u06cc\u06cc\u0646, /w, o\u011f, \u3002\u3002\n\n, jav, IMAL, isser,  \u25b2",
+        "rank_subject": 94975,
+        "rank_answer": 73040,
+        "logit_subject": -0.00531005859375,
+        "logit_answer": -0.00131988525390625,
+        "prob_subject": 7.748603820800781e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "1_pre_0": {
+        "token_idx": 0,
+        "tokens": "ungs, NG, .ImageAlign, ingo,  tslint, enschaft, WA,  paci, iotic, \u8c61",
+        "rank_subject": 46453,
+        "rank_answer": 60453,
+        "logit_subject": 0.04345703125,
+        "logit_answer": 0.00958251953125,
+        "prob_subject": 8.106231689453125e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "1_pre_1": {
+        "token_idx": 1,
+        "tokens": "kl\u00e4, odore, /interfaces, oretical,  D\u00fcn, eron, timing, edes,  meisten, VELO",
+        "rank_subject": 122000,
+        "rank_answer": 98072,
+        "logit_subject": -0.02587890625,
+        "logit_answer": -0.0111083984375,
+        "prob_subject": 7.599592208862305e-06,
+        "prob_answer": 7.68899917602539e-06
+    },
+    "1_pre_2": {
+        "token_idx": 2,
+        "tokens": "cak,  residence,  unlike, .tc,  Tanner, ARRIER, PGA,  drawn,  Residence, .cfg",
+        "rank_subject": 19532,
+        "rank_answer": 1096,
+        "logit_subject": 0.01507568359375,
+        "logit_answer": 0.03564453125,
+        "prob_subject": 7.927417755126953e-06,
+        "prob_answer": 8.106231689453125e-06
+    },
+    "1_pre_3": {
+        "token_idx": 3,
+        "tokens": " \u200b\u200b, yt, $core,  Dud,  Pose,  Dort, \ufffd, readcr, jury,  Tul",
+        "rank_subject": 80626,
+        "rank_answer": 112850,
+        "logit_subject": -0.003509521484375,
+        "logit_answer": -0.0130615234375,
+        "prob_subject": 7.748603820800781e-06,
+        "prob_answer": 7.68899917602539e-06
+    },
+    "1_pre_4": {
+        "token_idx": 4,
+        "tokens": "ycop, cope, ancode, iceps, \u9038, esity, BaseContext, pars,  Bol, osi",
+        "rank_subject": 57037,
+        "rank_answer": 102072,
+        "logit_subject": 0.002166748046875,
+        "logit_answer": -0.013671875,
+        "prob_subject": 7.808208465576172e-06,
+        "prob_answer": 7.68899917602539e-06
+    },
+    "1_pre_5": {
+        "token_idx": 5,
+        "tokens": "/is, /w,  Tanner, otope, isser,  repl,  Jas, ifu,  truly, Comparer",
+        "rank_subject": 99272,
+        "rank_answer": 98793,
+        "logit_subject": -0.006988525390625,
+        "logit_answer": -0.006866455078125,
+        "prob_subject": 7.748603820800781e-06,
+        "prob_answer": 7.748603820800781e-06
+    },
+    "1_mid_0": {
+        "token_idx": 0,
+        "tokens": "ungs, NG, .ImageAlign,  tslint, ingo, enschaft, iotic, WA,  paci, \u062e\u062a",
+        "rank_subject": 46589,
+        "rank_answer": 60813,
+        "logit_subject": 0.04296875,
+        "logit_answer": 0.00872802734375,
+        "prob_subject": 8.106231689453125e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "1_mid_1": {
+        "token_idx": 1,
+        "tokens": "kl\u00e4, odore, oretical, eron, \u255d,  D\u00fcn, timing, \u0447\u0435,  meisten, VELO",
+        "rank_subject": 123958,
+        "rank_answer": 101595,
+        "logit_subject": -0.029541015625,
+        "logit_answer": -0.01312255859375,
+        "prob_subject": 7.569789886474609e-06,
+        "prob_answer": 7.68899917602539e-06
+    },
+    "1_mid_2": {
+        "token_idx": 2,
+        "tokens": "cak, ARRIER, .tc, .cfg,  Tanner, letcher, .cum, \ufffd\ufffd, vens, cene",
+        "rank_subject": 28481,
+        "rank_answer": 3125,
+        "logit_subject": 0.01104736328125,
+        "logit_answer": 0.0291748046875,
+        "prob_subject": 7.867813110351562e-06,
+        "prob_answer": 8.046627044677734e-06
+    },
+    "1_mid_3": {
+        "token_idx": 3,
+        "tokens": " \u200b\u200b, Merit, \u0440\u043e\u0439, roj, readcr,  Dort, IVAL, \ufffd,  con, Reuse",
+        "rank_subject": 59605,
+        "rank_answer": 72040,
+        "logit_subject": 0.00119781494140625,
+        "logit_answer": -0.001983642578125,
+        "prob_subject": 7.808208465576172e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "1_mid_4": {
+        "token_idx": 4,
+        "tokens": "ycop, cope, ancode, pars, BaseContext, .cx, \u0632\u0627\u0631, \u9038, oyal, ieu",
+        "rank_subject": 36637,
+        "rank_answer": 98494,
+        "logit_subject": 0.00994873046875,
+        "logit_answer": -0.012939453125,
+        "prob_subject": 7.867813110351562e-06,
+        "prob_answer": 7.68899917602539e-06
+    },
+    "1_mid_5": {
+        "token_idx": 5,
+        "tokens": " , o\u017e, /is, \u00a0, o\u011f, UnitTest, Wunused, ycop,  Intelligence, 'gc",
+        "rank_subject": 77774,
+        "rank_answer": 73543,
+        "logit_subject": -0.00390625,
+        "logit_answer": -0.002655029296875,
+        "prob_subject": 7.748603820800781e-06,
+        "prob_answer": 7.748603820800781e-06
+    },
+    "2_pre_0": {
+        "token_idx": 0,
+        "tokens": ".GraphicsUnit, #echo, aeda, \uae14, \u0627\u0633\u0637\u0629, \u0648\u06cc\u0646\u062a, \ufffd, podob, /Foundation, Insensitive",
+        "rank_subject": 95031,
+        "rank_answer": 98204,
+        "logit_subject": -3.734375,
+        "logit_answer": -4.15625,
+        "prob_subject": 1.2576745200831851e-16,
+        "prob_answer": 8.239936510889834e-17
+    },
+    "2_pre_1": {
+        "token_idx": 1,
+        "tokens": "kl\u00e4, oretical, odore, 'gc, atre, \u1eb5ng, timing, \u0627\u06cc\u0632, VELO,  meisten",
+        "rank_subject": 124567,
+        "rank_answer": 103906,
+        "logit_subject": -0.037841796875,
+        "logit_answer": -0.017333984375,
+        "prob_subject": 7.510185241699219e-06,
+        "prob_answer": 7.68899917602539e-06
+    },
+    "2_pre_2": {
+        "token_idx": 2,
+        "tokens": ".tc, c\u00fc, \u0e18\u0e32\u0e19, .cfg, .ov, PGA, \ufffdt, cak,  reife, ARRIER",
+        "rank_subject": 50871,
+        "rank_answer": 36433,
+        "logit_subject": 0.004608154296875,
+        "logit_answer": 0.00982666015625,
+        "prob_subject": 7.808208465576172e-06,
+        "prob_answer": 7.867813110351562e-06
+    },
+    "2_pre_3": {
+        "token_idx": 3,
+        "tokens": " \u200b\u200b, readcr,  ANN, nd,  gains, yas, .scalablytyped, $core, kus,  semiclass",
+        "rank_subject": 59582,
+        "rank_answer": 79739,
+        "logit_subject": 0.0016632080078125,
+        "logit_answer": -0.0050048828125,
+        "prob_subject": 7.808208465576172e-06,
+        "prob_answer": 7.748603820800781e-06
+    },
+    "2_pre_4": {
+        "token_idx": 4,
+        "tokens": "ycop, ancode, oyal, inox, \u0632\u0627\u0631, HL, 'gc, BaseContext, stru, cope",
+        "rank_subject": 47699,
+        "rank_answer": 98365,
+        "logit_subject": 0.00634765625,
+        "logit_answer": -0.0145263671875,
+        "prob_subject": 7.867813110351562e-06,
+        "prob_answer": 7.68899917602539e-06
+    },
+    "2_pre_5": {
+        "token_idx": 5,
+        "tokens": "'gc, o\u017e, \ufffd\u56de, o\u011f, /is, \u00a0PS, UnitTest,  Intelligence, .protobuf, tingham",
+        "rank_subject": 42110,
+        "rank_answer": 30364,
+        "logit_subject": 0.006988525390625,
+        "logit_answer": 0.01129150390625,
+        "prob_subject": 7.867813110351562e-06,
+        "prob_answer": 7.867813110351562e-06
+    },
+    "2_mid_0": {
+        "token_idx": 0,
+        "tokens": ".GraphicsUnit, #echo, aeda, \uae14, \u0627\u0633\u0637\u0629, \u0648\u06cc\u0646\u062a, \ufffd, podob, /Foundation, Insensitive",
+        "rank_subject": 95026,
+        "rank_answer": 98203,
+        "logit_subject": -3.734375,
+        "logit_answer": -4.15625,
+        "prob_subject": 1.2576745200831851e-16,
+        "prob_answer": 8.239936510889834e-17
+    },
+    "2_mid_1": {
+        "token_idx": 1,
+        "tokens": "kl\u00e4, 'gc, reopen, oretical, odore, timing,  D\u00fcn, \u255d, VECTOR, -\r\n",
+        "rank_subject": 124578,
+        "rank_answer": 101815,
+        "logit_subject": -0.04150390625,
+        "logit_answer": -0.0177001953125,
+        "prob_subject": 7.4803829193115234e-06,
+        "prob_answer": 7.62939453125e-06
+    },
+    "2_mid_2": {
+        "token_idx": 2,
+        "tokens": ".tc,  vX,  reife, .cum, .ov, \u0e18\u0e32\u0e19, \ufffdt, probe, interop, c\u00fc",
+        "rank_subject": 61017,
+        "rank_answer": 37010,
+        "logit_subject": 0.00125885009765625,
+        "logit_answer": 0.01025390625,
+        "prob_subject": 7.808208465576172e-06,
+        "prob_answer": 7.867813110351562e-06
+    },
+    "2_mid_3": {
+        "token_idx": 3,
+        "tokens": ".scalablytyped,  \u200b\u200b, readcr,  semiclass, kus, $core, IVAL,  gains, yas, _mC",
+        "rank_subject": 61903,
+        "rank_answer": 70545,
+        "logit_subject": 0.000885009765625,
+        "logit_answer": -0.00186920166015625,
+        "prob_subject": 7.808208465576172e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "2_mid_4": {
+        "token_idx": 4,
+        "tokens": "ycop, 'gc, \u0632\u0627\u0631, /***/, BaseContext, yntax, ancode, #ad, ysize, oyal",
+        "rank_subject": 41776,
+        "rank_answer": 91110,
+        "logit_subject": 0.009765625,
+        "logit_answer": -0.01220703125,
+        "prob_subject": 7.867813110351562e-06,
+        "prob_answer": 7.68899917602539e-06
+    },
+    "2_mid_5": {
+        "token_idx": 5,
+        "tokens": "'gc, \ufffd\u56de, o\u017e,  -*-\r\n, Wunused, o\u011f, \u3002\u3002\n\n, \u0e40\u0e1f, \u00a0PS, UnitTest",
+        "rank_subject": 32184,
+        "rank_answer": 42590,
+        "logit_subject": 0.01336669921875,
+        "logit_answer": 0.00848388671875,
+        "prob_subject": 7.927417755126953e-06,
+        "prob_answer": 7.867813110351562e-06
+    },
+    "3_pre_0": {
+        "token_idx": 0,
+        "tokens": ".GraphicsUnit, #echo, aeda, \uae14, \u0627\u0633\u0637\u0629, \u0648\u06cc\u0646\u062a, \ufffd, podob, /Foundation, Insensitive",
+        "rank_subject": 95024,
+        "rank_answer": 98201,
+        "logit_subject": -3.734375,
+        "logit_answer": -4.15625,
+        "prob_subject": 1.2576745200831851e-16,
+        "prob_answer": 8.239936510889834e-17
+    },
+    "3_pre_1": {
+        "token_idx": 1,
+        "tokens": "'gc,  D\u00fcn, odore, oretical, atre, elere, kl\u00e4, \u0627\u06cc\u062c, \u1eb5ng, .LookAndFeel",
+        "rank_subject": 121650,
+        "rank_answer": 85733,
+        "logit_subject": -0.04248046875,
+        "logit_answer": -0.01129150390625,
+        "prob_subject": 7.4803829193115234e-06,
+        "prob_answer": 7.68899917602539e-06
+    },
+    "3_pre_2": {
+        "token_idx": 2,
+        "tokens": "tee, 'gc, .tc, probe, .cum, \\core, .son, cak,  reife, \u2116\u2116",
+        "rank_subject": 34930,
+        "rank_answer": 24278,
+        "logit_subject": 0.016357421875,
+        "logit_answer": 0.023681640625,
+        "prob_subject": 7.927417755126953e-06,
+        "prob_answer": 7.987022399902344e-06
+    },
+    "3_pre_3": {
+        "token_idx": 3,
+        "tokens": ".scalablytyped, ippo,  \u200b\u200b, TimeInterval, .ov,  Enrique, \u043e\u0436\u0435\u0442, \u00e6nd, YLON, _secure",
+        "rank_subject": 109008,
+        "rank_answer": 95046,
+        "logit_subject": -0.026123046875,
+        "logit_answer": -0.01611328125,
+        "prob_subject": 7.599592208862305e-06,
+        "prob_answer": 7.68899917602539e-06
+    },
+    "3_pre_4": {
+        "token_idx": 4,
+        "tokens": "stru, ancode, oney, ijken, \u0632\u0627\u0631, \u043a\u0443\u043f, \u0430\u043a\u0441\u0438\u043c, ampil, opup, \ufffd",
+        "rank_subject": 48739,
+        "rank_answer": 77668,
+        "logit_subject": 0.008056640625,
+        "logit_answer": -0.007476806640625,
+        "prob_subject": 7.867813110351562e-06,
+        "prob_answer": 7.748603820800781e-06
+    },
+    "3_pre_5": {
+        "token_idx": 5,
+        "tokens": "'gc, Liked, UnitTest, /is, o\u011f, \u00a0PS, ColumnType, unpack,  -*-\r\n, >tag",
+        "rank_subject": 73264,
+        "rank_answer": 48969,
+        "logit_subject": -0.004150390625,
+        "logit_answer": 0.006378173828125,
+        "prob_subject": 7.748603820800781e-06,
+        "prob_answer": 7.867813110351562e-06
+    },
+    "3_mid_0": {
+        "token_idx": 0,
+        "tokens": ".GraphicsUnit, #echo, aeda, \uae14, \u0627\u0633\u0637\u0629, \u0648\u06cc\u0646\u062a, \ufffd, podob, /Foundation, Insensitive",
+        "rank_subject": 95014,
+        "rank_answer": 98207,
+        "logit_subject": -3.734375,
+        "logit_answer": -4.15625,
+        "prob_subject": 1.2576745200831851e-16,
+        "prob_answer": 8.239936510889834e-17
+    },
+    "3_mid_1": {
+        "token_idx": 1,
+        "tokens": "odore, atre, oretical,  D\u00fcn, \u0627\u06cc\u062c, tah, 'gc, interop, kl\u00e4, STALL",
+        "rank_subject": 119267,
+        "rank_answer": 67384,
+        "logit_subject": -0.039306640625,
+        "logit_answer": -0.001739501953125,
+        "prob_subject": 7.4803829193115234e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "3_mid_2": {
+        "token_idx": 2,
+        "tokens": ".tc, tee, .cum, \\core, probe, \u2116\u2116, pend, onu, .son, 'gc",
+        "rank_subject": 32599,
+        "rank_answer": 11240,
+        "logit_subject": 0.0185546875,
+        "logit_answer": 0.0380859375,
+        "prob_subject": 7.927417755126953e-06,
+        "prob_answer": 8.106231689453125e-06
+    },
+    "3_mid_3": {
+        "token_idx": 3,
+        "tokens": ".scalablytyped,  Enrique, readcr, \uc74d, ippo, amet, \u53c2\u7167,  Gay, TimeInterval,  cred",
+        "rank_subject": 96543,
+        "rank_answer": 77398,
+        "logit_subject": -0.01953125,
+        "logit_answer": -0.007293701171875,
+        "prob_subject": 7.62939453125e-06,
+        "prob_answer": 7.748603820800781e-06
+    },
+    "3_mid_4": {
+        "token_idx": 4,
+        "tokens": "stru, ijken, ycop, ancode, \u043a\u0443\u043f, atts, anness, ampil, oney,  \u8a55\u4fa1",
+        "rank_subject": 58534,
+        "rank_answer": 57840,
+        "logit_subject": 0.0028228759765625,
+        "logit_answer": 0.0032196044921875,
+        "prob_subject": 7.808208465576172e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "3_mid_5": {
+        "token_idx": 5,
+        "tokens": "'gc, intl,  \u00dc\u00e7, \u06cc\u06cc\u0646, unpack, UnitTest, o\u011f, .twitch, \ufffd\ufffd, \ufffd\u56de",
+        "rank_subject": 84271,
+        "rank_answer": 57530,
+        "logit_subject": -0.01226806640625,
+        "logit_answer": 0.003692626953125,
+        "prob_subject": 7.68899917602539e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "4_pre_0": {
+        "token_idx": 0,
+        "tokens": ".GraphicsUnit, #echo, aeda, \uae14, \u0627\u0633\u0637\u0629, \u0648\u06cc\u0646\u062a, \ufffd, podob, /Foundation, Insensitive",
+        "rank_subject": 95021,
+        "rank_answer": 98203,
+        "logit_subject": -3.734375,
+        "logit_answer": -4.15625,
+        "prob_subject": 1.2576745200831851e-16,
+        "prob_answer": 8.239936510889834e-17
+    },
+    "4_pre_1": {
+        "token_idx": 1,
+        "tokens": "'gc, ahren, .LookAndFeel, \u0636\u06cc, STALL, \u044c\u0435, atomy, \u0e25\u0e32\u0e22, .Accessible, sse",
+        "rank_subject": 117750,
+        "rank_answer": 78747,
+        "logit_subject": -0.05859375,
+        "logit_answer": -0.0123291015625,
+        "prob_subject": 7.361173629760742e-06,
+        "prob_answer": 7.68899917602539e-06
+    },
+    "4_pre_2": {
+        "token_idx": 2,
+        "tokens": "\u2116\u2116, 'gc, probe, ignum, onu, buzz, heiro, iali, \u043e\u0442\u0435, ales",
+        "rank_subject": 44034,
+        "rank_answer": 39254,
+        "logit_subject": 0.01422119140625,
+        "logit_answer": 0.0179443359375,
+        "prob_subject": 7.927417755126953e-06,
+        "prob_answer": 7.927417755126953e-06
+    },
+    "4_pre_3": {
+        "token_idx": 3,
+        "tokens": "\uc74d, #=, \u53c2\u7167, rypton, agn,  \u043d\u0430\u0432, \ufffd,  Slee, \u307b, \u2116\u2116",
+        "rank_subject": 113747,
+        "rank_answer": 114596,
+        "logit_subject": -0.047119140625,
+        "logit_answer": -0.048583984375,
+        "prob_subject": 7.420778274536133e-06,
+        "prob_answer": 7.420778274536133e-06
+    },
+    "4_pre_4": {
+        "token_idx": 4,
+        "tokens": "osti, oney, 827, aren, \ufffd,  Bol, stru, arem, arence,  cupid",
+        "rank_subject": 36425,
+        "rank_answer": 38186,
+        "logit_subject": 0.0189208984375,
+        "logit_answer": 0.017578125,
+        "prob_subject": 7.927417755126953e-06,
+        "prob_answer": 7.927417755126953e-06
+    },
+    "4_pre_5": {
+        "token_idx": 5,
+        "tokens": "'gc, UnitTest, intl, ignum, \u043d\u0430\u0434\u043b\u0435\u0436, \u06cc\u06cc\u0646,  \u00dc\u00e7, \u30e1\u30f3\u30c8, \u5782, /ion",
+        "rank_subject": 83457,
+        "rank_answer": 81444,
+        "logit_subject": -0.01336669921875,
+        "logit_answer": -0.01190185546875,
+        "prob_subject": 7.68899917602539e-06,
+        "prob_answer": 7.68899917602539e-06
+    },
+    "4_mid_0": {
+        "token_idx": 0,
+        "tokens": ".GraphicsUnit, #echo, aeda, \uae14, \u0627\u0633\u0637\u0629, \ufffd, \u0648\u06cc\u0646\u062a, podob, /Foundation, Insensitive",
+        "rank_subject": 95012,
+        "rank_answer": 97965,
+        "logit_subject": -3.734375,
+        "logit_answer": -4.125,
+        "prob_subject": 1.2576745200831851e-16,
+        "prob_answer": 8.500145032286355e-17
+    },
+    "4_mid_1": {
+        "token_idx": 1,
+        "tokens": "'gc, STALL, ahren, \u0636\u06cc, .LookAndFeel, istro, .Accessible, \u044c\u0435, \u0e25\u0e32\u0e22, sse",
+        "rank_subject": 118721,
+        "rank_answer": 72265,
+        "logit_subject": -0.0615234375,
+        "logit_answer": -0.0069580078125,
+        "prob_subject": 7.331371307373047e-06,
+        "prob_answer": 7.748603820800781e-06
+    },
+    "4_mid_2": {
+        "token_idx": 2,
+        "tokens": "\u2116\u2116, 'gc, probe, onu, ignet, itesi, .son, buzz, \u043e\u0442\u0435, \u03c4\u03ce",
+        "rank_subject": 36980,
+        "rank_answer": 20762,
+        "logit_subject": 0.019775390625,
+        "logit_answer": 0.03515625,
+        "prob_subject": 7.927417755126953e-06,
+        "prob_answer": 8.046627044677734e-06
+    },
+    "4_mid_3": {
+        "token_idx": 3,
+        "tokens": "\uc74d, agn, \u307b, \ufffd, rypton, agli, amet,  Shir, .mj,  \u043d\u0430\u0432",
+        "rank_subject": 106887,
+        "rank_answer": 96890,
+        "logit_subject": -0.03759765625,
+        "logit_answer": -0.02685546875,
+        "prob_subject": 7.510185241699219e-06,
+        "prob_answer": 7.569789886474609e-06
+    },
+    "4_mid_4": {
+        "token_idx": 4,
+        "tokens": "osti,  cupid, (Have,  \u8a55\u4fa1, aren, 827, arence, stru,  -*-\r\n, ickness",
+        "rank_subject": 35766,
+        "rank_answer": 30218,
+        "logit_subject": 0.019775390625,
+        "logit_answer": 0.0244140625,
+        "prob_subject": 7.927417755126953e-06,
+        "prob_answer": 7.987022399902344e-06
+    },
+    "4_mid_5": {
+        "token_idx": 5,
+        "tokens": "'gc, ignum, UnitTest, intl, #ac, \u0441\u044c, \u06cc\u06cc\u0646, \u043d\u0430\u0434\u043b\u0435\u0436, \u0448\u0438\u0431\u043a\u0430,  -*-\r\n",
+        "rank_subject": 84245,
+        "rank_answer": 64483,
+        "logit_subject": -0.0159912109375,
+        "logit_answer": -0.0005035400390625,
+        "prob_subject": 7.68899917602539e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "5_pre_0": {
+        "token_idx": 0,
+        "tokens": ".GraphicsUnit, #echo, aeda, \uae14, \u0627\u0633\u0637\u0629, \u0648\u06cc\u0646\u062a, podob, \ufffd, /Foundation, Insensitive",
+        "rank_subject": 95031,
+        "rank_answer": 97993,
+        "logit_subject": -3.734375,
+        "logit_answer": -4.125,
+        "prob_subject": 1.2576745200831851e-16,
+        "prob_answer": 8.500145032286355e-17
+    },
+    "5_pre_1": {
+        "token_idx": 1,
+        "tokens": "'gc, .Accessible, \u0636\u06cc, STALL, #ad, \u044c\u0435, \u1eb5ng, \":[{\n, \u0644\u06cc\u0633\u06cc, kl\u00e4",
+        "rank_subject": 117703,
+        "rank_answer": 65878,
+        "logit_subject": -0.07373046875,
+        "logit_answer": -0.00244140625,
+        "prob_subject": 7.241964340209961e-06,
+        "prob_answer": 7.748603820800781e-06
+    },
+    "5_pre_2": {
+        "token_idx": 2,
+        "tokens": " nue, \ufffd\ub85c, \u2116\u2116, \u984d, tee, 'gc, itesi, ignet, .Face, umblr",
+        "rank_subject": 33285,
+        "rank_answer": 11091,
+        "logit_subject": 0.0301513671875,
+        "logit_answer": 0.064453125,
+        "prob_subject": 8.046627044677734e-06,
+        "prob_answer": 8.285045623779297e-06
+    },
+    "5_pre_3": {
+        "token_idx": 3,
+        "tokens": "\u040e, \uc2b4, UnitTest, .ov,  Shir, rypton, tras,  oval, YLON, agram",
+        "rank_subject": 92896,
+        "rank_answer": 104025,
+        "logit_subject": -0.02734375,
+        "logit_answer": -0.041015625,
+        "prob_subject": 7.569789886474609e-06,
+        "prob_answer": 7.4803829193115234e-06
+    },
+    "5_pre_4": {
+        "token_idx": 4,
+        "tokens": "\u0430\u0440\u043e\u0432, arella, #ac, #ad, BaseContext, \u0438\u043d\u043e\u0432, \u03c4\u03ce, ycop, aren,  Instances",
+        "rank_subject": 10897,
+        "rank_answer": 7435,
+        "logit_subject": 0.06201171875,
+        "logit_answer": 0.0712890625,
+        "prob_subject": 8.285045623779297e-06,
+        "prob_answer": 8.344650268554688e-06
+    },
+    "5_pre_5": {
+        "token_idx": 5,
+        "tokens": "'gc, WSC,  subur, errat, charset,  Lau, DSA, ignum, IRMWARE, \u06cc\u06cc\u0646",
+        "rank_subject": 75287,
+        "rank_answer": 62402,
+        "logit_subject": -0.0096435546875,
+        "logit_answer": 0.0014495849609375,
+        "prob_subject": 7.68899917602539e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "5_mid_0": {
+        "token_idx": 0,
+        "tokens": ".GraphicsUnit, #echo, aeda, \uae14, \u0627\u0633\u0637\u0629, \u0648\u06cc\u0646\u062a, podob, \ufffd, /Foundation, Insensitive",
+        "rank_subject": 95033,
+        "rank_answer": 97992,
+        "logit_subject": -3.734375,
+        "logit_answer": -4.125,
+        "prob_subject": 1.2576745200831851e-16,
+        "prob_answer": 8.500145032286355e-17
+    },
+    "5_mid_1": {
+        "token_idx": 1,
+        "tokens": "'gc, STALL, .Accessible, \u0636\u06cc, \u044c\u0435, \":[{\n, kl\u00e4, odore, .LookAndFeel, \u2019ta",
+        "rank_subject": 116315,
+        "rank_answer": 53511,
+        "logit_subject": -0.0693359375,
+        "logit_answer": 0.0106201171875,
+        "prob_subject": 7.271766662597656e-06,
+        "prob_answer": 7.867813110351562e-06
+    },
+    "5_mid_2": {
+        "token_idx": 2,
+        "tokens": "\ufffd\ub85c, \u2116\u2116,  nue, \u984d, itesi, umblr, tee, .Face, rello, \u043d\u0430\u0434\u043b\u0435\u0436",
+        "rank_subject": 30039,
+        "rank_answer": 7212,
+        "logit_subject": 0.033447265625,
+        "logit_answer": 0.07421875,
+        "prob_subject": 8.046627044677734e-06,
+        "prob_answer": 8.404254913330078e-06
+    },
+    "5_mid_3": {
+        "token_idx": 3,
+        "tokens": "\uc2b4, \u040e, rypton, .ov, agram,  Shir, UnitTest,  city, loys, tras",
+        "rank_subject": 94211,
+        "rank_answer": 94310,
+        "logit_subject": -0.028564453125,
+        "logit_answer": -0.0286865234375,
+        "prob_subject": 7.569789886474609e-06,
+        "prob_answer": 7.569789886474609e-06
+    },
+    "5_mid_4": {
+        "token_idx": 4,
+        "tokens": "arella, \u0430\u0440\u043e\u0432, MMdd, ayscale, BaseContext, \u0430\u0440\u0430\u043c, #ac, \u0438\u043d\u043e\u0432, :expr, aren",
+        "rank_subject": 11544,
+        "rank_answer": 8115,
+        "logit_subject": 0.060546875,
+        "logit_answer": 0.0693359375,
+        "prob_subject": 8.285045623779297e-06,
+        "prob_answer": 8.344650268554688e-06
+    },
+    "5_mid_5": {
+        "token_idx": 5,
+        "tokens": "'gc,  subur, errat, WSC,  Lau, DSA, ignum, charset, IRMWARE, .chars",
+        "rank_subject": 82762,
+        "rank_answer": 48158,
+        "logit_subject": -0.0167236328125,
+        "logit_answer": 0.013916015625,
+        "prob_subject": 7.68899917602539e-06,
+        "prob_answer": 7.927417755126953e-06
+    },
+    "6_pre_0": {
+        "token_idx": 0,
+        "tokens": ".GraphicsUnit, #echo, aeda, \uae14, \u0627\u0633\u0637\u0629, \u0648\u06cc\u0646\u062a, \ufffd, podob, /Foundation, Insensitive",
+        "rank_subject": 95157,
+        "rank_answer": 97999,
+        "logit_subject": -3.75,
+        "logit_answer": -4.125,
+        "prob_subject": 1.240327285323417e-16,
+        "prob_answer": 8.500145032286355e-17
+    },
+    "6_pre_1": {
+        "token_idx": 1,
+        "tokens": "'gc, odore, \u2019ta, \u0636\u06cc, STALL, #ad, .Accessible, \u0627\u06cc\u062c, \":[{\n, _<?",
+        "rank_subject": 109180,
+        "rank_answer": 96883,
+        "logit_subject": -0.058837890625,
+        "logit_answer": -0.0390625,
+        "prob_subject": 7.331371307373047e-06,
+        "prob_answer": 7.4803829193115234e-06
+    },
+    "6_pre_2": {
+        "token_idx": 2,
+        "tokens": "ovna, ucz, :'), dech, \u2116\u2116, ilig, \ufffd\ub85c, \u0627\u06cc\u0632, _TYPED, \u984d",
+        "rank_subject": 38515,
+        "rank_answer": 54373,
+        "logit_subject": 0.028564453125,
+        "logit_answer": 0.010498046875,
+        "prob_subject": 7.987022399902344e-06,
+        "prob_answer": 7.867813110351562e-06
+    },
+    "6_pre_3": {
+        "token_idx": 3,
+        "tokens": "ovna, \u0627\u06cc\u0632, \uc2b4, .ov, 'gc, agram,  T\u00fcm, \u0627\u0633\u0647, _throw,  Mend",
+        "rank_subject": 97383,
+        "rank_answer": 96089,
+        "logit_subject": -0.036865234375,
+        "logit_answer": -0.03515625,
+        "prob_subject": 7.510185241699219e-06,
+        "prob_answer": 7.510185241699219e-06
+    },
+    "6_pre_4": {
+        "token_idx": 4,
+        "tokens": "#ac, 'gc, #ab,  cupid, #ad, arella, #aa,  Instances, \u0430\u0440\u043e\u0432, #af",
+        "rank_subject": 15424,
+        "rank_answer": 8048,
+        "logit_subject": 0.0654296875,
+        "logit_answer": 0.08642578125,
+        "prob_subject": 8.285045623779297e-06,
+        "prob_answer": 8.463859558105469e-06
+    },
+    "6_pre_5": {
+        "token_idx": 5,
+        "tokens": "'gc, \u0627\u06cc\u0632,  Garner, legen, \u06cc\u06cc\u0646, errat, _ALIGNMENT, IPH, podob,  Lau",
+        "rank_subject": 78348,
+        "rank_answer": 68165,
+        "logit_subject": -0.01348876953125,
+        "logit_answer": -0.0038299560546875,
+        "prob_subject": 7.68899917602539e-06,
+        "prob_answer": 7.748603820800781e-06
+    },
+    "6_mid_0": {
+        "token_idx": 0,
+        "tokens": ".GraphicsUnit, #echo, aeda, \uae14, \u0627\u0633\u0637\u0629, \u0648\u06cc\u0646\u062a, podob, \ufffd, Insensitive, /Foundation",
+        "rank_subject": 95287,
+        "rank_answer": 97981,
+        "logit_subject": -3.765625,
+        "logit_answer": -4.125,
+        "prob_subject": 1.214306433183765e-16,
+        "prob_answer": 8.500145032286355e-17
+    },
+    "6_mid_1": {
+        "token_idx": 1,
+        "tokens": "'gc, \u2019ta, odore, #ad, \u0636\u06cc, kl\u00e4, .Accessible, \":[{\n, STALL, \u0627\u06cc\u062c",
+        "rank_subject": 109865,
+        "rank_answer": 92715,
+        "logit_subject": -0.060302734375,
+        "logit_answer": -0.03369140625,
+        "prob_subject": 7.331371307373047e-06,
+        "prob_answer": 7.539987564086914e-06
+    },
+    "6_mid_2": {
+        "token_idx": 2,
+        "tokens": "ovna, \ufffd\ub85c, \u984d, dech, inject, \u2116\u2116, ucz, .LayoutStyle, itesi,  Garner",
+        "rank_subject": 33902,
+        "rank_answer": 45144,
+        "logit_subject": 0.033935546875,
+        "logit_answer": 0.0203857421875,
+        "prob_subject": 8.046627044677734e-06,
+        "prob_answer": 7.927417755126953e-06
+    },
+    "6_mid_3": {
+        "token_idx": 3,
+        "tokens": "ovna, agram, .ov,  Chu, ewood, \uc2b4, .::, \u0627\u06cc\u0632, _clk,  Garner",
+        "rank_subject": 92507,
+        "rank_answer": 94646,
+        "logit_subject": -0.0302734375,
+        "logit_answer": -0.032958984375,
+        "prob_subject": 7.539987564086914e-06,
+        "prob_answer": 7.539987564086914e-06
+    },
+    "6_mid_4": {
+        "token_idx": 4,
+        "tokens": "#ac, #ab, #ad, 'gc, MMdd, #af,  cupid, \u0430\u0440\u043e\u0432, #aa, _softc",
+        "rank_subject": 10102,
+        "rank_answer": 8214,
+        "logit_subject": 0.07861328125,
+        "logit_answer": 0.0849609375,
+        "prob_subject": 8.404254913330078e-06,
+        "prob_answer": 8.463859558105469e-06
+    },
+    "6_mid_5": {
+        "token_idx": 5,
+        "tokens": "'gc, \u00fcst\u00fc, legen, _GAP, \uff61, errat, \u0627\u06cc\u0632, IPH,  p\u0159\u00edle\u017eit, \u0122",
+        "rank_subject": 69470,
+        "rank_answer": 72873,
+        "logit_subject": -0.004974365234375,
+        "logit_answer": -0.00823974609375,
+        "prob_subject": 7.748603820800781e-06,
+        "prob_answer": 7.748603820800781e-06
+    },
+    "7_pre_0": {
+        "token_idx": 0,
+        "tokens": ".GraphicsUnit, #echo, aeda, \uae14, \u0627\u0633\u0637\u0629, \u0648\u06cc\u0646\u062a, podob, \ufffd, Insensitive, /Foundation",
+        "rank_subject": 95279,
+        "rank_answer": 98009,
+        "logit_subject": -3.765625,
+        "logit_answer": -4.125,
+        "prob_subject": 1.222980050563649e-16,
+        "prob_answer": 8.500145032286355e-17
+    },
+    "7_pre_1": {
+        "token_idx": 1,
+        "tokens": "'gc, \u2019ta, efon, kl\u00e4, STALL, #ad, odore, \u0627\u06cc\u062c, \uff0c\n\n, \u06cc\u06cc\u0646",
+        "rank_subject": 97817,
+        "rank_answer": 97958,
+        "logit_subject": -0.048828125,
+        "logit_answer": -0.049072265625,
+        "prob_subject": 7.420778274536133e-06,
+        "prob_answer": 7.420778274536133e-06
+    },
+    "7_pre_2": {
+        "token_idx": 2,
+        "tokens": "ucz, \u2116\u2116, \u0627\u06cc\u0632, inject, IOD, \u0e23\u0e14, \u043d\u0430\u0434\u043b\u0435\u0436, IFF, ...]\n\n, kyt",
+        "rank_subject": 62545,
+        "rank_answer": 22490,
+        "logit_subject": 0.00238037109375,
+        "logit_answer": 0.06005859375,
+        "prob_subject": 7.808208465576172e-06,
+        "prob_answer": 8.285045623779297e-06
+    },
+    "7_pre_3": {
+        "token_idx": 3,
+        "tokens": "UnitTest, \u0627\u06cc\u0632, \u2116\u2116, ewood, \u6674, \u9898,  T\u00fcm, .ov, amerate, .::",
+        "rank_subject": 99899,
+        "rank_answer": 83717,
+        "logit_subject": -0.046142578125,
+        "logit_answer": -0.0233154296875,
+        "prob_subject": 7.420778274536133e-06,
+        "prob_answer": 7.599592208862305e-06
+    },
+    "7_pre_4": {
+        "token_idx": 4,
+        "tokens": "#ac, #ad, #ab, .ArgumentParser, .opend, 'gc, BaseContext, anness, ValuePair, \u00f2n",
+        "rank_subject": 42744,
+        "rank_answer": 17661,
+        "logit_subject": 0.0281982421875,
+        "logit_answer": 0.07373046875,
+        "prob_subject": 7.987022399902344e-06,
+        "prob_answer": 8.344650268554688e-06
+    },
+    "7_pre_5": {
+        "token_idx": 5,
+        "tokens": "\u0627\u06cc\u0632, 'gc,  Scha, \u67fb,  Oaks, \u0122, IPH, Radians, cio, .multipart",
+        "rank_subject": 107568,
+        "rank_answer": 82678,
+        "logit_subject": -0.054443359375,
+        "logit_answer": -0.0201416015625,
+        "prob_subject": 7.361173629760742e-06,
+        "prob_answer": 7.62939453125e-06
+    },
+    "7_mid_0": {
+        "token_idx": 0,
+        "tokens": ".GraphicsUnit, #echo, aeda, \uae14, \u0627\u0633\u0637\u0629, \u0648\u06cc\u0646\u062a, podob, \ufffd, Insensitive, /Foundation",
+        "rank_subject": 95284,
+        "rank_answer": 98016,
+        "logit_subject": -3.765625,
+        "logit_answer": -4.125,
+        "prob_subject": 1.222980050563649e-16,
+        "prob_answer": 8.500145032286355e-17
+    },
+    "7_mid_1": {
+        "token_idx": 1,
+        "tokens": "'gc, \u2019ta, efon, kl\u00e4, STALL, #ad, \u0627\u06cc\u062c, #ab, \uff0c\n\n, \u06cc\u06cc\u0646",
+        "rank_subject": 99919,
+        "rank_answer": 97562,
+        "logit_subject": -0.053466796875,
+        "logit_answer": -0.04931640625,
+        "prob_subject": 7.361173629760742e-06,
+        "prob_answer": 7.3909759521484375e-06
+    },
+    "7_mid_2": {
+        "token_idx": 2,
+        "tokens": "\u2116\u2116, ucz, \u0627\u06cc\u0632, inject, ovna, \u984d, IFF, IOD,  Stevenson,  \u0161t",
+        "rank_subject": 52569,
+        "rank_answer": 16852,
+        "logit_subject": 0.0145263671875,
+        "logit_answer": 0.0712890625,
+        "prob_subject": 7.867813110351562e-06,
+        "prob_answer": 8.344650268554688e-06
+    },
+    "7_mid_3": {
+        "token_idx": 3,
+        "tokens": "ewood, readcr, \u2116\u2116, \u0627\u06cc\u0632, apos, \u6674, \u9898, agram, 652, ovna",
+        "rank_subject": 85080,
+        "rank_answer": 68332,
+        "logit_subject": -0.0245361328125,
+        "logit_answer": -0.00482177734375,
+        "prob_subject": 7.599592208862305e-06,
+        "prob_answer": 7.748603820800781e-06
+    },
+    "7_mid_4": {
+        "token_idx": 4,
+        "tokens": "#ac, #ad, #ab, anness, .opend, ValuePair, BaseContext, \u00f2n, \u0e2d\u0e19, .ArgumentParser",
+        "rank_subject": 38167,
+        "rank_answer": 11556,
+        "logit_subject": 0.033203125,
+        "logit_answer": 0.0859375,
+        "prob_subject": 8.046627044677734e-06,
+        "prob_answer": 8.463859558105469e-06
+    },
+    "7_mid_5": {
+        "token_idx": 5,
+        "tokens": "\u67fb, \u0627\u06cc\u0632, IPH, \u0122,  Conway,  Scha,  unl, 'gc, legen, podob",
+        "rank_subject": 99452,
+        "rank_answer": 65965,
+        "logit_subject": -0.042236328125,
+        "logit_answer": -0.00189971923828125,
+        "prob_subject": 7.450580596923828e-06,
+        "prob_answer": 7.748603820800781e-06
+    },
+    "8_pre_0": {
+        "token_idx": 0,
+        "tokens": ".GraphicsUnit, #echo, aeda, \uae14, \u0627\u0633\u0637\u0629, \u0648\u06cc\u0646\u062a, podob, \ufffd, Insensitive, /Foundation",
+        "rank_subject": 95416,
+        "rank_answer": 98011,
+        "logit_subject": -3.78125,
+        "logit_answer": -4.125,
+        "prob_subject": 1.205632815803881e-16,
+        "prob_answer": 8.500145032286355e-17
+    },
+    "8_pre_1": {
+        "token_idx": 1,
+        "tokens": "'gc, (EXPR, \u06cc\u06cc\u0646, efon, (EFFECT, \u0644\u06cc\u0633\u06cc, \u0435\u0444, urette, .updateDynamic, \ufffd",
+        "rank_subject": 88969,
+        "rank_answer": 54574,
+        "logit_subject": -0.0458984375,
+        "logit_answer": 0.0157470703125,
+        "prob_subject": 7.420778274536133e-06,
+        "prob_answer": 7.867813110351562e-06
+    },
+    "8_pre_2": {
+        "token_idx": 2,
+        "tokens": "\u2116\u2116, \u043d\u0430\u0434\u043b\u0435\u0436, ovna, \u0627\u06cc\u0632, HORT, weeney, LEGRO, ...]\n\n, Insets, \u1ed1c",
+        "rank_subject": 84615,
+        "rank_answer": 34772,
+        "logit_subject": -0.0281982421875,
+        "logit_answer": 0.041748046875,
+        "prob_subject": 7.569789886474609e-06,
+        "prob_answer": 8.106231689453125e-06
+    },
+    "8_pre_3": {
+        "token_idx": 3,
+        "tokens": "\u2116\u2116, \u0627\u06cc\u0632, ovna, esz, 'gc, buzz, HORT, amet, \u043f\u0440\u0438\u043a\u043b\u0430\u0434, \u03c6\u03b1",
+        "rank_subject": 112691,
+        "rank_answer": 64740,
+        "logit_subject": -0.07568359375,
+        "logit_answer": -0.000797271728515625,
+        "prob_subject": 7.212162017822266e-06,
+        "prob_answer": 7.748603820800781e-06
+    },
+    "8_pre_4": {
+        "token_idx": 4,
+        "tokens": "#ad, #ac, #ab, \u00f2n, /***/, 'gc, #af, #aa, \u30f3\u30b9, anness",
+        "rank_subject": 26440,
+        "rank_answer": 12807,
+        "logit_subject": 0.0625,
+        "logit_answer": 0.09912109375,
+        "prob_subject": 8.285045623779297e-06,
+        "prob_answer": 8.58306884765625e-06
+    },
+    "8_pre_5": {
+        "token_idx": 5,
+        "tokens": "'gc, IPH,  unl, \u0627\u06cc\u0632,  -------------------------------------------------------------------------,  Chips, \u2116\u2116, .multipart,  Conway, ktop",
+        "rank_subject": 103713,
+        "rank_answer": 26078,
+        "logit_subject": -0.050537109375,
+        "logit_answer": 0.048095703125,
+        "prob_subject": 7.3909759521484375e-06,
+        "prob_answer": 8.165836334228516e-06
+    },
+    "8_mid_0": {
+        "token_idx": 0,
+        "tokens": ".GraphicsUnit, #echo, aeda, \uae14, \u0627\u0633\u0637\u0629, \u0648\u06cc\u0646\u062a, podob, \ufffd, Insensitive, /Foundation",
+        "rank_subject": 95414,
+        "rank_answer": 98027,
+        "logit_subject": -3.78125,
+        "logit_answer": -4.125,
+        "prob_subject": 1.205632815803881e-16,
+        "prob_answer": 8.543513119185775e-17
+    },
+    "8_mid_1": {
+        "token_idx": 1,
+        "tokens": "'gc, (EXPR, \u06cc\u06cc\u0646, .updateDynamic, efon, \u0644\u06cc\u0633\u06cc, urette, (EFFECT, \u0435\u0444, \ufffd",
+        "rank_subject": 85587,
+        "rank_answer": 58350,
+        "logit_subject": -0.037841796875,
+        "logit_answer": 0.0089111328125,
+        "prob_subject": 7.4803829193115234e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "8_mid_2": {
+        "token_idx": 2,
+        "tokens": "\u2116\u2116, \u043d\u0430\u0434\u043b\u0435\u0436, ovna, Insets, HORT,  city, LEGRO, \u0627\u06cc\u0632, \u984d, \u03c4\u03bf\u03bd",
+        "rank_subject": 72999,
+        "rank_answer": 27014,
+        "logit_subject": -0.01104736328125,
+        "logit_answer": 0.053955078125,
+        "prob_subject": 7.68899917602539e-06,
+        "prob_answer": 8.225440979003906e-06
+    },
+    "8_mid_3": {
+        "token_idx": 3,
+        "tokens": "\u2116\u2116, \u0627\u06cc\u0632, ovna, readcr, esz, HORT, \u043f\u0440\u0438\u043a\u043b\u0430\u0434,  Decompiled, buzz,  T\u00fcm",
+        "rank_subject": 109148,
+        "rank_answer": 60615,
+        "logit_subject": -0.06591796875,
+        "logit_answer": 0.00396728515625,
+        "prob_subject": 7.271766662597656e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "8_mid_4": {
+        "token_idx": 4,
+        "tokens": "#ad, \u00f2n, #ac, #ab, .opend, anness, \u00e0, inality, \u010dan, orest",
+        "rank_subject": 12430,
+        "rank_answer": 6756,
+        "logit_subject": 0.09033203125,
+        "logit_answer": 0.11376953125,
+        "prob_subject": 8.52346420288086e-06,
+        "prob_answer": 8.702278137207031e-06
+    },
+    "8_mid_5": {
+        "token_idx": 5,
+        "tokens": "'gc, ignum, IPH,  Chips,  -------------------------------------------------------------------------,  unl, ndon,  Conway, \u0627\u06cc\u0632, \u043d\u0430\u0434\u043b\u0435\u0436",
+        "rank_subject": 94195,
+        "rank_answer": 20858,
+        "logit_subject": -0.03564453125,
+        "logit_answer": 0.056884765625,
+        "prob_subject": 7.510185241699219e-06,
+        "prob_answer": 8.225440979003906e-06
+    },
+    "9_pre_0": {
+        "token_idx": 0,
+        "tokens": ".GraphicsUnit, #echo, aeda, \uae14, \u0627\u0633\u0637\u0629, \ufffd, \u0648\u06cc\u0646\u062a, podob, Insensitive, /Foundation",
+        "rank_subject": 95449,
+        "rank_answer": 97823,
+        "logit_subject": -3.78125,
+        "logit_answer": -4.09375,
+        "prob_subject": 1.205632815803881e-16,
+        "prob_answer": 8.803721640582296e-17
+    },
+    "9_pre_1": {
+        "token_idx": 1,
+        "tokens": "'gc, (EXPR, \u06cc\u06cc\u0646, (EFFECT, .updateDynamic, efon, \u0435\u0444, interop, _NONNULL,  D\u00fcn",
+        "rank_subject": 98558,
+        "rank_answer": 63599,
+        "logit_subject": -0.072265625,
+        "logit_answer": -0.0003147125244140625,
+        "prob_subject": 7.212162017822266e-06,
+        "prob_answer": 7.748603820800781e-06
+    },
+    "9_pre_2": {
+        "token_idx": 2,
+        "tokens": "\u0627\u06cc\u0632, \u043d\u0430\u0434\u043b\u0435\u0436, \u2116\u2116, Insets,  mbox, FOUNDATION, IOD,  unb, ovna, ucz",
+        "rank_subject": 82438,
+        "rank_answer": 16244,
+        "logit_subject": -0.0262451171875,
+        "logit_answer": 0.0849609375,
+        "prob_subject": 7.569789886474609e-06,
+        "prob_answer": 8.463859558105469e-06
+    },
+    "9_pre_3": {
+        "token_idx": 3,
+        "tokens": "'gc, \u0627\u06cc\u0632, \u043f\u0440\u0438\u043a\u043b\u0430\u0434, ovna, \u2116\u2116, \u0448\u0438\u0431, FOUNDATION, amet, readcr, .ov",
+        "rank_subject": 120878,
+        "rank_answer": 45277,
+        "logit_subject": -0.1142578125,
+        "logit_answer": 0.0262451171875,
+        "prob_subject": 6.943941116333008e-06,
+        "prob_answer": 7.987022399902344e-06
+    },
+    "9_pre_4": {
+        "token_idx": 4,
+        "tokens": "#ad, #ac, \u00f2n, #ab, \u010dan, anness, BaseContext, :eq, /***/, #aa",
+        "rank_subject": 30708,
+        "rank_answer": 40868,
+        "logit_subject": 0.053466796875,
+        "logit_answer": 0.03515625,
+        "prob_subject": 8.225440979003906e-06,
+        "prob_answer": 8.046627044677734e-06
+    },
+    "9_pre_5": {
+        "token_idx": 5,
+        "tokens": "'gc, \u06cc\u06cc\u0646,  unl, \u0412\u0430\u0436,  Bund, _vlog,  -------------------------------------------------------------------------, .VK,  unb, xcf",
+        "rank_subject": 107602,
+        "rank_answer": 9823,
+        "logit_subject": -0.06298828125,
+        "logit_answer": 0.09228515625,
+        "prob_subject": 7.3015689849853516e-06,
+        "prob_answer": 8.52346420288086e-06
+    },
+    "9_mid_0": {
+        "token_idx": 0,
+        "tokens": ".GraphicsUnit, #echo, aeda, \uae14, \u0627\u0633\u0637\u0629, \u0648\u06cc\u0646\u062a, podob, \ufffd, /Foundation, Insensitive",
+        "rank_subject": 95357,
+        "rank_answer": 97838,
+        "logit_subject": -3.765625,
+        "logit_answer": -4.09375,
+        "prob_subject": 1.222980050563649e-16,
+        "prob_answer": 8.803721640582296e-17
+    },
+    "9_mid_1": {
+        "token_idx": 1,
+        "tokens": "'gc, (EXPR, \u06cc\u06cc\u0646, (EFFECT, .updateDynamic, \u0435\u0444, efon, interop,  D\u00fcn, kke",
+        "rank_subject": 95567,
+        "rank_answer": 61117,
+        "logit_subject": -0.06298828125,
+        "logit_answer": 0.00433349609375,
+        "prob_subject": 7.3015689849853516e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "9_mid_2": {
+        "token_idx": 2,
+        "tokens": "\u043d\u0430\u0434\u043b\u0435\u0436, \u0627\u06cc\u0632, \u2116\u2116,  unb, Insets, ucz, ovna, ...]\n\n,  mbox, \u984d",
+        "rank_subject": 77973,
+        "rank_answer": 13747,
+        "logit_subject": -0.019287109375,
+        "logit_answer": 0.09033203125,
+        "prob_subject": 7.62939453125e-06,
+        "prob_answer": 8.52346420288086e-06
+    },
+    "9_mid_3": {
+        "token_idx": 3,
+        "tokens": "'gc, \u0627\u06cc\u0632, ovna, \u043f\u0440\u0438\u043a\u043b\u0430\u0434, \u2116\u2116, readcr, iyet, onse, .ov, amet",
+        "rank_subject": 119865,
+        "rank_answer": 44853,
+        "logit_subject": -0.10546875,
+        "logit_answer": 0.0262451171875,
+        "prob_subject": 7.0035457611083984e-06,
+        "prob_answer": 7.987022399902344e-06
+    },
+    "9_mid_4": {
+        "token_idx": 4,
+        "tokens": "\u00f2n, anness, #ad, \u010dan, #ac, :eq, BaseContext, chwitz, yntax, \u3002\u3002\n\n",
+        "rank_subject": 22452,
+        "rank_answer": 28926,
+        "logit_subject": 0.06689453125,
+        "logit_answer": 0.053466796875,
+        "prob_subject": 8.285045623779297e-06,
+        "prob_answer": 8.225440979003906e-06
+    },
+    "9_mid_5": {
+        "token_idx": 5,
+        "tokens": "'gc, .VK,  unl,  McKin, \u06cc\u06cc\u0646,  -------------------------------------------------------------------------, \u0441\u0435,  Bund, IPH, (conv",
+        "rank_subject": 101943,
+        "rank_answer": 9622,
+        "logit_subject": -0.052001953125,
+        "logit_answer": 0.0927734375,
+        "prob_subject": 7.3909759521484375e-06,
+        "prob_answer": 8.52346420288086e-06
+    },
+    "10_pre_0": {
+        "token_idx": 0,
+        "tokens": ".GraphicsUnit, #echo, aeda, \uae14, \u0627\u0633\u0637\u0629, \u0648\u06cc\u0646\u062a, podob, \ufffd, /Foundation, Insensitive",
+        "rank_subject": 95473,
+        "rank_answer": 97838,
+        "logit_subject": -3.78125,
+        "logit_answer": -4.09375,
+        "prob_subject": 1.205632815803881e-16,
+        "prob_answer": 8.803721640582296e-17
+    },
+    "10_pre_1": {
+        "token_idx": 1,
+        "tokens": "'gc, \u06cc\u06cc\u0646, (EXPR, efon, .updateDynamic, (EFFECT, _NONNULL, interop, _DECLS, \u0435\u0444",
+        "rank_subject": 80224,
+        "rank_answer": 72775,
+        "logit_subject": -0.03173828125,
+        "logit_answer": -0.0177001953125,
+        "prob_subject": 7.510185241699219e-06,
+        "prob_answer": 7.62939453125e-06
+    },
+    "10_pre_2": {
+        "token_idx": 2,
+        "tokens": "IOD, \u043d\u0430\u0434\u043b\u0435\u0436, \u2116\u2116, Insets, FOUNDATION, \u984d,  -*-\r\n, ignet, \u0410\u0440\u0445\u0456\u0432,  \u010dtvrt",
+        "rank_subject": 73743,
+        "rank_answer": 19885,
+        "logit_subject": -0.0142822265625,
+        "logit_answer": 0.07958984375,
+        "prob_subject": 7.68899917602539e-06,
+        "prob_answer": 8.404254913330078e-06
+    },
+    "10_pre_3": {
+        "token_idx": 3,
+        "tokens": "'gc,  hare, amet, FOUNDATION,  Ingram,  slowly, \u2116\u2116, \u0448\u0438\u0431, .ov,  \u043e\u0431\u0440\u0430",
+        "rank_subject": 116403,
+        "rank_answer": 20825,
+        "logit_subject": -0.1044921875,
+        "logit_answer": 0.0771484375,
+        "prob_subject": 7.0035457611083984e-06,
+        "prob_answer": 8.404254913330078e-06
+    },
+    "10_pre_4": {
+        "token_idx": 4,
+        "tokens": "#ad, #ac, \u00f2n, anness, \u0161ak, \ufffd, \ub514\uc2dc, :eq, chwitz, \u010dan",
+        "rank_subject": 22523,
+        "rank_answer": 11814,
+        "logit_subject": 0.0751953125,
+        "logit_answer": 0.10888671875,
+        "prob_subject": 8.404254913330078e-06,
+        "prob_answer": 8.64267349243164e-06
+    },
+    "10_pre_5": {
+        "token_idx": 5,
+        "tokens": "'gc, \u0441\u0442\u0435,  bath,  , Volumes, \u043a\u043e\u0437,  Bath, actories,  unb, UnitTest",
+        "rank_subject": 100155,
+        "rank_answer": 11673,
+        "logit_subject": -0.055908203125,
+        "logit_answer": 0.0986328125,
+        "prob_subject": 7.361173629760742e-06,
+        "prob_answer": 8.58306884765625e-06
+    },
+    "10_mid_0": {
+        "token_idx": 0,
+        "tokens": ".GraphicsUnit, #echo, aeda, \uae14, \u0627\u0633\u0637\u0629, \ufffd, \u0648\u06cc\u0646\u062a, podob, Insensitive, /Foundation",
+        "rank_subject": 95496,
+        "rank_answer": 97864,
+        "logit_subject": -3.78125,
+        "logit_answer": -4.09375,
+        "prob_subject": 1.205632815803881e-16,
+        "prob_answer": 8.803721640582296e-17
+    },
+    "10_mid_1": {
+        "token_idx": 1,
+        "tokens": "'gc, \u06cc\u06cc\u0646, (EXPR, efon, .updateDynamic, interop, _NONNULL, (EFFECT, GMEM, \u0627\u06cc\u0631",
+        "rank_subject": 76998,
+        "rank_answer": 70260,
+        "logit_subject": -0.024169921875,
+        "logit_answer": -0.0120849609375,
+        "prob_subject": 7.569789886474609e-06,
+        "prob_answer": 7.68899917602539e-06
+    },
+    "10_mid_2": {
+        "token_idx": 2,
+        "tokens": "\u043d\u0430\u0434\u043b\u0435\u0436, \u2116\u2116, Insets, IOD, \u984d, FOUNDATION,  of,  electr, ignet,  unb",
+        "rank_subject": 72035,
+        "rank_answer": 15571,
+        "logit_subject": -0.010986328125,
+        "logit_answer": 0.08984375,
+        "prob_subject": 7.68899917602539e-06,
+        "prob_answer": 8.52346420288086e-06
+    },
+    "10_mid_3": {
+        "token_idx": 3,
+        "tokens": " hare,  slowly, 'gc,  Ingram, FOUNDATION,  electr, \u2116\u2116,  sw,  congest, \u0159es",
+        "rank_subject": 116056,
+        "rank_answer": 16962,
+        "logit_subject": -0.10009765625,
+        "logit_answer": 0.0849609375,
+        "prob_subject": 7.033348083496094e-06,
+        "prob_answer": 8.463859558105469e-06
+    },
+    "10_mid_4": {
+        "token_idx": 4,
+        "tokens": "\u00f2n, anness, #ac, #ad, \ub514\uc2dc, \ufffd, \u010dan, \u0161ak, .opend, \u3002\u3002\n\n",
+        "rank_subject": 17069,
+        "rank_answer": 6841,
+        "logit_subject": 0.08642578125,
+        "logit_answer": 0.1279296875,
+        "prob_subject": 8.463859558105469e-06,
+        "prob_answer": 8.821487426757812e-06
+    },
+    "10_mid_5": {
+        "token_idx": 5,
+        "tokens": "'gc, \u0441\u0442\u0435, .apps, ounc,  electr, /trunk,  ,  unb, .wr, \u043a\u043e\u0437",
+        "rank_subject": 99377,
+        "rank_answer": 14912,
+        "logit_subject": -0.053955078125,
+        "logit_answer": 0.0869140625,
+        "prob_subject": 7.361173629760742e-06,
+        "prob_answer": 8.463859558105469e-06
+    },
+    "11_pre_0": {
+        "token_idx": 0,
+        "tokens": ".GraphicsUnit, #echo, aeda, \uae14, \u0627\u0633\u0637\u0629, \ufffd, \u0648\u06cc\u0646\u062a, podob, Insensitive, /Foundation",
+        "rank_subject": 95686,
+        "rank_answer": 97686,
+        "logit_subject": -3.828125,
+        "logit_answer": -4.09375,
+        "prob_subject": 9.150666335777657e-17,
+        "prob_answer": 7.025630077706069e-17
+    },
+    "11_pre_1": {
+        "token_idx": 1,
+        "tokens": "'gc, \u06cc\u06cc\u0646, (EXPR, .updateDynamic,  \u0438\u043c\u0443, interop,  AssemblyCopyright, jem, (EFFECT, \u0627\u06cc\u0631",
+        "rank_subject": 64565,
+        "rank_answer": 69880,
+        "logit_subject": -0.0022430419921875,
+        "logit_answer": -0.0120849609375,
+        "prob_subject": 7.748603820800781e-06,
+        "prob_answer": 7.68899917602539e-06
+    },
+    "11_pre_2": {
+        "token_idx": 2,
+        "tokens": "\u043d\u0430\u0434\u043b\u0435\u0436, ucz, \u2116\u2116, IOD, \u0410\u0440\u0445\u0456\u0432, ...]\n\n,  \u010dtvrt, \u984d, ekim,  city",
+        "rank_subject": 85360,
+        "rank_answer": 34559,
+        "logit_subject": -0.033935546875,
+        "logit_answer": 0.049072265625,
+        "prob_subject": 7.510185241699219e-06,
+        "prob_answer": 8.165836334228516e-06
+    },
+    "11_pre_3": {
+        "token_idx": 3,
+        "tokens": "\u2116\u2116, 'gc, \u043f\u0440\u0438\u043a\u043b\u0430\u0434,  -*-\r\n, .ov, amet, ekim, PIP,  \u0434\u0443\u043c\u0430, \u30b9\u30ec",
+        "rank_subject": 117862,
+        "rank_answer": 25105,
+        "logit_subject": -0.111328125,
+        "logit_answer": 0.06689453125,
+        "prob_subject": 6.943941116333008e-06,
+        "prob_answer": 8.285045623779297e-06
+    },
+    "11_pre_4": {
+        "token_idx": 4,
+        "tokens": "\u00f2n, #ad, #ac, anness, \ub514\uc2dc, \u0161ak, BaseContext, \\CMS, erece, 'gc",
+        "rank_subject": 15321,
+        "rank_answer": 10422,
+        "logit_subject": 0.09814453125,
+        "logit_answer": 0.11767578125,
+        "prob_subject": 8.58306884765625e-06,
+        "prob_answer": 8.761882781982422e-06
+    },
+    "11_pre_5": {
+        "token_idx": 5,
+        "tokens": "'gc, \u0441\u0442\u0435, _vlog, \u5782, /trunk, actories, \u06cc\u0646\u0647, \u1eb1m, erece, \u06cc\u0632\u06cc",
+        "rank_subject": 105360,
+        "rank_answer": 15906,
+        "logit_subject": -0.0703125,
+        "logit_answer": 0.0888671875,
+        "prob_subject": 7.241964340209961e-06,
+        "prob_answer": 8.52346420288086e-06
+    },
+    "11_mid_0": {
+        "token_idx": 0,
+        "tokens": ".GraphicsUnit, #echo, aeda, \uae14, \u0627\u0633\u0637\u0629, \ufffd, \u0648\u06cc\u0646\u062a, podob, Insensitive, /Foundation",
+        "rank_subject": 95821,
+        "rank_answer": 97485,
+        "logit_subject": -3.84375,
+        "logit_answer": -4.0625,
+        "prob_subject": 9.020562075079397e-17,
+        "prob_answer": 7.24247051220317e-17
+    },
+    "11_mid_1": {
+        "token_idx": 1,
+        "tokens": "'gc, \u06cc\u06cc\u0646, (EXPR, .updateDynamic,  AssemblyCopyright,  \u0438\u043c\u0443, WXYZ, ofil, interop, \u0627\u06cc\u0631",
+        "rank_subject": 72753,
+        "rank_answer": 59264,
+        "logit_subject": -0.0169677734375,
+        "logit_answer": 0.0076904296875,
+        "prob_subject": 7.62939453125e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "11_mid_2": {
+        "token_idx": 2,
+        "tokens": "\u043d\u0430\u0434\u043b\u0435\u0436, ucz, \u2116\u2116, \u984d, ...]\n\n, ekim, \u0410\u0440\u0445\u0456\u0432, IOD,  city,  electr",
+        "rank_subject": 83161,
+        "rank_answer": 30474,
+        "logit_subject": -0.0299072265625,
+        "logit_answer": 0.05712890625,
+        "prob_subject": 7.539987564086914e-06,
+        "prob_answer": 8.225440979003906e-06
+    },
+    "11_mid_3": {
+        "token_idx": 3,
+        "tokens": "'gc, \u2116\u2116, amet, ekim, \u043f\u0440\u0438\u043a\u043b\u0430\u0434, .ov, \u30b9\u30ec, onse,  Arbor,  \u043e\u0431\u0440\u0430",
+        "rank_subject": 117561,
+        "rank_answer": 21270,
+        "logit_subject": -0.10888671875,
+        "logit_answer": 0.0751953125,
+        "prob_subject": 6.973743438720703e-06,
+        "prob_answer": 8.404254913330078e-06
+    },
+    "11_mid_4": {
+        "token_idx": 4,
+        "tokens": "\u00f2n, \\CMS, #ad, \u0161ak, \u010dan, \u0441\u0442\u0435, \ub514\uc2dc, erece, #ac, anness",
+        "rank_subject": 17770,
+        "rank_answer": 12451,
+        "logit_subject": 0.08935546875,
+        "logit_answer": 0.10791015625,
+        "prob_subject": 8.52346420288086e-06,
+        "prob_answer": 8.64267349243164e-06
+    },
+    "11_mid_5": {
+        "token_idx": 5,
+        "tokens": "'gc, \u0441\u0442\u0435,  McKin, \u5782, zte, erece, _vlog, /trunk, \u00f2n, actories",
+        "rank_subject": 102195,
+        "rank_answer": 16347,
+        "logit_subject": -0.06298828125,
+        "logit_answer": 0.0869140625,
+        "prob_subject": 7.3015689849853516e-06,
+        "prob_answer": 8.463859558105469e-06
+    },
+    "12_pre_0": {
+        "token_idx": 0,
+        "tokens": ".GraphicsUnit, #echo, aeda, \uae14, \u0627\u0633\u0637\u0629, \ufffd, \u0648\u06cc\u0646\u062a, podob, Insensitive, /Foundation",
+        "rank_subject": 95830,
+        "rank_answer": 97501,
+        "logit_subject": -3.84375,
+        "logit_answer": -4.0625,
+        "prob_subject": 9.020562075079397e-17,
+        "prob_answer": 7.24247051220317e-17
+    },
+    "12_pre_1": {
+        "token_idx": 1,
+        "tokens": "'gc, \u06cc\u06cc\u0646, (EXPR,  AssemblyCopyright, ofil, .updateDynamic, \u0644\u06cc\u0633\u06cc, (EFFECT, isoner, _NONNULL",
+        "rank_subject": 65957,
+        "rank_answer": 87395,
+        "logit_subject": -0.005035400390625,
+        "logit_answer": -0.049560546875,
+        "prob_subject": 7.68899917602539e-06,
+        "prob_answer": 7.3909759521484375e-06
+    },
+    "12_pre_2": {
+        "token_idx": 2,
+        "tokens": "\u043d\u0430\u0434\u043b\u0435\u0436, \u2116\u2116, ...]\n\n, erece, ignet, \ufffd\ub85c, \u0410\u0440\u0445\u0456\u0432, itest, \u984d,  \u0438\u043c\u0443",
+        "rank_subject": 91767,
+        "rank_answer": 34443,
+        "logit_subject": -0.049560546875,
+        "logit_answer": 0.053466796875,
+        "prob_subject": 7.3909759521484375e-06,
+        "prob_answer": 8.165836334228516e-06
+    },
+    "12_pre_3": {
+        "token_idx": 3,
+        "tokens": "\u2116\u2116, erece, 'gc,  \u043e\u0431\u0440\u0430, \u043f\u0440\u0438\u043a\u043b\u0430\u0434, amet, \u01b0\u1ee3c, ombat, ekim, PIP",
+        "rank_subject": 110861,
+        "rank_answer": 41590,
+        "logit_subject": -0.09130859375,
+        "logit_answer": 0.0380859375,
+        "prob_subject": 7.092952728271484e-06,
+        "prob_answer": 8.046627044677734e-06
+    },
+    "12_pre_4": {
+        "token_idx": 4,
+        "tokens": "#ad, \u00f2n, #ac, anness, erece, #ab, \\CMS, \u0410\u0440\u0445\u0456\u0432, \u06cc\u06cc\u0646, _vlog",
+        "rank_subject": 10991,
+        "rank_answer": 7252,
+        "logit_subject": 0.115234375,
+        "logit_answer": 0.1357421875,
+        "prob_subject": 8.702278137207031e-06,
+        "prob_answer": 8.881092071533203e-06
+    },
+    "12_pre_5": {
+        "token_idx": 5,
+        "tokens": "'gc, erece,  ==============================================================, #ab, \u0410\u0440\u0445\u0456\u0432, \u011bst, estar, \u0627\u0645\u06cc, \u2116\u2116, _vlog",
+        "rank_subject": 103531,
+        "rank_answer": 18949,
+        "logit_subject": -0.0693359375,
+        "logit_answer": 0.08349609375,
+        "prob_subject": 7.241964340209961e-06,
+        "prob_answer": 8.463859558105469e-06
+    },
+    "12_mid_0": {
+        "token_idx": 0,
+        "tokens": ".GraphicsUnit, #echo, aeda, \uae14, \u0627\u0633\u0637\u0629, \ufffd, \u0648\u06cc\u0646\u062a, podob, Insensitive, /Foundation",
+        "rank_subject": 95959,
+        "rank_answer": 97278,
+        "logit_subject": -3.859375,
+        "logit_answer": -4.03125,
+        "prob_subject": 8.890457814381136e-17,
+        "prob_answer": 7.502679033599691e-17
+    },
+    "12_mid_1": {
+        "token_idx": 1,
+        "tokens": "'gc, \u06cc\u06cc\u0646, (EXPR,  AssemblyCopyright, ofil, .updateDynamic, xic, metatable, isoner, alia",
+        "rank_subject": 78849,
+        "rank_answer": 80604,
+        "logit_subject": -0.0302734375,
+        "logit_answer": -0.033935546875,
+        "prob_subject": 7.510185241699219e-06,
+        "prob_answer": 7.510185241699219e-06
+    },
+    "12_mid_2": {
+        "token_idx": 2,
+        "tokens": "\u2116\u2116, \u043d\u0430\u0434\u043b\u0435\u0436, ...]\n\n, \ufffd\ub85c, erece, ignet, .EventQueue, 'gc,  of, \u4e18",
+        "rank_subject": 95823,
+        "rank_answer": 29138,
+        "logit_subject": -0.056396484375,
+        "logit_answer": 0.0634765625,
+        "prob_subject": 7.331371307373047e-06,
+        "prob_answer": 8.285045623779297e-06
+    },
+    "12_mid_3": {
+        "token_idx": 3,
+        "tokens": "\u2116\u2116, 'gc,  slowly, erece, .EventQueue, \u01b0\u1ee3c, \u043f\u0440\u0438\u043a\u043b\u0430\u0434,  \u043e\u0431\u0440\u0430, ombat, amet",
+        "rank_subject": 114220,
+        "rank_answer": 28659,
+        "logit_subject": -0.1005859375,
+        "logit_answer": 0.06103515625,
+        "prob_subject": 7.033348083496094e-06,
+        "prob_answer": 8.285045623779297e-06
+    },
+    "12_mid_4": {
+        "token_idx": 4,
+        "tokens": "#ad, \u00f2n, #ac, anness, erece, #ab, \\CMS, 'gc, \u010dan, orest",
+        "rank_subject": 14408,
+        "rank_answer": 4134,
+        "logit_subject": 0.10302734375,
+        "logit_answer": 0.162109375,
+        "prob_subject": 8.58306884765625e-06,
+        "prob_answer": 9.119510650634766e-06
+    },
+    "12_mid_5": {
+        "token_idx": 5,
+        "tokens": "'gc, \u2116\u2116, erece, \u043d\u0430\u0434\u043b\u0435\u0436, estar, \u011bst,  \ub124\uc774\ud2b8, #ab, etag, .wr",
+        "rank_subject": 111468,
+        "rank_answer": 10750,
+        "logit_subject": -0.09130859375,
+        "logit_answer": 0.11376953125,
+        "prob_subject": 7.092952728271484e-06,
+        "prob_answer": 8.702278137207031e-06
+    },
+    "13_pre_0": {
+        "token_idx": 0,
+        "tokens": ".GraphicsUnit, #echo, aeda, \uae14, \u0627\u0633\u0637\u0629, \ufffd, \u0648\u06cc\u0646\u062a, podob, Insensitive, /Foundation",
+        "rank_subject": 96085,
+        "rank_answer": 97088,
+        "logit_subject": -3.875,
+        "logit_answer": -4.0,
+        "prob_subject": 8.760353553682876e-17,
+        "prob_answer": 7.719519468096792e-17
+    },
+    "13_pre_1": {
+        "token_idx": 1,
+        "tokens": "'gc, \u06cc\u06cc\u0646, (EXPR, efon,  AssemblyCopyright, odore,  \u0438\u043c\u0443, interop, ofil, _NONNULL",
+        "rank_subject": 72474,
+        "rank_answer": 69213,
+        "logit_subject": -0.018798828125,
+        "logit_answer": -0.01202392578125,
+        "prob_subject": 7.599592208862305e-06,
+        "prob_answer": 7.62939453125e-06
+    },
+    "13_pre_2": {
+        "token_idx": 2,
+        "tokens": "\u043d\u0430\u0434\u043b\u0435\u0436, \u2116\u2116, ...]\n\n,  of, itest, \u093e:, \u984d,  \u0438\u043c\u0443, \u1ea5m,  Tradable",
+        "rank_subject": 95583,
+        "rank_answer": 22632,
+        "logit_subject": -0.059326171875,
+        "logit_answer": 0.083984375,
+        "prob_subject": 7.3015689849853516e-06,
+        "prob_answer": 8.463859558105469e-06
+    },
+    "13_pre_3": {
+        "token_idx": 3,
+        "tokens": " slowly, 'gc, erece,  Ingram, \u2116\u2116, \u30b9\u30ec, \u043f\u0440\u0438\u043a\u043b\u0430\u0434, PIP, \u01b0\u1ee3c,  -*-\r\n",
+        "rank_subject": 119999,
+        "rank_answer": 23119,
+        "logit_subject": -0.134765625,
+        "logit_answer": 0.07958984375,
+        "prob_subject": 6.794929504394531e-06,
+        "prob_answer": 8.404254913330078e-06
+    },
+    "13_pre_4": {
+        "token_idx": 4,
+        "tokens": "#ac, #ad, #ab, #af, #aa, \ub514\uc2dc, anness, \u00f2n, \u0441\u0442\u0435, erece",
+        "rank_subject": 20397,
+        "rank_answer": 6148,
+        "logit_subject": 0.0947265625,
+        "logit_answer": 0.1640625,
+        "prob_subject": 8.52346420288086e-06,
+        "prob_answer": 9.119510650634766e-06
+    },
+    "13_pre_5": {
+        "token_idx": 5,
+        "tokens": "'gc, erece, #ad, #ab, \u043a\u0440\u0430\u0457, \u2116\u2116, \u06cc\u0646\u0647, zes, .gdx,  :\n\n\n\n",
+        "rank_subject": 102344,
+        "rank_answer": 11228,
+        "logit_subject": -0.07421875,
+        "logit_answer": 0.12158203125,
+        "prob_subject": 7.212162017822266e-06,
+        "prob_answer": 8.761882781982422e-06
+    },
+    "13_mid_0": {
+        "token_idx": 0,
+        "tokens": ".GraphicsUnit, #echo, aeda, \uae14, \u0627\u0633\u0637\u0629, \ufffd, \u0648\u06cc\u0646\u062a, podob, Insensitive, /Foundation",
+        "rank_subject": 95986,
+        "rank_answer": 97110,
+        "logit_subject": -3.859375,
+        "logit_answer": -4.0,
+        "prob_subject": 8.847089727481716e-17,
+        "prob_answer": 7.719519468096792e-17
+    },
+    "13_mid_1": {
+        "token_idx": 1,
+        "tokens": "'gc, \u06cc\u06cc\u0646, (EXPR, efon,  AssemblyCopyright, odore,  \u0438\u043c\u0443, interop,  Certif, ofil",
+        "rank_subject": 66651,
+        "rank_answer": 66757,
+        "logit_subject": -0.00604248046875,
+        "logit_answer": -0.0062255859375,
+        "prob_subject": 7.68899917602539e-06,
+        "prob_answer": 7.68899917602539e-06
+    },
+    "13_mid_2": {
+        "token_idx": 2,
+        "tokens": "\u043d\u0430\u0434\u043b\u0435\u0436, \u2116\u2116,  of, ...]\n\n, \u093e:,  \u0438\u043c\u0443, itest, \u984d, HORT, ignet",
+        "rank_subject": 93890,
+        "rank_answer": 22926,
+        "logit_subject": -0.053955078125,
+        "logit_answer": 0.0810546875,
+        "prob_subject": 7.361173629760742e-06,
+        "prob_answer": 8.404254913330078e-06
+    },
+    "13_mid_3": {
+        "token_idx": 3,
+        "tokens": " slowly,  Ingram, \u2116\u2116, erece,  \ufffd, \u30b9\u30ec, 'gc, \u01b0\u1ee3c,  Pruitt, \u043f\u0440\u0438\u043a\u043b\u0430\u0434",
+        "rank_subject": 118678,
+        "rank_answer": 19504,
+        "logit_subject": -0.12451171875,
+        "logit_answer": 0.087890625,
+        "prob_subject": 6.854534149169922e-06,
+        "prob_answer": 8.463859558105469e-06
+    },
+    "13_mid_4": {
+        "token_idx": 4,
+        "tokens": "#ac, #ad, #ab, #af, \u00f2n, anse, \u0441\u0442\u0435,  \ub124\uc774\ud2b8, \u0410\u0440\u0445\u0456\u0432, \ub514\uc2dc",
+        "rank_subject": 14214,
+        "rank_answer": 4717,
+        "logit_subject": 0.11181640625,
+        "logit_answer": 0.1689453125,
+        "prob_subject": 8.702278137207031e-06,
+        "prob_answer": 9.179115295410156e-06
+    },
+    "13_mid_5": {
+        "token_idx": 5,
+        "tokens": "'gc, erece, \u043a\u0440\u0430\u0457, .gdx, \u2116\u2116, \u0410\u0440\u0445\u0456\u0432, zes, #ab, \u010dan, \u06cc\u0646\u0647",
+        "rank_subject": 97332,
+        "rank_answer": 23680,
+        "logit_subject": -0.061767578125,
+        "logit_answer": 0.07861328125,
+        "prob_subject": 7.3015689849853516e-06,
+        "prob_answer": 8.404254913330078e-06
+    },
+    "14_pre_0": {
+        "token_idx": 0,
+        "tokens": ".GraphicsUnit, #echo, aeda, \uae14, \u0627\u0633\u0637\u0629, \u0648\u06cc\u0646\u062a, podob, \ufffd, Insensitive, /Foundation",
+        "rank_subject": 95978,
+        "rank_answer": 97113,
+        "logit_subject": -3.859375,
+        "logit_answer": -4.0,
+        "prob_subject": 8.890457814381136e-17,
+        "prob_answer": 7.719519468096792e-17
+    },
+    "14_pre_1": {
+        "token_idx": 1,
+        "tokens": "'gc, odore, \u06cc\u06cc\u0646,  AssemblyCopyright,  repost, ofil,  \u0438\u043c\u0443, __':\r\n, \u255d, (EXPR",
+        "rank_subject": 63147,
+        "rank_answer": 94689,
+        "logit_subject": 0.000705718994140625,
+        "logit_answer": -0.06982421875,
+        "prob_subject": 7.748603820800781e-06,
+        "prob_answer": 7.212162017822266e-06
+    },
+    "14_pre_2": {
+        "token_idx": 2,
+        "tokens": "\u043d\u0430\u0434\u043b\u0435\u0436, \u984d, \u2116\u2116, itest,  of, \u093e:,  Carmen, \u3002\u3002\n\n, \ufffd\ub85c, ...]\n\n",
+        "rank_subject": 79962,
+        "rank_answer": 68071,
+        "logit_subject": -0.0294189453125,
+        "logit_answer": -0.0067138671875,
+        "prob_subject": 7.539987564086914e-06,
+        "prob_answer": 7.68899917602539e-06
+    },
+    "14_pre_3": {
+        "token_idx": 3,
+        "tokens": "erece, 'gc,  slowly, \u2116\u2116,  securely, #ab, \u30b9\u30ec,  Vend, icone,  \u200b\u200b",
+        "rank_subject": 108794,
+        "rank_answer": 52531,
+        "logit_subject": -0.09375,
+        "logit_answer": 0.021484375,
+        "prob_subject": 7.063150405883789e-06,
+        "prob_answer": 7.927417755126953e-06
+    },
+    "14_pre_4": {
+        "token_idx": 4,
+        "tokens": "#ac, #ab, #ad, #af, \u0410\u0440\u0445\u0456\u0432, \ub514\uc2dc, anness, #aa, .gdx, /***/",
+        "rank_subject": 28073,
+        "rank_answer": 15657,
+        "logit_subject": 0.0810546875,
+        "logit_answer": 0.125,
+        "prob_subject": 8.404254913330078e-06,
+        "prob_answer": 8.761882781982422e-06
+    },
+    "14_pre_5": {
+        "token_idx": 5,
+        "tokens": "'gc, erece, .::, attles, \u2116\u2116, .gdx, zes,  \u200b\u200b, \u2019ta, #ab",
+        "rank_subject": 100066,
+        "rank_answer": 42343,
+        "logit_subject": -0.0712890625,
+        "logit_answer": 0.03955078125,
+        "prob_subject": 7.241964340209961e-06,
+        "prob_answer": 8.046627044677734e-06
+    },
+    "14_mid_0": {
+        "token_idx": 0,
+        "tokens": ".GraphicsUnit, #echo, aeda, \uae14, \u0627\u0633\u0637\u0629, \u0648\u06cc\u0646\u062a, podob, \ufffd, Insensitive, /Foundation",
+        "rank_subject": 96118,
+        "rank_answer": 96974,
+        "logit_subject": -3.875,
+        "logit_answer": -3.984375,
+        "prob_subject": 8.716985466783456e-17,
+        "prob_answer": 7.806255641895632e-17
+    },
+    "14_mid_1": {
+        "token_idx": 1,
+        "tokens": "'gc, odore,  AssemblyCopyright, \u06cc\u06cc\u0646,  repost, __':\r\n,  \u0438\u043c\u0443, ofil, \u043f\u043d\u044f, \u0433\u0430\u043b\u0456",
+        "rank_subject": 70423,
+        "rank_answer": 88876,
+        "logit_subject": -0.0145263671875,
+        "logit_answer": -0.055419921875,
+        "prob_subject": 7.62939453125e-06,
+        "prob_answer": 7.331371307373047e-06
+    },
+    "14_mid_2": {
+        "token_idx": 2,
+        "tokens": "\u043d\u0430\u0434\u043b\u0435\u0436, \u2116\u2116, \u984d, \u093e:, itest,  of, \u00adi, \ufffd\ub85c,  Huffman, ...]\n\n",
+        "rank_subject": 80255,
+        "rank_answer": 66726,
+        "logit_subject": -0.0301513671875,
+        "logit_answer": -0.0045166015625,
+        "prob_subject": 7.539987564086914e-06,
+        "prob_answer": 7.748603820800781e-06
+    },
+    "14_mid_3": {
+        "token_idx": 3,
+        "tokens": "erece, 'gc,  slowly,  Ingram, \u2116\u2116, \u30b9\u30ec,  securely,  Zd,  isAuthenticated, icone",
+        "rank_subject": 104021,
+        "rank_answer": 43417,
+        "logit_subject": -0.08056640625,
+        "logit_answer": 0.03857421875,
+        "prob_subject": 7.152557373046875e-06,
+        "prob_answer": 8.046627044677734e-06
+    },
+    "14_mid_4": {
+        "token_idx": 4,
+        "tokens": "#ac, #ab, #ad, #af, anness, \u0410\u0440\u0445\u0456\u0432, \ub514\uc2dc, anse,  \ub124\uc774\ud2b8, #aa",
+        "rank_subject": 27423,
+        "rank_answer": 10156,
+        "logit_subject": 0.07861328125,
+        "logit_answer": 0.1455078125,
+        "prob_subject": 8.404254913330078e-06,
+        "prob_answer": 8.940696716308594e-06
+    },
+    "14_mid_5": {
+        "token_idx": 5,
+        "tokens": "'gc, .::, erece,  \u200b\u200b, attles,  , .wr, \u043d\u0430\u0434\u043b\u0435\u0436, \u2116\u2116,  \u0938\u0926",
+        "rank_subject": 95478,
+        "rank_answer": 31227,
+        "logit_subject": -0.060791015625,
+        "logit_answer": 0.06396484375,
+        "prob_subject": 7.3015689849853516e-06,
+        "prob_answer": 8.285045623779297e-06
+    },
+    "15_pre_0": {
+        "token_idx": 0,
+        "tokens": ".GraphicsUnit, #echo, aeda, \uae14, \u0627\u0633\u0637\u0629, \ufffd, \u0648\u06cc\u0646\u062a, podob, Insensitive, /Foundation",
+        "rank_subject": 96014,
+        "rank_answer": 97142,
+        "logit_subject": -3.859375,
+        "logit_answer": -4.0,
+        "prob_subject": 8.933825901280557e-17,
+        "prob_answer": 7.762887554996212e-17
+    },
+    "15_pre_1": {
+        "token_idx": 1,
+        "tokens": "'gc, __':\r\n,  D\u00fcn, URLException, odore, \u043f\u043d\u044f,  AssemblyCopyright, \u255d, andle, oval",
+        "rank_subject": 64214,
+        "rank_answer": 119342,
+        "logit_subject": -0.00180816650390625,
+        "logit_answer": -0.181640625,
+        "prob_subject": 7.748603820800781e-06,
+        "prob_answer": 6.4373016357421875e-06
+    },
+    "15_pre_2": {
+        "token_idx": 2,
+        "tokens": " Huffman, ateg, \u984d, \u043d\u0430\u0434\u043b\u0435\u0436,  of, ovna, erus, \u2116\u2116, Insets, uso",
+        "rank_subject": 64950,
+        "rank_answer": 54728,
+        "logit_subject": -0.00127410888671875,
+        "logit_answer": 0.01904296875,
+        "prob_subject": 7.748603820800781e-06,
+        "prob_answer": 7.927417755126953e-06
+    },
+    "15_pre_3": {
+        "token_idx": 3,
+        "tokens": "LLU, ovna, \u2116\u2116,  securely, erece,  isAuthenticated, 'gc, licer, rosso, \u30b9\u30ec",
+        "rank_subject": 105696,
+        "rank_answer": 39430,
+        "logit_subject": -0.08984375,
+        "logit_answer": 0.04931640625,
+        "prob_subject": 7.092952728271484e-06,
+        "prob_answer": 8.165836334228516e-06
+    },
+    "15_pre_4": {
+        "token_idx": 4,
+        "tokens": "#ab, #ac, #af, #ad, #aa, ysize, .ArgumentParser, -wsj, anness, \u06cc\u06cc\u0646",
+        "rank_subject": 24655,
+        "rank_answer": 13649,
+        "logit_subject": 0.09423828125,
+        "logit_answer": 0.1376953125,
+        "prob_subject": 8.52346420288086e-06,
+        "prob_answer": 8.881092071533203e-06
+    },
+    "15_pre_5": {
+        "token_idx": 5,
+        "tokens": "'gc,  , Radians, erece, \u2019ta,  \u200b\u200b, nt, .::,  reg, attles",
+        "rank_subject": 76309,
+        "rank_answer": 20595,
+        "logit_subject": -0.02392578125,
+        "logit_answer": 0.09765625,
+        "prob_subject": 7.569789886474609e-06,
+        "prob_answer": 8.52346420288086e-06
+    },
+    "15_mid_0": {
+        "token_idx": 0,
+        "tokens": ".GraphicsUnit, #echo, aeda, \uae14, \u0627\u0633\u0637\u0629, \ufffd, \u0648\u06cc\u0646\u062a, podob, Insensitive, /Foundation",
+        "rank_subject": 96009,
+        "rank_answer": 97000,
+        "logit_subject": -3.859375,
+        "logit_answer": -3.984375,
+        "prob_subject": 8.890457814381136e-17,
+        "prob_answer": 7.849623728795052e-17
+    },
+    "15_mid_1": {
+        "token_idx": 1,
+        "tokens": "'gc, __':\r\n,  D\u00fcn, odore, URLException, \u255d, \u043f\u043d\u044f,  Certif, oval,  AssemblyCopyright",
+        "rank_subject": 58494,
+        "rank_answer": 114937,
+        "logit_subject": 0.01202392578125,
+        "logit_answer": -0.15234375,
+        "prob_subject": 7.808208465576172e-06,
+        "prob_answer": 6.645917892456055e-06
+    },
+    "15_mid_2": {
+        "token_idx": 2,
+        "tokens": " Huffman, \u043d\u0430\u0434\u043b\u0435\u0436,  of, ateg, \u984d, erus, ovna, \u2116\u2116, \u00adi, Insets",
+        "rank_subject": 58226,
+        "rank_answer": 41086,
+        "logit_subject": 0.01226806640625,
+        "logit_answer": 0.046875,
+        "prob_subject": 7.867813110351562e-06,
+        "prob_answer": 8.106231689453125e-06
+    },
+    "15_mid_3": {
+        "token_idx": 3,
+        "tokens": "\u2116\u2116, ovna,  securely, .EventQueue, LLU,  Boyd,  planet,  isAuthenticated,  lim, \u30b9\u30ec",
+        "rank_subject": 86182,
+        "rank_answer": 33301,
+        "logit_subject": -0.04345703125,
+        "logit_answer": 0.064453125,
+        "prob_subject": 7.420778274536133e-06,
+        "prob_answer": 8.285045623779297e-06
+    },
+    "15_mid_4": {
+        "token_idx": 4,
+        "tokens": "#ab, #ac, #ad, .ArgumentParser, #af, \u0410\u0440\u0445\u0456\u0432, anness, .opend, #aa, ysize",
+        "rank_subject": 22857,
+        "rank_answer": 21858,
+        "logit_subject": 0.0986328125,
+        "logit_answer": 0.10205078125,
+        "prob_subject": 8.52346420288086e-06,
+        "prob_answer": 8.58306884765625e-06
+    },
+    "15_mid_5": {
+        "token_idx": 5,
+        "tokens": "'gc,  , Radians,  \u200b\u200b, nt, erece, .::, \u2019ta,  reg,  today",
+        "rank_subject": 67954,
+        "rank_answer": 23859,
+        "logit_subject": -0.007568359375,
+        "logit_answer": 0.08935546875,
+        "prob_subject": 7.68899917602539e-06,
+        "prob_answer": 8.463859558105469e-06
+    },
+    "16_pre_0": {
+        "token_idx": 0,
+        "tokens": ".GraphicsUnit, #echo, aeda, \uae14, \u0627\u0633\u0637\u0629, \u0648\u06cc\u0646\u062a, podob, \ufffd, Insensitive, /Foundation",
+        "rank_subject": 95868,
+        "rank_answer": 96965,
+        "logit_subject": -3.84375,
+        "logit_answer": -3.984375,
+        "prob_subject": 9.063930161978817e-17,
+        "prob_answer": 7.892991815694472e-17
+    },
+    "16_pre_1": {
+        "token_idx": 1,
+        "tokens": "'gc, odore, __':\r\n, oval, \u0433\u0430\u043b\u0456, \u043f\u043d\u044f,  AssemblyCopyright,  D\u00fcn, oretical, .EventQueue",
+        "rank_subject": 46922,
+        "rank_answer": 110437,
+        "logit_subject": 0.043701171875,
+        "logit_answer": -0.142578125,
+        "prob_subject": 8.046627044677734e-06,
+        "prob_answer": 6.705522537231445e-06
+    },
+    "16_pre_2": {
+        "token_idx": 2,
+        "tokens": " Huffman,  of, \u043d\u0430\u0434\u043b\u0435\u0436, ization, isation, \u00adi,  city, ateg, \u0119k, \u984d",
+        "rank_subject": 65069,
+        "rank_answer": 28796,
+        "logit_subject": -0.00101470947265625,
+        "logit_answer": 0.08447265625,
+        "prob_subject": 7.748603820800781e-06,
+        "prob_answer": 8.404254913330078e-06
+    },
+    "16_pre_3": {
+        "token_idx": 3,
+        "tokens": "ovna, icone,  lim,  slowly,  enacted,  \ufffd,  planet, .EventQueue,  companion, ragment",
+        "rank_subject": 106096,
+        "rank_answer": 45743,
+        "logit_subject": -0.103515625,
+        "logit_answer": 0.041748046875,
+        "prob_subject": 6.973743438720703e-06,
+        "prob_answer": 8.106231689453125e-06
+    },
+    "16_pre_4": {
+        "token_idx": 4,
+        "tokens": "#af, #ab, #ac, #ad, /***/, -wsj, MMdd, anness, #aa, .ArgumentParser",
+        "rank_subject": 45940,
+        "rank_answer": 7488,
+        "logit_subject": 0.047119140625,
+        "logit_answer": 0.216796875,
+        "prob_subject": 8.106231689453125e-06,
+        "prob_answer": 9.59634780883789e-06
+    },
+    "16_pre_5": {
+        "token_idx": 5,
+        "tokens": " , erece, 'gc, LAY, \u2019ta,  today, isphere,  cir, TIM, \u044f\u0449",
+        "rank_subject": 92358,
+        "rank_answer": 48848,
+        "logit_subject": -0.0625,
+        "logit_answer": 0.031982421875,
+        "prob_subject": 7.271766662597656e-06,
+        "prob_answer": 7.987022399902344e-06
+    },
+    "16_mid_0": {
+        "token_idx": 0,
+        "tokens": ".GraphicsUnit, #echo, aeda, \uae14, \u0627\u0633\u0637\u0629, \ufffd, \u0648\u06cc\u0646\u062a, podob, Insensitive, /Foundation",
+        "rank_subject": 95836,
+        "rank_answer": 96842,
+        "logit_subject": -3.84375,
+        "logit_answer": -3.96875,
+        "prob_subject": 9.020562075079397e-17,
+        "prob_answer": 7.936359902593892e-17
+    },
+    "16_mid_1": {
+        "token_idx": 1,
+        "tokens": "'gc, __':\r\n, odore, oval, \u043f\u043d\u044f, oretical, \u0433\u0430\u043b\u0456, istro, URLException,  AssemblyCopyright",
+        "rank_subject": 44269,
+        "rank_answer": 104199,
+        "logit_subject": 0.05126953125,
+        "logit_answer": -0.11669921875,
+        "prob_subject": 8.106231689453125e-06,
+        "prob_answer": 6.884336471557617e-06
+    },
+    "16_mid_2": {
+        "token_idx": 2,
+        "tokens": " Huffman,  of,  city, \u00adi, \u043d\u0430\u0434\u043b\u0435\u0436, ization, isation, erus, verte, ieee",
+        "rank_subject": 57682,
+        "rank_answer": 39383,
+        "logit_subject": 0.01556396484375,
+        "logit_answer": 0.055908203125,
+        "prob_subject": 7.867813110351562e-06,
+        "prob_answer": 8.165836334228516e-06
+    },
+    "16_mid_3": {
+        "token_idx": 3,
+        "tokens": " Ingram,  \ufffd,  slowly,  lim,  planet,  companion, icone, ovna,  enacted, itet",
+        "rank_subject": 103898,
+        "rank_answer": 44392,
+        "logit_subject": -0.09765625,
+        "logit_answer": 0.04541015625,
+        "prob_subject": 7.033348083496094e-06,
+        "prob_answer": 8.106231689453125e-06
+    },
+    "16_mid_4": {
+        "token_idx": 4,
+        "tokens": "#ab, anness, #af, #ac, #ad, \u00f2n, \u06cc\u06cc\u0646, aliz, RuleContext,  nay",
+        "rank_subject": 4231,
+        "rank_answer": 6051,
+        "logit_subject": 0.2236328125,
+        "logit_answer": 0.2021484375,
+        "prob_subject": 9.655952453613281e-06,
+        "prob_answer": 9.47713851928711e-06
+    },
+    "16_mid_5": {
+        "token_idx": 5,
+        "tokens": "LAY,  today, erece,  city, stad, attles,  , TIM, isphere,  \u200b\u200b",
+        "rank_subject": 11442,
+        "rank_answer": 22673,
+        "logit_subject": 0.1533203125,
+        "logit_answer": 0.1044921875,
+        "prob_subject": 9.000301361083984e-06,
+        "prob_answer": 8.58306884765625e-06
+    },
+    "17_pre_0": {
+        "token_idx": 0,
+        "tokens": ".GraphicsUnit, #echo, aeda, \uae14, \u0627\u0633\u0637\u0629, \u0648\u06cc\u0646\u062a, podob, \ufffd, Insensitive, /Foundation",
+        "rank_subject": 95747,
+        "rank_answer": 96869,
+        "logit_subject": -3.828125,
+        "logit_answer": -3.96875,
+        "prob_subject": 9.194034422677078e-17,
+        "prob_answer": 8.023096076392733e-17
+    },
+    "17_pre_1": {
+        "token_idx": 1,
+        "tokens": "'gc, odore, __':\r\n, oval, \u255d, \u0433\u0430\u043b\u0456,  AssemblyCopyright, oretical, ,'#,  D\u00fcn",
+        "rank_subject": 32009,
+        "rank_answer": 96694,
+        "logit_subject": 0.10400390625,
+        "logit_answer": -0.10595703125,
+        "prob_subject": 8.52346420288086e-06,
+        "prob_answer": 6.9141387939453125e-06
+    },
+    "17_pre_2": {
+        "token_idx": 2,
+        "tokens": " city, ization,  of, HCI, Insets, izzare, clone, isation, city, urre",
+        "rank_subject": 57920,
+        "rank_answer": 31744,
+        "logit_subject": 0.0177001953125,
+        "logit_answer": 0.0908203125,
+        "prob_subject": 7.867813110351562e-06,
+        "prob_answer": 8.463859558105469e-06
+    },
+    "17_pre_3": {
+        "token_idx": 3,
+        "tokens": " slowly, ovna, icone, \u5f92,  heavily,  enacted,  neur, .bunifuFlatButton,  dry,  securely",
+        "rank_subject": 98768,
+        "rank_answer": 55691,
+        "logit_subject": -0.0947265625,
+        "logit_answer": 0.0224609375,
+        "prob_subject": 7.033348083496094e-06,
+        "prob_answer": 7.927417755126953e-06
+    },
+    "17_pre_4": {
+        "token_idx": 4,
+        "tokens": "#af, #ab, anness, #ac, #ad, \u00f2n, ysize, \u06cc\u06cc\u0646, #aa, <typeof",
+        "rank_subject": 2947,
+        "rank_answer": 1686,
+        "logit_subject": 0.2734375,
+        "logit_answer": 0.30859375,
+        "prob_subject": 1.0132789611816406e-05,
+        "prob_answer": 1.049041748046875e-05
+    },
+    "17_pre_5": {
+        "token_idx": 5,
+        "tokens": "erece, LAY,  today, 'gc, -city, undler, \u0447\u0438\u0432,  -*-\r\n, intern,  located",
+        "rank_subject": 22215,
+        "rank_answer": 13517,
+        "logit_subject": 0.1162109375,
+        "logit_answer": 0.15625,
+        "prob_subject": 8.702278137207031e-06,
+        "prob_answer": 9.059906005859375e-06
+    },
+    "17_mid_0": {
+        "token_idx": 0,
+        "tokens": ".GraphicsUnit, #echo, aeda, \uae14, \u0627\u0633\u0637\u0629, \ufffd, \u0648\u06cc\u0646\u062a, podob, Insensitive, /Foundation",
+        "rank_subject": 95849,
+        "rank_answer": 96729,
+        "logit_subject": -3.84375,
+        "logit_answer": -3.953125,
+        "prob_subject": 9.020562075079397e-17,
+        "prob_answer": 8.066464163292153e-17
+    },
+    "17_mid_1": {
+        "token_idx": 1,
+        "tokens": "'gc, odore, __':\r\n, oval, \u0433\u0430\u043b\u0456, \u255d,  AssemblyCopyright, ,'#, oretical,  D\u00fcn",
+        "rank_subject": 37080,
+        "rank_answer": 98461,
+        "logit_subject": 0.08447265625,
+        "logit_answer": -0.11279296875,
+        "prob_subject": 8.404254913330078e-06,
+        "prob_answer": 6.884336471557617e-06
+    },
+    "17_mid_2": {
+        "token_idx": 2,
+        "tokens": " city, ization,  of, HCI, clone, Insets, STRU, isation, izzare, .ga",
+        "rank_subject": 60902,
+        "rank_answer": 30014,
+        "logit_subject": 0.009765625,
+        "logit_answer": 0.0966796875,
+        "prob_subject": 7.808208465576172e-06,
+        "prob_answer": 8.52346420288086e-06
+    },
+    "17_mid_3": {
+        "token_idx": 3,
+        "tokens": "ovna,  slowly, icone, .bunifuFlatButton,  planet,  heavily,  enacted,  dry,  neur,  securely",
+        "rank_subject": 100307,
+        "rank_answer": 58190,
+        "logit_subject": -0.1025390625,
+        "logit_answer": 0.0164794921875,
+        "prob_subject": 6.973743438720703e-06,
+        "prob_answer": 7.867813110351562e-06
+    },
+    "17_mid_4": {
+        "token_idx": 4,
+        "tokens": "#af, anness, #ab, \u00f2n, #ac, \u0410\u0440\u0445\u0456\u0432, chwitz, #ad, \u06cc\u06cc\u0646,  Bair",
+        "rank_subject": 3196,
+        "rank_answer": 2292,
+        "logit_subject": 0.259765625,
+        "logit_answer": 0.28125,
+        "prob_subject": 1.0013580322265625e-05,
+        "prob_answer": 1.0251998901367188e-05
+    },
+    "17_mid_5": {
+        "token_idx": 5,
+        "tokens": "erece,  capital, \u0447\u0438\u0432,  today,  located, LAY, 'gc,  city, -city, hoot",
+        "rank_subject": 4499,
+        "rank_answer": 3982,
+        "logit_subject": 0.234375,
+        "logit_answer": 0.2421875,
+        "prob_subject": 9.775161743164062e-06,
+        "prob_answer": 9.834766387939453e-06
+    },
+    "18_pre_0": {
+        "token_idx": 0,
+        "tokens": ".GraphicsUnit, #echo, aeda, \uae14, \u0627\u0633\u0637\u0629, \ufffd, \u0648\u06cc\u0646\u062a, podob, Insensitive, /Foundation",
+        "rank_subject": 95955,
+        "rank_answer": 97058,
+        "logit_subject": -3.859375,
+        "logit_answer": -4.0,
+        "prob_subject": 8.933825901280557e-17,
+        "prob_answer": 7.762887554996212e-17
+    },
+    "18_pre_1": {
+        "token_idx": 1,
+        "tokens": "odore, __':\r\n, oval, oretical, 'gc,  AssemblyCopyright, \u255d, \u0433\u0430\u043b\u0456,  present,  D\u00fcn",
+        "rank_subject": 31157,
+        "rank_answer": 67165,
+        "logit_subject": 0.126953125,
+        "logit_answer": -0.01019287109375,
+        "prob_subject": 8.702278137207031e-06,
+        "prob_answer": 7.599592208862305e-06
+    },
+    "18_pre_2": {
+        "token_idx": 2,
+        "tokens": " city,  capital, ization,  of, city, .ga, STRU, otos,  Capital, .zip",
+        "rank_subject": 35684,
+        "rank_answer": 3123,
+        "logit_subject": 0.08740234375,
+        "logit_answer": 0.30078125,
+        "prob_subject": 8.404254913330078e-06,
+        "prob_answer": 1.043081283569336e-05
+    },
+    "18_pre_3": {
+        "token_idx": 3,
+        "tokens": " capital,  slowly, icone,  ne,  securely,  und,  b,  Cook,  guardians, verse",
+        "rank_subject": 73990,
+        "rank_answer": 28578,
+        "logit_subject": -0.0283203125,
+        "logit_answer": 0.1181640625,
+        "prob_subject": 7.4803829193115234e-06,
+        "prob_answer": 8.64267349243164e-06
+    },
+    "18_pre_4": {
+        "token_idx": 4,
+        "tokens": "anness,  capital, #af,  nay, chwitz, \u0410\u0440\u0445\u0456\u0432, \u00f2n, ysize, verse, igrams",
+        "rank_subject": 1778,
+        "rank_answer": 433,
+        "logit_subject": 0.337890625,
+        "logit_answer": 0.4296875,
+        "prob_subject": 1.0788440704345703e-05,
+        "prob_answer": 1.1861324310302734e-05
+    },
+    "18_pre_5": {
+        "token_idx": 5,
+        "tokens": " capital,  located, iol, hoot,  city, attles, erece,  \u200b\u200b,  Capital,  federally",
+        "rank_subject": 1973,
+        "rank_answer": 517,
+        "logit_subject": 0.310546875,
+        "logit_answer": 0.390625,
+        "prob_subject": 1.055002212524414e-05,
+        "prob_answer": 1.138448715209961e-05
+    },
+    "18_mid_0": {
+        "token_idx": 0,
+        "tokens": ".GraphicsUnit, #echo, aeda, \uae14, \u0627\u0633\u0637\u0629, \ufffd, \u0648\u06cc\u0646\u062a, podob, Insensitive, /Foundation",
+        "rank_subject": 95808,
+        "rank_answer": 97065,
+        "logit_subject": -3.84375,
+        "logit_answer": -4.0,
+        "prob_subject": 9.063930161978817e-17,
+        "prob_answer": 7.762887554996212e-17
+    },
+    "18_mid_1": {
+        "token_idx": 1,
+        "tokens": "odore, __':\r\n, 'gc, oval, oretical,  AssemblyCopyright, \u255d, \u0433\u0430\u043b\u0456, \u043f\u043d\u044f,  present",
+        "rank_subject": 29629,
+        "rank_answer": 70619,
+        "logit_subject": 0.134765625,
+        "logit_answer": -0.022705078125,
+        "prob_subject": 8.761882781982422e-06,
+        "prob_answer": 7.4803829193115234e-06
+    },
+    "18_mid_2": {
+        "token_idx": 2,
+        "tokens": " city,  capital,  of, ization, .ga, city, STRU,  Capital, verte,  Oz",
+        "rank_subject": 30965,
+        "rank_answer": 3062,
+        "logit_subject": 0.10498046875,
+        "logit_answer": 0.302734375,
+        "prob_subject": 8.58306884765625e-06,
+        "prob_answer": 1.043081283569336e-05
+    },
+    "18_mid_3": {
+        "token_idx": 3,
+        "tokens": " capital,  slowly, icone,  securely,  ne, verse,  b, ..\n,  und,  guardians",
+        "rank_subject": 70468,
+        "rank_answer": 27196,
+        "logit_subject": -0.017578125,
+        "logit_answer": 0.1240234375,
+        "prob_subject": 7.569789886474609e-06,
+        "prob_answer": 8.702278137207031e-06
+    },
+    "18_mid_4": {
+        "token_idx": 4,
+        "tokens": "anness,  capital, chwitz,  nay,  conj, \u00f2n, :async, \u0410\u0440\u0445\u0456\u0432,  Bair, igrams",
+        "rank_subject": 1260,
+        "rank_answer": 289,
+        "logit_subject": 0.36328125,
+        "logit_answer": 0.45703125,
+        "prob_subject": 1.1086463928222656e-05,
+        "prob_answer": 1.2159347534179688e-05
+    },
+    "18_mid_5": {
+        "token_idx": 5,
+        "tokens": " capital,  located, erece, iol, attles, hoot,  city,  Capital, udi, Capital",
+        "rank_subject": 1684,
+        "rank_answer": 570,
+        "logit_subject": 0.328125,
+        "logit_answer": 0.396484375,
+        "prob_subject": 1.0728836059570312e-05,
+        "prob_answer": 1.1444091796875e-05
+    },
+    "19_pre_0": {
+        "token_idx": 0,
+        "tokens": ".GraphicsUnit, #echo, aeda, \uae14, \u0627\u0633\u0637\u0629, \ufffd, \u0648\u06cc\u0646\u062a, podob, Insensitive, /Foundation",
+        "rank_subject": 95840,
+        "rank_answer": 97086,
+        "logit_subject": -3.84375,
+        "logit_answer": -4.0,
+        "prob_subject": 9.063930161978817e-17,
+        "prob_answer": 7.762887554996212e-17
+    },
+    "19_pre_1": {
+        "token_idx": 1,
+        "tokens": "odore, oretical, __':\r\n, oval,  following, odor, ater,  AssemblyCopyright, \u255d,  present",
+        "rank_subject": 22745,
+        "rank_answer": 37279,
+        "logit_subject": 0.2021484375,
+        "logit_answer": 0.12353515625,
+        "prob_subject": 9.298324584960938e-06,
+        "prob_answer": 8.58306884765625e-06
+    },
+    "19_pre_2": {
+        "token_idx": 2,
+        "tokens": "ization,  city,  capital, isation, ized, izing, izations, ised, izzato,  of",
+        "rank_subject": 43594,
+        "rank_answer": 644,
+        "logit_subject": 0.0654296875,
+        "logit_answer": 0.4296875,
+        "prob_subject": 8.225440979003906e-06,
+        "prob_answer": 1.1801719665527344e-05
+    },
+    "19_pre_3": {
+        "token_idx": 3,
+        "tokens": "..\n,  enacted,  capital,  heavily, verse,  und, \u00a0,  securely,  ne,  Lesser",
+        "rank_subject": 40615,
+        "rank_answer": 13781,
+        "logit_subject": 0.08935546875,
+        "logit_answer": 0.22265625,
+        "prob_subject": 8.404254913330078e-06,
+        "prob_answer": 9.59634780883789e-06
+    },
+    "19_pre_4": {
+        "token_idx": 4,
+        "tokens": "anness,  capital, ibold,  nay,  caret, zcze,  conj, verse, uguay, aver",
+        "rank_subject": 945,
+        "rank_answer": 163,
+        "logit_subject": 0.42578125,
+        "logit_answer": 0.55078125,
+        "prob_subject": 1.1742115020751953e-05,
+        "prob_answer": 1.33514404296875e-05
+    },
+    "19_pre_5": {
+        "token_idx": 5,
+        "tokens": " capital,  located,  federally,  city,  also,  called,  founded, isphere, iol,  known",
+        "rank_subject": 1155,
+        "rank_answer": 299,
+        "logit_subject": 0.392578125,
+        "logit_answer": 0.4765625,
+        "prob_subject": 1.138448715209961e-05,
+        "prob_answer": 1.239776611328125e-05
+    },
+    "19_mid_0": {
+        "token_idx": 0,
+        "tokens": ".GraphicsUnit, #echo, aeda, \uae14, \u0627\u0633\u0637\u0629, \ufffd, \u0648\u06cc\u0646\u062a, podob, Insensitive, /Foundation",
+        "rank_subject": 95805,
+        "rank_answer": 97080,
+        "logit_subject": -3.84375,
+        "logit_answer": -4.0,
+        "prob_subject": 9.107298248878237e-17,
+        "prob_answer": 7.762887554996212e-17
+    },
+    "19_mid_1": {
+        "token_idx": 1,
+        "tokens": "odore, __':\r\n, oretical, oval,  following, odor, \u255d, ater,  AssemblyCopyright, atre",
+        "rank_subject": 22287,
+        "rank_answer": 38651,
+        "logit_subject": 0.2041015625,
+        "logit_answer": 0.1162109375,
+        "prob_subject": 9.298324584960938e-06,
+        "prob_answer": 8.52346420288086e-06
+    },
+    "19_mid_2": {
+        "token_idx": 2,
+        "tokens": "ization,  city,  capital, isation, ized, izations, izing, ised, izzato,  of",
+        "rank_subject": 42422,
+        "rank_answer": 675,
+        "logit_subject": 0.0693359375,
+        "logit_answer": 0.42578125,
+        "prob_subject": 8.225440979003906e-06,
+        "prob_answer": 1.1801719665527344e-05
+    },
+    "19_mid_3": {
+        "token_idx": 3,
+        "tokens": "..\n,  capital,  enacted,  heavily, verse,  securely,  und, \u00a0,  ne,  \u200b\u200b",
+        "rank_subject": 37279,
+        "rank_answer": 16856,
+        "logit_subject": 0.10009765625,
+        "logit_answer": 0.2001953125,
+        "prob_subject": 8.463859558105469e-06,
+        "prob_answer": 9.357929229736328e-06
+    },
+    "19_mid_4": {
+        "token_idx": 4,
+        "tokens": "anness,  capital, ibold,  nay, aver, olla,  conj, \u0410\u0440\u0445\u0456\u0432, chwitz, verse",
+        "rank_subject": 805,
+        "rank_answer": 223,
+        "logit_subject": 0.435546875,
+        "logit_answer": 0.5234375,
+        "prob_subject": 1.1861324310302734e-05,
+        "prob_answer": 1.2993812561035156e-05
+    },
+    "19_mid_5": {
+        "token_idx": 5,
+        "tokens": " capital,  located,  federally,  city,  also,  called,  founded, iel, udi,  Kid",
+        "rank_subject": 308,
+        "rank_answer": 167,
+        "logit_subject": 0.486328125,
+        "logit_answer": 0.51953125,
+        "prob_subject": 1.2516975402832031e-05,
+        "prob_answer": 1.2934207916259766e-05
+    },
+    "20_pre_0": {
+        "token_idx": 0,
+        "tokens": ".GraphicsUnit, #echo, aeda, \uae14, \u0627\u0633\u0637\u0629, podob, \u0648\u06cc\u0646\u062a, \ufffd, Insensitive, /Foundation",
+        "rank_subject": 95937,
+        "rank_answer": 97077,
+        "logit_subject": -3.859375,
+        "logit_answer": -4.0,
+        "prob_subject": 8.933825901280557e-17,
+        "prob_answer": 7.762887554996212e-17
+    },
+    "20_pre_1": {
+        "token_idx": 1,
+        "tokens": "oretical, __':\r\n, oval, odore,  AssemblyCopyright, odor, ater, ..\n,  following, \u00a0in",
+        "rank_subject": 30265,
+        "rank_answer": 44270,
+        "logit_subject": 0.181640625,
+        "logit_answer": 0.1015625,
+        "prob_subject": 9.059906005859375e-06,
+        "prob_answer": 8.344650268554688e-06
+    },
+    "20_pre_2": {
+        "token_idx": 2,
+        "tokens": "ization,  city,  capital,  of, istic, isation, ized, izing, izations,  Capital",
+        "rank_subject": 47051,
+        "rank_answer": 311,
+        "logit_subject": 0.0595703125,
+        "logit_answer": 0.52734375,
+        "prob_subject": 8.165836334228516e-06,
+        "prob_answer": 1.2993812561035156e-05
+    },
+    "20_pre_3": {
+        "token_idx": 3,
+        "tokens": "..\n,  firmly,  capital, \u00a0,  b,  ########., ...\n,  densely,  heavily,  truly",
+        "rank_subject": 17504,
+        "rank_answer": 10779,
+        "logit_subject": 0.2314453125,
+        "logit_answer": 0.2890625,
+        "prob_subject": 9.59634780883789e-06,
+        "prob_answer": 1.0192394256591797e-05
+    },
+    "20_pre_4": {
+        "token_idx": 4,
+        "tokens": "anness,  capital,  Bog,  located, \u00a0,  once,  situated,  Colombia, aver, (savedInstanceState",
+        "rank_subject": 7,
+        "rank_answer": 2,
+        "logit_subject": 0.86328125,
+        "logit_answer": 0.9296875,
+        "prob_subject": 1.811981201171875e-05,
+        "prob_answer": 1.9311904907226562e-05
+    },
+    "20_pre_5": {
+        "token_idx": 5,
+        "tokens": " located,  Bog,  capital,  called,  named,  Columbia,  also,  Washington,  Colombia,  federally",
+        "rank_subject": 8,
+        "rank_answer": 1,
+        "logit_subject": 0.93359375,
+        "logit_answer": 1.1015625,
+        "prob_subject": 1.9431114196777344e-05,
+        "prob_answer": 2.300739288330078e-05
+    },
+    "20_mid_0": {
+        "token_idx": 0,
+        "tokens": ".GraphicsUnit, #echo, aeda, \uae14, \u0627\u0633\u0637\u0629, podob, \u0648\u06cc\u0646\u062a, \ufffd, Insensitive, /Foundation",
+        "rank_subject": 95820,
+        "rank_answer": 97091,
+        "logit_subject": -3.84375,
+        "logit_answer": -4.0,
+        "prob_subject": 9.107298248878237e-17,
+        "prob_answer": 7.762887554996212e-17
+    },
+    "20_mid_1": {
+        "token_idx": 1,
+        "tokens": "oretical, __':\r\n, oval, odore,  AssemblyCopyright, ..\n, odor,  following, ater, \u255d",
+        "rank_subject": 29782,
+        "rank_answer": 44029,
+        "logit_subject": 0.185546875,
+        "logit_answer": 0.10302734375,
+        "prob_subject": 9.059906005859375e-06,
+        "prob_answer": 8.344650268554688e-06
+    },
+    "20_mid_2": {
+        "token_idx": 2,
+        "tokens": "ization,  city,  capital, istic,  of, isation, ized, izing, izations,  Capital",
+        "rank_subject": 46812,
+        "rank_answer": 306,
+        "logit_subject": 0.060546875,
+        "logit_answer": 0.52734375,
+        "prob_subject": 8.165836334228516e-06,
+        "prob_answer": 1.2993812561035156e-05
+    },
+    "20_mid_3": {
+        "token_idx": 3,
+        "tokens": "..\n,  firmly, \u00a0,  capital,  b,  ########.,  heavily, ...\n,  densely,  truly",
+        "rank_subject": 15291,
+        "rank_answer": 10873,
+        "logit_subject": 0.2490234375,
+        "logit_answer": 0.2890625,
+        "prob_subject": 9.775161743164062e-06,
+        "prob_answer": 1.0192394256591797e-05
+    },
+    "20_mid_4": {
+        "token_idx": 4,
+        "tokens": "anness,  capital,  Bog, \u00a0,  located,  Colombia,  once, aver,  situated,  is",
+        "rank_subject": 5,
+        "rank_answer": 2,
+        "logit_subject": 0.87109375,
+        "logit_answer": 0.921875,
+        "prob_subject": 1.823902130126953e-05,
+        "prob_answer": 1.919269561767578e-05
+    },
+    "20_mid_5": {
+        "token_idx": 5,
+        "tokens": " located,  Bog,  capital,  called,  named,  Columbia,  Washington,  also,  Colombia,  city",
+        "rank_subject": 8,
+        "rank_answer": 1,
+        "logit_subject": 0.91796875,
+        "logit_answer": 1.09375,
+        "prob_subject": 1.919269561767578e-05,
+        "prob_answer": 2.288818359375e-05
+    },
+    "21_pre_0": {
+        "token_idx": 0,
+        "tokens": ".GraphicsUnit, #echo, aeda, \uae14, \u0627\u0633\u0637\u0629, podob, \u0648\u06cc\u0646\u062a, \ufffd, Insensitive, /Foundation",
+        "rank_subject": 95938,
+        "rank_answer": 97075,
+        "logit_subject": -3.859375,
+        "logit_answer": -4.0,
+        "prob_subject": 8.933825901280557e-17,
+        "prob_answer": 7.762887554996212e-17
+    },
+    "21_pre_1": {
+        "token_idx": 1,
+        "tokens": "oretical, ..\n, \u00a0in, __':\r\n, oval, ater, odor, odore,  following, orem",
+        "rank_subject": 28533,
+        "rank_answer": 27758,
+        "logit_subject": 0.2265625,
+        "logit_answer": 0.232421875,
+        "prob_subject": 9.357929229736328e-06,
+        "prob_answer": 9.417533874511719e-06
+    },
+    "21_pre_2": {
+        "token_idx": 2,
+        "tokens": " capital,  city, ization,  of, istic,  Capital, Capital, izing, isation,  cap",
+        "rank_subject": 65856,
+        "rank_answer": 534,
+        "logit_subject": -0.005218505859375,
+        "logit_answer": 0.55859375,
+        "prob_subject": 7.599592208862305e-06,
+        "prob_answer": 1.33514404296875e-05
+    },
+    "21_pre_3": {
+        "token_idx": 3,
+        "tokens": "..\n, \u00a0,  firmly, \u00a0in, ...\n,  of,  intentionally,  ^{, \u00ad,  capital",
+        "rank_subject": 14406,
+        "rank_answer": 10569,
+        "logit_subject": 0.3046875,
+        "logit_answer": 0.34765625,
+        "prob_subject": 1.0192394256591797e-05,
+        "prob_answer": 1.0669231414794922e-05
+    },
+    "21_pre_4": {
+        "token_idx": 4,
+        "tokens": " capital, \u00a0,  Bog,  ^{, PathComponent,  is,  once, anness,  Colombia,  and",
+        "rank_subject": 8,
+        "rank_answer": 2,
+        "logit_subject": 0.95703125,
+        "logit_answer": 1.0703125,
+        "prob_subject": 1.9788742065429688e-05,
+        "prob_answer": 2.205371856689453e-05
+    },
+    "21_pre_5": {
+        "token_idx": 5,
+        "tokens": " Bog,  capital,  located,  called,  named,  Washington,  also,  city,  nicknamed, iol",
+        "rank_subject": 18,
+        "rank_answer": 0,
+        "logit_subject": 0.9609375,
+        "logit_answer": 1.3046875,
+        "prob_subject": 1.990795135498047e-05,
+        "prob_answer": 2.8014183044433594e-05
+    },
+    "21_mid_0": {
+        "token_idx": 0,
+        "tokens": ".GraphicsUnit, #echo, aeda, \uae14, podob, \ufffd, \u0627\u0633\u0637\u0629, \u0648\u06cc\u0646\u062a, Insensitive, /Foundation",
+        "rank_subject": 95821,
+        "rank_answer": 97093,
+        "logit_subject": -3.84375,
+        "logit_answer": -4.0,
+        "prob_subject": 9.150666335777657e-17,
+        "prob_answer": 7.806255641895632e-17
+    },
+    "21_mid_1": {
+        "token_idx": 1,
+        "tokens": "..\n, \u00a0in, oretical, __':\r\n, odor, oval, ater,  following, odore,  ..\n",
+        "rank_subject": 25280,
+        "rank_answer": 31532,
+        "logit_subject": 0.2578125,
+        "logit_answer": 0.2119140625,
+        "prob_subject": 9.59634780883789e-06,
+        "prob_answer": 9.179115295410156e-06
+    },
+    "21_mid_2": {
+        "token_idx": 2,
+        "tokens": " capital,  city, ization,  of, istic,  Capital, Capital, isation,  cap, izing",
+        "rank_subject": 68040,
+        "rank_answer": 652,
+        "logit_subject": -0.013671875,
+        "logit_answer": 0.546875,
+        "prob_subject": 7.510185241699219e-06,
+        "prob_answer": 1.3172626495361328e-05
+    },
+    "21_mid_3": {
+        "token_idx": 3,
+        "tokens": "..\n, \u00a0,  firmly, \u00a0in, ...\n,  of,  capital,  ^{,  intentionally,  truly",
+        "rank_subject": 15058,
+        "rank_answer": 10736,
+        "logit_subject": 0.306640625,
+        "logit_answer": 0.35546875,
+        "prob_subject": 1.0251998901367188e-05,
+        "prob_answer": 1.0728836059570312e-05
+    },
+    "21_mid_4": {
+        "token_idx": 4,
+        "tokens": " capital, \u00a0,  Bog,  ^{,  is, PathComponent,  once, anness,  Colombia,  and",
+        "rank_subject": 8,
+        "rank_answer": 2,
+        "logit_subject": 0.9765625,
+        "logit_answer": 1.0859375,
+        "prob_subject": 2.014636993408203e-05,
+        "prob_answer": 2.2411346435546875e-05
+    },
+    "21_mid_5": {
+        "token_idx": 5,
+        "tokens": " capital,  Bog,  located,  named,  called,  city,  Washington,  also,  Columbia,  Capital",
+        "rank_subject": 18,
+        "rank_answer": 1,
+        "logit_subject": 0.96484375,
+        "logit_answer": 1.28125,
+        "prob_subject": 1.990795135498047e-05,
+        "prob_answer": 2.7418136596679688e-05
+    },
+    "22_pre_0": {
+        "token_idx": 0,
+        "tokens": ".GraphicsUnit, #echo, aeda, \uae14, \ufffd, \u0648\u06cc\u0646\u062a, \u0627\u0633\u0637\u0629, podob, Insensitive, /Foundation",
+        "rank_subject": 95825,
+        "rank_answer": 97113,
+        "logit_subject": -3.84375,
+        "logit_answer": -4.0,
+        "prob_subject": 9.150666335777657e-17,
+        "prob_answer": 7.849623728795052e-17
+    },
+    "22_pre_1": {
+        "token_idx": 1,
+        "tokens": "\u00a0in, ..\n, oretical,  ..\n,  following, odor, \u2026\n, ...\n, \u00a0, /stdc",
+        "rank_subject": 19261,
+        "rank_answer": 21980,
+        "logit_subject": 0.37890625,
+        "logit_answer": 0.34765625,
+        "prob_subject": 1.0609626770019531e-05,
+        "prob_answer": 1.0311603546142578e-05
+    },
+    "22_pre_2": {
+        "token_idx": 2,
+        "tokens": " capital,  city, ization,  of, istic,  Capital, isation, Capital,  cities, izing",
+        "rank_subject": 76210,
+        "rank_answer": 728,
+        "logit_subject": -0.05322265625,
+        "logit_answer": 0.6171875,
+        "prob_subject": 7.18235969543457e-06,
+        "prob_answer": 1.4066696166992188e-05
+    },
+    "22_pre_3": {
+        "token_idx": 3,
+        "tokens": "..\n, \u00a0in, \u00a0, ...\n,  of,  internationally,  ...\n, \u00ad, ,, .",
+        "rank_subject": 17225,
+        "rank_answer": 8149,
+        "logit_subject": 0.36328125,
+        "logit_answer": 0.494140625,
+        "prob_subject": 1.0609626770019531e-05,
+        "prob_answer": 1.2099742889404297e-05
+    },
+    "22_pre_4": {
+        "token_idx": 4,
+        "tokens": " capital, \u00a0,  ^{, \u00a0in,  is, PathComponent,  once,  Capital,  Bog,  and",
+        "rank_subject": 63,
+        "rank_answer": 8,
+        "logit_subject": 0.96875,
+        "logit_answer": 1.2109375,
+        "prob_subject": 1.9669532775878906e-05,
+        "prob_answer": 2.5033950805664062e-05
+    },
+    "22_pre_5": {
+        "token_idx": 5,
+        "tokens": " capital,  Bog,  located,  Washington,  called, \u00a0,  city,  also,  named,  Capital",
+        "rank_subject": 69,
+        "rank_answer": 1,
+        "logit_subject": 1.0,
+        "logit_answer": 1.53125,
+        "prob_subject": 2.0384788513183594e-05,
+        "prob_answer": 3.457069396972656e-05
+    },
+    "22_mid_0": {
+        "token_idx": 0,
+        "tokens": ".GraphicsUnit, #echo, aeda, \uae14, \u0627\u0633\u0637\u0629, podob, \u0648\u06cc\u0646\u062a, \ufffd, Insensitive, /Foundation",
+        "rank_subject": 95722,
+        "rank_answer": 96868,
+        "logit_subject": -3.828125,
+        "logit_answer": -3.96875,
+        "prob_subject": 9.280770596475918e-17,
+        "prob_answer": 8.066464163292153e-17
+    },
+    "22_mid_1": {
+        "token_idx": 1,
+        "tokens": "\u00a0in, ..\n, oretical,  ..\n,  following, /stdc, odor, ...\n, \u2026\n, \u00a0",
+        "rank_subject": 19248,
+        "rank_answer": 21213,
+        "logit_subject": 0.384765625,
+        "logit_answer": 0.361328125,
+        "prob_subject": 1.0669231414794922e-05,
+        "prob_answer": 1.043081283569336e-05
+    },
+    "22_mid_2": {
+        "token_idx": 2,
+        "tokens": " capital,  city, ization,  of, istic,  Capital, isation, Capital,  cities, izing",
+        "rank_subject": 74208,
+        "rank_answer": 730,
+        "logit_subject": -0.044189453125,
+        "logit_answer": 0.625,
+        "prob_subject": 7.241964340209961e-06,
+        "prob_answer": 1.4126300811767578e-05
+    },
+    "22_mid_3": {
+        "token_idx": 3,
+        "tokens": "..\n, \u00a0in, \u00a0, ...\n,  of,  internationally, \u00ad, _exempt,  ...\n,  firmly",
+        "rank_subject": 16300,
+        "rank_answer": 7485,
+        "logit_subject": 0.375,
+        "logit_answer": 0.5078125,
+        "prob_subject": 1.0728836059570312e-05,
+        "prob_answer": 1.2218952178955078e-05
+    },
+    "22_mid_4": {
+        "token_idx": 4,
+        "tokens": " capital, \u00a0,  ^{, \u00a0in,  is, PathComponent,  once,  Bog,  and, ..\n",
+        "rank_subject": 86,
+        "rank_answer": 7,
+        "logit_subject": 0.95703125,
+        "logit_answer": 1.2578125,
+        "prob_subject": 1.9431114196777344e-05,
+        "prob_answer": 2.6226043701171875e-05
+    },
+    "22_mid_5": {
+        "token_idx": 5,
+        "tokens": " capital,  Bog,  located,  called,  Washington, \u00a0,  also,  city,  named,  Capital",
+        "rank_subject": 92,
+        "rank_answer": 1,
+        "logit_subject": 0.96875,
+        "logit_answer": 1.6015625,
+        "prob_subject": 1.9669532775878906e-05,
+        "prob_answer": 3.719329833984375e-05
+    },
+    "23_pre_0": {
+        "token_idx": 0,
+        "tokens": ".GraphicsUnit, #echo, aeda, \uae14, \u0627\u0633\u0637\u0629, podob, \u0648\u06cc\u0646\u062a, \ufffd, Insensitive, /Foundation",
+        "rank_subject": 95731,
+        "rank_answer": 96991,
+        "logit_subject": -3.828125,
+        "logit_answer": -3.984375,
+        "prob_subject": 9.280770596475918e-17,
+        "prob_answer": 7.936359902593892e-17
+    },
+    "23_pre_1": {
+        "token_idx": 1,
+        "tokens": "\u00a0in, ..\n,  ..\n, /stdc, \u2026\n, \u00a0, ...\n, \u00ad, oretical,  following",
+        "rank_subject": 18380,
+        "rank_answer": 20651,
+        "logit_subject": 0.47265625,
+        "logit_answer": 0.44140625,
+        "prob_subject": 1.1265277862548828e-05,
+        "prob_answer": 1.0907649993896484e-05
+    },
+    "23_pre_2": {
+        "token_idx": 2,
+        "tokens": " city,  of,  capital, ization, istic, city,  cities, izing, isation, izations",
+        "rank_subject": 68037,
+        "rank_answer": 435,
+        "logit_subject": -0.015869140625,
+        "logit_answer": 0.765625,
+        "prob_subject": 7.3909759521484375e-06,
+        "prob_answer": 1.609325408935547e-05
+    },
+    "23_pre_3": {
+        "token_idx": 3,
+        "tokens": "..\n, \u00a0in, \u00a0, ...\n,  ^{, ,,  of,  internationally,  the, _exempt",
+        "rank_subject": 17879,
+        "rank_answer": 5057,
+        "logit_subject": 0.42578125,
+        "logit_answer": 0.66796875,
+        "prob_subject": 1.1026859283447266e-05,
+        "prob_answer": 1.4007091522216797e-05
+    },
+    "23_pre_4": {
+        "token_idx": 4,
+        "tokens": " capital, \u00a0,  ^{, \u00a0in, ..\n,  is, PathComponent,  internationally,  Bog,  and",
+        "rank_subject": 113,
+        "rank_answer": 8,
+        "logit_subject": 1.0703125,
+        "logit_answer": 1.4921875,
+        "prob_subject": 2.1338462829589844e-05,
+        "prob_answer": 3.266334533691406e-05
+    },
+    "23_pre_5": {
+        "token_idx": 5,
+        "tokens": " Bog,  capital,  known, ..\n,  called,  city,  ^{,  located,  Washington,  Capital",
+        "rank_subject": 159,
+        "rank_answer": 0,
+        "logit_subject": 1.0234375,
+        "logit_answer": 1.9453125,
+        "prob_subject": 2.0623207092285156e-05,
+        "prob_answer": 5.173683166503906e-05
+    },
+    "23_mid_0": {
+        "token_idx": 0,
+        "tokens": ".GraphicsUnit, #echo, aeda, \uae14, \u0627\u0633\u0637\u0629, podob, \u0648\u06cc\u0646\u062a, \ufffd, Insensitive, /Foundation",
+        "rank_subject": 95636,
+        "rank_answer": 97004,
+        "logit_subject": -3.8125,
+        "logit_answer": -3.984375,
+        "prob_subject": 9.540979117872439e-17,
+        "prob_answer": 8.023096076392733e-17
+    },
+    "23_mid_1": {
+        "token_idx": 1,
+        "tokens": "\u00a0in, ..\n,  ..\n, /stdc, \u2026\n, \u00a0,  following, \u00ad, ...\n, oretical",
+        "rank_subject": 17993,
+        "rank_answer": 22420,
+        "logit_subject": 0.484375,
+        "logit_answer": 0.423828125,
+        "prob_subject": 1.138448715209961e-05,
+        "prob_answer": 1.0728836059570312e-05
+    },
+    "23_mid_2": {
+        "token_idx": 2,
+        "tokens": " city,  of, ization, istic, city,  cities, isation, izing, izations, -city",
+        "rank_subject": 73635,
+        "rank_answer": 530,
+        "logit_subject": -0.04736328125,
+        "logit_answer": 0.76171875,
+        "prob_subject": 7.12275505065918e-06,
+        "prob_answer": 1.5974044799804688e-05
+    },
+    "23_mid_3": {
+        "token_idx": 3,
+        "tokens": "..\n, \u00a0in, \u00a0, ...\n,  ^{,  internationally,  of, ,, _exempt,  ..\n",
+        "rank_subject": 18577,
+        "rank_answer": 5202,
+        "logit_subject": 0.427734375,
+        "logit_answer": 0.6796875,
+        "prob_subject": 1.0967254638671875e-05,
+        "prob_answer": 1.4126300811767578e-05
+    },
+    "23_mid_4": {
+        "token_idx": 4,
+        "tokens": "\u00a0, \u00a0in,  ^{, ..\n,  is,  internationally,  Bog,  and, PathComponent,  \u00a0",
+        "rank_subject": 493,
+        "rank_answer": 6,
+        "logit_subject": 0.8984375,
+        "logit_answer": 1.515625,
+        "prob_subject": 1.800060272216797e-05,
+        "prob_answer": 3.337860107421875e-05
+    },
+    "23_mid_5": {
+        "token_idx": 5,
+        "tokens": " Bog,  known,  called, ..\n,  city,  Washington,  located,  ^{, \u00a0,  nicknamed",
+        "rank_subject": 557,
+        "rank_answer": 0,
+        "logit_subject": 0.859375,
+        "logit_answer": 1.9765625,
+        "prob_subject": 1.7404556274414062e-05,
+        "prob_answer": 5.340576171875e-05
+    },
+    "24_pre_0": {
+        "token_idx": 0,
+        "tokens": ".GraphicsUnit, #echo, aeda, \uae14, podob, \ufffd, \u0627\u0633\u0637\u0629, \u0648\u06cc\u0646\u062a, Insensitive, /Foundation",
+        "rank_subject": 95786,
+        "rank_answer": 96915,
+        "logit_subject": -3.828125,
+        "logit_answer": -3.96875,
+        "prob_subject": 9.367506770274758e-17,
+        "prob_answer": 8.153200337090993e-17
+    },
+    "24_pre_1": {
+        "token_idx": 1,
+        "tokens": "\u00a0in, ..\n, \u2026\n,  ..\n, /stdc, \u00a0, ...\n, \u00ad,  following,  internationally",
+        "rank_subject": 19438,
+        "rank_answer": 17671,
+        "logit_subject": 0.56640625,
+        "logit_answer": 0.59765625,
+        "prob_subject": 1.1742115020751953e-05,
+        "prob_answer": 1.2099742889404297e-05
+    },
+    "24_pre_2": {
+        "token_idx": 2,
+        "tokens": " city, ization,  of,  cities, istic, city, izing, isation, izations, ised",
+        "rank_subject": 49183,
+        "rank_answer": 92,
+        "logit_subject": 0.099609375,
+        "logit_answer": 1.078125,
+        "prob_subject": 8.165836334228516e-06,
+        "prob_answer": 2.1696090698242188e-05
+    },
+    "24_pre_3": {
+        "token_idx": 3,
+        "tokens": "..\n, \u00a0in, \u00a0, ...\n, \u2026\n,  ^{,  internationally, ,,  ..\n, .",
+        "rank_subject": 20639,
+        "rank_answer": 5723,
+        "logit_subject": 0.5,
+        "logit_answer": 0.82421875,
+        "prob_subject": 1.1265277862548828e-05,
+        "prob_answer": 1.5616416931152344e-05
+    },
+    "24_pre_4": {
+        "token_idx": 4,
+        "tokens": "..\n, \u00a0in, \u00a0,  ^{, \u0648\u0627\u0621,  internationally,  is, PathComponent,  \u00a0,  Bog",
+        "rank_subject": 422,
+        "rank_answer": 9,
+        "logit_subject": 1.03125,
+        "logit_answer": 1.6484375,
+        "prob_subject": 2.014636993408203e-05,
+        "prob_answer": 3.743171691894531e-05
+    },
+    "24_pre_5": {
+        "token_idx": 5,
+        "tokens": " Bog, ..\n,  known, \u00a0, \u00a0in,  called,  ^{, ...\n,  capital,  Washington",
+        "rank_subject": 450,
+        "rank_answer": 0,
+        "logit_subject": 1.0234375,
+        "logit_answer": 2.171875,
+        "prob_subject": 2.014636993408203e-05,
+        "prob_answer": 6.389617919921875e-05
+    },
+    "24_mid_0": {
+        "token_idx": 0,
+        "tokens": ".GraphicsUnit, #echo, aeda, \uae14, \u0627\u0633\u0637\u0629, podob, \u0648\u06cc\u0646\u062a, \ufffd, Insensitive, /Foundation",
+        "rank_subject": 95697,
+        "rank_answer": 96826,
+        "logit_subject": -3.8125,
+        "logit_answer": -3.953125,
+        "prob_subject": 9.584347204771859e-17,
+        "prob_answer": 8.326672684688674e-17
+    },
+    "24_mid_1": {
+        "token_idx": 1,
+        "tokens": "\u00a0in, ..\n, \u2026\n,  ..\n, \u00a0, /stdc, \u00ad, ...\n,  following,  internationally",
+        "rank_subject": 19830,
+        "rank_answer": 17423,
+        "logit_subject": 0.57421875,
+        "logit_answer": 0.6171875,
+        "prob_subject": 1.1742115020751953e-05,
+        "prob_answer": 1.2218952178955078e-05
+    },
+    "24_mid_2": {
+        "token_idx": 2,
+        "tokens": " city,  of, ization,  cities, istic, city, izing, isation, izations, -city",
+        "rank_subject": 49999,
+        "rank_answer": 108,
+        "logit_subject": 0.09912109375,
+        "logit_answer": 1.078125,
+        "prob_subject": 8.165836334228516e-06,
+        "prob_answer": 2.1696090698242188e-05
+    },
+    "24_mid_3": {
+        "token_idx": 3,
+        "tokens": "..\n, \u00a0in, \u00a0, ...\n, \u2026\n,  ^{,  internationally, ,,  ..\n,  ...\n",
+        "rank_subject": 21879,
+        "rank_answer": 6365,
+        "logit_subject": 0.49609375,
+        "logit_answer": 0.8203125,
+        "prob_subject": 1.1146068572998047e-05,
+        "prob_answer": 1.5497207641601562e-05
+    },
+    "24_mid_4": {
+        "token_idx": 4,
+        "tokens": "..\n, \u00a0in, \u00a0,  is,  Bog,  ^{, \u0648\u0627\u0621,  internationally, ,,  \u00a0",
+        "rank_subject": 40,
+        "rank_answer": 4,
+        "logit_subject": 1.4140625,
+        "logit_answer": 1.8828125,
+        "prob_subject": 2.944469451904297e-05,
+        "prob_answer": 4.7206878662109375e-05
+    },
+    "24_mid_5": {
+        "token_idx": 5,
+        "tokens": " Bog, ..\n,  known,  Washington, \u00a0,  Columbia, \u00a0in,  Colombia,  capital, ...\n",
+        "rank_subject": 7,
+        "rank_answer": 0,
+        "logit_subject": 1.796875,
+        "logit_answer": 2.734375,
+        "prob_subject": 4.363059997558594e-05,
+        "prob_answer": 0.00011157989501953125
+    },
+    "25_pre_0": {
+        "token_idx": 0,
+        "tokens": ".GraphicsUnit, #echo, aeda, \uae14, \ufffd, \u0648\u06cc\u0646\u062a, \u0627\u0633\u0637\u0629, podob, Insensitive, /Foundation",
+        "rank_subject": 95709,
+        "rank_answer": 96819,
+        "logit_subject": -3.8125,
+        "logit_answer": -3.953125,
+        "prob_subject": 9.540979117872439e-17,
+        "prob_answer": 8.283304597789254e-17
+    },
+    "25_pre_1": {
+        "token_idx": 1,
+        "tokens": "..\n, \u00a0in, \u2026\n,  ..\n, \u00a0, /stdc, \u00ad, ...\n,  internationally, \u0648\u0627\u0621",
+        "rank_subject": 18948,
+        "rank_answer": 16211,
+        "logit_subject": 0.66015625,
+        "logit_answer": 0.71875,
+        "prob_subject": 1.2218952178955078e-05,
+        "prob_answer": 1.2993812561035156e-05
+    },
+    "25_pre_2": {
+        "token_idx": 2,
+        "tokens": " city,  of,  cities, ization, city, istic, izing, -city, isation, izations",
+        "rank_subject": 43748,
+        "rank_answer": 83,
+        "logit_subject": 0.1533203125,
+        "logit_answer": 1.21875,
+        "prob_subject": 8.52346420288086e-06,
+        "prob_answer": 2.467632293701172e-05
+    },
+    "25_pre_3": {
+        "token_idx": 3,
+        "tokens": "..\n, \u00a0in, \u00a0, \u2026\n, ...\n,  ^{,  ..\n,  the,  internationally, ,",
+        "rank_subject": 18467,
+        "rank_answer": 3730,
+        "logit_subject": 0.60546875,
+        "logit_answer": 1.0390625,
+        "prob_subject": 1.2099742889404297e-05,
+        "prob_answer": 1.8715858459472656e-05
+    },
+    "25_pre_4": {
+        "token_idx": 4,
+        "tokens": "..\n,  Bog, \u00a0, \u00a0in, ,,  ^{,  is,  internationally, \u0648\u0627\u0621,  \u00a0",
+        "rank_subject": 12,
+        "rank_answer": 1,
+        "logit_subject": 1.8046875,
+        "logit_answer": 2.34375,
+        "prob_subject": 4.291534423828125e-05,
+        "prob_answer": 7.343292236328125e-05
+    },
+    "25_pre_5": {
+        "token_idx": 5,
+        "tokens": " Bog,  Columbia,  Colombia, ..\n, Col,  capital,  Colum, \u00a0,  bog,  Colomb",
+        "rank_subject": 2,
+        "rank_answer": 0,
+        "logit_subject": 2.375,
+        "logit_answer": 3.515625,
+        "prob_subject": 7.62939453125e-05,
+        "prob_answer": 0.0002384185791015625
+    },
+    "25_mid_0": {
+        "token_idx": 0,
+        "tokens": ".GraphicsUnit, #echo, aeda, \uae14, \u0627\u0633\u0637\u0629, podob, \u0648\u06cc\u0646\u062a, \ufffd, Insensitive, /Foundation",
+        "rank_subject": 95640,
+        "rank_answer": 96752,
+        "logit_subject": -3.796875,
+        "logit_answer": -3.9375,
+        "prob_subject": 9.71445146547012e-17,
+        "prob_answer": 8.456776945386935e-17
+    },
+    "25_mid_1": {
+        "token_idx": 1,
+        "tokens": "\u00a0in, ..\n, \u2026\n,  ..\n, /stdc, \u00a0, \u00ad, ...\n,  internationally, \u0648\u0627\u0621",
+        "rank_subject": 18389,
+        "rank_answer": 16440,
+        "logit_subject": 0.68359375,
+        "logit_answer": 0.7265625,
+        "prob_subject": 1.245737075805664e-05,
+        "prob_answer": 1.2993812561035156e-05
+    },
+    "25_mid_2": {
+        "token_idx": 2,
+        "tokens": " city,  of, ization,  cities, city, istic, izing, -city, isation, izations",
+        "rank_subject": 42401,
+        "rank_answer": 93,
+        "logit_subject": 0.171875,
+        "logit_answer": 1.2421875,
+        "prob_subject": 8.64267349243164e-06,
+        "prob_answer": 2.5153160095214844e-05
+    },
+    "25_mid_3": {
+        "token_idx": 3,
+        "tokens": "..\n, \u00a0in, \u00a0, \u2026\n, ...\n,  ^{,  ..\n,  ...\n, \u00ad,  internationally",
+        "rank_subject": 18944,
+        "rank_answer": 4105,
+        "logit_subject": 0.62109375,
+        "logit_answer": 1.0546875,
+        "prob_subject": 1.2099742889404297e-05,
+        "prob_answer": 1.8715858459472656e-05
+    },
+    "25_mid_4": {
+        "token_idx": 4,
+        "tokens": "..\n,  Bog, \u00a0, \u00a0in, ,,  ^{,  is,  internationally, \u0648\u0627\u0621,  \u00a0",
+        "rank_subject": 12,
+        "rank_answer": 2,
+        "logit_subject": 1.8203125,
+        "logit_answer": 2.34375,
+        "prob_subject": 4.3392181396484375e-05,
+        "prob_answer": 7.295608520507812e-05
+    },
+    "25_mid_5": {
+        "token_idx": 5,
+        "tokens": " Bog,  Columbia, ..\n,  Colombia, Col, \u00a0,  capital, ...\n, \u00a0in,  Colum",
+        "rank_subject": 3,
+        "rank_answer": 0,
+        "logit_subject": 2.390625,
+        "logit_answer": 3.515625,
+        "prob_subject": 7.677078247070312e-05,
+        "prob_answer": 0.00023746490478515625
+    },
+    "26_pre_0": {
+        "token_idx": 0,
+        "tokens": ".GraphicsUnit, #echo, aeda, \uae14, \u0627\u0633\u0637\u0629, podob, \u0648\u06cc\u0646\u062a, \ufffd, Insensitive, /Foundation",
+        "rank_subject": 95687,
+        "rank_answer": 96655,
+        "logit_subject": -3.796875,
+        "logit_answer": -3.921875,
+        "prob_subject": 9.75781955236954e-17,
+        "prob_answer": 8.586881206085195e-17
+    },
+    "26_pre_1": {
+        "token_idx": 1,
+        "tokens": "\u00a0in, ..\n, \u2026\n,  ..\n, \u00a0, ...\n, /stdc, \u0648\u0627\u0621, \u00ad,  internationally",
+        "rank_subject": 17191,
+        "rank_answer": 13153,
+        "logit_subject": 0.7734375,
+        "logit_answer": 0.875,
+        "prob_subject": 1.3113021850585938e-05,
+        "prob_answer": 1.4483928680419922e-05
+    },
+    "26_pre_2": {
+        "token_idx": 2,
+        "tokens": " city,  of, city,  cities, ization, -city, istic, \u00a0in, ..\n,  City",
+        "rank_subject": 49516,
+        "rank_answer": 165,
+        "logit_subject": 0.1357421875,
+        "logit_answer": 1.265625,
+        "prob_subject": 8.165836334228516e-06,
+        "prob_answer": 2.5272369384765625e-05
+    },
+    "26_pre_3": {
+        "token_idx": 3,
+        "tokens": "..\n, \u00a0in, \u2026\n, \u00a0, ...\n,  ..\n,  ^{,  ...\n,  internationally, \u00ad",
+        "rank_subject": 14907,
+        "rank_answer": 3507,
+        "logit_subject": 0.76953125,
+        "logit_answer": 1.1875,
+        "prob_subject": 1.3589859008789062e-05,
+        "prob_answer": 2.0623207092285156e-05
+    },
+    "26_pre_4": {
+        "token_idx": 4,
+        "tokens": "..\n, \u00a0in, \u00a0,  Bog,  ^{, ,,  internationally,  is, \u0648\u0627\u0621, PathComponent",
+        "rank_subject": 30,
+        "rank_answer": 3,
+        "logit_subject": 1.8671875,
+        "logit_answer": 2.515625,
+        "prob_subject": 4.410743713378906e-05,
+        "prob_answer": 8.440017700195312e-05
+    },
+    "26_pre_5": {
+        "token_idx": 5,
+        "tokens": " Bog, ..\n,  Columbia, \u00a0in, ...\n, \u00a0,  Colombia, \u2026\n,  ^{,  bog",
+        "rank_subject": 6,
+        "rank_answer": 0,
+        "logit_subject": 2.5,
+        "logit_answer": 4.03125,
+        "prob_subject": 8.296966552734375e-05,
+        "prob_answer": 0.000385284423828125
+    },
+    "26_mid_0": {
+        "token_idx": 0,
+        "tokens": ".GraphicsUnit, #echo, aeda, \uae14, \u0627\u0633\u0637\u0629, podob, \ufffd, Insensitive, \u0648\u06cc\u0646\u062a, /Foundation",
+        "rank_subject": 95635,
+        "rank_answer": 96449,
+        "logit_subject": -3.78125,
+        "logit_answer": -3.890625,
+        "prob_subject": 9.93129189996722e-17,
+        "prob_answer": 8.933825901280557e-17
+    },
+    "26_mid_1": {
+        "token_idx": 1,
+        "tokens": "\u00a0in, ..\n, \u2026\n,  ..\n, ...\n, \u00a0, \u00ad, \u0648\u0627\u0621, /stdc,  internationally",
+        "rank_subject": 17168,
+        "rank_answer": 13301,
+        "logit_subject": 0.80859375,
+        "logit_answer": 0.91015625,
+        "prob_subject": 1.3232231140136719e-05,
+        "prob_answer": 1.4662742614746094e-05
+    },
+    "26_mid_2": {
+        "token_idx": 2,
+        "tokens": " city,  of, city,  cities, \u00a0in, -city, ization, ..\n, istic,  City",
+        "rank_subject": 48480,
+        "rank_answer": 212,
+        "logit_subject": 0.1552734375,
+        "logit_answer": 1.2890625,
+        "prob_subject": 8.225440979003906e-06,
+        "prob_answer": 2.562999725341797e-05
+    },
+    "26_mid_3": {
+        "token_idx": 3,
+        "tokens": "..\n, \u00a0in, \u2026\n, \u00a0, ...\n,  ..\n,  ^{,  ...\n, \u00ad,  internationally",
+        "rank_subject": 15183,
+        "rank_answer": 3788,
+        "logit_subject": 0.80859375,
+        "logit_answer": 1.234375,
+        "prob_subject": 1.3768672943115234e-05,
+        "prob_answer": 2.110004425048828e-05
+    },
+    "26_mid_4": {
+        "token_idx": 4,
+        "tokens": "..\n, \u00a0in, \u00a0,  ^{,  Bog, ,,  is, \u0648\u0627\u0621,  internationally, PathComponent",
+        "rank_subject": 45,
+        "rank_answer": 3,
+        "logit_subject": 1.921875,
+        "logit_answer": 2.578125,
+        "prob_subject": 4.57763671875e-05,
+        "prob_answer": 8.821487426757812e-05
+    },
+    "26_mid_5": {
+        "token_idx": 5,
+        "tokens": " Bog, ..\n, \u00a0in,  Columbia, ...\n, \u00a0, \u2026\n,  ^{,  Colombia, ....\n",
+        "rank_subject": 8,
+        "rank_answer": 0,
+        "logit_subject": 2.546875,
+        "logit_answer": 4.0625,
+        "prob_subject": 8.58306884765625e-05,
+        "prob_answer": 0.0003910064697265625
+    },
+    "27_pre_0": {
+        "token_idx": 0,
+        "tokens": ".GraphicsUnit, #echo, aeda, \uae14, \u0627\u0633\u0637\u0629, Insensitive, \ufffd, podob, \u0648\u06cc\u0646\u062a, /Foundation",
+        "rank_subject": 95436,
+        "rank_answer": 96268,
+        "logit_subject": -3.75,
+        "logit_answer": -3.859375,
+        "prob_subject": 1.0278236595162582e-16,
+        "prob_answer": 9.194034422677078e-17
+    },
+    "27_pre_1": {
+        "token_idx": 1,
+        "tokens": "\u00a0in, ..\n, \u2026\n,  ..\n, ...\n, \u00a0, \u00ad, \u0648\u0627\u0621, /stdc,  internationally",
+        "rank_subject": 15142,
+        "rank_answer": 13465,
+        "logit_subject": 0.9453125,
+        "logit_answer": 0.99609375,
+        "prob_subject": 1.430511474609375e-05,
+        "prob_answer": 1.5079975128173828e-05
+    },
+    "27_pre_2": {
+        "token_idx": 2,
+        "tokens": " city,  of,  cities, \u00a0in, city, ..\n, ization, -city, istic, \u00a0",
+        "rank_subject": 44695,
+        "rank_answer": 158,
+        "logit_subject": 0.208984375,
+        "logit_answer": 1.453125,
+        "prob_subject": 8.52346420288086e-06,
+        "prob_answer": 2.956390380859375e-05
+    },
+    "27_pre_3": {
+        "token_idx": 3,
+        "tokens": "..\n, \u00a0in, \u2026\n, ...\n, \u00a0,  ..\n,  internationally,  ^{, \u00ad,  firmly",
+        "rank_subject": 15000,
+        "rank_answer": 3776,
+        "logit_subject": 0.87109375,
+        "logit_answer": 1.3203125,
+        "prob_subject": 1.4126300811767578e-05,
+        "prob_answer": 2.2172927856445312e-05
+    },
+    "27_pre_4": {
+        "token_idx": 4,
+        "tokens": "..\n, \u00a0in, \u00a0,  Bog,  is, ,,  ^{, \u0648\u0627\u0621,  internationally,  ,",
+        "rank_subject": 58,
+        "rank_answer": 3,
+        "logit_subject": 1.96875,
+        "logit_answer": 2.828125,
+        "prob_subject": 4.7206878662109375e-05,
+        "prob_answer": 0.00011110305786132812
+    },
+    "27_pre_5": {
+        "token_idx": 5,
+        "tokens": " Bog, ..\n, \u00a0in, ...\n, \u2026\n, \u00a0,  ^{,  bog,  Colombia,  Columbia",
+        "rank_subject": 8,
+        "rank_answer": 0,
+        "logit_subject": 2.640625,
+        "logit_answer": 4.53125,
+        "prob_subject": 9.202957153320312e-05,
+        "prob_answer": 0.0006103515625
+    },
+    "27_mid_0": {
+        "token_idx": 0,
+        "tokens": ".GraphicsUnit, #echo, aeda, \uae14, \u0627\u0633\u0637\u0629, Insensitive, \u0648\u06cc\u0646\u062a, podob, \ufffd, /Foundation",
+        "rank_subject": 95358,
+        "rank_answer": 96063,
+        "logit_subject": -3.734375,
+        "logit_answer": -3.828125,
+        "prob_subject": 1.0451708942760263e-16,
+        "prob_answer": 9.540979117872439e-17
+    },
+    "27_mid_1": {
+        "token_idx": 1,
+        "tokens": "\u00a0in, ..\n, \u2026\n,  ..\n, ...\n, \u00ad, \u00a0, \u0648\u0627\u0621, /stdc,  internationally",
+        "rank_subject": 15455,
+        "rank_answer": 13154,
+        "logit_subject": 0.98046875,
+        "logit_answer": 1.0546875,
+        "prob_subject": 1.436471939086914e-05,
+        "prob_answer": 1.5497207641601562e-05
+    },
+    "27_mid_2": {
+        "token_idx": 2,
+        "tokens": " city,  of, \u00a0in, ..\n,  cities, city, ization, -city, \u00a0, istic",
+        "rank_subject": 43106,
+        "rank_answer": 187,
+        "logit_subject": 0.234375,
+        "logit_answer": 1.4765625,
+        "prob_subject": 8.64267349243164e-06,
+        "prob_answer": 3.0040740966796875e-05
+    },
+    "27_mid_3": {
+        "token_idx": 3,
+        "tokens": "..\n, \u00a0in, \u2026\n, ...\n, \u00a0,  ..\n,  internationally,  ^{, \u00ad,  ...\n",
+        "rank_subject": 15243,
+        "rank_answer": 3663,
+        "logit_subject": 0.89453125,
+        "logit_answer": 1.375,
+        "prob_subject": 1.4185905456542969e-05,
+        "prob_answer": 2.288818359375e-05
+    },
+    "27_mid_4": {
+        "token_idx": 4,
+        "tokens": "..\n, \u00a0in, \u00a0,  Bog,  is, ,,  ^{, \u0648\u0627\u0621,  ,,  internationally",
+        "rank_subject": 62,
+        "rank_answer": 3,
+        "logit_subject": 2.03125,
+        "logit_answer": 2.859375,
+        "prob_subject": 4.9591064453125e-05,
+        "prob_answer": 0.00011348724365234375
+    },
+    "27_mid_5": {
+        "token_idx": 5,
+        "tokens": " Bog, ..\n, \u00a0in, \u2026\n, ...\n, \u00a0,  ^{,  bog,  Colombia, ....\n",
+        "rank_subject": 8,
+        "rank_answer": 0,
+        "logit_subject": 2.671875,
+        "logit_answer": 4.59375,
+        "prob_subject": 9.441375732421875e-05,
+        "prob_answer": 0.000644683837890625
+    },
+    "28_pre_0": {
+        "token_idx": 0,
+        "tokens": ".GraphicsUnit, #echo, aeda, \uae14, \u0627\u0633\u0637\u0629, Insensitive, \u0648\u06cc\u0646\u062a, podob, \ufffd, /Foundation",
+        "rank_subject": 95283,
+        "rank_answer": 95869,
+        "logit_subject": -3.71875,
+        "logit_answer": -3.796875,
+        "prob_subject": 1.0625181290357943e-16,
+        "prob_answer": 9.84455572616838e-17
+    },
+    "28_pre_1": {
+        "token_idx": 1,
+        "tokens": "\u00a0in, ..\n, \u2026\n, ...\n,  ..\n, \u00ad, \u00a0, \u0648\u0627\u0621,  internationally, /stdc",
+        "rank_subject": 15942,
+        "rank_answer": 12026,
+        "logit_subject": 1.015625,
+        "logit_answer": 1.1484375,
+        "prob_subject": 1.430511474609375e-05,
+        "prob_answer": 1.633167266845703e-05
+    },
+    "28_pre_2": {
+        "token_idx": 2,
+        "tokens": " city,  of, \u00a0in, ..\n, city,  cities, \u00a0, \u2026\n, ization, -city",
+        "rank_subject": 41388,
+        "rank_answer": 132,
+        "logit_subject": 0.27734375,
+        "logit_answer": 1.734375,
+        "prob_subject": 8.761882781982422e-06,
+        "prob_answer": 3.7670135498046875e-05
+    },
+    "28_pre_3": {
+        "token_idx": 3,
+        "tokens": "..\n, \u00a0in, \u2026\n, ...\n, \u00a0,  ^{,  ..\n,  internationally, \u00ad,  \u2026\n",
+        "rank_subject": 17847,
+        "rank_answer": 2386,
+        "logit_subject": 0.9140625,
+        "logit_answer": 1.65625,
+        "prob_subject": 1.3589859008789062e-05,
+        "prob_answer": 2.849102020263672e-05
+    },
+    "28_pre_4": {
+        "token_idx": 4,
+        "tokens": "..\n, \u00a0in, \u00a0, ,,  ^{,  is,  Bog,  ,,  and, ...\n",
+        "rank_subject": 125,
+        "rank_answer": 6,
+        "logit_subject": 2.046875,
+        "logit_answer": 3.0,
+        "prob_subject": 4.839897155761719e-05,
+        "prob_answer": 0.000125885009765625
+    },
+    "28_pre_5": {
+        "token_idx": 5,
+        "tokens": " Bog, ..\n, \u2026\n, \u00a0in, \u00a0, ...\n,  ^{,  a, ....\n,  ...\n",
+        "rank_subject": 23,
+        "rank_answer": 0,
+        "logit_subject": 2.625,
+        "logit_answer": 4.78125,
+        "prob_subject": 8.58306884765625e-05,
+        "prob_answer": 0.00074005126953125
+    },
+    "28_mid_0": {
+        "token_idx": 0,
+        "tokens": ".GraphicsUnit, #echo, aeda, \uae14, Insensitive, \u0627\u0633\u0637\u0629, \ufffd, podob, \u0648\u06cc\u0646\u062a, /Foundation",
+        "rank_subject": 95000,
+        "rank_answer": 95717,
+        "logit_subject": -3.671875,
+        "logit_answer": -3.765625,
+        "prob_subject": 1.1188966420050406e-16,
+        "prob_answer": 1.0191500421363742e-16
+    },
+    "28_mid_1": {
+        "token_idx": 1,
+        "tokens": "\u00a0in, ..\n, \u2026\n, \u00ad, ...\n, \u00a0,  ..\n, \u0648\u0627\u0621,  internationally,  \u2026\n",
+        "rank_subject": 16518,
+        "rank_answer": 11184,
+        "logit_subject": 1.0390625,
+        "logit_answer": 1.2265625,
+        "prob_subject": 1.4185905456542969e-05,
+        "prob_answer": 1.71661376953125e-05
+    },
+    "28_mid_2": {
+        "token_idx": 2,
+        "tokens": " of,  city, \u00a0in, ..\n, city, \u00a0, \u2026\n,  cities, ...\n,  ^{",
+        "rank_subject": 39065,
+        "rank_answer": 157,
+        "logit_subject": 0.328125,
+        "logit_answer": 1.796875,
+        "prob_subject": 9.000301361083984e-06,
+        "prob_answer": 3.910064697265625e-05
+    },
+    "28_mid_3": {
+        "token_idx": 3,
+        "tokens": "..\n, \u00a0in, \u2026\n, ...\n, \u00a0,  ^{,  ..\n,  internationally, \u00ad,  \u2026\n",
+        "rank_subject": 17321,
+        "rank_answer": 2558,
+        "logit_subject": 0.97265625,
+        "logit_answer": 1.7109375,
+        "prob_subject": 1.3887882232666016e-05,
+        "prob_answer": 2.9087066650390625e-05
+    },
+    "28_mid_4": {
+        "token_idx": 4,
+        "tokens": "..\n, \u00a0in, \u00a0,  ^{, ,,  is,  ,, ...\n,  internationally,  and",
+        "rank_subject": 215,
+        "rank_answer": 11,
+        "logit_subject": 2.09375,
+        "logit_answer": 3.09375,
+        "prob_subject": 4.863739013671875e-05,
+        "prob_answer": 0.0001316070556640625
+    },
+    "28_mid_5": {
+        "token_idx": 5,
+        "tokens": " Bog, ..\n, \u2026\n, \u00a0in, \u00a0, ...\n,  ^{,  a,  ...\n, ....\n",
+        "rank_subject": 39,
+        "rank_answer": 0,
+        "logit_subject": 2.671875,
+        "logit_answer": 4.90625,
+        "prob_subject": 8.58306884765625e-05,
+        "prob_answer": 0.000804901123046875
+    },
+    "29_pre_0": {
+        "token_idx": 0,
+        "tokens": ".GraphicsUnit, #echo, aeda, \uae14, Insensitive, \u0627\u0633\u0637\u0629, \ufffd, podob, \u0648\u06cc\u0646\u062a, /Foundation",
+        "rank_subject": 94597,
+        "rank_answer": 95599,
+        "logit_subject": -3.609375,
+        "logit_answer": -3.734375,
+        "prob_subject": 1.196959198423997e-16,
+        "prob_answer": 1.0538445116559103e-16
+    },
+    "29_pre_1": {
+        "token_idx": 1,
+        "tokens": "\u00a0in, ..\n, \u2026\n, \u00ad,  ..\n, \u00a0, ...\n, \u0648\u0627\u0621,  internationally,  \u2026\n",
+        "rank_subject": 17187,
+        "rank_answer": 9719,
+        "logit_subject": 1.046875,
+        "logit_answer": 1.328125,
+        "prob_subject": 1.4007091522216797e-05,
+        "prob_answer": 1.8477439880371094e-05
+    },
+    "29_pre_2": {
+        "token_idx": 2,
+        "tokens": " of,  city, \u00a0in, ..\n, \u2026\n, \u00a0,  cities, city, ization, ...\n",
+        "rank_subject": 33821,
+        "rank_answer": 149,
+        "logit_subject": 0.427734375,
+        "logit_answer": 1.984375,
+        "prob_subject": 9.655952453613281e-06,
+        "prob_answer": 4.57763671875e-05
+    },
+    "29_pre_3": {
+        "token_idx": 3,
+        "tokens": "..\n, \u00a0in, \u2026\n, ...\n, \u00a0, \u00ad,  \u2026\n,  ..\n,  ^{,  the",
+        "rank_subject": 12053,
+        "rank_answer": 1825,
+        "logit_subject": 1.21875,
+        "logit_answer": 1.953125,
+        "prob_subject": 1.6808509826660156e-05,
+        "prob_answer": 3.504753112792969e-05
+    },
+    "29_pre_4": {
+        "token_idx": 4,
+        "tokens": "\u00a0in, ..\n, \u00a0, ,,  ^{,  is,  ,,  and,  \u00a0, ...\n",
+        "rank_subject": 380,
+        "rank_answer": 21,
+        "logit_subject": 2.078125,
+        "logit_answer": 3.125,
+        "prob_subject": 4.601478576660156e-05,
+        "prob_answer": 0.0001316070556640625
+    },
+    "29_pre_5": {
+        "token_idx": 5,
+        "tokens": " Bog, ..\n, \u2026\n, \u00a0, ...\n, \u00a0in,  ^{,  a, ....\n,  ...\n",
+        "rank_subject": 124,
+        "rank_answer": 0,
+        "logit_subject": 2.640625,
+        "logit_answer": 4.875,
+        "prob_subject": 7.867813110351562e-05,
+        "prob_answer": 0.000736236572265625
+    },
+    "29_mid_0": {
+        "token_idx": 0,
+        "tokens": ".GraphicsUnit, #echo, aeda, \uae14, \u0627\u0633\u0637\u0629, Insensitive, /Foundation, \u0648\u06cc\u0646\u062a, \ufffd, podob",
+        "rank_subject": 93844,
+        "rank_answer": 95437,
+        "logit_subject": -3.5,
+        "logit_answer": -3.703125,
+        "prob_subject": 1.708702623837155e-16,
+        "prob_answer": 1.3877787807814457e-16
+    },
+    "29_mid_1": {
+        "token_idx": 1,
+        "tokens": "\u00a0in, ..\n, \u2026\n, ...\n, \u00a0,  ..\n, \u00ad, \u0648\u0627\u0621,  \u2026\n,  internationally",
+        "rank_subject": 17788,
+        "rank_answer": 11099,
+        "logit_subject": 1.09375,
+        "logit_answer": 1.34375,
+        "prob_subject": 1.3768672943115234e-05,
+        "prob_answer": 1.7642974853515625e-05
+    },
+    "29_mid_2": {
+        "token_idx": 2,
+        "tokens": " of,  city, \u00a0in, ..\n, \u2026\n, \u00a0, ...\n, city,  cities,  ^{",
+        "rank_subject": 29100,
+        "rank_answer": 254,
+        "logit_subject": 0.5546875,
+        "logit_answer": 2.046875,
+        "prob_subject": 1.043081283569336e-05,
+        "prob_answer": 4.649162292480469e-05
+    },
+    "29_mid_3": {
+        "token_idx": 3,
+        "tokens": "..\n, \u00a0in, \u2026\n, ...\n, \u00a0,  \u2026\n,  ^{, \u00ad,  ..\n,  ...\n",
+        "rank_subject": 11219,
+        "rank_answer": 2244,
+        "logit_subject": 1.375,
+        "logit_answer": 2.0625,
+        "prob_subject": 1.7881393432617188e-05,
+        "prob_answer": 3.552436828613281e-05
+    },
+    "29_mid_4": {
+        "token_idx": 4,
+        "tokens": "\u00a0in, ..\n, \u00a0, ,,  ^{,  ,,  is,  \u00a0, ...\n,  and",
+        "rank_subject": 214,
+        "rank_answer": 19,
+        "logit_subject": 2.5625,
+        "logit_answer": 3.609375,
+        "prob_subject": 6.866455078125e-05,
+        "prob_answer": 0.00019550323486328125
+    },
+    "29_mid_5": {
+        "token_idx": 5,
+        "tokens": "..\n,  Bog, \u2026\n, \u00a0in, \u00a0, ...\n,  ^{,  ...\n,  a, ....\n",
+        "rank_subject": 78,
+        "rank_answer": 1,
+        "logit_subject": 3.265625,
+        "logit_answer": 5.53125,
+        "prob_subject": 0.00012969970703125,
+        "prob_answer": 0.001251220703125
+    },
+    "30_pre_0": {
+        "token_idx": 0,
+        "tokens": ".GraphicsUnit, #echo, aeda, \uae14, Insensitive, \u0627\u0633\u0637\u0629, /Foundation, podob, \u0648\u06cc\u0646\u062a, \ufffd",
+        "rank_subject": 93524,
+        "rank_answer": 96500,
+        "logit_subject": -3.453125,
+        "logit_answer": -3.828125,
+        "prob_subject": 1.7780915628762273e-16,
+        "prob_answer": 1.222980050563649e-16
+    },
+    "30_pre_1": {
+        "token_idx": 1,
+        "tokens": "\u00a0in, ..\n, \u2026\n,  ..\n, ...\n, \u00a0, \u00ad,  \u2026\n,  internationally, _exempt",
+        "rank_subject": 21343,
+        "rank_answer": 12990,
+        "logit_subject": 0.98828125,
+        "logit_answer": 1.2734375,
+        "prob_subject": 1.2278556823730469e-05,
+        "prob_answer": 1.633167266845703e-05
+    },
+    "30_pre_2": {
+        "token_idx": 2,
+        "tokens": " of, \u00a0in,  city, ..\n, \u2026\n,  and, \u00a0, ization, ...\n,  ^{",
+        "rank_subject": 29759,
+        "rank_answer": 317,
+        "logit_subject": 0.578125,
+        "logit_answer": 2.15625,
+        "prob_subject": 1.0251998901367188e-05,
+        "prob_answer": 4.982948303222656e-05
+    },
+    "30_pre_3": {
+        "token_idx": 3,
+        "tokens": "..\n, \u00a0in, \u2026\n, ...\n, \u00a0,  \u2026\n,  ..\n, /stdc,  ^{,  internationally",
+        "rank_subject": 10393,
+        "rank_answer": 2016,
+        "logit_subject": 1.421875,
+        "logit_answer": 2.109375,
+        "prob_subject": 1.8596649169921875e-05,
+        "prob_answer": 3.719329833984375e-05
+    },
+    "30_pre_4": {
+        "token_idx": 4,
+        "tokens": "\u00a0in, ..\n, ,, \u00a0,  is,  ^{, \u2026\n,  and,  internationally,  ,",
+        "rank_subject": 149,
+        "rank_answer": 16,
+        "logit_subject": 2.609375,
+        "logit_answer": 3.5625,
+        "prob_subject": 7.343292236328125e-05,
+        "prob_answer": 0.00019073486328125
+    },
+    "30_pre_5": {
+        "token_idx": 5,
+        "tokens": " Bog, ..\n, \u2026\n, \u00a0in, \u00a0, ...\n,  ^{,  a,  ,  one",
+        "rank_subject": 65,
+        "rank_answer": 0,
+        "logit_subject": 3.515625,
+        "logit_answer": 5.9375,
+        "prob_subject": 0.00016117095947265625,
+        "prob_answer": 0.00182342529296875
+    },
+    "30_mid_0": {
+        "token_idx": 0,
+        "tokens": ".GraphicsUnit, #echo, aeda, \uae14, Insensitive, /Foundation, \u0627\u0633\u0637\u0629, \u0648\u06cc\u0646\u062a, \ufffd, podob",
+        "rank_subject": 93025,
+        "rank_answer": 96144,
+        "logit_subject": -3.375,
+        "logit_answer": -3.765625,
+        "prob_subject": 1.93421667571414e-16,
+        "prob_answer": 1.3097162243624894e-16
+    },
+    "30_mid_1": {
+        "token_idx": 1,
+        "tokens": "\u00a0in, ..\n, \u2026\n, \u00a0, ...\n, \u00ad,  ..\n,  \u2026\n,  internationally, \u00a0\n",
+        "rank_subject": 21115,
+        "rank_answer": 14284,
+        "logit_subject": 1.0546875,
+        "logit_answer": 1.296875,
+        "prob_subject": 1.2218952178955078e-05,
+        "prob_answer": 1.5616416931152344e-05
+    },
+    "30_mid_2": {
+        "token_idx": 2,
+        "tokens": " of, \u00a0in, ..\n,  city, \u2026\n, \u00a0,  and, ...\n,  ^{, ization",
+        "rank_subject": 28752,
+        "rank_answer": 502,
+        "logit_subject": 0.6484375,
+        "logit_answer": 2.21875,
+        "prob_subject": 1.043081283569336e-05,
+        "prob_answer": 5.0067901611328125e-05
+    },
+    "30_mid_3": {
+        "token_idx": 3,
+        "tokens": "..\n, \u00a0in, \u2026\n, ...\n, \u00a0,  \u2026\n,  ..\n,  ^{, /stdc, \u00ad",
+        "rank_subject": 10928,
+        "rank_answer": 2462,
+        "logit_subject": 1.5078125,
+        "logit_answer": 2.203125,
+        "prob_subject": 1.8477439880371094e-05,
+        "prob_answer": 3.695487976074219e-05
+    },
+    "30_mid_4": {
+        "token_idx": 4,
+        "tokens": "\u00a0in, ..\n, \u00a0, ,, \u2026\n,  and,  ^{,  is,  ,, ...\n",
+        "rank_subject": 426,
+        "rank_answer": 37,
+        "logit_subject": 2.6875,
+        "logit_answer": 3.8125,
+        "prob_subject": 6.866455078125e-05,
+        "prob_answer": 0.0002117156982421875
+    },
+    "30_mid_5": {
+        "token_idx": 5,
+        "tokens": "..\n, \u00a0in, \u00a0, \u2026\n, ...\n,  Bog,  ^{,  a,  , ....\n",
+        "rank_subject": 167,
+        "rank_answer": 5,
+        "logit_subject": 3.609375,
+        "logit_answer": 6.375,
+        "prob_subject": 0.0001468658447265625,
+        "prob_answer": 0.0023345947265625
+    },
+    "31_pre_0": {
+        "token_idx": 0,
+        "tokens": ".GraphicsUnit, aeda, #echo, Insensitive, \uae14, /Foundation, \u043c\u0435\u043d\u0442, podob, \u0627\u0633\u0637\u0629, \u0648\u06cc\u0646\u062a",
+        "rank_subject": 91401,
+        "rank_answer": 93918,
+        "logit_subject": -3.109375,
+        "logit_answer": -3.421875,
+        "prob_subject": 5.828670879282072e-16,
+        "prob_answer": 4.2674197509029455e-16
+    },
+    "31_pre_1": {
+        "token_idx": 1,
+        "tokens": "\u00a0in, ..\n, \u2026\n, \u00a0, \u00ad,  internationally,  ,  ..\n,  \u2026\n,  \u201c",
+        "rank_subject": 18355,
+        "rank_answer": 11385,
+        "logit_subject": 1.109375,
+        "logit_answer": 1.40625,
+        "prob_subject": 1.3828277587890625e-05,
+        "prob_answer": 1.8596649169921875e-05
+    },
+    "31_pre_2": {
+        "token_idx": 2,
+        "tokens": " of,  and, \u00a0in,  city, ..\n, \u00a0, \u2026\n, ...\n, ization, \u2014and",
+        "rank_subject": 19325,
+        "rank_answer": 809,
+        "logit_subject": 0.95703125,
+        "logit_answer": 2.265625,
+        "prob_subject": 1.3232231140136719e-05,
+        "prob_answer": 4.887580871582031e-05
+    },
+    "31_pre_3": {
+        "token_idx": 3,
+        "tokens": "..\n, \u00a0in, \u2026\n,  the, ...\n, \u00a0,  ..\n,  \u2026\n, /stdc,  internationally",
+        "rank_subject": 4210,
+        "rank_answer": 1311,
+        "logit_subject": 1.7734375,
+        "logit_answer": 2.21875,
+        "prob_subject": 2.8133392333984375e-05,
+        "prob_answer": 4.38690185546875e-05
+    },
+    "31_pre_4": {
+        "token_idx": 4,
+        "tokens": ",,  is,  and, \u00a0, \u00a0in, ..\n,  ,, ., :, \n",
+        "rank_subject": 1114,
+        "rank_answer": 29,
+        "logit_subject": 2.453125,
+        "logit_answer": 4.125,
+        "prob_subject": 5.245208740234375e-05,
+        "prob_answer": 0.000278472900390625
+    },
+    "31_pre_5": {
+        "token_idx": 5,
+        "tokens": " Bog,  a, ..\n, \u2026\n,  one, \u00a0in, \u00a0, ...\n,  an,  ",
+        "rank_subject": 47,
+        "rank_answer": 0,
+        "logit_subject": 3.875,
+        "logit_answer": 6.53125,
+        "prob_subject": 0.000217437744140625,
+        "prob_answer": 0.0030975341796875
+    },
+    "31_mid_0": {
+        "token_idx": 0,
+        "tokens": ".GraphicsUnit, aeda, #echo, Insensitive, \uae14, \u043c\u0435\u043d\u0442, \u0627\u0633\u0637\u0629, /Foundation, podob, \ufffd",
+        "rank_subject": 91873,
+        "rank_answer": 95568,
+        "logit_subject": -3.203125,
+        "logit_answer": -3.65625,
+        "prob_subject": 4.683753385137379e-16,
+        "prob_answer": 2.96637714392034e-16
+    },
+    "31_mid_1": {
+        "token_idx": 1,
+        "tokens": "\u00a0in, \u2026\n, ..\n, \u00a0,  ,  \u201c,  internationally,  \u2026\n, ...\n, \u00ad",
+        "rank_subject": 20431,
+        "rank_answer": 8654,
+        "logit_subject": 1.3046875,
+        "logit_answer": 2.0,
+        "prob_subject": 1.2040138244628906e-05,
+        "prob_answer": 2.4199485778808594e-05
+    },
+    "31_mid_2": {
+        "token_idx": 2,
+        "tokens": " of,  and, \u00a0, \u00a0in, \u2026\n, ..\n, ,,  city, ...\n,  in",
+        "rank_subject": 19235,
+        "rank_answer": 1497,
+        "logit_subject": 1.28125,
+        "logit_answer": 2.8125,
+        "prob_subject": 1.2814998626708984e-05,
+        "prob_answer": 5.91278076171875e-05
+    },
+    "31_mid_3": {
+        "token_idx": 3,
+        "tokens": "..\n, \u2026\n, \u00a0in, \u00a0,  the, ...\n,  \u2026\n,  ,  ^{,  and",
+        "rank_subject": 6018,
+        "rank_answer": 1476,
+        "logit_subject": 2.390625,
+        "logit_answer": 3.140625,
+        "prob_subject": 3.0517578125e-05,
+        "prob_answer": 6.4849853515625e-05
+    },
+    "31_mid_4": {
+        "token_idx": 4,
+        "tokens": ",, \u00a0,  and,  is, ..\n, ., \u00a0in, :, \u2026\n, \n",
+        "rank_subject": 2200,
+        "rank_answer": 127,
+        "logit_subject": 3.265625,
+        "logit_answer": 5.125,
+        "prob_subject": 5.4836273193359375e-05,
+        "prob_answer": 0.0003528594970703125
+    },
+    "31_mid_5": {
+        "token_idx": 5,
+        "tokens": " ,  a, \u00a0,  Bog, \u2026\n,  in, ,, ..\n,  an,  one",
+        "rank_subject": 239,
+        "rank_answer": 3,
+        "logit_subject": 4.8125,
+        "logit_answer": 7.875,
+        "prob_subject": 0.0002651214599609375,
+        "prob_answer": 0.005645751953125
+    },
+    "final_post_0": {
+        "token_idx": 0,
+        "tokens": "Question, #, def, The, A, S,  , 1, B, I",
+        "rank_subject": 96344,
+        "rank_answer": 98405,
+        "logit_subject": -0.90625,
+        "logit_answer": -0.95703125,
+        "prob_subject": 2.4959444999694824e-07,
+        "prob_answer": 2.3655593395233154e-07
+    },
+    "final_post_1": {
+        "token_idx": 1,
+        "tokens": " ,  (, \u00a0,  \",  S,  C,  A,  B,  M,  P",
+        "rank_subject": 16000,
+        "rank_answer": 4649,
+        "logit_subject": 3.84375,
+        "logit_answer": 5.46875,
+        "prob_subject": 3.0994415283203125e-06,
+        "prob_answer": 1.5735626220703125e-05
+    },
+    "final_post_2": {
+        "token_idx": 2,
+        "tokens": " of,  and, ,,  city,  (,  is,  ,  in, \u00a0, 's",
+        "rank_subject": 5046,
+        "rank_answer": 892,
+        "logit_subject": 2.390625,
+        "logit_answer": 3.28125,
+        "prob_subject": 3.504753112792969e-05,
+        "prob_answer": 8.58306884765625e-05
+    },
+    "final_post_3": {
+        "token_idx": 3,
+        "tokens": " the,  a,  New,  South,  And,  ,  T,  S,  France,  India",
+        "rank_subject": 151,
+        "rank_answer": 683,
+        "logit_subject": 4.90625,
+        "logit_answer": 4.03125,
+        "prob_subject": 0.000347137451171875,
+        "prob_answer": 0.00014495849609375
+    },
+    "final_post_4": {
+        "token_idx": 4,
+        "tokens": " is, ,,  and,  has,  was,  ,,  sits,  boasts, \u2019s,  lies",
+        "rank_subject": 229,
+        "rank_answer": 10,
+        "logit_subject": 3.4375,
+        "logit_answer": 4.6875,
+        "prob_subject": 0.00014781951904296875,
+        "prob_answer": 0.000514984130859375
+    },
+    "final_post_5": {
+        "token_idx": 5,
+        "tokens": " a,  the,  Bog,  one,  in,  an,  also, ,,  known,  called",
+        "rank_subject": 116,
+        "rank_answer": 2,
+        "logit_subject": 5.9375,
+        "logit_answer": 8.125,
+        "prob_subject": 0.00058746337890625,
+        "prob_answer": 0.0052490234375
+    }
+}

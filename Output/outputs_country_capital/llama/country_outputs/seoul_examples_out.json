@@ -1,0 +1,4555 @@
+{
+    "text": "The capital of South Korea is",
+    "answer": " Seoul",
+    "subject": " South",
+    "embed_0": {
+        "token_idx": 0,
+        "tokens": "\u308c\u3069, greg, utron, \ufffd, ister, efon,  Nov\u00e1, \u0e49\u0e2d, actly, udi",
+        "rank_subject": 127950,
+        "rank_answer": 60309,
+        "logit_subject": -0.0185546875,
+        "logit_answer": 0.0004673004150390625,
+        "prob_subject": 7.62939453125e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "embed_1": {
+        "token_idx": 1,
+        "tokens": "odor, oret, odore, oretical,  only, iet, stad, cheng,  same, .scalablytyped",
+        "rank_subject": 44442,
+        "rank_answer": 24295,
+        "logit_subject": 0.0020751953125,
+        "logit_answer": 0.004638671875,
+        "prob_subject": 7.808208465576172e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "embed_2": {
+        "token_idx": 2,
+        "tokens": " inch,  inf,  tol,  front, uch,  Brennan, \u68d2, ynn,  her,  Suite",
+        "rank_subject": 39739,
+        "rank_answer": 23948,
+        "logit_subject": 0.0034637451171875,
+        "logit_answer": 0.006256103515625,
+        "prob_subject": 7.808208465576172e-06,
+        "prob_answer": 7.867813110351562e-06
+    },
+    "embed_3": {
+        "token_idx": 3,
+        "tokens": " course, course,  sorts,  Kong, icina, \uad50, ure,  Temper, irsch, ician",
+        "rank_subject": 43530,
+        "rank_answer": 44102,
+        "logit_subject": 0.00165557861328125,
+        "logit_answer": 0.00160980224609375,
+        "prob_subject": 7.808208465576172e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "embed_4": {
+        "token_idx": 4,
+        "tokens": "inar, ernals, odi,  Alman, odos,  Ou, ials, enez, oler, oti",
+        "rank_subject": 46657,
+        "rank_answer": 78815,
+        "logit_subject": 0.002349853515625,
+        "logit_answer": -0.0019073486328125,
+        "prob_subject": 7.808208465576172e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "embed_5": {
+        "token_idx": 5,
+        "tokens": "\u043d\u0438\u0438, \u30ca\u30eb,  Nimbus, plx, typeid, lenme, LIKELY, issen,  dob, ModelProperty",
+        "rank_subject": 74612,
+        "rank_answer": 24289,
+        "logit_subject": -0.0015869140625,
+        "logit_answer": 0.006805419921875,
+        "prob_subject": 7.808208465576172e-06,
+        "prob_answer": 7.867813110351562e-06
+    },
+    "embed_6": {
+        "token_idx": 6,
+        "tokens": "jav, /w, otope,  bubble,  bubbles,  Wyn,  esp, \u064a\u062b,  Hundred, isphere",
+        "rank_subject": 57285,
+        "rank_answer": 40328,
+        "logit_subject": 0.0005645751953125,
+        "logit_answer": 0.00213623046875,
+        "prob_subject": 7.808208465576172e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "0_attn_out_0": {
+        "token_idx": 0,
+        "tokens": " dep, \uff61,  ,  Shah, \u4f0d,  trace, d, /he,  cease, inand",
+        "rank_subject": 20355,
+        "rank_answer": 25633,
+        "logit_subject": 0.0024871826171875,
+        "logit_answer": 0.002105712890625,
+        "prob_subject": 7.808208465576172e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "0_attn_out_1": {
+        "token_idx": 1,
+        "tokens": "'gc, \u06cc\u06cc\u0646, :\r\n\r\n,  \u00dcst, /he, \u06cc\u0632, \u4f0d, \u06a9\u0627\u0646,  dep, \u0438\u043d\u043e\u0432",
+        "rank_subject": 91151,
+        "rank_answer": 25754,
+        "logit_subject": -0.00201416015625,
+        "logit_answer": 0.0031280517578125,
+        "prob_subject": 7.808208465576172e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "0_attn_out_2": {
+        "token_idx": 2,
+        "tokens": "'gc,  \u00dcst, \u06cc\u0632,  nackte, cams, /Peak,  Elves, \u00a0ro,  erotische, .ov",
+        "rank_subject": 112640,
+        "rank_answer": 45643,
+        "logit_subject": -0.006134033203125,
+        "logit_answer": 0.00189971923828125,
+        "prob_subject": 7.748603820800781e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "0_attn_out_3": {
+        "token_idx": 3,
+        "tokens": " nackte, istani, /Area,  accents, ernet, );$, oyer, \ufffd\ufffd, STIT, \u0446\u043e",
+        "rank_subject": 103218,
+        "rank_answer": 32739,
+        "logit_subject": -0.0062255859375,
+        "logit_answer": 0.0048828125,
+        "prob_subject": 7.748603820800781e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "0_attn_out_4": {
+        "token_idx": 4,
+        "tokens": " \u201c, \u00a0, \u3002\u3002\n\n, \u00a0s, \u00a0t, \u06cc\u06cc\u0646, \u00a0ro,  Stuart,  \u00dcst, \u06a9\u0627",
+        "rank_subject": 85793,
+        "rank_answer": 26639,
+        "logit_subject": -0.0029144287109375,
+        "logit_answer": 0.005645751953125,
+        "prob_subject": 7.748603820800781e-06,
+        "prob_answer": 7.867813110351562e-06
+    },
+    "0_attn_out_5": {
+        "token_idx": 5,
+        "tokens": "isser, alia, )new, \u00a0s, \u00a0, ellites, -equiv, \u06cc\u06cc\u0646, am, -\r\n",
+        "rank_subject": 114252,
+        "rank_answer": 18087,
+        "logit_subject": -0.00921630859375,
+        "logit_answer": 0.00799560546875,
+        "prob_subject": 7.748603820800781e-06,
+        "prob_answer": 7.867813110351562e-06
+    },
+    "0_attn_out_6": {
+        "token_idx": 6,
+        "tokens": " \u201c, \u00a0, \u06a9\u0627,  \u00dcst,  nay,  Prostit, 'gc, ,},\n, \u3002\u3002\n\n, :.",
+        "rank_subject": 96642,
+        "rank_answer": 43751,
+        "logit_subject": -0.005035400390625,
+        "logit_answer": 0.003143310546875,
+        "prob_subject": 7.748603820800781e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "0_mlp_out_0": {
+        "token_idx": 0,
+        "tokens": "ungs, NG, .ImageAlign, ingo, WA,  tslint,  paci, enschaft, iotic, berman",
+        "rank_subject": 54854,
+        "rank_answer": 23649,
+        "logit_subject": 0.0224609375,
+        "logit_answer": 0.1064453125,
+        "prob_subject": 7.927417755126953e-06,
+        "prob_answer": 8.58306884765625e-06
+    },
+    "0_mlp_out_1": {
+        "token_idx": 1,
+        "tokens": "IGHL, peror, kl\u00e4, \u1eb5ng, /interfaces, ebek, \u30c1\u30e5, timing, eron, \u0447\u0435",
+        "rank_subject": 45618,
+        "rank_answer": 18547,
+        "logit_subject": 0.004547119140625,
+        "logit_answer": 0.01318359375,
+        "prob_subject": 7.808208465576172e-06,
+        "prob_answer": 7.927417755126953e-06
+    },
+    "0_mlp_out_2": {
+        "token_idx": 2,
+        "tokens": "cak, anches, ech, letcher, heiro,  residence, uju, \u0448\u0442,  counting,  manually",
+        "rank_subject": 1400,
+        "rank_answer": 80711,
+        "logit_subject": 0.025390625,
+        "logit_answer": -0.0034637451171875,
+        "prob_subject": 7.987022399902344e-06,
+        "prob_answer": 7.748603820800781e-06
+    },
+    "0_mlp_out_3": {
+        "token_idx": 3,
+        "tokens": " ============================================================================\n, _traits, $core, izzes,  Dud, idot, LEGRO,  Hass, .bukkit, jury",
+        "rank_subject": 22497,
+        "rank_answer": 75747,
+        "logit_subject": 0.007781982421875,
+        "logit_answer": -0.001861572265625,
+        "prob_subject": 7.867813110351562e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "0_mlp_out_4": {
+        "token_idx": 4,
+        "tokens": "en, t, e,  Nielsen, oS, ois,  Duffy, undef,  hierarchical,  Cop",
+        "rank_subject": 14781,
+        "rank_answer": 31911,
+        "logit_subject": 0.01165771484375,
+        "logit_answer": 0.006591796875,
+        "prob_subject": 7.867813110351562e-06,
+        "prob_answer": 7.867813110351562e-06
+    },
+    "0_mlp_out_5": {
+        "token_idx": 5,
+        "tokens": " addCriterion, zym, osg, gii, \u0440\u0438\u0447, \u015bnie, \u00e9gor, osate, pii, Blockly",
+        "rank_subject": 50614,
+        "rank_answer": 100362,
+        "logit_subject": 0.002716064453125,
+        "logit_answer": -0.00848388671875,
+        "prob_subject": 7.808208465576172e-06,
+        "prob_answer": 7.748603820800781e-06
+    },
+    "0_mlp_out_6": {
+        "token_idx": 6,
+        "tokens": "keh, jong, stdarg, ernity, arti, imli, \ufffd, 389, orris, ANEL",
+        "rank_subject": 23934,
+        "rank_answer": 93275,
+        "logit_subject": 0.005218505859375,
+        "logit_answer": -0.003509521484375,
+        "prob_subject": 7.808208465576172e-06,
+        "prob_answer": 7.748603820800781e-06
+    },
+    "1_attn_out_0": {
+        "token_idx": 0,
+        "tokens": "\u5c71\u5e02, urch, .getOwnProperty, uala, onas,  Tradable, INCREMENT, \u585a, Aggregate, chalk",
+        "rank_subject": 125861,
+        "rank_answer": 101027,
+        "logit_subject": -0.0062255859375,
+        "logit_answer": -0.0023956298828125,
+        "prob_subject": 7.748603820800781e-06,
+        "prob_answer": 7.748603820800781e-06
+    },
+    "1_attn_out_1": {
+        "token_idx": 1,
+        "tokens": " erotische,  Hindered, atform, .Accessible, bdb, ndef, .rdf,  c\u00e9lib, \u01a1, .gdx",
+        "rank_subject": 128107,
+        "rank_answer": 79419,
+        "logit_subject": -0.0108642578125,
+        "logit_answer": -0.00109100341796875,
+        "prob_subject": 7.68899917602539e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "1_attn_out_2": {
+        "token_idx": 2,
+        "tokens": "ostel,  \u0438\u043c\u0443,  \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044c, \u1ea1ch, orang,  Hindered,  \u043a\u043b\u0443, ActionCreators, REFERRED, \u06af\u0648\u06cc",
+        "rank_subject": 128039,
+        "rank_answer": 71987,
+        "logit_subject": -0.0147705078125,
+        "logit_answer": -0.00078582763671875,
+        "prob_subject": 7.68899917602539e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "1_attn_out_3": {
+        "token_idx": 3,
+        "tokens": "odzi,  AW, \u4e18, \u25ce, \u03c4\u03bf\u03ba, usz, \ufffd, prites, azo,  fod",
+        "rank_subject": 127104,
+        "rank_answer": 25538,
+        "logit_subject": -0.01708984375,
+        "logit_answer": 0.005889892578125,
+        "prob_subject": 7.68899917602539e-06,
+        "prob_answer": 7.867813110351562e-06
+    },
+    "1_attn_out_4": {
+        "token_idx": 4,
+        "tokens": "stru, ernes, \u0430\u043d\u0438\u0446,  kvinna, 'n, \u50cf,  Merchant, \u00f6\u011f, icros, stance",
+        "rank_subject": 104880,
+        "rank_answer": 18026,
+        "logit_subject": -0.00531005859375,
+        "logit_answer": 0.00634765625,
+        "prob_subject": 7.748603820800781e-06,
+        "prob_answer": 7.867813110351562e-06
+    },
+    "1_attn_out_5": {
+        "token_idx": 5,
+        "tokens": "stru, curity, stance, wart, .mybatisplus,  \ufffd, \u043a\u0440\u0435\u0442, \u043e\u044e\u0437, strup, 386",
+        "rank_subject": 114733,
+        "rank_answer": 116990,
+        "logit_subject": -0.00872802734375,
+        "logit_answer": -0.00946044921875,
+        "prob_subject": 7.748603820800781e-06,
+        "prob_answer": 7.748603820800781e-06
+    },
+    "1_attn_out_6": {
+        "token_idx": 6,
+        "tokens": "Wunused, o\u017e,  \u0627\u0644\u0645\u062a\u062d\u062f\u0629, \u30fc\u30ec, \ufffd, \u5bf8, \u0438\u0446\u0438\u043d, ysize, GNU, .':",
+        "rank_subject": 95925,
+        "rank_answer": 120202,
+        "logit_subject": -0.006561279296875,
+        "logit_answer": -0.01507568359375,
+        "prob_subject": 7.748603820800781e-06,
+        "prob_answer": 7.68899917602539e-06
+    },
+    "1_mlp_out_0": {
+        "token_idx": 0,
+        "tokens": ".GraphicsUnit, #echo, aeda, \uae14, \u0627\u0633\u0637\u0629, \ufffd, \u0648\u06cc\u0646\u062a, podob, /Foundation, Insensitive",
+        "rank_subject": 125868,
+        "rank_answer": 103985,
+        "logit_subject": -12.0,
+        "logit_answer": -5.0,
+        "prob_subject": 4.002230675776569e-20,
+        "prob_answer": 4.401860820291148e-17
+    },
+    "1_mlp_out_1": {
+        "token_idx": 1,
+        "tokens": "\u0e31\u0e21, andle, \u044c\u0435, \u0639\u062f\u062f, aliz,  Starter, elere, .LookAndFeel, AGED,  Shank",
+        "rank_subject": 107136,
+        "rank_answer": 83412,
+        "logit_subject": -0.006591796875,
+        "logit_answer": -0.002532958984375,
+        "prob_subject": 7.748603820800781e-06,
+        "prob_answer": 7.748603820800781e-06
+    },
+    "1_mlp_out_2": {
+        "token_idx": 2,
+        "tokens": "IIIK,  Decompiled, :UIControl, .named, INLINE, _KHR, \u00adi, RuntimeObject, chema, -scalable",
+        "rank_subject": 94029,
+        "rank_answer": 85499,
+        "logit_subject": -0.004791259765625,
+        "logit_answer": -0.003265380859375,
+        "prob_subject": 7.748603820800781e-06,
+        "prob_answer": 7.748603820800781e-06
+    },
+    "1_mlp_out_3": {
+        "token_idx": 3,
+        "tokens": "_PTR, ALT, \ufffd, 740, iena, \u0e27\u0e23\u0e23, gebn, \u0410\u0440\u0445\u0456\u0432,  yan, ya",
+        "rank_subject": 71158,
+        "rank_answer": 68229,
+        "logit_subject": -0.001251220703125,
+        "logit_answer": -0.000659942626953125,
+        "prob_subject": 7.808208465576172e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "1_mlp_out_4": {
+        "token_idx": 4,
+        "tokens": "605, 451, reira, 695, 584, 685, anna, wards, /INFO, eti",
+        "rank_subject": 76114,
+        "rank_answer": 50577,
+        "logit_subject": -0.00156402587890625,
+        "logit_answer": 0.0018463134765625,
+        "prob_subject": 7.808208465576172e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "1_mlp_out_5": {
+        "token_idx": 5,
+        "tokens": "icho, ugins, uffs,  Mile, 'gc, aln\u0131z, \u043e\u043d\u0438, ikal, aldi, yslu",
+        "rank_subject": 119011,
+        "rank_answer": 11337,
+        "logit_subject": -0.01385498046875,
+        "logit_answer": 0.01275634765625,
+        "prob_subject": 7.68899917602539e-06,
+        "prob_answer": 7.867813110351562e-06
+    },
+    "1_mlp_out_6": {
+        "token_idx": 6,
+        "tokens": "\u30eb\u30d5, lexport, _rw, \u03bb\u03bc, \u0000, _SLAVE, \u0447\u0438\u0435, eson, \u0627\u0647\u062f, _titles",
+        "rank_subject": 98048,
+        "rank_answer": 60298,
+        "logit_subject": -0.005340576171875,
+        "logit_answer": 0.000568389892578125,
+        "prob_subject": 7.748603820800781e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "2_attn_out_0": {
+        "token_idx": 0,
+        "tokens": "RESSED, INTR,  migrationBuilder, ContentPane, kova, \u00edn, /***/, \u0430\u0441\u0441\u0438\u0432, :selected, acco",
+        "rank_subject": 92667,
+        "rank_answer": 106239,
+        "logit_subject": -0.0024871826171875,
+        "logit_answer": -0.003997802734375,
+        "prob_subject": 7.748603820800781e-06,
+        "prob_answer": 7.748603820800781e-06
+    },
+    "2_attn_out_1": {
+        "token_idx": 1,
+        "tokens": "/***/, Unchecked, :selected, /******/, .$.,  -*-\r\n, #ad, \u00edn, cobra, _capabilities",
+        "rank_subject": 104695,
+        "rank_answer": 69927,
+        "logit_subject": -0.004547119140625,
+        "logit_answer": -0.000583648681640625,
+        "prob_subject": 7.748603820800781e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "2_attn_out_2": {
+        "token_idx": 2,
+        "tokens": " -*-\r\n, /******/, .$., /***/, ddf, Unchecked, .FLAG, :selected, marshal,  \u043e\u0442\u0434",
+        "rank_subject": 105406,
+        "rank_answer": 55294,
+        "logit_subject": -0.004547119140625,
+        "logit_answer": 0.00079345703125,
+        "prob_subject": 7.748603820800781e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "2_attn_out_3": {
+        "token_idx": 3,
+        "tokens": " -*-\r\n, .caption, INTR, .WinForms, /******/, \uacac, .$., \u043e\u0436\u0435\u0442, Unchecked, marshal",
+        "rank_subject": 94178,
+        "rank_answer": 67568,
+        "logit_subject": -0.0025634765625,
+        "logit_answer": -0.00028228759765625,
+        "prob_subject": 7.748603820800781e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "2_attn_out_4": {
+        "token_idx": 4,
+        "tokens": " -*-\r\n, \\Dependency, \u043e\u0436\u0435\u0442, Unchecked, \u6d01, \\CMS, 'gc, _capabilities, .caption, legen",
+        "rank_subject": 31106,
+        "rank_answer": 14762,
+        "logit_subject": 0.0040283203125,
+        "logit_answer": 0.00701904296875,
+        "prob_subject": 7.808208465576172e-06,
+        "prob_answer": 7.867813110351562e-06
+    },
+    "2_attn_out_5": {
+        "token_idx": 5,
+        "tokens": " -*-\r\n, \u043e\u0436\u0435\u0442, Unchecked, /\r\n, \u0627\u0631\u0629, .dataTables, \u0627\u0631\u0647, avez, \\Dependency, \u0441\u044c\u043e\u0433\u043e",
+        "rank_subject": 65057,
+        "rank_answer": 48043,
+        "logit_subject": -9.870529174804688e-05,
+        "logit_answer": 0.00173187255859375,
+        "prob_subject": 7.808208465576172e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "2_attn_out_6": {
+        "token_idx": 6,
+        "tokens": ".TO, NibName, #ad, #ab, #ac, .gdx, Normals, )frame, Sortable, aru",
+        "rank_subject": 96083,
+        "rank_answer": 47571,
+        "logit_subject": -0.006317138671875,
+        "logit_answer": 0.0029449462890625,
+        "prob_subject": 7.748603820800781e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "2_mlp_out_0": {
+        "token_idx": 0,
+        "tokens": "Forgery, 'gc, Concurrency, \u0686\u06cc, \u06af\u0627\u0646, YPRE, AutoSize, .yy, .bmp, Escort",
+        "rank_subject": 84383,
+        "rank_answer": 22821,
+        "logit_subject": -0.003814697265625,
+        "logit_answer": 0.00860595703125,
+        "prob_subject": 7.748603820800781e-06,
+        "prob_answer": 7.867813110351562e-06
+    },
+    "2_mlp_out_1": {
+        "token_idx": 1,
+        "tokens": "arih,  Ping, \u0131\u015f\u0131k, \u062c\u0627\u0631, opak, irm, \":[{\n, elere, stown,  Andr\u00e9",
+        "rank_subject": 52088,
+        "rank_answer": 37205,
+        "logit_subject": 0.0022735595703125,
+        "logit_answer": 0.005279541015625,
+        "prob_subject": 7.808208465576172e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "2_mlp_out_2": {
+        "token_idx": 2,
+        "tokens": "jd,  od, dec, ippo, tee, dd, es, jon, -o, rus",
+        "rank_subject": 22402,
+        "rank_answer": 5619,
+        "logit_subject": 0.01507568359375,
+        "logit_answer": 0.0281982421875,
+        "prob_subject": 7.927417755126953e-06,
+        "prob_answer": 8.046627044677734e-06
+    },
+    "2_mlp_out_3": {
+        "token_idx": 3,
+        "tokens": "ippo, hoff, etur,  Woodward, .mj, insula,  ell,  Trot, wap, \ufffd",
+        "rank_subject": 14487,
+        "rank_answer": 88367,
+        "logit_subject": 0.0201416015625,
+        "logit_answer": -0.0081787109375,
+        "prob_subject": 7.927417755126953e-06,
+        "prob_answer": 7.748603820800781e-06
+    },
+    "2_mlp_out_4": {
+        "token_idx": 4,
+        "tokens": " bacheca, rier,  Lonely, AFX, \u76ee\u3092, \u043e\u0447\u043d\u043e, asil, \u062e\u0630,  Monthly, arus",
+        "rank_subject": 29399,
+        "rank_answer": 74662,
+        "logit_subject": 0.00848388671875,
+        "logit_answer": -0.0022735595703125,
+        "prob_subject": 7.867813110351562e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "2_mlp_out_5": {
+        "token_idx": 5,
+        "tokens": "\u7a74, \u0440\u0430\u0434\u0438, \u017a, unnable, \u0456\u0454, \ufffd,  semiclass, umann, ABCDEFGHIJKLMNOP,  Ortiz",
+        "rank_subject": 71902,
+        "rank_answer": 15209,
+        "logit_subject": -0.002044677734375,
+        "logit_answer": 0.0162353515625,
+        "prob_subject": 7.808208465576172e-06,
+        "prob_answer": 7.927417755126953e-06
+    },
+    "2_mlp_out_6": {
+        "token_idx": 6,
+        "tokens": "\u0e47\u0e14, Anywhere, \ufffd, elize, rames, paces, latin, FILES, akit, Ipv",
+        "rank_subject": 80010,
+        "rank_answer": 99791,
+        "logit_subject": -0.0030670166015625,
+        "logit_answer": -0.007415771484375,
+        "prob_subject": 7.748603820800781e-06,
+        "prob_answer": 7.748603820800781e-06
+    },
+    "3_attn_out_0": {
+        "token_idx": 0,
+        "tokens": "\u0e32\u0e13, roller, engo, sterol, tas,  fluids, _hr, AAAAAAAA,  baseman, \u7aef",
+        "rank_subject": 8686,
+        "rank_answer": 101305,
+        "logit_subject": 0.00860595703125,
+        "logit_answer": -0.00457763671875,
+        "prob_subject": 7.867813110351562e-06,
+        "prob_answer": 7.748603820800781e-06
+    },
+    "3_attn_out_1": {
+        "token_idx": 1,
+        "tokens": "ogi,  \u043e\u0431\u043e, ivil, elves,  nud, \u044e\u043a, Insets, Enlarge, .pp, iaux",
+        "rank_subject": 9437,
+        "rank_answer": 63086,
+        "logit_subject": 0.00872802734375,
+        "logit_answer": 0.00010919570922851562,
+        "prob_subject": 7.867813110351562e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "3_attn_out_2": {
+        "token_idx": 2,
+        "tokens": "ham, reon, ogi, \u03b4\u03ac,  nud, lest, \u016f, .Green,  Sell,  matched",
+        "rank_subject": 26259,
+        "rank_answer": 28076,
+        "logit_subject": 0.00518798828125,
+        "logit_answer": 0.0048828125,
+        "prob_subject": 7.808208465576172e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "3_attn_out_3": {
+        "token_idx": 3,
+        "tokens": ".partial, \ufffd\ufffd, cales, ilos, olicit, 106, rray, ham, azon, owski",
+        "rank_subject": 112590,
+        "rank_answer": 6971,
+        "logit_subject": -0.01519775390625,
+        "logit_answer": 0.0211181640625,
+        "prob_subject": 7.68899917602539e-06,
+        "prob_answer": 7.987022399902344e-06
+    },
+    "3_attn_out_4": {
+        "token_idx": 4,
+        "tokens": "antro, .partial, etailed, ham, rompt, \ufffd\ufffd, rus, owski,  crim,  Chung",
+        "rank_subject": 32592,
+        "rank_answer": 13962,
+        "logit_subject": 0.00640869140625,
+        "logit_answer": 0.01214599609375,
+        "prob_subject": 7.867813110351562e-06,
+        "prob_answer": 7.867813110351562e-06
+    },
+    "3_attn_out_5": {
+        "token_idx": 5,
+        "tokens": "stial, azzi, \ufffd, eyh, rias, rray, /cop, rv\u00e9, itte, \u0410\u041d",
+        "rank_subject": 55251,
+        "rank_answer": 44630,
+        "logit_subject": 0.00145721435546875,
+        "logit_answer": 0.003326416015625,
+        "prob_subject": 7.808208465576172e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "3_attn_out_6": {
+        "token_idx": 6,
+        "tokens": "INTR, \u0410\u0440\u0445\u0456\u0432, \ufffd,  bordel, jections, \u0131l\u0131\u00e7, \u0e32\u0e01, deaux, RYPTO, bia",
+        "rank_subject": 117290,
+        "rank_answer": 28755,
+        "logit_subject": -0.02392578125,
+        "logit_answer": 0.012939453125,
+        "prob_subject": 7.599592208862305e-06,
+        "prob_answer": 7.867813110351562e-06
+    },
+    "3_mlp_out_0": {
+        "token_idx": 0,
+        "tokens": "'gc, \u093f\u091a, \u0e40\u0e01\u0e29,  erotische, .Accessible, Repositories, -toggler, Printf, UpInside,  crave",
+        "rank_subject": 106662,
+        "rank_answer": 73740,
+        "logit_subject": -0.0115966796875,
+        "logit_answer": -0.0022430419921875,
+        "prob_subject": 7.68899917602539e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "3_mlp_out_1": {
+        "token_idx": 1,
+        "tokens": "'gc, atomy, ahren, inputEmail, .LookAndFeel, .Invariant,  \u5186, efon, macen, \u0e25\u0e32\u0e22",
+        "rank_subject": 57202,
+        "rank_answer": 24379,
+        "logit_subject": 0.0030517578125,
+        "logit_answer": 0.0208740234375,
+        "prob_subject": 7.808208465576172e-06,
+        "prob_answer": 7.987022399902344e-06
+    },
+    "3_mlp_out_2": {
+        "token_idx": 2,
+        "tokens": "\u1ee3, \u0441\u043a\u043b\u0430\u0434,  Cecil, azor,  veter, glyph, .GetProperty,  \u0422\u0443\u0442,  ComVisible, _glyph",
+        "rank_subject": 116379,
+        "rank_answer": 20355,
+        "logit_subject": -0.025146484375,
+        "logit_answer": 0.0186767578125,
+        "prob_subject": 7.599592208862305e-06,
+        "prob_answer": 7.927417755126953e-06
+    },
+    "3_mlp_out_3": {
+        "token_idx": 3,
+        "tokens": "conti, agn, _clk, \u0e14\u0e22, cli, olini, \u043d\u043e\u0441\u0438, :CGPoint, ch\u00e1z, otu",
+        "rank_subject": 55251,
+        "rank_answer": 21864,
+        "logit_subject": 0.004119873046875,
+        "logit_answer": 0.02294921875,
+        "prob_subject": 7.808208465576172e-06,
+        "prob_answer": 7.987022399902344e-06
+    },
+    "3_mlp_out_4": {
+        "token_idx": 4,
+        "tokens": "ucker, \u30ea\u30ab, hem, YPES, ili, aken,  Bras, igung, \u064a\u0643\u064a, alled",
+        "rank_subject": 110058,
+        "rank_answer": 59733,
+        "logit_subject": -0.01904296875,
+        "logit_answer": 0.00145721435546875,
+        "prob_subject": 7.62939453125e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "3_mlp_out_5": {
+        "token_idx": 5,
+        "tokens": "oyer, chyb, \u0e42\u0e22, \u3002\u3002\n\n, ternet, ouser, \u5e73\u65b9, IFn, ute\u010d, isoft",
+        "rank_subject": 119868,
+        "rank_answer": 87435,
+        "logit_subject": -0.0294189453125,
+        "logit_answer": -0.009033203125,
+        "prob_subject": 7.569789886474609e-06,
+        "prob_answer": 7.748603820800781e-06
+    },
+    "3_mlp_out_6": {
+        "token_idx": 6,
+        "tokens": "azard, \u0440\u044c,  viol, burst, est,  Mez,  coax, \u00e1genes, ATAB, alm",
+        "rank_subject": 99441,
+        "rank_answer": 41519,
+        "logit_subject": -0.015625,
+        "logit_answer": 0.0093994140625,
+        "prob_subject": 7.68899917602539e-06,
+        "prob_answer": 7.867813110351562e-06
+    },
+    "4_attn_out_0": {
+        "token_idx": 0,
+        "tokens": "PullParser,  recl, hiba, onas,  lookout, ContentView, @testable, ={\"/, \u00e4s,  tape",
+        "rank_subject": 27805,
+        "rank_answer": 97082,
+        "logit_subject": 0.006195068359375,
+        "logit_answer": -0.0054931640625,
+        "prob_subject": 7.867813110351562e-06,
+        "prob_answer": 7.748603820800781e-06
+    },
+    "4_attn_out_1": {
+        "token_idx": 1,
+        "tokens": "allet, .PerformLayout, ving, inke, \u00a0mph, \ufffd, .tk, \u0645\u062d, \ufffd\ufffd, .ogg",
+        "rank_subject": 38018,
+        "rank_answer": 87056,
+        "logit_subject": 0.004608154296875,
+        "logit_answer": -0.004150390625,
+        "prob_subject": 7.808208465576172e-06,
+        "prob_answer": 7.748603820800781e-06
+    },
+    "4_attn_out_2": {
+        "token_idx": 2,
+        "tokens": " \ufffd, PackageName,  brisk, aggi, ering, \u0443\u0448\u043a\u0438, inke, ernes, .minute, .nt",
+        "rank_subject": 51477,
+        "rank_answer": 93283,
+        "logit_subject": 0.00188446044921875,
+        "logit_answer": -0.004608154296875,
+        "prob_subject": 7.808208465576172e-06,
+        "prob_answer": 7.748603820800781e-06
+    },
+    "4_attn_out_3": {
+        "token_idx": 3,
+        "tokens": " brisk,  Gift, ernel, \u30fc\u30c4,  scissors, Gift,  Tap,  intellig,  \ufffd, .kr",
+        "rank_subject": 42995,
+        "rank_answer": 8544,
+        "logit_subject": 0.00457763671875,
+        "logit_answer": 0.0164794921875,
+        "prob_subject": 7.808208465576172e-06,
+        "prob_answer": 7.927417755126953e-06
+    },
+    "4_attn_out_4": {
+        "token_idx": 4,
+        "tokens": ".TestTools,  -*-\r\n, \u0442\u0440\u043e, engo, Berry, achuset,  H\ufffd, idget, \u53f8, .Face",
+        "rank_subject": 67781,
+        "rank_answer": 4654,
+        "logit_subject": -0.00091552734375,
+        "logit_answer": 0.0220947265625,
+        "prob_subject": 7.808208465576172e-06,
+        "prob_answer": 7.987022399902344e-06
+    },
+    "4_attn_out_5": {
+        "token_idx": 5,
+        "tokens": ".onDestroy, .PerformLayout, aversable, ennis, .onResume, acket, quette, sson, idget,  grate",
+        "rank_subject": 112474,
+        "rank_answer": 88900,
+        "logit_subject": -0.00970458984375,
+        "logit_answer": -0.004180908203125,
+        "prob_subject": 7.748603820800781e-06,
+        "prob_answer": 7.748603820800781e-06
+    },
+    "4_attn_out_6": {
+        "token_idx": 6,
+        "tokens": "\uff9f, \u7d50, 'gc, Wunused, uncture, \u7ed3, .LayoutStyle, Disposition, _DIP, _rq",
+        "rank_subject": 119600,
+        "rank_answer": 99170,
+        "logit_subject": -0.0262451171875,
+        "logit_answer": -0.01312255859375,
+        "prob_subject": 7.599592208862305e-06,
+        "prob_answer": 7.68899917602539e-06
+    },
+    "4_mlp_out_0": {
+        "token_idx": 0,
+        "tokens": "\u00a0,  ,  completely,  bree,  ., \u043e\u0441\u0443\u0434, IntArray,  hel,  equ,  even",
+        "rank_subject": 17835,
+        "rank_answer": 11366,
+        "logit_subject": 0.01226806640625,
+        "logit_answer": 0.015380859375,
+        "prob_subject": 7.867813110351562e-06,
+        "prob_answer": 7.927417755126953e-06
+    },
+    "4_mlp_out_1": {
+        "token_idx": 1,
+        "tokens": ".Reporting, \u043e\u0436\u0435\u0442, cxx, 'gc, .protobuf, \u1ea3, -toggler, AVAILABLE, \\Dependency, uci",
+        "rank_subject": 126714,
+        "rank_answer": 8059,
+        "logit_subject": -0.047119140625,
+        "logit_answer": 0.0322265625,
+        "prob_subject": 7.450580596923828e-06,
+        "prob_answer": 8.046627044677734e-06
+    },
+    "4_mlp_out_2": {
+        "token_idx": 2,
+        "tokens": "iddet, ACHI, (=), cio, elters, Deferred,  Tato, \uc5c7, landers,  Tyto",
+        "rank_subject": 26080,
+        "rank_answer": 26642,
+        "logit_subject": 0.0213623046875,
+        "logit_answer": 0.02099609375,
+        "prob_subject": 7.987022399902344e-06,
+        "prob_answer": 7.987022399902344e-06
+    },
+    "4_mlp_out_3": {
+        "token_idx": 3,
+        "tokens": "tober, .Generated, ael, UGH, ACHI, ADDE, rians, \u0e32\u0e0d, \u1edbi,  Nab",
+        "rank_subject": 20445,
+        "rank_answer": 47563,
+        "logit_subject": 0.02734375,
+        "logit_answer": 0.0089111328125,
+        "prob_subject": 7.987022399902344e-06,
+        "prob_answer": 7.867813110351562e-06
+    },
+    "4_mlp_out_4": {
+        "token_idx": 4,
+        "tokens": "\u043e\u0431\u043e\u0432, cott, ttp, \u0169i, _Ptr, ceptar,  \ufffd, \u0e40\u0e1e\u0e25, gio, rox",
+        "rank_subject": 26473,
+        "rank_answer": 106878,
+        "logit_subject": 0.01507568359375,
+        "logit_answer": -0.0181884765625,
+        "prob_subject": 7.927417755126953e-06,
+        "prob_answer": 7.62939453125e-06
+    },
+    "4_mlp_out_5": {
+        "token_idx": 5,
+        "tokens": ".scalablytyped, /WebAPI, #ac, \u043e\u0431\u043e\u0432, \u6255, \u00fcn, \u3088,  Gladiator, .tif, axon",
+        "rank_subject": 73136,
+        "rank_answer": 2607,
+        "logit_subject": -0.003692626953125,
+        "logit_answer": 0.044189453125,
+        "prob_subject": 7.748603820800781e-06,
+        "prob_answer": 8.165836334228516e-06
+    },
+    "4_mlp_out_6": {
+        "token_idx": 6,
+        "tokens": " Lau, nen,  Tatto, \u0633\u0627\u0633,  late,  \u0441\u043e\u0441\u0442, _MR,  Ton,  asset, _pointer",
+        "rank_subject": 3518,
+        "rank_answer": 92910,
+        "logit_subject": 0.0556640625,
+        "logit_answer": -0.0164794921875,
+        "prob_subject": 8.225440979003906e-06,
+        "prob_answer": 7.68899917602539e-06
+    },
+    "5_attn_out_0": {
+        "token_idx": 0,
+        "tokens": " Porter, ham, hlas, efa, \u044a, \u5bbf, /pkg, assertInstanceOf,  und,  i",
+        "rank_subject": 19924,
+        "rank_answer": 81672,
+        "logit_subject": 0.009765625,
+        "logit_answer": -0.0032806396484375,
+        "prob_subject": 7.867813110351562e-06,
+        "prob_answer": 7.748603820800781e-06
+    },
+    "5_attn_out_1": {
+        "token_idx": 1,
+        "tokens": " fragile,  Porter, ham, ystone, elsing, pector, \u5bbf, PRETTY,  here, ered",
+        "rank_subject": 13021,
+        "rank_answer": 76244,
+        "logit_subject": 0.0111083984375,
+        "logit_answer": -0.0019683837890625,
+        "prob_subject": 7.867813110351562e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "5_attn_out_2": {
+        "token_idx": 2,
+        "tokens": " Porter,  fragile, \u5bbf, ered, pector, tru,  here, atcher, elsing,  ser",
+        "rank_subject": 10678,
+        "rank_answer": 68177,
+        "logit_subject": 0.01141357421875,
+        "logit_answer": -0.00055694580078125,
+        "prob_subject": 7.867813110351562e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "5_attn_out_3": {
+        "token_idx": 3,
+        "tokens": "agher, elsing, ered, \u5bbf, /pkg, tru,  Porter, atcher, \\Traits, WEBPACK",
+        "rank_subject": 18661,
+        "rank_answer": 80686,
+        "logit_subject": 0.00848388671875,
+        "logit_answer": -0.002593994140625,
+        "prob_subject": 7.867813110351562e-06,
+        "prob_answer": 7.748603820800781e-06
+    },
+    "5_attn_out_4": {
+        "token_idx": 4,
+        "tokens": "readcr, \u00f4ng,  summers, venience, olet, \u03bf\u03c5\u03bb, INCREMENT, ynet, ellas, orex",
+        "rank_subject": 12820,
+        "rank_answer": 23889,
+        "logit_subject": 0.0126953125,
+        "logit_answer": 0.00872802734375,
+        "prob_subject": 7.867813110351562e-06,
+        "prob_answer": 7.867813110351562e-06
+    },
+    "5_attn_out_5": {
+        "token_idx": 5,
+        "tokens": "ippi, kaar,  Stanley, beeld, orex,  pur, ering, \u043e\u0433\u0440\u0430\u0434, peaker, _GRP",
+        "rank_subject": 13363,
+        "rank_answer": 20413,
+        "logit_subject": 0.0140380859375,
+        "logit_answer": 0.01104736328125,
+        "prob_subject": 7.927417755126953e-06,
+        "prob_answer": 7.867813110351562e-06
+    },
+    "5_attn_out_6": {
+        "token_idx": 6,
+        "tokens": "\u03bf\u03c5\u03bb, agher, \u5bbf, IService, \u58eb, urger, _FORE,  Zem,  shaft,  summers",
+        "rank_subject": 59041,
+        "rank_answer": 37865,
+        "logit_subject": 0.000911712646484375,
+        "logit_answer": 0.005279541015625,
+        "prob_subject": 7.808208465576172e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "5_mlp_out_0": {
+        "token_idx": 0,
+        "tokens": " , #ad,  (,  erect, \u00a0, ForRow,  prudent,  applaud,  magically,  cripp",
+        "rank_subject": 31547,
+        "rank_answer": 26062,
+        "logit_subject": 0.00927734375,
+        "logit_answer": 0.01129150390625,
+        "prob_subject": 7.867813110351562e-06,
+        "prob_answer": 7.867813110351562e-06
+    },
+    "5_mlp_out_1": {
+        "token_idx": 1,
+        "tokens": "erot, kil, \u0440\u0438\u043d, ISR, .lin, '||, 'gc, elerik, _mD, Wil",
+        "rank_subject": 124239,
+        "rank_answer": 46473,
+        "logit_subject": -0.033203125,
+        "logit_answer": 0.0059814453125,
+        "prob_subject": 7.539987564086914e-06,
+        "prob_answer": 7.867813110351562e-06
+    },
+    "5_mlp_out_2": {
+        "token_idx": 2,
+        "tokens": "enze, \u82b3, .TableLayoutPanel, $$$$, zed,  Glob,  RegExp, enty,  SEG, vik",
+        "rank_subject": 40030,
+        "rank_answer": 1124,
+        "logit_subject": 0.0128173828125,
+        "logit_answer": 0.06494140625,
+        "prob_subject": 7.867813110351562e-06,
+        "prob_answer": 8.344650268554688e-06
+    },
+    "5_mlp_out_3": {
+        "token_idx": 3,
+        "tokens": ".Orientation, Tweet, $$$$,  K\u0131s, ucz, iqu\u00e9, ding, ois, fty, \u0446\u0438\u043d",
+        "rank_subject": 115650,
+        "rank_answer": 82084,
+        "logit_subject": -0.03759765625,
+        "logit_answer": -0.0103759765625,
+        "prob_subject": 7.510185241699219e-06,
+        "prob_answer": 7.68899917602539e-06
+    },
+    "5_mlp_out_4": {
+        "token_idx": 4,
+        "tokens": "WEEN, Sharper, .glide, meni, Tween, \u5e73\u6210, preneur, ial, \u8c6a, ailable",
+        "rank_subject": 20535,
+        "rank_answer": 60850,
+        "logit_subject": 0.0257568359375,
+        "logit_answer": 0.00174713134765625,
+        "prob_subject": 7.987022399902344e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "5_mlp_out_5": {
+        "token_idx": 5,
+        "tokens": " addCriterion, uso, \u30c3\u30d7, isoft, seniz, ACL, usal, ussy,  tolua,  c\u00e9lib",
+        "rank_subject": 78568,
+        "rank_answer": 39408,
+        "logit_subject": -0.00836181640625,
+        "logit_answer": 0.014892578125,
+        "prob_subject": 7.748603820800781e-06,
+        "prob_answer": 7.927417755126953e-06
+    },
+    "5_mlp_out_6": {
+        "token_idx": 6,
+        "tokens": "es, m\u00ed, \u043b\u0430\u0447, bes, ampion, \u1eebng, \u1ed9ng,  nIndex,  gros,  Flags",
+        "rank_subject": 12848,
+        "rank_answer": 35561,
+        "logit_subject": 0.035888671875,
+        "logit_answer": 0.016357421875,
+        "prob_subject": 8.106231689453125e-06,
+        "prob_answer": 7.927417755126953e-06
+    },
+    "6_attn_out_0": {
+        "token_idx": 0,
+        "tokens": "\u00e4s,  Hollow,  Primitive, olet, ajs,  gut, cela, lescope,  pitch, allet",
+        "rank_subject": 43619,
+        "rank_answer": 30145,
+        "logit_subject": 0.004302978515625,
+        "logit_answer": 0.00762939453125,
+        "prob_subject": 7.808208465576172e-06,
+        "prob_answer": 7.867813110351562e-06
+    },
+    "6_attn_out_1": {
+        "token_idx": 1,
+        "tokens": "\u00e9sz,  Primitive, ionales, asurer, lescope, rani, ?family, ergus, CloseOperation, .showMessageDialog",
+        "rank_subject": 86574,
+        "rank_answer": 28958,
+        "logit_subject": -0.004425048828125,
+        "logit_answer": 0.00714111328125,
+        "prob_subject": 7.748603820800781e-06,
+        "prob_answer": 7.867813110351562e-06
+    },
+    "6_attn_out_2": {
+        "token_idx": 2,
+        "tokens": "kest,  gut, ulla, lingen, laden,  habit,  Ji\u0159\u00ed, ondo, \u00e4s, ernen",
+        "rank_subject": 43972,
+        "rank_answer": 25897,
+        "logit_subject": 0.004180908203125,
+        "logit_answer": 0.0086669921875,
+        "prob_subject": 7.808208465576172e-06,
+        "prob_answer": 7.867813110351562e-06
+    },
+    "6_attn_out_3": {
+        "token_idx": 3,
+        "tokens": "llib, pector, ulum, _TC, \u0633\u062a\u0627\u0646,  Ji\u0159\u00ed, ondo, \u03ad\u03b1\u03c2,  Laur,  hala",
+        "rank_subject": 46542,
+        "rank_answer": 5360,
+        "logit_subject": 0.003936767578125,
+        "logit_answer": 0.0198974609375,
+        "prob_subject": 7.808208465576172e-06,
+        "prob_answer": 7.927417755126953e-06
+    },
+    "6_attn_out_4": {
+        "token_idx": 4,
+        "tokens": "affen, rompt,  vend, emin, oston, addtogroup, \u0633\u0647, atial,  Gor, llib",
+        "rank_subject": 49990,
+        "rank_answer": 16097,
+        "logit_subject": 0.004425048828125,
+        "logit_answer": 0.0186767578125,
+        "prob_subject": 7.808208465576172e-06,
+        "prob_answer": 7.927417755126953e-06
+    },
+    "6_attn_out_5": {
+        "token_idx": 5,
+        "tokens": "ippy,  Gor,  Mil, rompt,  mil,  map, 407, affen,  Shel,  Flores",
+        "rank_subject": 35511,
+        "rank_answer": 45312,
+        "logit_subject": 0.008544921875,
+        "logit_answer": 0.005401611328125,
+        "prob_subject": 7.867813110351562e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "6_attn_out_6": {
+        "token_idx": 6,
+        "tokens": "ungan, \u03ad\u03b1\u03c2,  mil, @student,  Cran, ogn, \ufffd,  Milan, ickey, \u03c1\u03b9\u03ac",
+        "rank_subject": 71696,
+        "rank_answer": 30212,
+        "logit_subject": -0.0016326904296875,
+        "logit_answer": 0.00823974609375,
+        "prob_subject": 7.808208465576172e-06,
+        "prob_answer": 7.867813110351562e-06
+    },
+    "6_mlp_out_0": {
+        "token_idx": 0,
+        "tokens": " , \u00a0,  (,  l,  \",  *, -prepend, \u010f,  j,  b",
+        "rank_subject": 30044,
+        "rank_answer": 21164,
+        "logit_subject": 0.01031494140625,
+        "logit_answer": 0.0140380859375,
+        "prob_subject": 7.867813110351562e-06,
+        "prob_answer": 7.927417755126953e-06
+    },
+    "6_mlp_out_1": {
+        "token_idx": 1,
+        "tokens": "STYPE, 'gc, VERTISE, lisi,  eskort, -toggler, \u0642\u0627\u0645,  \ud83d\ude09\n\n, .SizeType, \u01af\ufffd",
+        "rank_subject": 109918,
+        "rank_answer": 76051,
+        "logit_subject": -0.0264892578125,
+        "logit_answer": -0.006072998046875,
+        "prob_subject": 7.599592208862305e-06,
+        "prob_answer": 7.748603820800781e-06
+    },
+    "6_mlp_out_2": {
+        "token_idx": 2,
+        "tokens": "\u0161t, \u0449\u0435, ABL, /compiler, VRT, \u03bb\u03bf\u03b3, \u043e\u0440\u0430\u043b\u044c, ADM, \u00e4hr, ckeditor",
+        "rank_subject": 119325,
+        "rank_answer": 55314,
+        "logit_subject": -0.047119140625,
+        "logit_answer": 0.005218505859375,
+        "prob_subject": 7.420778274536133e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "6_mlp_out_3": {
+        "token_idx": 3,
+        "tokens": "\u0161t\u011b, abez, amar, .openg, letics, ostel, _theme, //{{, ecz,  meiden",
+        "rank_subject": 90178,
+        "rank_answer": 88402,
+        "logit_subject": -0.017578125,
+        "logit_answer": -0.0162353515625,
+        "prob_subject": 7.62939453125e-06,
+        "prob_answer": 7.68899917602539e-06
+    },
+    "6_mlp_out_4": {
+        "token_idx": 4,
+        "tokens": "cy,  octave, ards, iza,  compat, czy, WARDED, eil, hek, 680",
+        "rank_subject": 121653,
+        "rank_answer": 123588,
+        "logit_subject": -0.046630859375,
+        "logit_answer": -0.051513671875,
+        "prob_subject": 7.450580596923828e-06,
+        "prob_answer": 7.3909759521484375e-06
+    },
+    "6_mlp_out_5": {
+        "token_idx": 5,
+        "tokens": "#ad, #ac, #af, >tag, \u043e\u043c\u0435\u0440, KF, 'gc, //{{, uito, Charsets",
+        "rank_subject": 127045,
+        "rank_answer": 55716,
+        "logit_subject": -0.0810546875,
+        "logit_answer": 0.005462646484375,
+        "prob_subject": 7.18235969543457e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "6_mlp_out_6": {
+        "token_idx": 6,
+        "tokens": "sled, .Pattern, letics, entar,  Scatter,  W, \u0686\u06cc, quist,  gratuits, xfff",
+        "rank_subject": 42406,
+        "rank_answer": 27875,
+        "logit_subject": 0.013916015625,
+        "logit_answer": 0.0250244140625,
+        "prob_subject": 7.927417755126953e-06,
+        "prob_answer": 7.987022399902344e-06
+    },
+    "7_attn_out_0": {
+        "token_idx": 0,
+        "tokens": " resc,  Trilogy, itals, rawtypes, Browsable, kaar, r\u00e1,  sel, BarButtonItem,  Spiral",
+        "rank_subject": 23216,
+        "rank_answer": 69401,
+        "logit_subject": 0.0128173828125,
+        "logit_answer": -0.00147247314453125,
+        "prob_subject": 7.867813110351562e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "7_attn_out_1": {
+        "token_idx": 1,
+        "tokens": " Spiral, kaar,  Tradable, ;element,  videos, .setPrototypeOf,  RoundedRectangle,  spiral, ety, r\u00e1",
+        "rank_subject": 27972,
+        "rank_answer": 46003,
+        "logit_subject": 0.01043701171875,
+        "logit_answer": 0.004913330078125,
+        "prob_subject": 7.867813110351562e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "7_attn_out_2": {
+        "token_idx": 2,
+        "tokens": "oor, _fixture, edor, XmlElement,  apart, ety,  Griffin,  Hurt, uth,  Trilogy",
+        "rank_subject": 10773,
+        "rank_answer": 46764,
+        "logit_subject": 0.01806640625,
+        "logit_answer": 0.004608154296875,
+        "prob_subject": 7.927417755126953e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "7_attn_out_3": {
+        "token_idx": 3,
+        "tokens": "antal, oor, \u2026\n, sons, edor, \u2014a, ...\n, ehr,  lit, tru",
+        "rank_subject": 8978,
+        "rank_answer": 61350,
+        "logit_subject": 0.022216796875,
+        "logit_answer": 0.000934600830078125,
+        "prob_subject": 7.987022399902344e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "7_attn_out_4": {
+        "token_idx": 4,
+        "tokens": "kre,  Slack,  portion,  int, uche, erah, velle, braco,  com,  mess",
+        "rank_subject": 4243,
+        "rank_answer": 79116,
+        "logit_subject": 0.042236328125,
+        "logit_answer": -0.006591796875,
+        "prob_subject": 8.106231689453125e-06,
+        "prob_answer": 7.748603820800781e-06
+    },
+    "7_attn_out_5": {
+        "token_idx": 5,
+        "tokens": ",...\n, \u2026and, velle, \u2026\n, \u2026the, ...\"\n, \u2026but, \u2026it, \u2026\n\n,  mixed",
+        "rank_subject": 7977,
+        "rank_answer": 80052,
+        "logit_subject": 0.02734375,
+        "logit_answer": -0.00555419921875,
+        "prob_subject": 7.987022399902344e-06,
+        "prob_answer": 7.748603820800781e-06
+    },
+    "7_attn_out_6": {
+        "token_idx": 6,
+        "tokens": " Benton, readcr, oor, orra, obox, beeld, .land, otte, Uvs,  immunity",
+        "rank_subject": 100709,
+        "rank_answer": 96386,
+        "logit_subject": -0.01416015625,
+        "logit_answer": -0.01214599609375,
+        "prob_subject": 7.68899917602539e-06,
+        "prob_answer": 7.68899917602539e-06
+    },
+    "7_mlp_out_0": {
+        "token_idx": 0,
+        "tokens": " , UpInside, Invariant, weit, \u00a0,  (, 'gc,  applauded,  swore, specialchars",
+        "rank_subject": 45645,
+        "rank_answer": 15822,
+        "logit_subject": 0.006011962890625,
+        "logit_answer": 0.01953125,
+        "prob_subject": 7.867813110351562e-06,
+        "prob_answer": 7.927417755126953e-06
+    },
+    "7_mlp_out_1": {
+        "token_idx": 1,
+        "tokens": "inas, uali, osate,  ============================================================================\n,  TMPro, wig, isto,  chin,  Nolan, _ATOM",
+        "rank_subject": 8311,
+        "rank_answer": 8528,
+        "logit_subject": 0.07421875,
+        "logit_answer": 0.07373046875,
+        "prob_subject": 8.404254913330078e-06,
+        "prob_answer": 8.404254913330078e-06
+    },
+    "7_mlp_out_2": {
+        "token_idx": 2,
+        "tokens": "\u1ed1c, pai, weeney, odate, FileInfo, ipi,  ******************************************************************************\n,  redistribute, nict, tainment",
+        "rank_subject": 124953,
+        "rank_answer": 28088,
+        "logit_subject": -0.0576171875,
+        "logit_answer": 0.0220947265625,
+        "prob_subject": 7.361173629760742e-06,
+        "prob_answer": 7.987022399902344e-06
+    },
+    "7_mlp_out_3": {
+        "token_idx": 3,
+        "tokens": "\u3061\u306f, UED, UME, lav, \u043b\u0430\u0432, _TD,  INCIDENT,  woll, elon, emons",
+        "rank_subject": 122661,
+        "rank_answer": 37260,
+        "logit_subject": -0.054443359375,
+        "logit_answer": 0.0169677734375,
+        "prob_subject": 7.3909759521484375e-06,
+        "prob_answer": 7.927417755126953e-06
+    },
+    "7_mlp_out_4": {
+        "token_idx": 4,
+        "tokens": "\ufffd\ufffd,  \ufffd, hend, \u0131ma, \u0433\u0430\u043b\u0456, \u00d7\n\n, Skin, \u30ea\u30fc\u30ba, (LP, \u307b\u3046",
+        "rank_subject": 26727,
+        "rank_answer": 67821,
+        "logit_subject": 0.0255126953125,
+        "logit_answer": -0.00189208984375,
+        "prob_subject": 7.987022399902344e-06,
+        "prob_answer": 7.748603820800781e-06
+    },
+    "7_mlp_out_5": {
+        "token_idx": 5,
+        "tokens": "LAR, \u6cf3, oggler, /***/, 'gc, \u03c4\u03b9\u03ba, vang, \u574a, HEMA, chop",
+        "rank_subject": 85226,
+        "rank_answer": 3107,
+        "logit_subject": -0.012939453125,
+        "logit_answer": 0.062255859375,
+        "prob_subject": 7.68899917602539e-06,
+        "prob_answer": 8.285045623779297e-06
+    },
+    "7_mlp_out_6": {
+        "token_idx": 6,
+        "tokens": "PTY, .getCurrentUser, rog,  Nationwide, .GraphicsUnit, ailer, _chip, _RENDER,  Favor, uggest",
+        "rank_subject": 103128,
+        "rank_answer": 37871,
+        "logit_subject": -0.02587890625,
+        "logit_answer": 0.01611328125,
+        "prob_subject": 7.599592208862305e-06,
+        "prob_answer": 7.927417755126953e-06
+    },
+    "8_attn_out_0": {
+        "token_idx": 0,
+        "tokens": " Ron, pos, umble, burgh,  Neh, alla,  Kar, alsy, burg, \u0648\u0627\u0621",
+        "rank_subject": 14447,
+        "rank_answer": 37338,
+        "logit_subject": 0.016357421875,
+        "logit_answer": 0.007476806640625,
+        "prob_subject": 7.927417755126953e-06,
+        "prob_answer": 7.867813110351562e-06
+    },
+    "8_attn_out_1": {
+        "token_idx": 1,
+        "tokens": "\u0648\u0627\u0621, ,...\n, bjerg,  Amateur, aravel, itur, i\u0119,  Straw, incl, rend",
+        "rank_subject": 31619,
+        "rank_answer": 96162,
+        "logit_subject": 0.00994873046875,
+        "logit_answer": -0.009765625,
+        "prob_subject": 7.867813110351562e-06,
+        "prob_answer": 7.748603820800781e-06
+    },
+    "8_attn_out_2": {
+        "token_idx": 2,
+        "tokens": "\u2026\n, ,...\n, bjerg, cha, pos, !!\n, vette, 220, ..\n, ,\u2026",
+        "rank_subject": 9779,
+        "rank_answer": 50411,
+        "logit_subject": 0.0185546875,
+        "logit_answer": 0.0035247802734375,
+        "prob_subject": 7.927417755126953e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "8_attn_out_3": {
+        "token_idx": 3,
+        "tokens": "ollah, ,...\n, vette, estre, omanip, cha,  ActionTypes, \u2026\n,  Himself, 220",
+        "rank_subject": 4314,
+        "rank_answer": 42462,
+        "logit_subject": 0.024658203125,
+        "logit_answer": 0.005859375,
+        "prob_subject": 7.987022399902344e-06,
+        "prob_answer": 7.867813110351562e-06
+    },
+    "8_attn_out_4": {
+        "token_idx": 4,
+        "tokens": "lech, oggle, \u2026\n, ayment,  \u2014\n, antasy, Transform, ramer, ,...\n, ..\n",
+        "rank_subject": 20982,
+        "rank_answer": 15086,
+        "logit_subject": 0.0157470703125,
+        "logit_answer": 0.019287109375,
+        "prob_subject": 7.927417755126953e-06,
+        "prob_answer": 7.927417755126953e-06
+    },
+    "8_attn_out_5": {
+        "token_idx": 5,
+        "tokens": "\u2026\n, \u2026and, \u2026, \u2026\u201d, \u2026but, \u2026., ,...\n, ,\u2026, \u2026\", \u2026I",
+        "rank_subject": 5631,
+        "rank_answer": 69488,
+        "logit_subject": 0.03759765625,
+        "logit_answer": -0.0022125244140625,
+        "prob_subject": 8.106231689453125e-06,
+        "prob_answer": 7.748603820800781e-06
+    },
+    "8_attn_out_6": {
+        "token_idx": 6,
+        "tokens": "cha, ,...\n, nat, crest, endir, ixture,  Fet, ehr, z\u0119, petto",
+        "rank_subject": 66238,
+        "rank_answer": 29656,
+        "logit_subject": -0.0007476806640625,
+        "logit_answer": 0.0115966796875,
+        "prob_subject": 7.808208465576172e-06,
+        "prob_answer": 7.867813110351562e-06
+    },
+    "8_mlp_out_0": {
+        "token_idx": 0,
+        "tokens": " , \u00a0,  *,  (,  humble,  kne,  .,  faint,  y,  pur",
+        "rank_subject": 68928,
+        "rank_answer": 54678,
+        "logit_subject": -0.0013427734375,
+        "logit_answer": 0.002471923828125,
+        "prob_subject": 7.808208465576172e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "8_mlp_out_1": {
+        "token_idx": 1,
+        "tokens": "_NONNULL,  -*-\r\n, upal, FOUNDATION, \ufffd, \u0648\u067e, fcc, Frameworks, .Accessible, \ub17c",
+        "rank_subject": 95064,
+        "rank_answer": 6376,
+        "logit_subject": -0.0206298828125,
+        "logit_answer": 0.053466796875,
+        "prob_subject": 7.62939453125e-06,
+        "prob_answer": 8.225440979003906e-06
+    },
+    "8_mlp_out_2": {
+        "token_idx": 2,
+        "tokens": "\u1ed3, .Accessible,  mastur,  Pu,  Klan, \u093e\u0917\u0924, \u00e0n, \u0435\u043a\u0443, .getFont, BITS",
+        "rank_subject": 52843,
+        "rank_answer": 47403,
+        "logit_subject": 0.006500244140625,
+        "logit_answer": 0.009765625,
+        "prob_subject": 7.867813110351562e-06,
+        "prob_answer": 7.867813110351562e-06
+    },
+    "8_mlp_out_3": {
+        "token_idx": 3,
+        "tokens": "usercontent, 'gc, l\u00e9d, \u0e41\u0e2b\u0e19, \u6b8a, .bridge,  infiltr,  BITS, ORITY, Bias",
+        "rank_subject": 103150,
+        "rank_answer": 112258,
+        "logit_subject": -0.0294189453125,
+        "logit_answer": -0.03955078125,
+        "prob_subject": 7.569789886474609e-06,
+        "prob_answer": 7.4803829193115234e-06
+    },
+    "8_mlp_out_4": {
+        "token_idx": 4,
+        "tokens": "//{{, iaux, LAG, )did, @brief,  servisi, \u0441\u0442\u0432\u043e\u0440, -alist, oux, _EMIT",
+        "rank_subject": 126623,
+        "rank_answer": 66522,
+        "logit_subject": -0.07080078125,
+        "logit_answer": -0.00152587890625,
+        "prob_subject": 7.271766662597656e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "8_mlp_out_5": {
+        "token_idx": 5,
+        "tokens": "Touches, nun, mint, lamaz, \ud2b9\ubcc4,  sor, /***/, KHTML, Pawn, markup",
+        "rank_subject": 65396,
+        "rank_answer": 30675,
+        "logit_subject": -0.00081634521484375,
+        "logit_answer": 0.01904296875,
+        "prob_subject": 7.808208465576172e-06,
+        "prob_answer": 7.927417755126953e-06
+    },
+    "8_mlp_out_6": {
+        "token_idx": 6,
+        "tokens": "'gc, #ad,  garn,  nest, isci, _vlog, ollower, erece, ares,  -*-\r\n",
+        "rank_subject": 57726,
+        "rank_answer": 28479,
+        "logit_subject": 0.00421142578125,
+        "logit_answer": 0.0267333984375,
+        "prob_subject": 7.808208465576172e-06,
+        "prob_answer": 7.987022399902344e-06
+    },
+    "9_attn_out_0": {
+        "token_idx": 0,
+        "tokens": "ucas,  Carp, ee, zo, ucci, sey, addock, \u00f6, ENA, idual",
+        "rank_subject": 82984,
+        "rank_answer": 116497,
+        "logit_subject": -0.005157470703125,
+        "logit_answer": -0.0189208984375,
+        "prob_subject": 7.748603820800781e-06,
+        "prob_answer": 7.62939453125e-06
+    },
+    "9_attn_out_1": {
+        "token_idx": 1,
+        "tokens": "\u2026\n, \u2026\u201d,  \u2026\n, \u2026, \u2026), \u4e16, \u2026\n\n, jian, fin,  \u201e",
+        "rank_subject": 48458,
+        "rank_answer": 76627,
+        "logit_subject": 0.004058837890625,
+        "logit_answer": -0.003082275390625,
+        "prob_subject": 7.808208465576172e-06,
+        "prob_answer": 7.748603820800781e-06
+    },
+    "9_attn_out_2": {
+        "token_idx": 2,
+        "tokens": "\u2026\n, \u2026\u201d, \u2026, sey,  \u2026\n, \u2026\n\n, ucci,  ona, jian, \u2026)",
+        "rank_subject": 61835,
+        "rank_answer": 111075,
+        "logit_subject": 0.000583648681640625,
+        "logit_answer": -0.01458740234375,
+        "prob_subject": 7.808208465576172e-06,
+        "prob_answer": 7.68899917602539e-06
+    },
+    "9_attn_out_3": {
+        "token_idx": 3,
+        "tokens": "\u2026\n, \u2026\u201d, \u2026,  \u2026\n, \u2026\n\n, ...\n,  [\u2026]\n, \u2026and, ,...\n, \u2014",
+        "rank_subject": 57006,
+        "rank_answer": 87976,
+        "logit_subject": 0.002349853515625,
+        "logit_answer": -0.007568359375,
+        "prob_subject": 7.808208465576172e-06,
+        "prob_answer": 7.748603820800781e-06
+    },
+    "9_attn_out_4": {
+        "token_idx": 4,
+        "tokens": " \u201c, rap,  Mc, ,,  of,  in,  on,  civil, a,  a",
+        "rank_subject": 2826,
+        "rank_answer": 26389,
+        "logit_subject": 0.04345703125,
+        "logit_answer": 0.0169677734375,
+        "prob_subject": 8.165836334228516e-06,
+        "prob_answer": 7.927417755126953e-06
+    },
+    "9_attn_out_5": {
+        "token_idx": 5,
+        "tokens": "\u2026\n, \u2026\u201d, ,...\n, anou, \u2026, ,,  \u2026\n,  [\u2026]\n,  \u201c, \u2026and",
+        "rank_subject": 1870,
+        "rank_answer": 57425,
+        "logit_subject": 0.0458984375,
+        "logit_answer": 0.0024261474609375,
+        "prob_subject": 8.165836334228516e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "9_attn_out_6": {
+        "token_idx": 6,
+        "tokens": "\u2026\n, \u2026\u201d, \u2026, \u2026\u2026, \u2026and,  \u2026\n, \u2026but,  [\u2026]\n, x, \u2026.",
+        "rank_subject": 49886,
+        "rank_answer": 123112,
+        "logit_subject": 0.00567626953125,
+        "logit_answer": -0.035888671875,
+        "prob_subject": 7.867813110351562e-06,
+        "prob_answer": 7.510185241699219e-06
+    },
+    "9_mlp_out_0": {
+        "token_idx": 0,
+        "tokens": " , bart, \u00a0, kie,  sop, ie, ls,  rep, bing, heim",
+        "rank_subject": 47657,
+        "rank_answer": 41812,
+        "logit_subject": 0.0032806396484375,
+        "logit_answer": 0.0045166015625,
+        "prob_subject": 7.808208465576172e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "9_mlp_out_1": {
+        "token_idx": 1,
+        "tokens": "eka, urtle, ToWorld, osit,  Gol, \u0e34\u0e15, WithPath, agram, 749, \u06cc\u0641",
+        "rank_subject": 112586,
+        "rank_answer": 92158,
+        "logit_subject": -0.0262451171875,
+        "logit_answer": -0.01287841796875,
+        "prob_subject": 7.599592208862305e-06,
+        "prob_answer": 7.68899917602539e-06
+    },
+    "9_mlp_out_2": {
+        "token_idx": 2,
+        "tokens": "icht, inel,  gad, imdi,  XM, COPY, \u9ed8,  MATRIX, =\".$_, aml",
+        "rank_subject": 74842,
+        "rank_answer": 109041,
+        "logit_subject": -0.00640869140625,
+        "logit_answer": -0.031494140625,
+        "prob_subject": 7.748603820800781e-06,
+        "prob_answer": 7.539987564086914e-06
+    },
+    "9_mlp_out_3": {
+        "token_idx": 3,
+        "tokens": "\u3055\u3089,  dov, alnum,  Mus,  FD,  gad,  slowly, \u0442\u0440\u043e, st\u00fct, #ad",
+        "rank_subject": 81756,
+        "rank_answer": 13440,
+        "logit_subject": -0.01287841796875,
+        "logit_answer": 0.047119140625,
+        "prob_subject": 7.68899917602539e-06,
+        "prob_answer": 8.165836334228516e-06
+    },
+    "9_mlp_out_4": {
+        "token_idx": 4,
+        "tokens": "els, lor, ward, \u6cf3, inclusive, .lb, orc, %X, \u03b9\u03c3, .Xaml",
+        "rank_subject": 126141,
+        "rank_answer": 77467,
+        "logit_subject": -0.0732421875,
+        "logit_answer": -0.00921630859375,
+        "prob_subject": 7.241964340209961e-06,
+        "prob_answer": 7.748603820800781e-06
+    },
+    "9_mlp_out_5": {
+        "token_idx": 5,
+        "tokens": "\u00d7\n\n, /******/,  Aires, itom, onz,  Ravens, Aligned, _Item,  ********************************************************************************, ?\n\n\n\n\n\n",
+        "rank_subject": 124719,
+        "rank_answer": 11299,
+        "logit_subject": -0.064453125,
+        "logit_answer": 0.04541015625,
+        "prob_subject": 7.3015689849853516e-06,
+        "prob_answer": 8.165836334228516e-06
+    },
+    "9_mlp_out_6": {
+        "token_idx": 6,
+        "tokens": "\u0e44\u0e25\u0e19, ikan, achen,  , _stdio, ater, oner, 885, \u0442\u0440\u043e, .pp",
+        "rank_subject": 57143,
+        "rank_answer": 27899,
+        "logit_subject": 0.0050048828125,
+        "logit_answer": 0.0299072265625,
+        "prob_subject": 7.808208465576172e-06,
+        "prob_answer": 8.046627044677734e-06
+    },
+    "10_attn_out_0": {
+        "token_idx": 0,
+        "tokens": " maj,  native, aza, ileo, ours, \u0451,  cloud, az,  peer,  oc",
+        "rank_subject": 6156,
+        "rank_answer": 75486,
+        "logit_subject": 0.02392578125,
+        "logit_answer": -0.0030670166015625,
+        "prob_subject": 7.987022399902344e-06,
+        "prob_answer": 7.748603820800781e-06
+    },
+    "10_attn_out_1": {
+        "token_idx": 1,
+        "tokens": "\u2026\n,  maj,  thinking, ..\n,  native,  /,  peer,  overall,  res, ileo",
+        "rank_subject": 7026,
+        "rank_answer": 60243,
+        "logit_subject": 0.023193359375,
+        "logit_answer": 0.00112152099609375,
+        "prob_subject": 7.987022399902344e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "10_attn_out_2": {
+        "token_idx": 2,
+        "tokens": "ileo,  favoured,  Danny,  maj, ear, stral,  peer, burg,  specialised, Tree",
+        "rank_subject": 18181,
+        "rank_answer": 69737,
+        "logit_subject": 0.0142822265625,
+        "logit_answer": -0.00146484375,
+        "prob_subject": 7.927417755126953e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "10_attn_out_3": {
+        "token_idx": 3,
+        "tokens": "chai, burg,  favoured, ileo,  en,  bif, 41,  cur, ear,  Lester",
+        "rank_subject": 13609,
+        "rank_answer": 84359,
+        "logit_subject": 0.0198974609375,
+        "logit_answer": -0.006317138671875,
+        "prob_subject": 7.927417755126953e-06,
+        "prob_answer": 7.748603820800781e-06
+    },
+    "10_attn_out_4": {
+        "token_idx": 4,
+        "tokens": "chai,  arms, elle,  maj, eniable, cliffe,  majors, etooth,  bad,  hom",
+        "rank_subject": 36580,
+        "rank_answer": 113679,
+        "logit_subject": 0.00994873046875,
+        "logit_answer": -0.0216064453125,
+        "prob_subject": 7.867813110351562e-06,
+        "prob_answer": 7.62939453125e-06
+    },
+    "10_attn_out_5": {
+        "token_idx": 5,
+        "tokens": "elle, cliffe,  maj,  Principal,  unre,  Carroll, ukes,  \u201c\u2026, ration, mpi",
+        "rank_subject": 23242,
+        "rank_answer": 112166,
+        "logit_subject": 0.016845703125,
+        "logit_answer": -0.021484375,
+        "prob_subject": 7.927417755126953e-06,
+        "prob_answer": 7.62939453125e-06
+    },
+    "10_attn_out_6": {
+        "token_idx": 6,
+        "tokens": " called,  \u2018, \u2026\u201d,  Fact,  Ron,  ', eniable,  worth, )return, thon",
+        "rank_subject": 9071,
+        "rank_answer": 110267,
+        "logit_subject": 0.028564453125,
+        "logit_answer": -0.0208740234375,
+        "prob_subject": 8.046627044677734e-06,
+        "prob_answer": 7.62939453125e-06
+    },
+    "10_mlp_out_0": {
+        "token_idx": 0,
+        "tokens": "ichert, yonel, POCH, PPER, BUM, -scrollbar, QUIRED, .GraphicsUnit, adoo, licer",
+        "rank_subject": 126503,
+        "rank_answer": 39456,
+        "logit_subject": -0.0986328125,
+        "logit_answer": 0.0213623046875,
+        "prob_subject": 7.063150405883789e-06,
+        "prob_answer": 7.987022399902344e-06
+    },
+    "10_mlp_out_1": {
+        "token_idx": 1,
+        "tokens": ".ImageAlign, Drv, utsch, PFN, OnChange, spm, usch, \ufffd, izik, WithDuration",
+        "rank_subject": 8232,
+        "rank_answer": 30040,
+        "logit_subject": 0.034423828125,
+        "logit_answer": 0.01611328125,
+        "prob_subject": 8.046627044677734e-06,
+        "prob_answer": 7.927417755126953e-06
+    },
+    "10_mlp_out_2": {
+        "token_idx": 2,
+        "tokens": "ucz, nout, ANNEL, ichni, NullOr, igu, ALSE,  Strike, ukt, oplast",
+        "rank_subject": 72372,
+        "rank_answer": 74495,
+        "logit_subject": -0.005218505859375,
+        "logit_answer": -0.006500244140625,
+        "prob_subject": 7.748603820800781e-06,
+        "prob_answer": 7.748603820800781e-06
+    },
+    "10_mlp_out_3": {
+        "token_idx": 3,
+        "tokens": "arlar, .scalablytyped, ALSE, -Semit, \ufffd\ufffd, ARRIER, arto,  Arb, /MPL, oreach",
+        "rank_subject": 83061,
+        "rank_answer": 15078,
+        "logit_subject": -0.013427734375,
+        "logit_answer": 0.0419921875,
+        "prob_subject": 7.68899917602539e-06,
+        "prob_answer": 8.106231689453125e-06
+    },
+    "10_mlp_out_4": {
+        "token_idx": 4,
+        "tokens": "SGlobal, .scalablytyped, odesk, \ufffd,  Shelf, scp, \u967a, DCALL, promotion, $LANG",
+        "rank_subject": 89506,
+        "rank_answer": 55164,
+        "logit_subject": -0.018310546875,
+        "logit_answer": 0.006072998046875,
+        "prob_subject": 7.62939453125e-06,
+        "prob_answer": 7.867813110351562e-06
+    },
+    "10_mlp_out_5": {
+        "token_idx": 5,
+        "tokens": "rzy, rz, \u03c3\u03c3\u03b1, /stretch, \u0e41\u0e2b\u0e19, .Dictionary,  \u0623\u0631, \u043d\u0430\u0441\u043b\u0456\u0434, ethyst,  Leban",
+        "rank_subject": 104845,
+        "rank_answer": 92423,
+        "logit_subject": -0.0284423828125,
+        "logit_answer": -0.0184326171875,
+        "prob_subject": 7.569789886474609e-06,
+        "prob_answer": 7.62939453125e-06
+    },
+    "10_mlp_out_6": {
+        "token_idx": 6,
+        "tokens": "subst, zik, enler,  porr, .LayoutStyle, ailable, SCRI, \u0e4c\u0e1f, antanamo, \u00f3r",
+        "rank_subject": 124472,
+        "rank_answer": 53308,
+        "logit_subject": -0.07568359375,
+        "logit_answer": 0.00799560546875,
+        "prob_subject": 7.212162017822266e-06,
+        "prob_answer": 7.867813110351562e-06
+    },
+    "11_attn_out_0": {
+        "token_idx": 0,
+        "tokens": "ink, wik,  converged, bbe, mai, wil, hu,  Goldberg, atsu, tem",
+        "rank_subject": 15564,
+        "rank_answer": 99755,
+        "logit_subject": 0.0174560546875,
+        "logit_answer": -0.01129150390625,
+        "prob_subject": 7.927417755126953e-06,
+        "prob_answer": 7.68899917602539e-06
+    },
+    "11_attn_out_1": {
+        "token_idx": 1,
+        "tokens": "ink, wil, bbe, atsu, \u0645\u0646\u06cc, IS, asse, woff,  converged, /fs",
+        "rank_subject": 27342,
+        "rank_answer": 93750,
+        "logit_subject": 0.01104736328125,
+        "logit_answer": -0.00848388671875,
+        "prob_subject": 7.867813110351562e-06,
+        "prob_answer": 7.748603820800781e-06
+    },
+    "11_attn_out_2": {
+        "token_idx": 2,
+        "tokens": "atsu, \u0645\u0646\u06cc, wik, wil, OTO, ink, ST,  stuck, asse, \u58eb",
+        "rank_subject": 27007,
+        "rank_answer": 102585,
+        "logit_subject": 0.0107421875,
+        "logit_answer": -0.0111083984375,
+        "prob_subject": 7.867813110351562e-06,
+        "prob_answer": 7.68899917602539e-06
+    },
+    "11_attn_out_3": {
+        "token_idx": 3,
+        "tokens": "atsu, /fs,  cl, ink, wik, ST, \u0440\u043e\u0441\u0442\u043e, \u58eb, \u4e16, \u0e22\u0e07",
+        "rank_subject": 20554,
+        "rank_answer": 96209,
+        "logit_subject": 0.01373291015625,
+        "logit_answer": -0.00921630859375,
+        "prob_subject": 7.927417755126953e-06,
+        "prob_answer": 7.748603820800781e-06
+    },
+    "11_attn_out_4": {
+        "token_idx": 4,
+        "tokens": "ierz, alsy, adows, BASH, legg, burg, rego,  crime,  universal,  ser",
+        "rank_subject": 16417,
+        "rank_answer": 47558,
+        "logit_subject": 0.01953125,
+        "logit_answer": 0.00555419921875,
+        "prob_subject": 7.927417755126953e-06,
+        "prob_answer": 7.867813110351562e-06
+    },
+    "11_attn_out_5": {
+        "token_idx": 5,
+        "tokens": "inke, duino, burg, legg, bourg, urgy, \u3089\u3057, eyer, aura, \u03b5\u03c1\u03b3",
+        "rank_subject": 88545,
+        "rank_answer": 105091,
+        "logit_subject": -0.00823974609375,
+        "logit_answer": -0.01519775390625,
+        "prob_subject": 7.748603820800781e-06,
+        "prob_answer": 7.68899917602539e-06
+    },
+    "11_attn_out_6": {
+        "token_idx": 6,
+        "tokens": "\u2026\n, ESA, \u2026, \u2026and, \u2026I, \u2026\u201d, \u2026\", \u044c,  McMahon, \u0648\u062c\u0647",
+        "rank_subject": 29579,
+        "rank_answer": 125795,
+        "logit_subject": 0.01287841796875,
+        "logit_answer": -0.037841796875,
+        "prob_subject": 7.867813110351562e-06,
+        "prob_answer": 7.510185241699219e-06
+    },
+    "11_mlp_out_0": {
+        "token_idx": 0,
+        "tokens": " ,  ., -lnd, osex,  Accord, ichert, \ufffd, icone, 'gc,  rep",
+        "rank_subject": 77942,
+        "rank_answer": 26949,
+        "logit_subject": -0.003814697265625,
+        "logit_answer": 0.01165771484375,
+        "prob_subject": 7.748603820800781e-06,
+        "prob_answer": 7.867813110351562e-06
+    },
+    "11_mlp_out_1": {
+        "token_idx": 1,
+        "tokens": "PFN,  Hav, oday,  fa, odore, overe, omor, cka, pard, PLICIT",
+        "rank_subject": 83000,
+        "rank_answer": 91950,
+        "logit_subject": -0.01141357421875,
+        "logit_answer": -0.017333984375,
+        "prob_subject": 7.68899917602539e-06,
+        "prob_answer": 7.62939453125e-06
+    },
+    "11_mlp_out_2": {
+        "token_idx": 2,
+        "tokens": "\u011bj,  m\u00e1t, AndView,  \u043f\u043e\u0431\u0430, prav, HeaderCode, \u043d\u0438\u044e, OffsetTable, \u00f8d,  Voll",
+        "rank_subject": 11367,
+        "rank_answer": 119012,
+        "logit_subject": 0.04296875,
+        "logit_answer": -0.046630859375,
+        "prob_subject": 8.106231689453125e-06,
+        "prob_answer": 7.450580596923828e-06
+    },
+    "11_mlp_out_3": {
+        "token_idx": 3,
+        "tokens": "\ufffd\u56de, chwitz,  overposting, argins, \u011bj, \u90a6, \ufffd\u5408, kyt, $rows, phe",
+        "rank_subject": 23677,
+        "rank_answer": 108471,
+        "logit_subject": 0.032470703125,
+        "logit_answer": -0.037353515625,
+        "prob_subject": 8.046627044677734e-06,
+        "prob_answer": 7.510185241699219e-06
+    },
+    "11_mlp_out_4": {
+        "token_idx": 4,
+        "tokens": "ium, enberg, \ufffd, \u255d, ottle,  Ralph, YC, \u0e32\u0e30, att,  Reserved",
+        "rank_subject": 6351,
+        "rank_answer": 38420,
+        "logit_subject": 0.05517578125,
+        "logit_answer": 0.0172119140625,
+        "prob_subject": 8.225440979003906e-06,
+        "prob_answer": 7.927417755126953e-06
+    },
+    "11_mlp_out_5": {
+        "token_idx": 5,
+        "tokens": " OnCollision, cott,  Pets, exampleModal, ANDARD,  rowspan, mand, Analy, swers, \\Request",
+        "rank_subject": 32639,
+        "rank_answer": 11996,
+        "logit_subject": 0.01904296875,
+        "logit_answer": 0.038330078125,
+        "prob_subject": 7.927417755126953e-06,
+        "prob_answer": 8.106231689453125e-06
+    },
+    "11_mlp_out_6": {
+        "token_idx": 6,
+        "tokens": "edException, 598, andard, \u0e41\u0e2a,  ragaz, .omg, ppers, ynes,  ==============================================================, OnClickListener",
+        "rank_subject": 74891,
+        "rank_answer": 38195,
+        "logit_subject": -0.00787353515625,
+        "logit_answer": 0.0186767578125,
+        "prob_subject": 7.748603820800781e-06,
+        "prob_answer": 7.927417755126953e-06
+    },
+    "12_attn_out_0": {
+        "token_idx": 0,
+        "tokens": "utas, cke, _bio, \u30fc\u30ed, iah, inar,  sund, \u9038, ldkf,  pole",
+        "rank_subject": 43054,
+        "rank_answer": 115081,
+        "logit_subject": 0.006134033203125,
+        "logit_answer": -0.0185546875,
+        "prob_subject": 7.867813110351562e-06,
+        "prob_answer": 7.62939453125e-06
+    },
+    "12_attn_out_1": {
+        "token_idx": 1,
+        "tokens": "oley, ole, \u2026,  Pole,  Sir, \u2026\n, \u00e8, iring,  pole, i",
+        "rank_subject": 27871,
+        "rank_answer": 107236,
+        "logit_subject": 0.01226806640625,
+        "logit_answer": -0.01531982421875,
+        "prob_subject": 7.867813110351562e-06,
+        "prob_answer": 7.68899917602539e-06
+    },
+    "12_attn_out_2": {
+        "token_idx": 2,
+        "tokens": " CBS, A,  ABC, cke, k, ie,  dag, it, ui,  en",
+        "rank_subject": 6444,
+        "rank_answer": 95402,
+        "logit_subject": 0.0267333984375,
+        "logit_answer": -0.010498046875,
+        "prob_subject": 7.987022399902344e-06,
+        "prob_answer": 7.68899917602539e-06
+    },
+    "12_attn_out_3": {
+        "token_idx": 3,
+        "tokens": "\u2026, \u2026\n,  ABC, \u2026\u201d, A, k, ,\u2026,  CBS, ies, \u2026.",
+        "rank_subject": 4653,
+        "rank_answer": 85034,
+        "logit_subject": 0.033447265625,
+        "logit_answer": -0.007659912109375,
+        "prob_subject": 8.046627044677734e-06,
+        "prob_answer": 7.748603820800781e-06
+    },
+    "12_attn_out_4": {
+        "token_idx": 4,
+        "tokens": "\u5b85, oad,  z,  franchise,  th, ikal, .nr,  Pur, cus,  cr",
+        "rank_subject": 11099,
+        "rank_answer": 102439,
+        "logit_subject": 0.031494140625,
+        "logit_answer": -0.01904296875,
+        "prob_subject": 8.046627044677734e-06,
+        "prob_answer": 7.62939453125e-06
+    },
+    "12_attn_out_5": {
+        "token_idx": 5,
+        "tokens": "ofday,  Rao,  Cassidy,  Tear, \u7684\u662f,  br, 397, ears,  lim,  cord",
+        "rank_subject": 1539,
+        "rank_answer": 85158,
+        "logit_subject": 0.05712890625,
+        "logit_answer": -0.01025390625,
+        "prob_subject": 8.225440979003906e-06,
+        "prob_answer": 7.68899917602539e-06
+    },
+    "12_attn_out_6": {
+        "token_idx": 6,
+        "tokens": "yn, selection, ync,  Courier, itet, \u0306, \u0440\u0430\u0445, xCD, bis, /cms",
+        "rank_subject": 34800,
+        "rank_answer": 77157,
+        "logit_subject": 0.01324462890625,
+        "logit_answer": -0.005523681640625,
+        "prob_subject": 7.927417755126953e-06,
+        "prob_answer": 7.748603820800781e-06
+    },
+    "12_mlp_out_0": {
+        "token_idx": 0,
+        "tokens": "ichert, 667,  t, \u00a0,  ,  em,  Brit,  .,  \u2014,  pay",
+        "rank_subject": 33367,
+        "rank_answer": 7861,
+        "logit_subject": 0.0076904296875,
+        "logit_answer": 0.0185546875,
+        "prob_subject": 7.867813110351562e-06,
+        "prob_answer": 7.927417755126953e-06
+    },
+    "12_mlp_out_1": {
+        "token_idx": 1,
+        "tokens": "377, \u0448\u0435\u0432, _except, invalidate, ContentPane, Detach, nun,  ries, efon, .cx",
+        "rank_subject": 116742,
+        "rank_answer": 45729,
+        "logit_subject": -0.03857421875,
+        "logit_answer": 0.01019287109375,
+        "prob_subject": 7.510185241699219e-06,
+        "prob_answer": 7.867813110351562e-06
+    },
+    "12_mlp_out_2": {
+        "token_idx": 2,
+        "tokens": "ibri, .twitter, antis, (\u6c34, znam,  meis, _attachment, -ci, rimon, ousse",
+        "rank_subject": 24932,
+        "rank_answer": 100097,
+        "logit_subject": 0.0279541015625,
+        "logit_answer": -0.02490234375,
+        "prob_subject": 7.987022399902344e-06,
+        "prob_answer": 7.599592208862305e-06
+    },
+    "12_mlp_out_3": {
+        "token_idx": 3,
+        "tokens": "_blocking, \u0e25\u0e33, \u5150, \u9986,  MAC, \u0635\u0629, \ufffd, \u3093\u3068,  (*((,  Ru",
+        "rank_subject": 29705,
+        "rank_answer": 14204,
+        "logit_subject": 0.0269775390625,
+        "logit_answer": 0.0458984375,
+        "prob_subject": 7.987022399902344e-06,
+        "prob_answer": 8.165836334228516e-06
+    },
+    "12_mlp_out_4": {
+        "token_idx": 4,
+        "tokens": "morgan,  Dash, Solo, imed, .Spring, #ac, \u9280, akl\u0131,  \u062f\u0634, UNUSED",
+        "rank_subject": 38177,
+        "rank_answer": 67046,
+        "logit_subject": 0.0194091796875,
+        "logit_answer": -0.002349853515625,
+        "prob_subject": 7.927417755126953e-06,
+        "prob_answer": 7.748603820800781e-06
+    },
+    "12_mlp_out_5": {
+        "token_idx": 5,
+        "tokens": "#af, ContentLoaded, entiful, _firestore, chnitt, #ab, #ac, \u00e1\u017e, /******/, unfinished",
+        "rank_subject": 96168,
+        "rank_answer": 55000,
+        "logit_subject": -0.02685546875,
+        "logit_answer": 0.00714111328125,
+        "prob_subject": 7.569789886474609e-06,
+        "prob_answer": 7.867813110351562e-06
+    },
+    "12_mlp_out_6": {
+        "token_idx": 6,
+        "tokens": " , eway,  Chaos, alian, :,  Emily, xlim,  Nap, ission, emb",
+        "rank_subject": 40461,
+        "rank_answer": 25806,
+        "logit_subject": 0.0191650390625,
+        "logit_answer": 0.033935546875,
+        "prob_subject": 7.927417755126953e-06,
+        "prob_answer": 8.046627044677734e-06
+    },
+    "13_attn_out_0": {
+        "token_idx": 0,
+        "tokens": "cheng, otton, aeda, avel,  Bible,  standpoint, pies, chin, \u5c40, QUIRES",
+        "rank_subject": 28676,
+        "rank_answer": 99562,
+        "logit_subject": 0.0103759765625,
+        "logit_answer": -0.01019287109375,
+        "prob_subject": 7.867813110351562e-06,
+        "prob_answer": 7.68899917602539e-06
+    },
+    "13_attn_out_1": {
+        "token_idx": 1,
+        "tokens": "\u2026\n, \u2026and, \u2026, \u2026it, \u2026\u201d, \u2026I,  \u2026\n, \u2026but, .\u2026, ,\u2026",
+        "rank_subject": 33639,
+        "rank_answer": 94299,
+        "logit_subject": 0.009765625,
+        "logit_answer": -0.0093994140625,
+        "prob_subject": 7.867813110351562e-06,
+        "prob_answer": 7.748603820800781e-06
+    },
+    "13_attn_out_2": {
+        "token_idx": 2,
+        "tokens": "\u2026\n, cheng, \u2026\u201d,  \u2026\n, aeda, riger, .\u2026, letics,  [\u2026]\n, \u00e9rica",
+        "rank_subject": 79402,
+        "rank_answer": 89623,
+        "logit_subject": -0.0042724609375,
+        "logit_answer": -0.00750732421875,
+        "prob_subject": 7.748603820800781e-06,
+        "prob_answer": 7.748603820800781e-06
+    },
+    "13_attn_out_3": {
+        "token_idx": 3,
+        "tokens": "\u2026\n, \u2026\u201d,  \u2026\n,  [\u2026]\n, \u2026and, \u2026, \u2026\", \u2026I, \u2026it, [\u2026",
+        "rank_subject": 16495,
+        "rank_answer": 102987,
+        "logit_subject": 0.0172119140625,
+        "logit_answer": -0.012939453125,
+        "prob_subject": 7.927417755126953e-06,
+        "prob_answer": 7.68899917602539e-06
+    },
+    "13_attn_out_4": {
+        "token_idx": 4,
+        "tokens": "\u2026\n, ez, .Properties, iq, \u2026\u201d, Lens, enal, \u2026, :///,  orth",
+        "rank_subject": 12728,
+        "rank_answer": 109869,
+        "logit_subject": 0.020263671875,
+        "logit_answer": -0.016845703125,
+        "prob_subject": 7.927417755126953e-06,
+        "prob_answer": 7.68899917602539e-06
+    },
+    "13_attn_out_5": {
+        "token_idx": 5,
+        "tokens": "\u2026\n, \u2026\u201d, \u2026and, \u2026, \u2026but, \u2026., \u2026\", \u2026it, \u2026I, \u2026\u2026",
+        "rank_subject": 7984,
+        "rank_answer": 62146,
+        "logit_subject": 0.0361328125,
+        "logit_answer": 0.00113677978515625,
+        "prob_subject": 8.106231689453125e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "13_attn_out_6": {
+        "token_idx": 6,
+        "tokens": "\u2026\n, \u2026\u201d,  \u2026\n, [\u2026,  writ,  [\u2026]\n, lingen, \u2026, \u2026\", ky",
+        "rank_subject": 42708,
+        "rank_answer": 116584,
+        "logit_subject": 0.009765625,
+        "logit_answer": -0.03076171875,
+        "prob_subject": 7.867813110351562e-06,
+        "prob_answer": 7.569789886474609e-06
+    },
+    "13_mlp_out_0": {
+        "token_idx": 0,
+        "tokens": " , \u00a0, rypted,  arrow,  fol,  Chang,  atop, ahlen, -arrow,  b",
+        "rank_subject": 67446,
+        "rank_answer": 22113,
+        "logit_subject": -0.000926971435546875,
+        "logit_answer": 0.016357421875,
+        "prob_subject": 7.808208465576172e-06,
+        "prob_answer": 7.927417755126953e-06
+    },
+    "13_mlp_out_1": {
+        "token_idx": 1,
+        "tokens": " Morr,  Chancellor, orem, odore,  Sesso, EDIUM, 312,  Jako,  Sexe, lector",
+        "rank_subject": 31270,
+        "rank_answer": 47839,
+        "logit_subject": 0.0196533203125,
+        "logit_answer": 0.00885009765625,
+        "prob_subject": 7.927417755126953e-06,
+        "prob_answer": 7.867813110351562e-06
+    },
+    "13_mlp_out_2": {
+        "token_idx": 2,
+        "tokens": "zac, akit, enet, \u0433\u0430\u043b, tain, oft, strcasecmp, eron, irth, )prepare",
+        "rank_subject": 24746,
+        "rank_answer": 70052,
+        "logit_subject": 0.033203125,
+        "logit_answer": -0.00482177734375,
+        "prob_subject": 8.046627044677734e-06,
+        "prob_answer": 7.748603820800781e-06
+    },
+    "13_mlp_out_3": {
+        "token_idx": 3,
+        "tokens": " quot, imi, achten, IDL,  \u0430\u043f\u043f, rosso, ilder, .pb, thur, ovo",
+        "rank_subject": 86301,
+        "rank_answer": 63881,
+        "logit_subject": -0.0184326171875,
+        "logit_answer": 0.00017452239990234375,
+        "prob_subject": 7.62939453125e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "13_mlp_out_4": {
+        "token_idx": 4,
+        "tokens": "ichert, icken, \ufffd, li\u010d, .nih, avr, \u0648\u062c\u0647, RenderingContext, QUENCY, .pb",
+        "rank_subject": 119824,
+        "rank_answer": 67382,
+        "logit_subject": -0.06103515625,
+        "logit_answer": -0.0025634765625,
+        "prob_subject": 7.331371307373047e-06,
+        "prob_answer": 7.748603820800781e-06
+    },
+    "13_mlp_out_5": {
+        "token_idx": 5,
+        "tokens": "MMdd, \ufffd\u56de, \u7b56, ijd, osphate, -wsj, iglia,  l\u1ea1c, __[\", -LAST",
+        "rank_subject": 66876,
+        "rank_answer": 74062,
+        "logit_subject": -0.0022735595703125,
+        "logit_answer": -0.0079345703125,
+        "prob_subject": 7.748603820800781e-06,
+        "prob_answer": 7.748603820800781e-06
+    },
+    "13_mlp_out_6": {
+        "token_idx": 6,
+        "tokens": " lul, acyj, achs, .tie, atura,  Doll,  \u0440\u043e\u0431,  Struct,  Heights, ewan",
+        "rank_subject": 60981,
+        "rank_answer": 29181,
+        "logit_subject": 0.0027008056640625,
+        "logit_answer": 0.03271484375,
+        "prob_subject": 7.808208465576172e-06,
+        "prob_answer": 8.046627044677734e-06
+    },
+    "14_attn_out_0": {
+        "token_idx": 0,
+        "tokens": "'gc,  gezocht, ButtonTitles, Argb, .updateDynamic, delivr, tec, ociety, ControlEvents, printStats",
+        "rank_subject": 12183,
+        "rank_answer": 112062,
+        "logit_subject": 0.0196533203125,
+        "logit_answer": -0.0172119140625,
+        "prob_subject": 7.927417755126953e-06,
+        "prob_answer": 7.68899917602539e-06
+    },
+    "14_attn_out_1": {
+        "token_idx": 1,
+        "tokens": "\u30b7\u30e7\u30f3, 'gc, wie, .scalablytyped,  Hip, _HERSHEY, @n, tec,  Mans, ButtonTitles",
+        "rank_subject": 14735,
+        "rank_answer": 103522,
+        "logit_subject": 0.01611328125,
+        "logit_answer": -0.01165771484375,
+        "prob_subject": 7.927417755126953e-06,
+        "prob_answer": 7.68899917602539e-06
+    },
+    "14_attn_out_2": {
+        "token_idx": 2,
+        "tokens": "\u0431\u043e\u0442, _defaults,  t\u00fck, ClientRect, orgia, Drawable, itel, idata, .GetItem,  HEX",
+        "rank_subject": 34797,
+        "rank_answer": 77684,
+        "logit_subject": 0.0113525390625,
+        "logit_answer": -0.0050048828125,
+        "prob_subject": 7.867813110351562e-06,
+        "prob_answer": 7.748603820800781e-06
+    },
+    "14_attn_out_3": {
+        "token_idx": 3,
+        "tokens": " wearing, lica, OUND, ound,  th, ISCO, otropic, ond,  Dean,  Brill",
+        "rank_subject": 21945,
+        "rank_answer": 37471,
+        "logit_subject": 0.0198974609375,
+        "logit_answer": 0.01153564453125,
+        "prob_subject": 7.927417755126953e-06,
+        "prob_answer": 7.867813110351562e-06
+    },
+    "14_attn_out_4": {
+        "token_idx": 4,
+        "tokens": ".orders,  ongoing, \u2026\",  G\u00e4, \u00e1o,  carving, ongo, /demo,  Rudd,  Cl",
+        "rank_subject": 99745,
+        "rank_answer": 32784,
+        "logit_subject": -0.017578125,
+        "logit_answer": 0.015380859375,
+        "prob_subject": 7.62939453125e-06,
+        "prob_answer": 7.927417755126953e-06
+    },
+    "14_attn_out_5": {
+        "token_idx": 5,
+        "tokens": "\u2026\n, \u2026\u201d, \u2026and, \u2026\", \u2026the, \u2026I,  \u2026\n, ,\u2026, \u2026\u2026, \u2026but",
+        "rank_subject": 75468,
+        "rank_answer": 47262,
+        "logit_subject": -0.0054931640625,
+        "logit_answer": 0.0084228515625,
+        "prob_subject": 7.748603820800781e-06,
+        "prob_answer": 7.867813110351562e-06
+    },
+    "14_attn_out_6": {
+        "token_idx": 6,
+        "tokens": "\\views,  McMahon, \u2026\u2026,  mop, \u2026\u201d,  demonstr, \u2026and, 528, iegel, lech",
+        "rank_subject": 104916,
+        "rank_answer": 24528,
+        "logit_subject": -0.021728515625,
+        "logit_answer": 0.0208740234375,
+        "prob_subject": 7.62939453125e-06,
+        "prob_answer": 7.987022399902344e-06
+    },
+    "14_mlp_out_0": {
+        "token_idx": 0,
+        "tokens": "opl, _defaults, och, ichert, fer, ich, \n\n, \u00a0, ichten, expand",
+        "rank_subject": 39730,
+        "rank_answer": 15564,
+        "logit_subject": 0.00836181640625,
+        "logit_answer": 0.0194091796875,
+        "prob_subject": 7.867813110351562e-06,
+        "prob_answer": 7.927417755126953e-06
+    },
+    "14_mlp_out_1": {
+        "token_idx": 1,
+        "tokens": "websocket, __':\r\n, ypo, ecast, oval, ze, \uc0b4,  D\u00fcn, \u0627\u062a\u0647, aton",
+        "rank_subject": 115579,
+        "rank_answer": 3244,
+        "logit_subject": -0.0693359375,
+        "logit_answer": 0.107421875,
+        "prob_subject": 7.271766662597656e-06,
+        "prob_answer": 8.64267349243164e-06
+    },
+    "14_mlp_out_2": {
+        "token_idx": 2,
+        "tokens": "ilm, iq, hausen, ilan, alez, \u045b, ateg, _guard, \u95dc, ins",
+        "rank_subject": 49540,
+        "rank_answer": 52186,
+        "logit_subject": 0.012451171875,
+        "logit_answer": 0.01019287109375,
+        "prob_subject": 7.867813110351562e-06,
+        "prob_answer": 7.867813110351562e-06
+    },
+    "14_mlp_out_3": {
+        "token_idx": 3,
+        "tokens": "mos, ande, \u30c1\u30e5, \u0438\u043d\u043e\u0432, \u03c4\u03b1, omo, \u30e5, tica, andal, yles",
+        "rank_subject": 65373,
+        "rank_answer": 107368,
+        "logit_subject": -0.0012054443359375,
+        "logit_answer": -0.04248046875,
+        "prob_subject": 7.808208465576172e-06,
+        "prob_answer": 7.4803829193115234e-06
+    },
+    "14_mlp_out_4": {
+        "token_idx": 4,
+        "tokens": "ward, oun, ira, 227, bound, \u4ee3, 425, ovic, mont, aira",
+        "rank_subject": 56864,
+        "rank_answer": 118153,
+        "logit_subject": 0.005950927734375,
+        "logit_answer": -0.0625,
+        "prob_subject": 7.808208465576172e-06,
+        "prob_answer": 7.331371307373047e-06
+    },
+    "14_mlp_out_5": {
+        "token_idx": 5,
+        "tokens": "tes, lement, reet, kip, ucas, imson, otlin, ockey, omain, iero",
+        "rank_subject": 111825,
+        "rank_answer": 36516,
+        "logit_subject": -0.041259765625,
+        "logit_answer": 0.02001953125,
+        "prob_subject": 7.4803829193115234e-06,
+        "prob_answer": 7.927417755126953e-06
+    },
+    "14_mlp_out_6": {
+        "token_idx": 6,
+        "tokens": "imson, \u00e9ra, oyer, rzy, ospels, _Meta,  confess, rane, DirectoryName, obar",
+        "rank_subject": 15950,
+        "rank_answer": 32213,
+        "logit_subject": 0.051513671875,
+        "logit_answer": 0.0296630859375,
+        "prob_subject": 8.225440979003906e-06,
+        "prob_answer": 8.046627044677734e-06
+    },
+    "15_attn_out_0": {
+        "token_idx": 0,
+        "tokens": " Daw, SystemService, aeda, elight,  Hansen, ansa, ETIME, peror,  Hardy, _SPR",
+        "rank_subject": 10268,
+        "rank_answer": 48681,
+        "logit_subject": 0.0166015625,
+        "logit_answer": 0.003662109375,
+        "prob_subject": 7.927417755126953e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "15_attn_out_1": {
+        "token_idx": 1,
+        "tokens": "aeda, \u30e9\u30a4\u30c8, uj, \u2026\n,  Hayden, ullan, \ufffd, orm, olu, ube",
+        "rank_subject": 4818,
+        "rank_answer": 89984,
+        "logit_subject": 0.0269775390625,
+        "logit_answer": -0.007781982421875,
+        "prob_subject": 7.987022399902344e-06,
+        "prob_answer": 7.748603820800781e-06
+    },
+    "15_attn_out_2": {
+        "token_idx": 2,
+        "tokens": "\u2026\n, \u2026\u201d,  \u2026\n,  [\u2026]\n, \u2026and, aeda, \u2026I, \u2026\", \u2026\u2026, q",
+        "rank_subject": 14528,
+        "rank_answer": 58100,
+        "logit_subject": 0.0177001953125,
+        "logit_answer": 0.00182342529296875,
+        "prob_subject": 7.927417755126953e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "15_attn_out_3": {
+        "token_idx": 3,
+        "tokens": " fr, arl, chein,  daytime, \u0e32\u0e28, nox, \u2026\n, ako, \u2026and,  ones",
+        "rank_subject": 3105,
+        "rank_answer": 35913,
+        "logit_subject": 0.05859375,
+        "logit_answer": 0.0169677734375,
+        "prob_subject": 8.285045623779297e-06,
+        "prob_answer": 7.927417755126953e-06
+    },
+    "15_attn_out_4": {
+        "token_idx": 4,
+        "tokens": "cre,  coordination, ousel, QUARE,  Seah, \ufffd, ayd, atican, COR,  undergo",
+        "rank_subject": 4485,
+        "rank_answer": 20816,
+        "logit_subject": 0.043212890625,
+        "logit_answer": 0.0233154296875,
+        "prob_subject": 8.165836334228516e-06,
+        "prob_answer": 7.987022399902344e-06
+    },
+    "15_attn_out_5": {
+        "token_idx": 5,
+        "tokens": "I, \u2026\n, addock, \u2026I,  Jer, \u2026and,  mic,  vel,  ve, ventus",
+        "rank_subject": 21886,
+        "rank_answer": 7437,
+        "logit_subject": 0.0220947265625,
+        "logit_answer": 0.036865234375,
+        "prob_subject": 7.987022399902344e-06,
+        "prob_answer": 8.106231689453125e-06
+    },
+    "15_attn_out_6": {
+        "token_idx": 6,
+        "tokens": "\ufffd,  daytime, -INF, addock, I, jedn,  Maurice, \u0431\u043e\u0442, cre, z\u0105",
+        "rank_subject": 58103,
+        "rank_answer": 15327,
+        "logit_subject": 0.00274658203125,
+        "logit_answer": 0.029052734375,
+        "prob_subject": 7.808208465576172e-06,
+        "prob_answer": 8.046627044677734e-06
+    },
+    "15_mlp_out_0": {
+        "token_idx": 0,
+        "tokens": "'gc, \uc0c1\uc758,  desar,  D\u00fcz, ').\", StandardItem, \u062a\u0649, \u01b0\u1eddng,  h\u00e2l, ubre",
+        "rank_subject": 110069,
+        "rank_answer": 41991,
+        "logit_subject": -0.0294189453125,
+        "logit_answer": 0.011962890625,
+        "prob_subject": 7.569789886474609e-06,
+        "prob_answer": 7.867813110351562e-06
+    },
+    "15_mlp_out_1": {
+        "token_idx": 1,
+        "tokens": "kla, ATER, ater, elin, iais, odor, strup, ,'#, orca, gba",
+        "rank_subject": 103194,
+        "rank_answer": 81349,
+        "logit_subject": -0.036376953125,
+        "logit_answer": -0.01416015625,
+        "prob_subject": 7.510185241699219e-06,
+        "prob_answer": 7.68899917602539e-06
+    },
+    "15_mlp_out_2": {
+        "token_idx": 2,
+        "tokens": "rouch,  actionTypes, reet, NullException,  StringType,  Getter, riangle, amber,  corporation, perty",
+        "rank_subject": 16152,
+        "rank_answer": 100729,
+        "logit_subject": 0.060302734375,
+        "logit_answer": -0.041015625,
+        "prob_subject": 8.285045623779297e-06,
+        "prob_answer": 7.4803829193115234e-06
+    },
+    "15_mlp_out_3": {
+        "token_idx": 3,
+        "tokens": "utin, edef, akedown,  architect, \u5212, lete, ameda, afia, oval, -DD",
+        "rank_subject": 25172,
+        "rank_answer": 113444,
+        "logit_subject": 0.0439453125,
+        "logit_answer": -0.062255859375,
+        "prob_subject": 8.106231689453125e-06,
+        "prob_answer": 7.3015689849853516e-06
+    },
+    "15_mlp_out_4": {
+        "token_idx": 4,
+        "tokens": " Wid, longleftrightarrow, entiful, \\OptionsResolver, coma, Us, swick,  Stap, avanaugh, akan",
+        "rank_subject": 37635,
+        "rank_answer": 99489,
+        "logit_subject": 0.0244140625,
+        "logit_answer": -0.034423828125,
+        "prob_subject": 7.987022399902344e-06,
+        "prob_answer": 7.510185241699219e-06
+    },
+    "15_mlp_out_5": {
+        "token_idx": 5,
+        "tokens": "#af, panion, ncpy, /***/, EndInit, )frame, SGlobal, #ab, cheon, EmptyEntries",
+        "rank_subject": 21212,
+        "rank_answer": 13511,
+        "logit_subject": 0.0517578125,
+        "logit_answer": 0.0673828125,
+        "prob_subject": 8.225440979003906e-06,
+        "prob_answer": 8.344650268554688e-06
+    },
+    "15_mlp_out_6": {
+        "token_idx": 6,
+        "tokens": "rain, eks, iken, (SIG, i\u00e7, \u06cc\u0646\u0647, \u03bf\u03c5\u03c2, LK, n\u0105,  stump",
+        "rank_subject": 43988,
+        "rank_answer": 117349,
+        "logit_subject": 0.018798828125,
+        "logit_answer": -0.06640625,
+        "prob_subject": 7.927417755126953e-06,
+        "prob_answer": 7.3015689849853516e-06
+    },
+    "16_attn_out_0": {
+        "token_idx": 0,
+        "tokens": "/******/, #ab, #ad, Enlarge, /***/, \u0435\u0442\u0435\u043b\u044c, \u30fc\u30ba, _cmos, ennai, FOUNDATION",
+        "rank_subject": 51695,
+        "rank_answer": 50911,
+        "logit_subject": 0.0034332275390625,
+        "logit_answer": 0.003662109375,
+        "prob_subject": 7.808208465576172e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "16_attn_out_1": {
+        "token_idx": 1,
+        "tokens": " ,,  ., ReadOnly, FOUNDATION,  ph, ICTURE, se,  ),  .\n,  g",
+        "rank_subject": 8161,
+        "rank_answer": 11486,
+        "logit_subject": 0.0283203125,
+        "logit_answer": 0.02490234375,
+        "prob_subject": 8.046627044677734e-06,
+        "prob_answer": 7.987022399902344e-06
+    },
+    "16_attn_out_2": {
+        "token_idx": 2,
+        "tokens": "\u2026and, \u2026\n, \u2026but, \u2026\", \u2026\u201d, \u2026the, \u2026I, \u2026., \u2026.., \u2026\u2026",
+        "rank_subject": 5157,
+        "rank_answer": 21581,
+        "logit_subject": 0.0390625,
+        "logit_answer": 0.0213623046875,
+        "prob_subject": 8.106231689453125e-06,
+        "prob_answer": 7.987022399902344e-06
+    },
+    "16_attn_out_3": {
+        "token_idx": 3,
+        "tokens": "unca,  toe, \u2026and, otta,  kre, (strtolower,  entry, [\u2026,  Appe,  teg",
+        "rank_subject": 46267,
+        "rank_answer": 20584,
+        "logit_subject": 0.0079345703125,
+        "logit_answer": 0.021728515625,
+        "prob_subject": 7.867813110351562e-06,
+        "prob_answer": 7.987022399902344e-06
+    },
+    "16_attn_out_4": {
+        "token_idx": 4,
+        "tokens": " capital, turnstile, Themes, .cc,  Capital,  island, uisse, unca, edis, \":[{\n",
+        "rank_subject": 11488,
+        "rank_answer": 29331,
+        "logit_subject": 0.0255126953125,
+        "logit_answer": 0.01409912109375,
+        "prob_subject": 7.987022399902344e-06,
+        "prob_answer": 7.927417755126953e-06
+    },
+    "16_attn_out_5": {
+        "token_idx": 5,
+        "tokens": "\u2026and, \u2026\u201d, \u2026\n, \u2026but, \u2026the, \u2026\", \u2026., \u2026it, \u2026\u2026, \u2026..",
+        "rank_subject": 19494,
+        "rank_answer": 6934,
+        "logit_subject": 0.051025390625,
+        "logit_answer": 0.08154296875,
+        "prob_subject": 8.165836334228516e-06,
+        "prob_answer": 8.463859558105469e-06
+    },
+    "16_attn_out_6": {
+        "token_idx": 6,
+        "tokens": "\u2026and, \u2026\u201d, \u2026but, \u2026the, \u2026\", [\u2026, \u2026\n, \u2026\u2026, \u2026.., \u2026it",
+        "rank_subject": 72544,
+        "rank_answer": 21,
+        "logit_subject": -0.005889892578125,
+        "logit_answer": 0.1669921875,
+        "prob_subject": 7.748603820800781e-06,
+        "prob_answer": 9.179115295410156e-06
+    },
+    "16_mlp_out_0": {
+        "token_idx": 0,
+        "tokens": "-equiv,  Chang, omatic, \u6559\u5b66, ultipartFile,  Pap,  chopped,  Viet,  the, anitize",
+        "rank_subject": 47358,
+        "rank_answer": 11181,
+        "logit_subject": 0.005584716796875,
+        "logit_answer": 0.022705078125,
+        "prob_subject": 7.867813110351562e-06,
+        "prob_answer": 7.987022399902344e-06
+    },
+    "16_mlp_out_1": {
+        "token_idx": 1,
+        "tokens": " next, oup,  below, DEX,  following,  rent,  top,  purpose, \u01d0, \u7f6e",
+        "rank_subject": 1425,
+        "rank_answer": 29840,
+        "logit_subject": 0.1259765625,
+        "logit_answer": 0.0390625,
+        "prob_subject": 8.821487426757812e-06,
+        "prob_answer": 8.106231689453125e-06
+    },
+    "16_mlp_out_2": {
+        "token_idx": 2,
+        "tokens": "odos, _UTILS, obel, orrow, izable, anos, ates, uc, ater,  punishment",
+        "rank_subject": 877,
+        "rank_answer": 44916,
+        "logit_subject": 0.189453125,
+        "logit_answer": 0.028076171875,
+        "prob_subject": 9.417533874511719e-06,
+        "prob_answer": 7.987022399902344e-06
+    },
+    "16_mlp_out_3": {
+        "token_idx": 3,
+        "tokens": "ickness, iale, iali, asio, UpInside, locks, ater, imeline, UTERS, iaux",
+        "rank_subject": 239,
+        "rank_answer": 34018,
+        "logit_subject": 0.1923828125,
+        "logit_answer": 0.037109375,
+        "prob_subject": 9.417533874511719e-06,
+        "prob_answer": 8.046627044677734e-06
+    },
+    "16_mlp_out_4": {
+        "token_idx": 4,
+        "tokens": "ilestone, inery, \ub85c\ub098,  H\u00fcs, izzer, \ufffd, wick, li\u010d, b\u00edr, erner",
+        "rank_subject": 26516,
+        "rank_answer": 38252,
+        "logit_subject": 0.04052734375,
+        "logit_answer": 0.0257568359375,
+        "prob_subject": 8.106231689453125e-06,
+        "prob_answer": 7.987022399902344e-06
+    },
+    "16_mlp_out_5": {
+        "token_idx": 5,
+        "tokens": " dismiss, ies,  rever, ied,  Marsh,  , -wide, ial, iani,  cautiously",
+        "rank_subject": 75702,
+        "rank_answer": 1738,
+        "logit_subject": -0.01239013671875,
+        "logit_answer": 0.1279296875,
+        "prob_subject": 7.68899917602539e-06,
+        "prob_answer": 8.821487426757812e-06
+    },
+    "16_mlp_out_6": {
+        "token_idx": 6,
+        "tokens": "ICAST, yscale, \\Dependency, NSNotification, ous, _platform, acus, .Encoding, mus,  pict",
+        "rank_subject": 120616,
+        "rank_answer": 48324,
+        "logit_subject": -0.08984375,
+        "logit_answer": 0.0179443359375,
+        "prob_subject": 7.12275505065918e-06,
+        "prob_answer": 7.927417755126953e-06
+    },
+    "17_attn_out_0": {
+        "token_idx": 0,
+        "tokens": "#ad, 'gc, @update, /***/, (Expected, _tpl, \u0631\u06cc\u0627\u0646, P\u0159i, KNOWN, @js",
+        "rank_subject": 103453,
+        "rank_answer": 14083,
+        "logit_subject": -0.01507568359375,
+        "logit_answer": 0.0213623046875,
+        "prob_subject": 7.68899917602539e-06,
+        "prob_answer": 7.987022399902344e-06
+    },
+    "17_attn_out_1": {
+        "token_idx": 1,
+        "tokens": "\u00e0y,  r\u00e1d, DDL, \u064a\u0627\u0631,  HEAP, Stencil, \u7533\u535a,  sc\u00e9,  POINTER,  Tato",
+        "rank_subject": 122829,
+        "rank_answer": 55283,
+        "logit_subject": -0.0245361328125,
+        "logit_answer": 0.00250244140625,
+        "prob_subject": 7.599592208862305e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "17_attn_out_2": {
+        "token_idx": 2,
+        "tokens": "anners, \u6749, \\grid, ambre, inden, linky, .experimental, \u0638\u0641,  Berger, HLT",
+        "rank_subject": 63519,
+        "rank_answer": 34917,
+        "logit_subject": 0.00012159347534179688,
+        "logit_answer": 0.0074462890625,
+        "prob_subject": 7.808208465576172e-06,
+        "prob_answer": 7.867813110351562e-06
+    },
+    "17_attn_out_3": {
+        "token_idx": 3,
+        "tokens": "iaux,  spl, \u03bc\u03af, usalem, 992,  countries, _Offset, vfs, erties, imps",
+        "rank_subject": 61033,
+        "rank_answer": 62826,
+        "logit_subject": 0.00077056884765625,
+        "logit_answer": 0.000225067138671875,
+        "prob_subject": 7.808208465576172e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "17_attn_out_4": {
+        "token_idx": 4,
+        "tokens": "\u043e\u0434\u0435\u0440\u0436, iaux, \u7acb\u3066, ourg,  countries, awaii, \ufffd, enal,  counties, .plus",
+        "rank_subject": 36350,
+        "rank_answer": 109204,
+        "logit_subject": 0.0162353515625,
+        "logit_answer": -0.030029296875,
+        "prob_subject": 7.927417755126953e-06,
+        "prob_answer": 7.569789886474609e-06
+    },
+    "17_attn_out_5": {
+        "token_idx": 5,
+        "tokens": "\u2026\n, \u2026\", \u2026\u201d, \u2026and, \u2026it, \u2026but, \u2026the, \u2026.., \u2026.,  \u2026\n",
+        "rank_subject": 9918,
+        "rank_answer": 64338,
+        "logit_subject": 0.042236328125,
+        "logit_answer": 8.821487426757812e-05,
+        "prob_subject": 8.106231689453125e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "17_attn_out_6": {
+        "token_idx": 6,
+        "tokens": " Seoul,  Korean,  Korea,  Koreans,  H\u00e0n,  Je,  Kim, ehr, \u0434\u0430\u043f, Kim",
+        "rank_subject": 13,
+        "rank_answer": 0,
+        "logit_subject": 0.11865234375,
+        "logit_answer": 0.181640625,
+        "prob_subject": 8.761882781982422e-06,
+        "prob_answer": 9.357929229736328e-06
+    },
+    "17_mlp_out_0": {
+        "token_idx": 0,
+        "tokens": "'gc,  mastur, .Reporting,  \u0441\u0456\u0447,  fitte,  podrob,  annonces,  lesbi,  fisse, TPL",
+        "rank_subject": 127407,
+        "rank_answer": 80639,
+        "logit_subject": -0.052490234375,
+        "logit_answer": -0.007110595703125,
+        "prob_subject": 7.3909759521484375e-06,
+        "prob_answer": 7.748603820800781e-06
+    },
+    "17_mlp_out_1": {
+        "token_idx": 1,
+        "tokens": "\u2026\n, \u00a0in, \u2014and, ..\n,  ConnectionState, ...\n, \u2026\u201d,  anticipated, \n,  recently",
+        "rank_subject": 42926,
+        "rank_answer": 45405,
+        "logit_subject": 0.0279541015625,
+        "logit_answer": 0.024658203125,
+        "prob_subject": 7.987022399902344e-06,
+        "prob_answer": 7.987022399902344e-06
+    },
+    "17_mlp_out_2": {
+        "token_idx": 2,
+        "tokens": " capital, wig,  Capital, f, ware, ytic, l,  anywhere,  mon, vetica",
+        "rank_subject": 82465,
+        "rank_answer": 88536,
+        "logit_subject": -0.022216796875,
+        "logit_answer": -0.0302734375,
+        "prob_subject": 7.599592208862305e-06,
+        "prob_answer": 7.539987564086914e-06
+    },
+    "17_mlp_out_3": {
+        "token_idx": 3,
+        "tokens": " Gol, \u00a0in,  lik,  Heck, \u3042\u308b,  Marathon,  capital, bags, oz, ..\n",
+        "rank_subject": 61536,
+        "rank_answer": 111634,
+        "logit_subject": 0.004669189453125,
+        "logit_answer": -0.076171875,
+        "prob_subject": 7.808208465576172e-06,
+        "prob_answer": 7.212162017822266e-06
+    },
+    "17_mlp_out_4": {
+        "token_idx": 4,
+        "tokens": "gate, opia,  Dunn,  Hairst, umb, aux,  OSI, hs,  Macedonia, .",
+        "rank_subject": 93233,
+        "rank_answer": 125502,
+        "logit_subject": -0.0380859375,
+        "logit_answer": -0.134765625,
+        "prob_subject": 7.4803829193115234e-06,
+        "prob_answer": 6.794929504394531e-06
+    },
+    "17_mlp_out_5": {
+        "token_idx": 5,
+        "tokens": "., :, \u00a0, \u00a0in,  , !,  pr, SystemService,  bil,  (",
+        "rank_subject": 7990,
+        "rank_answer": 60121,
+        "logit_subject": 0.10595703125,
+        "logit_answer": 0.00701904296875,
+        "prob_subject": 8.64267349243164e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "17_mlp_out_6": {
+        "token_idx": 6,
+        "tokens": "worth,  pr,  locator, iferay,  beaut, ardown,  collo,  Associated,  Bibli, \u200a",
+        "rank_subject": 6289,
+        "rank_answer": 16268,
+        "logit_subject": 0.1064453125,
+        "logit_answer": 0.07373046875,
+        "prob_subject": 8.64267349243164e-06,
+        "prob_answer": 8.404254913330078e-06
+    },
+    "18_attn_out_0": {
+        "token_idx": 0,
+        "tokens": "ableOpacity, CustomAttributes, /******/, FixedSize, flater, MainFrame, UpInside, disposing, SystemService, oon",
+        "rank_subject": 97506,
+        "rank_answer": 62448,
+        "logit_subject": -0.0096435546875,
+        "logit_answer": 0.00021457672119140625,
+        "prob_subject": 7.748603820800781e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "18_attn_out_1": {
+        "token_idx": 1,
+        "tokens": "oon, CustomAttributes, SFML, ibu, uff, ClassLoader, aleb, SystemService, emsp, disposing",
+        "rank_subject": 101809,
+        "rank_answer": 54865,
+        "logit_subject": -0.008544921875,
+        "logit_answer": 0.001800537109375,
+        "prob_subject": 7.748603820800781e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "18_attn_out_2": {
+        "token_idx": 2,
+        "tokens": "oon, \ufffd, .Hosting, assa, ozo, 472,  Trading, \u63d0, \u4e01, enti",
+        "rank_subject": 6442,
+        "rank_answer": 84117,
+        "logit_subject": 0.0205078125,
+        "logit_answer": -0.004913330078125,
+        "prob_subject": 7.987022399902344e-06,
+        "prob_answer": 7.748603820800781e-06
+    },
+    "18_attn_out_3": {
+        "token_idx": 3,
+        "tokens": "ClassLoader, iferay, raman, esModule, ooks, aleb, ffi, \u7b14, ocio, ingen",
+        "rank_subject": 20748,
+        "rank_answer": 87318,
+        "logit_subject": 0.01031494140625,
+        "logit_answer": -0.004974365234375,
+        "prob_subject": 7.867813110351562e-06,
+        "prob_answer": 7.748603820800781e-06
+    },
+    "18_attn_out_4": {
+        "token_idx": 4,
+        "tokens": "raman, ocio, ClassLoader, ooks, iferay, hower, ombo, ffi, mdb, \u0441\u0456\u043c",
+        "rank_subject": 10261,
+        "rank_answer": 94798,
+        "logit_subject": 0.0179443359375,
+        "logit_answer": -0.00811767578125,
+        "prob_subject": 7.927417755126953e-06,
+        "prob_answer": 7.748603820800781e-06
+    },
+    "18_attn_out_5": {
+        "token_idx": 5,
+        "tokens": " itself,  SK, onta,  lies,  its, 946,  experi,  hosting, inia, j\u00edm",
+        "rank_subject": 8564,
+        "rank_answer": 34839,
+        "logit_subject": 0.036865234375,
+        "logit_answer": 0.01483154296875,
+        "prob_subject": 8.106231689453125e-06,
+        "prob_answer": 7.927417755126953e-06
+    },
+    "18_attn_out_6": {
+        "token_idx": 6,
+        "tokens": " itself, onta,  ours, omp, anje, host,  yours,  SK,  hosting, 946",
+        "rank_subject": 13506,
+        "rank_answer": 19088,
+        "logit_subject": 0.02783203125,
+        "logit_answer": 0.0230712890625,
+        "prob_subject": 7.987022399902344e-06,
+        "prob_answer": 7.987022399902344e-06
+    },
+    "18_mlp_out_0": {
+        "token_idx": 0,
+        "tokens": "\u0e34\u0e2a, 375, PPER, TestId, ov\u011b, \u6483,  ,  cop,  rep,  intern",
+        "rank_subject": 17348,
+        "rank_answer": 21447,
+        "logit_subject": 0.0179443359375,
+        "logit_answer": 0.0157470703125,
+        "prob_subject": 7.927417755126953e-06,
+        "prob_answer": 7.927417755126953e-06
+    },
+    "18_mlp_out_1": {
+        "token_idx": 1,
+        "tokens": "\u00a0in, ..\n, /stdc, leDb, \u2026\n,  following, \u0648\u0627\u0621, ableOpacity,  albeit, ...\n",
+        "rank_subject": 1552,
+        "rank_answer": 61382,
+        "logit_subject": 0.16015625,
+        "logit_answer": 0.006439208984375,
+        "prob_subject": 9.119510650634766e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "18_mlp_out_2": {
+        "token_idx": 2,
+        "tokens": "izes, ization, ised, isation, ize, ized, izing, ibold, izations, .scalablytyped",
+        "rank_subject": 99795,
+        "rank_answer": 97893,
+        "logit_subject": -0.040771484375,
+        "logit_answer": -0.0380859375,
+        "prob_subject": 7.4803829193115234e-06,
+        "prob_answer": 7.4803829193115234e-06
+    },
+    "18_mlp_out_3": {
+        "token_idx": 3,
+        "tokens": "\u00a0,  compelling,  Mag, \u00a0in, ugar,  Sloan, opt,  what,  Mess,  densely",
+        "rank_subject": 3716,
+        "rank_answer": 45216,
+        "logit_subject": 0.11669921875,
+        "logit_answer": 0.024169921875,
+        "prob_subject": 8.761882781982422e-06,
+        "prob_answer": 7.987022399902344e-06
+    },
+    "18_mlp_out_4": {
+        "token_idx": 4,
+        "tokens": "\u00a0,  forever,  end,  --, ied,  , --,  bank,  Dil, \u2013",
+        "rank_subject": 3826,
+        "rank_answer": 83263,
+        "logit_subject": 0.13671875,
+        "logit_answer": -0.02685546875,
+        "prob_subject": 8.940696716308594e-06,
+        "prob_answer": 7.569789886474609e-06
+    },
+    "18_mlp_out_5": {
+        "token_idx": 5,
+        "tokens": " and,  coun,  -,  vil, vers,  ^{, 940,  FileAccess, \u00a0,  beat",
+        "rank_subject": 387,
+        "rank_answer": 347,
+        "logit_subject": 0.162109375,
+        "logit_answer": 0.1650390625,
+        "prob_subject": 9.179115295410156e-06,
+        "prob_answer": 9.179115295410156e-06
+    },
+    "18_mlp_out_6": {
+        "token_idx": 6,
+        "tokens": " South, also, ioni,  MONEY,  also,  c,  Republic,  republic,  called, strip",
+        "rank_subject": 0,
+        "rank_answer": 135,
+        "logit_subject": 0.30078125,
+        "logit_answer": 0.2041015625,
+        "prob_subject": 1.049041748046875e-05,
+        "prob_answer": 9.5367431640625e-06
+    },
+    "19_attn_out_0": {
+        "token_idx": 0,
+        "tokens": "UpInside, -lnd, ableOpacity, ConverterFactory, \u00e1zd, -wsj, .createParallelGroup, AMESPACE, \u30c3\u30af, (AdapterView",
+        "rank_subject": 92229,
+        "rank_answer": 4324,
+        "logit_subject": -0.008056640625,
+        "logit_answer": 0.026123046875,
+        "prob_subject": 7.748603820800781e-06,
+        "prob_answer": 7.987022399902344e-06
+    },
+    "19_attn_out_1": {
+        "token_idx": 1,
+        "tokens": "QRST,  tavs, abi, flater, _vlog, INFRINGEMENT, ptal, KANJI, AMI, armac",
+        "rank_subject": 124233,
+        "rank_answer": 11717,
+        "logit_subject": -0.0166015625,
+        "logit_answer": 0.01153564453125,
+        "prob_subject": 7.68899917602539e-06,
+        "prob_answer": 7.867813110351562e-06
+    },
+    "19_attn_out_2": {
+        "token_idx": 2,
+        "tokens": " premi, itag,  hete,  tavs, contre,  porr, .ide, _Collections, (EXPR, \u30f3\u30c7",
+        "rank_subject": 101215,
+        "rank_answer": 13301,
+        "logit_subject": -0.0062255859375,
+        "logit_answer": 0.00982666015625,
+        "prob_subject": 7.748603820800781e-06,
+        "prob_answer": 7.867813110351562e-06
+    },
+    "19_attn_out_3": {
+        "token_idx": 3,
+        "tokens": ".Serial, usz, \u0442\u0430\u0436,  serg, eniable, \u30ad\u30f3\u30b0, ohana, zon, \u0435\u0433\u043e\u0440,  hete",
+        "rank_subject": 114176,
+        "rank_answer": 34298,
+        "logit_subject": -0.0198974609375,
+        "logit_answer": 0.0098876953125,
+        "prob_subject": 7.62939453125e-06,
+        "prob_answer": 7.867813110351562e-06
+    },
+    "19_attn_out_4": {
+        "token_idx": 4,
+        "tokens": "avia,  \u0440\u0435\u0432, lopedia, umpt, \u03c5\u03ba, trl, _Collections, achu,  kvin, .photos",
+        "rank_subject": 127471,
+        "rank_answer": 61398,
+        "logit_subject": -0.0294189453125,
+        "logit_answer": 0.0004825592041015625,
+        "prob_subject": 7.569789886474609e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "19_attn_out_5": {
+        "token_idx": 5,
+        "tokens": "\u2026.\n\n, ESCO, \u304f\u3060, iyim, ,ep, akat, !\n\n\n\n,  indeb,  nebu, \u03c1\u03bf\u03cd",
+        "rank_subject": 34900,
+        "rank_answer": 727,
+        "logit_subject": 0.0072021484375,
+        "logit_answer": 0.032470703125,
+        "prob_subject": 7.867813110351562e-06,
+        "prob_answer": 8.046627044677734e-06
+    },
+    "19_attn_out_6": {
+        "token_idx": 6,
+        "tokens": " Seoul,  Korean,  Korea,  Koreans,  Kim,  H\u00e0n, flater, @nate, ymoon, \u97e9",
+        "rank_subject": 146,
+        "rank_answer": 0,
+        "logit_subject": 0.041259765625,
+        "logit_answer": 0.1083984375,
+        "prob_subject": 8.106231689453125e-06,
+        "prob_answer": 8.702278137207031e-06
+    },
+    "19_mlp_out_0": {
+        "token_idx": 0,
+        "tokens": "\u0627\u0635\u0644\u0647, idl, ichert, umo, entiful, odian, fk, anford, repid,  \ufffd",
+        "rank_subject": 94962,
+        "rank_answer": 34437,
+        "logit_subject": -0.00689697265625,
+        "logit_answer": 0.006500244140625,
+        "prob_subject": 7.748603820800781e-06,
+        "prob_answer": 7.867813110351562e-06
+    },
+    "19_mlp_out_1": {
+        "token_idx": 1,
+        "tokens": "\u2026\n, ..\n,  LoggerFactory,  CrossAxisAlignment, emand, alli, \\Migration, \u00a0in,  dequeueReusableCellWithIdentifier,  internationally",
+        "rank_subject": 12210,
+        "rank_answer": 41143,
+        "logit_subject": 0.0751953125,
+        "logit_answer": 0.0283203125,
+        "prob_subject": 8.404254913330078e-06,
+        "prob_answer": 7.987022399902344e-06
+    },
+    "19_mlp_out_2": {
+        "token_idx": 2,
+        "tokens": "ilestone,  ,  of,  upon, istic, -, restrial, ipes, egen, ist",
+        "rank_subject": 19413,
+        "rank_answer": 3228,
+        "logit_subject": 0.059814453125,
+        "logit_answer": 0.11572265625,
+        "prob_subject": 8.285045623779297e-06,
+        "prob_answer": 8.761882781982422e-06
+    },
+    "19_mlp_out_3": {
+        "token_idx": 3,
+        "tokens": "_exempt, \u00a0in,  wholly,  firmly, \u00ad,  rh,  internationally,  strongly,  em,  owing",
+        "rank_subject": 4553,
+        "rank_answer": 45038,
+        "logit_subject": 0.12158203125,
+        "logit_answer": 0.0272216796875,
+        "prob_subject": 8.761882781982422e-06,
+        "prob_answer": 7.987022399902344e-06
+    },
+    "19_mlp_out_4": {
+        "token_idx": 4,
+        "tokens": " Bank,  cross,  range,  Reserved, ,,  gam,  Cross,  rem, elle,  bank",
+        "rank_subject": 9157,
+        "rank_answer": 22040,
+        "logit_subject": 0.10107421875,
+        "logit_answer": 0.06494140625,
+        "prob_subject": 8.58306884765625e-06,
+        "prob_answer": 8.285045623779297e-06
+    },
+    "19_mlp_out_5": {
+        "token_idx": 5,
+        "tokens": " for,  over,  A, \u00a0in,  l, ., \u2026\n, ..\n, ;,  b",
+        "rank_subject": 45166,
+        "rank_answer": 11870,
+        "logit_subject": 0.0267333984375,
+        "logit_answer": 0.0888671875,
+        "prob_subject": 7.987022399902344e-06,
+        "prob_answer": 8.52346420288086e-06
+    },
+    "19_mlp_out_6": {
+        "token_idx": 6,
+        "tokens": " London, sit, \u00e9ra,  named,  situated,  Delhi, London,  called,  r,  Jakarta",
+        "rank_subject": 34674,
+        "rank_answer": 89,
+        "logit_subject": 0.0419921875,
+        "logit_answer": 0.234375,
+        "prob_subject": 8.106231689453125e-06,
+        "prob_answer": 9.834766387939453e-06
+    },
+    "20_attn_out_0": {
+        "token_idx": 0,
+        "tokens": "ConverterFactory, SystemService, :UIAlert,  rightfully, -lnd, ContextHolder, UpInside,  understandably,  effortlessly,  b",
+        "rank_subject": 20923,
+        "rank_answer": 12251,
+        "logit_subject": 0.01397705078125,
+        "logit_answer": 0.0185546875,
+        "prob_subject": 7.927417755126953e-06,
+        "prob_answer": 7.927417755126953e-06
+    },
+    "20_attn_out_1": {
+        "token_idx": 1,
+        "tokens": "oog, -prepend, TabPage, OAD, dum, .fromString, hoe, olic, ?(\", \u03c4\u03c9",
+        "rank_subject": 36501,
+        "rank_answer": 37484,
+        "logit_subject": 0.00787353515625,
+        "logit_answer": 0.007568359375,
+        "prob_subject": 7.867813110351562e-06,
+        "prob_answer": 7.867813110351562e-06
+    },
+    "20_attn_out_2": {
+        "token_idx": 2,
+        "tokens": "lds,  \ufffd, itable, -prepend, \u0441\u043f\u0456\u043b\u044c, yth, rose,  v\u00e1\u017e, omid, cak",
+        "rank_subject": 69991,
+        "rank_answer": 23149,
+        "logit_subject": -0.00099945068359375,
+        "logit_answer": 0.0076904296875,
+        "prob_subject": 7.808208465576172e-06,
+        "prob_answer": 7.867813110351562e-06
+    },
+    "20_attn_out_3": {
+        "token_idx": 3,
+        "tokens": " \ufffd, -prepend, occer,  Rough, since,  Operation,  since, erse, .iOS, -addon",
+        "rank_subject": 23102,
+        "rank_answer": 36483,
+        "logit_subject": 0.00799560546875,
+        "logit_answer": 0.00494384765625,
+        "prob_subject": 7.867813110351562e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "20_attn_out_4": {
+        "token_idx": 4,
+        "tokens": "until,  until, _until,  till, iaux,  Until,  hete, ocket, _ipc, zik",
+        "rank_subject": 31879,
+        "rank_answer": 44977,
+        "logit_subject": 0.00714111328125,
+        "logit_answer": 0.003936767578125,
+        "prob_subject": 7.867813110351562e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "20_attn_out_5": {
+        "token_idx": 5,
+        "tokens": "lds, _until, \u30b4\u30ea, erse, until, _mC, .addEdge, XObject, ityEngine, \u03ba\u03c5",
+        "rank_subject": 59301,
+        "rank_answer": 1993,
+        "logit_subject": 0.00104522705078125,
+        "logit_answer": 0.0255126953125,
+        "prob_subject": 7.808208465576172e-06,
+        "prob_answer": 7.987022399902344e-06
+    },
+    "20_attn_out_6": {
+        "token_idx": 6,
+        "tokens": "\u30b4\u30ea, .nodeType, _mE, \u043b\u0443, \u2116\u2116, _mC, rowning, .mdl,  Sabb, vyk",
+        "rank_subject": 110362,
+        "rank_answer": 2680,
+        "logit_subject": -0.01385498046875,
+        "logit_answer": 0.0264892578125,
+        "prob_subject": 7.68899917602539e-06,
+        "prob_answer": 7.987022399902344e-06
+    },
+    "20_mlp_out_0": {
+        "token_idx": 0,
+        "tokens": "\u3056, dac, anda\u015f, Cog,  vib, .Reporting,  ~(,  Bra, li\u0161,  Babe",
+        "rank_subject": 94720,
+        "rank_answer": 87988,
+        "logit_subject": -0.00836181640625,
+        "logit_answer": -0.00628662109375,
+        "prob_subject": 7.748603820800781e-06,
+        "prob_answer": 7.748603820800781e-06
+    },
+    "20_mlp_out_1": {
+        "token_idx": 1,
+        "tokens": "\u00a0in, ..\n,  here,  effects, \u00a0, _exempt,  effected,  Effects, atre, osate",
+        "rank_subject": 4530,
+        "rank_answer": 73871,
+        "logit_subject": 0.12109375,
+        "logit_answer": -0.01080322265625,
+        "prob_subject": 8.761882781982422e-06,
+        "prob_answer": 7.68899917602539e-06
+    },
+    "20_mlp_out_2": {
+        "token_idx": 2,
+        "tokens": " capital,  super, SuppressLint, clerosis,  gel, 193, NameValuePair,  cap,  Bert, BTTagCompound",
+        "rank_subject": 58698,
+        "rank_answer": 90259,
+        "logit_subject": 0.00811767578125,
+        "logit_answer": -0.037841796875,
+        "prob_subject": 7.867813110351562e-06,
+        "prob_answer": 7.4803829193115234e-06
+    },
+    "20_mlp_out_3": {
+        "token_idx": 3,
+        "tokens": "\u00a0, assy,  unst,  Gal,  displacement,  consciously,  Mo,  , redient,  an",
+        "rank_subject": 6653,
+        "rank_answer": 99976,
+        "logit_subject": 0.115234375,
+        "logit_answer": -0.05517578125,
+        "prob_subject": 8.702278137207031e-06,
+        "prob_answer": 7.361173629760742e-06
+    },
+    "20_mlp_out_4": {
+        "token_idx": 4,
+        "tokens": " Stack, tiv, dou, tier,  nets, \ufffd, \ufffd\ud504, \u043e\u043c\u0435\u0440,  tier, anvas",
+        "rank_subject": 42899,
+        "rank_answer": 18975,
+        "logit_subject": 0.029541015625,
+        "logit_answer": 0.07421875,
+        "prob_subject": 7.987022399902344e-06,
+        "prob_answer": 8.404254913330078e-06
+    },
+    "20_mlp_out_5": {
+        "token_idx": 5,
+        "tokens": "\\Migration, PathComponent,  literally, \ufffd, ..\n, host, HOST,  hosts, izz, aven",
+        "rank_subject": 1383,
+        "rank_answer": 428,
+        "logit_subject": 0.14453125,
+        "logit_answer": 0.1708984375,
+        "prob_subject": 9.000301361083984e-06,
+        "prob_answer": 9.238719940185547e-06
+    },
+    "20_mlp_out_6": {
+        "token_idx": 6,
+        "tokens": "ane, ogi, haar,  weekday, nels, ibr, ban, frame, aylor, OPSIS",
+        "rank_subject": 22595,
+        "rank_answer": 202,
+        "logit_subject": 0.06787109375,
+        "logit_answer": 0.22265625,
+        "prob_subject": 8.344650268554688e-06,
+        "prob_answer": 9.715557098388672e-06
+    },
+    "21_attn_out_0": {
+        "token_idx": 0,
+        "tokens": ":UIAlert, _exempt, usercontent, DownLatch, ConverterFactory, Matchers, UpInside, ContextHolder, urtle,  seamlessly",
+        "rank_subject": 89825,
+        "rank_answer": 3529,
+        "logit_subject": -0.0069580078125,
+        "logit_answer": 0.026611328125,
+        "prob_subject": 7.748603820800781e-06,
+        "prob_answer": 7.987022399902344e-06
+    },
+    "21_attn_out_1": {
+        "token_idx": 1,
+        "tokens": "\u2026\n, \u2026, ...\n, \u2026., \u2026and,  [\u2026]\n, \u2026\u201d, \u2026the, \u2026\u2026,  \u2026\n",
+        "rank_subject": 1429,
+        "rank_answer": 26445,
+        "logit_subject": 0.06591796875,
+        "logit_answer": 0.0230712890625,
+        "prob_subject": 8.344650268554688e-06,
+        "prob_answer": 7.987022399902344e-06
+    },
+    "21_attn_out_2": {
+        "token_idx": 2,
+        "tokens": " sez,  \u0442\u043e\u0432, \u0e15\u0e25, ibu,  \u043d\u0435\u0441\u043a, \u0e30\u0e41,  \u0432\u0441\u0442, LARI, .examples, 'na",
+        "rank_subject": 9570,
+        "rank_answer": 48853,
+        "logit_subject": 0.0247802734375,
+        "logit_answer": 0.004852294921875,
+        "prob_subject": 7.987022399902344e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "21_attn_out_3": {
+        "token_idx": 3,
+        "tokens": " country, urg,  Quotes,  land,  King,  Contrib,  Queen,  rocky,  Country,  National",
+        "rank_subject": 119,
+        "rank_answer": 29498,
+        "logit_subject": 0.06689453125,
+        "logit_answer": 0.01513671875,
+        "prob_subject": 8.344650268554688e-06,
+        "prob_answer": 7.927417755126953e-06
+    },
+    "21_attn_out_4": {
+        "token_idx": 4,
+        "tokens": " land,  Golden,  golden, ivr, land, .Yellow, ystone, gent, guard,  King",
+        "rank_subject": 14725,
+        "rank_answer": 13510,
+        "logit_subject": 0.0191650390625,
+        "logit_answer": 0.02001953125,
+        "prob_subject": 7.927417755126953e-06,
+        "prob_answer": 7.927417755126953e-06
+    },
+    "21_attn_out_5": {
+        "token_idx": 5,
+        "tokens": "ritz,  coal,  Walt, WebResponse,  Tie,  city, olls,  Quentin, oppel,  Neue",
+        "rank_subject": 7650,
+        "rank_answer": 12469,
+        "logit_subject": 0.02001953125,
+        "logit_answer": 0.0167236328125,
+        "prob_subject": 7.927417755126953e-06,
+        "prob_answer": 7.927417755126953e-06
+    },
+    "21_attn_out_6": {
+        "token_idx": 6,
+        "tokens": " country,  meis, _MT, _PRINTF,  pev,  Kostenlose,  land, \u00e1\u017e,  city, ...\n\n\n",
+        "rank_subject": 4703,
+        "rank_answer": 17211,
+        "logit_subject": 0.045654296875,
+        "logit_answer": 0.0274658203125,
+        "prob_subject": 8.165836334228516e-06,
+        "prob_answer": 7.987022399902344e-06
+    },
+    "21_mlp_out_0": {
+        "token_idx": 0,
+        "tokens": " rev, zy, abs, ovna, baum, usc,  the,  pseud, st,  ",
+        "rank_subject": 61158,
+        "rank_answer": 13251,
+        "logit_subject": 0.0008087158203125,
+        "logit_answer": 0.015625,
+        "prob_subject": 7.808208465576172e-06,
+        "prob_answer": 7.927417755126953e-06
+    },
+    "21_mlp_out_1": {
+        "token_idx": 1,
+        "tokens": "\u00a0in, \u2026\n, ..\n,  \u2026\n,  influence, ...\n, \u2026\u201d, \u0648\u0627\u0621,  internationally, /stdc",
+        "rank_subject": 6949,
+        "rank_answer": 64728,
+        "logit_subject": 0.14453125,
+        "logit_answer": 0.002532958984375,
+        "prob_subject": 8.940696716308594e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "21_mlp_out_2": {
+        "token_idx": 2,
+        "tokens": "rips, /fontawesome, izia, onde, eros,  weather, ancybox, \u0e0a\u0e32\u0e22, ingle, izes",
+        "rank_subject": 43394,
+        "rank_answer": 24241,
+        "logit_subject": 0.032958984375,
+        "logit_answer": 0.0693359375,
+        "prob_subject": 8.046627044677734e-06,
+        "prob_answer": 8.344650268554688e-06
+    },
+    "21_mlp_out_3": {
+        "token_idx": 3,
+        "tokens": "\u2026\n, \u00a0in, ..\n,  \u2026\n, \u2026,  Kent, ...\n,  dev,  internationally, \u2026\u201d",
+        "rank_subject": 15698,
+        "rank_answer": 91030,
+        "logit_subject": 0.115234375,
+        "logit_answer": -0.05322265625,
+        "prob_subject": 8.702278137207031e-06,
+        "prob_answer": 7.361173629760742e-06
+    },
+    "21_mlp_out_4": {
+        "token_idx": 4,
+        "tokens": " Brand, irk,  Ty, western,  Wes, 32, 263, \u6c14,  Brandon, \u00e5",
+        "rank_subject": 49890,
+        "rank_answer": 66531,
+        "logit_subject": 0.0220947265625,
+        "logit_answer": -0.003204345703125,
+        "prob_subject": 7.927417755126953e-06,
+        "prob_answer": 7.748603820800781e-06
+    },
+    "21_mlp_out_5": {
+        "token_idx": 5,
+        "tokens": " capital, \u00a0in, ..\n,  Capital, \u2026\n,  capitals,  is,  --, .., capital",
+        "rank_subject": 835,
+        "rank_answer": 742,
+        "logit_subject": 0.1962890625,
+        "logit_answer": 0.2001953125,
+        "prob_subject": 9.47713851928711e-06,
+        "prob_answer": 9.47713851928711e-06
+    },
+    "21_mlp_out_6": {
+        "token_idx": 6,
+        "tokens": " filled,  Seoul, \u00a0in,  full,  directly, \u2026\n, \u00a0, ..\n,  Donovan,  exert",
+        "rank_subject": 120,
+        "rank_answer": 1,
+        "logit_subject": 0.287109375,
+        "logit_answer": 0.486328125,
+        "prob_subject": 1.0371208190917969e-05,
+        "prob_answer": 1.2636184692382812e-05
+    },
+    "22_attn_out_0": {
+        "token_idx": 0,
+        "tokens": "UpInside, ConverterFactory, _exempt, :UIAlert, ColumnsMode, PathComponent, /stdc,  onDataChange, SystemService, \\Migration",
+        "rank_subject": 50060,
+        "rank_answer": 23251,
+        "logit_subject": 0.005279541015625,
+        "logit_answer": 0.01470947265625,
+        "prob_subject": 7.808208465576172e-06,
+        "prob_answer": 7.927417755126953e-06
+    },
+    "22_attn_out_1": {
+        "token_idx": 1,
+        "tokens": "ConverterFactory,  onDataChange, UpInside, :UIAlert, SystemService, _exempt, _HERSHEY, specialchars, /stdc, ableOpacity",
+        "rank_subject": 33685,
+        "rank_answer": 20264,
+        "logit_subject": 0.0068359375,
+        "logit_answer": 0.0103759765625,
+        "prob_subject": 7.867813110351562e-06,
+        "prob_answer": 7.867813110351562e-06
+    },
+    "22_attn_out_2": {
+        "token_idx": 2,
+        "tokens": " onDataChange, _exempt, ocommerce, UpInside, PathComponent, _HERSHEY, \ufffd, \u0648\u0627\u0621, .infinity, ..\n",
+        "rank_subject": 31459,
+        "rank_answer": 49318,
+        "logit_subject": 0.00830078125,
+        "logit_answer": 0.00390625,
+        "prob_subject": 7.867813110351562e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "22_attn_out_3": {
+        "token_idx": 3,
+        "tokens": "styleType, segue, _exempt, combe, ltk, riteln, \u043d\u0430\u0434\u043b\u0435\u0436, (disposing, itra, (*)(",
+        "rank_subject": 7288,
+        "rank_answer": 90619,
+        "logit_subject": 0.019287109375,
+        "logit_answer": -0.006591796875,
+        "prob_subject": 7.927417755126953e-06,
+        "prob_answer": 7.748603820800781e-06
+    },
+    "22_attn_out_4": {
+        "token_idx": 4,
+        "tokens": "_exempt, UpInside, /stdc, styleType, _HERSHEY,  onDataChange,  CommandType, \ufffd, ColumnsMode, ableOpacity",
+        "rank_subject": 22829,
+        "rank_answer": 47254,
+        "logit_subject": 0.00970458984375,
+        "logit_answer": 0.00384521484375,
+        "prob_subject": 7.867813110351562e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "22_attn_out_5": {
+        "token_idx": 5,
+        "tokens": ".infinity, \ufffd, .habbo,  mint, HEME, _echo, PasswordEncoder, _HERSHEY, uffle, igung",
+        "rank_subject": 13274,
+        "rank_answer": 27592,
+        "logit_subject": 0.0224609375,
+        "logit_answer": 0.01409912109375,
+        "prob_subject": 7.987022399902344e-06,
+        "prob_answer": 7.927417755126953e-06
+    },
+    "22_attn_out_6": {
+        "token_idx": 6,
+        "tokens": "INGTON, \ufffd\u043e\u0442, XmlAttribute, ContentView, straction, .LogWarning, athing, DBObject, uang, igung",
+        "rank_subject": 54836,
+        "rank_answer": 18390,
+        "logit_subject": 0.003326416015625,
+        "logit_answer": 0.0186767578125,
+        "prob_subject": 7.808208465576172e-06,
+        "prob_answer": 7.927417755126953e-06
+    },
+    "22_mlp_out_0": {
+        "token_idx": 0,
+        "tokens": " yy, \u3056, \u0438\u043c\u0435, .decorate,  Bor, \u7b51,  ,  \ufffd, \uc790\uc778, uja",
+        "rank_subject": 38238,
+        "rank_answer": 39357,
+        "logit_subject": 0.006378173828125,
+        "logit_answer": 0.006103515625,
+        "prob_subject": 7.867813110351562e-06,
+        "prob_answer": 7.867813110351562e-06
+    },
+    "22_mlp_out_1": {
+        "token_idx": 1,
+        "tokens": "\u00a0in, ..\n, \\Migration, /stdc, \u2026\n, \u00a0,  ..\n,  ^{,  sometime, -fontawesome",
+        "rank_subject": 948,
+        "rank_answer": 21561,
+        "logit_subject": 0.22265625,
+        "logit_answer": 0.09423828125,
+        "prob_subject": 9.715557098388672e-06,
+        "prob_answer": 8.52346420288086e-06
+    },
+    "22_mlp_out_2": {
+        "token_idx": 2,
+        "tokens": " city,  of, city,  cities, bate,  City, /stdc, \u0648\u0627\u0621,  CITY, -city",
+        "rank_subject": 707,
+        "rank_answer": 21823,
+        "logit_subject": 0.1953125,
+        "logit_answer": 0.07421875,
+        "prob_subject": 9.47713851928711e-06,
+        "prob_answer": 8.344650268554688e-06
+    },
+    "22_mlp_out_3": {
+        "token_idx": 3,
+        "tokens": ":UIAlert, ..\n, \u0648\u0627\u0621, \u00a0in, /stdc, \u2026\n, sofar, :UITableView, PathComponent, RowAt",
+        "rank_subject": 3003,
+        "rank_answer": 45106,
+        "logit_subject": 0.1669921875,
+        "logit_answer": 0.036376953125,
+        "prob_subject": 9.179115295410156e-06,
+        "prob_answer": 8.046627044677734e-06
+    },
+    "22_mlp_out_4": {
+        "token_idx": 4,
+        "tokens": "wich, ampton, wick,  Korean, \u00f6m, wert,  Shields,  Korea,  Pole, Plain",
+        "rank_subject": 9880,
+        "rank_answer": 6427,
+        "logit_subject": 0.09326171875,
+        "logit_answer": 0.1083984375,
+        "prob_subject": 8.52346420288086e-06,
+        "prob_answer": 8.64267349243164e-06
+    },
+    "22_mlp_out_5": {
+        "token_idx": 5,
+        "tokens": " Seoul,  Korea,  Pyongyang,  Korean, ..\n, \u0648\u0627\u0621, \u00a0in,  Jung, /stdc,  Kim",
+        "rank_subject": 24,
+        "rank_answer": 0,
+        "logit_subject": 0.3046875,
+        "logit_answer": 0.44921875,
+        "prob_subject": 1.055002212524414e-05,
+        "prob_answer": 1.2159347534179688e-05
+    },
+    "22_mlp_out_6": {
+        "token_idx": 6,
+        "tokens": " Known,  known, known,  Seoul, :UIAlert,  Pyongyang, -known, Known,  infamous, \u0648\u0627\u0621",
+        "rank_subject": 47,
+        "rank_answer": 3,
+        "logit_subject": 0.3046875,
+        "logit_answer": 0.48828125,
+        "prob_subject": 1.055002212524414e-05,
+        "prob_answer": 1.2636184692382812e-05
+    },
+    "23_attn_out_0": {
+        "token_idx": 0,
+        "tokens": "ColumnsMode, UpInside, ..\n, \u00a0in, \u0648\u0627\u0621, \\Migration, \u00ad,  passionately, ConverterFactory,  onDataChange",
+        "rank_subject": 28619,
+        "rank_answer": 32625,
+        "logit_subject": 0.01556396484375,
+        "logit_answer": 0.01373291015625,
+        "prob_subject": 7.927417755126953e-06,
+        "prob_answer": 7.927417755126953e-06
+    },
+    "23_attn_out_1": {
+        "token_idx": 1,
+        "tokens": " following, following,  most,  latest,  which,  Following, -most, Following, latest,  newest",
+        "rank_subject": 3704,
+        "rank_answer": 23123,
+        "logit_subject": 0.034423828125,
+        "logit_answer": 0.0164794921875,
+        "prob_subject": 8.046627044677734e-06,
+        "prob_answer": 7.927417755126953e-06
+    },
+    "23_attn_out_2": {
+        "token_idx": 2,
+        "tokens": " Cooke,  curves, urse, achs, olf, ookie, agn,  Cur, \ufffd,  curiosity",
+        "rank_subject": 7438,
+        "rank_answer": 8837,
+        "logit_subject": 0.048095703125,
+        "logit_answer": 0.04541015625,
+        "prob_subject": 8.165836334228516e-06,
+        "prob_answer": 8.165836334228516e-06
+    },
+    "23_attn_out_3": {
+        "token_idx": 3,
+        "tokens": "igr, \\Migration, 385, cher,  CrossAxisAlignment, urb, crollView,  consciousness, ..\n, ao",
+        "rank_subject": 5446,
+        "rank_answer": 23084,
+        "logit_subject": 0.03271484375,
+        "logit_answer": 0.0177001953125,
+        "prob_subject": 8.046627044677734e-06,
+        "prob_answer": 7.927417755126953e-06
+    },
+    "23_attn_out_4": {
+        "token_idx": 4,
+        "tokens": "\u0648\u0627\u0621, ..\n, \u00a0in, \\Migration,  onDataChange, ...\n, ColumnsMode, \u00a0, SystemService, \u00ad",
+        "rank_subject": 1160,
+        "rank_answer": 20988,
+        "logit_subject": 0.0306396484375,
+        "logit_answer": 0.01336669921875,
+        "prob_subject": 8.046627044677734e-06,
+        "prob_answer": 7.927417755126953e-06
+    },
+    "23_attn_out_5": {
+        "token_idx": 5,
+        "tokens": " itself,  where,  Cur,  curves,  Clark, ury, achs,  contains,  before,  since",
+        "rank_subject": 5498,
+        "rank_answer": 8732,
+        "logit_subject": 0.039306640625,
+        "logit_answer": 0.0341796875,
+        "prob_subject": 8.106231689453125e-06,
+        "prob_answer": 8.046627044677734e-06
+    },
+    "23_attn_out_6": {
+        "token_idx": 6,
+        "tokens": " its,  Its, Its, its,  itself, curve,  Cursor,  Cookie, etre,  curve",
+        "rank_subject": 2836,
+        "rank_answer": 12166,
+        "logit_subject": 0.05859375,
+        "logit_answer": 0.037109375,
+        "prob_subject": 8.285045623779297e-06,
+        "prob_answer": 8.106231689453125e-06
+    },
+    "23_mlp_out_0": {
+        "token_idx": 0,
+        "tokens": ",,  no,  drag,  a,  at, .,  sent,  long, .\n,  in",
+        "rank_subject": 44102,
+        "rank_answer": 66606,
+        "logit_subject": 0.007354736328125,
+        "logit_answer": -0.00104522705078125,
+        "prob_subject": 7.867813110351562e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "23_mlp_out_1": {
+        "token_idx": 1,
+        "tokens": "..\n, \u00a0in, \u2026\n,  sometime,  ^{,  ..\n,  , \u0648\u0627\u0621, <|end_of_text|>,  in",
+        "rank_subject": 3781,
+        "rank_answer": 63056,
+        "logit_subject": 0.2236328125,
+        "logit_answer": 0.007293701171875,
+        "prob_subject": 9.655952453613281e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "23_mlp_out_2": {
+        "token_idx": 2,
+        "tokens": "/commons, vel,  Hann, rollable, _equalTo,  Bog, 549,  epith,  Been, \u00e1ln",
+        "rank_subject": 25702,
+        "rank_answer": 1737,
+        "logit_subject": 0.06591796875,
+        "logit_answer": 0.1708984375,
+        "prob_subject": 8.285045623779297e-06,
+        "prob_answer": 9.238719940185547e-06
+    },
+    "23_mlp_out_3": {
+        "token_idx": 3,
+        "tokens": "..\n, \u00a0in, \u2026\n,  reuseIdentifier, <|end_of_text|>, \u00a0,  \u2026\n, \u00a0\n, ...\n,  sometime",
+        "rank_subject": 3856,
+        "rank_answer": 102728,
+        "logit_subject": 0.2158203125,
+        "logit_answer": -0.1005859375,
+        "prob_subject": 9.59634780883789e-06,
+        "prob_answer": 7.0035457611083984e-06
+    },
+    "23_mlp_out_4": {
+        "token_idx": 4,
+        "tokens": " America,  American, \u2026\n,  dev, me, ..\n, \u00a0\n,  \u2026\n, \u2026,  wr",
+        "rank_subject": 6313,
+        "rank_answer": 33076,
+        "logit_subject": 0.1474609375,
+        "logit_answer": 0.058837890625,
+        "prob_subject": 9.000301361083984e-06,
+        "prob_answer": 8.225440979003906e-06
+    },
+    "23_mlp_out_5": {
+        "token_idx": 5,
+        "tokens": " since, ..\n, \u2026\n, \u00a0in, ,, ., \u00a0, <|end_of_text|>,  Since, ..",
+        "rank_subject": 2318,
+        "rank_answer": 1892,
+        "logit_subject": 0.171875,
+        "logit_answer": 0.1787109375,
+        "prob_subject": 9.238719940185547e-06,
+        "prob_answer": 9.298324584960938e-06
+    },
+    "23_mlp_out_6": {
+        "token_idx": 6,
+        "tokens": " home,  Home, Home, \u2026\n, ., .\n,  , ..\n, home, \n",
+        "rank_subject": 3375,
+        "rank_answer": 1334,
+        "logit_subject": 0.212890625,
+        "logit_answer": 0.255859375,
+        "prob_subject": 9.59634780883789e-06,
+        "prob_answer": 1.0013580322265625e-05
+    },
+    "24_attn_out_0": {
+        "token_idx": 0,
+        "tokens": "\u0648\u0627\u0621, \u00a0in, ..\n, \u00ad, \u2026\n, /stdc, -fontawesome, _exempt, ...\n, SystemService",
+        "rank_subject": 12939,
+        "rank_answer": 37881,
+        "logit_subject": 0.024169921875,
+        "logit_answer": 0.0118408203125,
+        "prob_subject": 7.987022399902344e-06,
+        "prob_answer": 7.867813110351562e-06
+    },
+    "24_attn_out_1": {
+        "token_idx": 1,
+        "tokens": " , \u00a0,  (,  \u00a0, i, n,  The, /, \", \u00ad",
+        "rank_subject": 3049,
+        "rank_answer": 46234,
+        "logit_subject": 0.048095703125,
+        "logit_answer": 0.00933837890625,
+        "prob_subject": 8.165836334228516e-06,
+        "prob_answer": 7.867813110351562e-06
+    },
+    "24_attn_out_2": {
+        "token_idx": 2,
+        "tokens": "..\n, \u0648\u0627\u0621, \u00a0in, \u00ad, \u2026\n, DC, -fontawesome, dc, au, \\(",
+        "rank_subject": 173,
+        "rank_answer": 10261,
+        "logit_subject": 0.0546875,
+        "logit_answer": 0.0260009765625,
+        "prob_subject": 8.225440979003906e-06,
+        "prob_answer": 7.987022399902344e-06
+    },
+    "24_attn_out_3": {
+        "token_idx": 3,
+        "tokens": " this, ire, a,  the, iece, apper, 100,  these, s, t",
+        "rank_subject": 551,
+        "rank_answer": 22164,
+        "logit_subject": 0.06982421875,
+        "logit_answer": 0.0244140625,
+        "prob_subject": 8.344650268554688e-06,
+        "prob_answer": 7.987022399902344e-06
+    },
+    "24_attn_out_4": {
+        "token_idx": 4,
+        "tokens": " Czech, \u0648\u0627\u0621, /stdc, ..\n,  French, \u00a0in, \u2026\n, _exempt,  Oklahoma,  french",
+        "rank_subject": 124,
+        "rank_answer": 13728,
+        "logit_subject": 0.08544921875,
+        "logit_answer": 0.03369140625,
+        "prob_subject": 8.463859558105469e-06,
+        "prob_answer": 8.046627044677734e-06
+    },
+    "24_attn_out_5": {
+        "token_idx": 5,
+        "tokens": " Korea,  Korean,  Seoul,  Koreans, orea, \u97d3,  Kore,  \u97d3, \u97e9,  H\u00e0n",
+        "rank_subject": 11,
+        "rank_answer": 2,
+        "logit_subject": 0.216796875,
+        "logit_answer": 0.408203125,
+        "prob_subject": 9.655952453613281e-06,
+        "prob_answer": 1.1742115020751953e-05
+    },
+    "24_attn_out_6": {
+        "token_idx": 6,
+        "tokens": " Korean,  Korea,  Seoul,  Koreans, \u97d3, \u97e9,  Kore,  H\u00e0n,  \u97d3,  Hyundai",
+        "rank_subject": 11,
+        "rank_answer": 2,
+        "logit_subject": 0.5390625,
+        "logit_answer": 1.015625,
+        "prob_subject": 1.33514404296875e-05,
+        "prob_answer": 2.1457672119140625e-05
+    },
+    "24_mlp_out_0": {
+        "token_idx": 0,
+        "tokens": " Kop, /respond,  dd,  <,  .,  mass, ,,  LENG, dd,  Pent",
+        "rank_subject": 11159,
+        "rank_answer": 90689,
+        "logit_subject": 0.0172119140625,
+        "logit_answer": -0.0068359375,
+        "prob_subject": 7.927417755126953e-06,
+        "prob_answer": 7.748603820800781e-06
+    },
+    "24_mlp_out_1": {
+        "token_idx": 1,
+        "tokens": "..\n, \u00a0in, \u2026\n,  ..\n, PathComponent, SystemService, ...\n,  ^{, -fontawesome,  sometime",
+        "rank_subject": 6233,
+        "rank_answer": 52936,
+        "logit_subject": 0.1337890625,
+        "logit_answer": 0.0234375,
+        "prob_subject": 8.881092071533203e-06,
+        "prob_answer": 7.927417755126953e-06
+    },
+    "24_mlp_out_2": {
+        "token_idx": 2,
+        "tokens": " raising,  raise,  raises,  raised, ury, raise,  Raise,  Raises, ais, \u53f7",
+        "rank_subject": 66061,
+        "rank_answer": 45981,
+        "logit_subject": -0.00116729736328125,
+        "logit_answer": 0.02734375,
+        "prob_subject": 7.748603820800781e-06,
+        "prob_answer": 7.987022399902344e-06
+    },
+    "24_mlp_out_3": {
+        "token_idx": 3,
+        "tokens": "..\n, \u2026\n,  Sa, \u00a0in,  Ain,  Sul,  Mor,  an,  J,  densely",
+        "rank_subject": 4415,
+        "rank_answer": 70538,
+        "logit_subject": 0.1416015625,
+        "logit_answer": -0.00872802734375,
+        "prob_subject": 8.940696716308594e-06,
+        "prob_answer": 7.68899917602539e-06
+    },
+    "24_mlp_out_4": {
+        "token_idx": 4,
+        "tokens": " Fa,  Sul,  fa, ae, BuilderInterface,  rev, ackle, \u017e\u00ed,  McA, emic",
+        "rank_subject": 5284,
+        "rank_answer": 29148,
+        "logit_subject": 0.1396484375,
+        "logit_answer": 0.058837890625,
+        "prob_subject": 8.940696716308594e-06,
+        "prob_answer": 8.225440979003906e-06
+    },
+    "24_mlp_out_5": {
+        "token_idx": 5,
+        "tokens": " South,  SOUTH, South,  Republic, jak,  Da, ,, oint,  soft, pell",
+        "rank_subject": 0,
+        "rank_answer": 68,
+        "logit_subject": 0.5078125,
+        "logit_answer": 0.2333984375,
+        "prob_subject": 1.2934207916259766e-05,
+        "prob_answer": 9.834766387939453e-06
+    },
+    "24_mlp_out_6": {
+        "token_idx": 6,
+        "tokens": " South, South,  SOUTH,  Republic,  Seoul, ajo, south, \ufffd,  Hann, Republic",
+        "rank_subject": 0,
+        "rank_answer": 4,
+        "logit_subject": 0.71875,
+        "logit_answer": 0.443359375,
+        "prob_subject": 1.5974044799804688e-05,
+        "prob_answer": 1.2099742889404297e-05
+    },
+    "25_attn_out_0": {
+        "token_idx": 0,
+        "tokens": "\u00a0in, \u2026\n, ..\n, \u00ad, ...\n, -fontawesome, /stdc, \u0648\u0627\u0621, sofar, _exempt",
+        "rank_subject": 16451,
+        "rank_answer": 48555,
+        "logit_subject": 0.033203125,
+        "logit_answer": 0.011474609375,
+        "prob_subject": 8.046627044677734e-06,
+        "prob_answer": 7.867813110351562e-06
+    },
+    "25_attn_out_1": {
+        "token_idx": 1,
+        "tokens": "\u0648\u0627\u0621, \u00a0in, _exempt, \n, \\Migration, .infinity, _makeConstraints,  ,\n, \u2026\n, asiswa",
+        "rank_subject": 68021,
+        "rank_answer": 77805,
+        "logit_subject": -0.000461578369140625,
+        "logit_answer": -0.004608154296875,
+        "prob_subject": 7.808208465576172e-06,
+        "prob_answer": 7.748603820800781e-06
+    },
+    "25_attn_out_2": {
+        "token_idx": 2,
+        "tokens": "\u00a0in, ..\n, \u0648\u0627\u0621, \u2026\n, \\Migration,  reuseIdentifier, ...\n, \u00ad,  densely, \u00a0\n",
+        "rank_subject": 17920,
+        "rank_answer": 40734,
+        "logit_subject": 0.0263671875,
+        "logit_answer": 0.01275634765625,
+        "prob_subject": 7.987022399902344e-06,
+        "prob_answer": 7.867813110351562e-06
+    },
+    "25_attn_out_3": {
+        "token_idx": 3,
+        "tokens": "\u00a0in, ..\n, ...\n, \u2026\n, \u00ad, <|end_of_text|>, \u0648\u0627\u0621, \u00a0,  ...\n,  ^{",
+        "rank_subject": 14207,
+        "rank_answer": 42301,
+        "logit_subject": 0.034912109375,
+        "logit_answer": 0.01470947265625,
+        "prob_subject": 8.046627044677734e-06,
+        "prob_answer": 7.927417755126953e-06
+    },
+    "25_attn_out_4": {
+        "token_idx": 4,
+        "tokens": "ung, inois, \u5927\u5229, ladesh, ij, une, cuador, ort, urg, zerbai",
+        "rank_subject": 18110,
+        "rank_answer": 114856,
+        "logit_subject": 0.03271484375,
+        "logit_answer": -0.03857421875,
+        "prob_subject": 8.046627044677734e-06,
+        "prob_answer": 7.510185241699219e-06
+    },
+    "25_attn_out_5": {
+        "token_idx": 5,
+        "tokens": "...\n, ..\n, \u00a0in, \u2026\n, \n, (, \u00a0\n, ...\"\n, .,  ...\n",
+        "rank_subject": 3745,
+        "rank_answer": 38367,
+        "logit_subject": 0.043212890625,
+        "logit_answer": 0.013671875,
+        "prob_subject": 8.165836334228516e-06,
+        "prob_answer": 7.927417755126953e-06
+    },
+    "25_attn_out_6": {
+        "token_idx": 6,
+        "tokens": "..\n, \u2026\n, \u00a0in, ...\n,  , \u2026,  \u2026\n,  fast, .,  truly",
+        "rank_subject": 4064,
+        "rank_answer": 49354,
+        "logit_subject": 0.0615234375,
+        "logit_answer": 0.0113525390625,
+        "prob_subject": 8.285045623779297e-06,
+        "prob_answer": 7.867813110351562e-06
+    },
+    "25_mlp_out_0": {
+        "token_idx": 0,
+        "tokens": " (, :, ., ,,  -,  , ;,  .,  /,  for",
+        "rank_subject": 4924,
+        "rank_answer": 17438,
+        "logit_subject": 0.03857421875,
+        "logit_answer": 0.022705078125,
+        "prob_subject": 8.106231689453125e-06,
+        "prob_answer": 7.987022399902344e-06
+    },
+    "25_mlp_out_1": {
+        "token_idx": 1,
+        "tokens": "\u2026\n, \u0648\u0627\u0621, \u00a0in, ..\n, \u2026\u201d, \\Migration,  \u2026\n, ...\"\n,  halfway, -fontawesome",
+        "rank_subject": 9274,
+        "rank_answer": 16316,
+        "logit_subject": 0.109375,
+        "logit_answer": 0.087890625,
+        "prob_subject": 8.64267349243164e-06,
+        "prob_answer": 8.463859558105469e-06
+    },
+    "25_mlp_out_2": {
+        "token_idx": 2,
+        "tokens": "\u00a0in,  city, \u2026\n,  nation,  charges,  \u2018,  formation, ..\n, uit,  Else",
+        "rank_subject": 48110,
+        "rank_answer": 42657,
+        "logit_subject": 0.028564453125,
+        "logit_answer": 0.0380859375,
+        "prob_subject": 7.987022399902344e-06,
+        "prob_answer": 8.046627044677734e-06
+    },
+    "25_mlp_out_3": {
+        "token_idx": 3,
+        "tokens": "..\n,  Great, \u2026\n, \u00a0in, ableOpacity, ....\n,  ..\n, /stdc,  thru, implify",
+        "rank_subject": 20818,
+        "rank_answer": 116564,
+        "logit_subject": 0.0791015625,
+        "logit_answer": -0.1103515625,
+        "prob_subject": 8.404254913330078e-06,
+        "prob_answer": 6.943941116333008e-06
+    },
+    "25_mlp_out_4": {
+        "token_idx": 4,
+        "tokens": " JpaRepository, amer,  Dakota, .DoesNotExist, zi, TouchUpInside, Buzz, thes, 960, iers",
+        "rank_subject": 25,
+        "rank_answer": 50369,
+        "logit_subject": 0.361328125,
+        "logit_answer": 0.0247802734375,
+        "prob_subject": 1.1146068572998047e-05,
+        "prob_answer": 7.927417755126953e-06
+    },
+    "25_mlp_out_5": {
+        "token_idx": 5,
+        "tokens": "\u00a0in, ContextHolder,  reuseIdentifier, ..\n, sp, \u2026\n, /stdc, \u0648\u0627\u0621, bar, wa",
+        "rank_subject": 52730,
+        "rank_answer": 4586,
+        "logit_subject": 0.0218505859375,
+        "logit_answer": 0.1484375,
+        "prob_subject": 7.927417755126953e-06,
+        "prob_answer": 9.000301361083984e-06
+    },
+    "25_mlp_out_6": {
+        "token_idx": 6,
+        "tokens": " full, full, -full,  covered,  FULL, const,  Full, -se,  Buk,  Covered",
+        "rank_subject": 27016,
+        "rank_answer": 3853,
+        "logit_subject": 0.08544921875,
+        "logit_answer": 0.1982421875,
+        "prob_subject": 8.463859558105469e-06,
+        "prob_answer": 9.47713851928711e-06
+    },
+    "26_attn_out_0": {
+        "token_idx": 0,
+        "tokens": "\u2026\n, \u00a0in, ..\n,  (, ...\n, \u00ad, :UIAlert, \u0648\u0627\u0621,  ...\n, sofar",
+        "rank_subject": 2106,
+        "rank_answer": 58518,
+        "logit_subject": 0.0634765625,
+        "logit_answer": 0.005340576171875,
+        "prob_subject": 8.285045623779297e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "26_attn_out_1": {
+        "token_idx": 1,
+        "tokens": "..\n, \u00a0in, \u2026\n, ...\n, \u0648\u0627\u0621, \u00ad,  \u2026\n,  ^{,  ...\n,  ..\n",
+        "rank_subject": 1630,
+        "rank_answer": 62098,
+        "logit_subject": 0.07958984375,
+        "logit_answer": 0.004119873046875,
+        "prob_subject": 8.463859558105469e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "26_attn_out_2": {
+        "token_idx": 2,
+        "tokens": "..\n, \u00a0in, \u0648\u0627\u0621, /stdc, \u00ad, \u2026\n,  City,  ^{, \u00a0,  city",
+        "rank_subject": 7128,
+        "rank_answer": 42910,
+        "logit_subject": 0.052001953125,
+        "logit_answer": 0.0169677734375,
+        "prob_subject": 8.225440979003906e-06,
+        "prob_answer": 7.927417755126953e-06
+    },
+    "26_attn_out_3": {
+        "token_idx": 3,
+        "tokens": "..\n, \u00a0in, \u2026\n, \u0648\u0627\u0621, ...\n,  ..\n, \u00ad,  \u2026\n,  ^{,  ...\n",
+        "rank_subject": 2344,
+        "rank_answer": 55521,
+        "logit_subject": 0.08349609375,
+        "logit_answer": 0.01116943359375,
+        "prob_subject": 8.463859558105469e-06,
+        "prob_answer": 7.867813110351562e-06
+    },
+    "26_attn_out_4": {
+        "token_idx": 4,
+        "tokens": "isphere, urname, J,  \u2026\n, zilla, \u2026\n,  state,  ...\n,  Benedict,  hosting",
+        "rank_subject": 128182,
+        "rank_answer": 120165,
+        "logit_subject": -0.0751953125,
+        "logit_answer": -0.031494140625,
+        "prob_subject": 7.241964340209961e-06,
+        "prob_answer": 7.539987564086914e-06
+    },
+    "26_attn_out_5": {
+        "token_idx": 5,
+        "tokens": "..\n, \u00a0in, \u0648\u0627\u0621,  is, \u2026\n, -fontawesome, \\Migration, \u00ad, \u00a0, ...\n",
+        "rank_subject": 128038,
+        "rank_answer": 111013,
+        "logit_subject": -0.1513671875,
+        "logit_answer": -0.049560546875,
+        "prob_subject": 6.705522537231445e-06,
+        "prob_answer": 7.420778274536133e-06
+    },
+    "26_attn_out_6": {
+        "token_idx": 6,
+        "tokens": "..\n, \u00a0in, \u0648\u0627\u0621, \u2026\n, \u00a0, \\Migration, \u00ad,  \u2026\n, ...\n,  ^{",
+        "rank_subject": 123915,
+        "rank_answer": 92075,
+        "logit_subject": -0.08447265625,
+        "logit_answer": -0.024658203125,
+        "prob_subject": 7.152557373046875e-06,
+        "prob_answer": 7.599592208862305e-06
+    },
+    "26_mlp_out_0": {
+        "token_idx": 0,
+        "tokens": ",,  (,  |,  ;, :,  -, .,  ',  ,  *",
+        "rank_subject": 2825,
+        "rank_answer": 37808,
+        "logit_subject": 0.055908203125,
+        "logit_answer": 0.01336669921875,
+        "prob_subject": 8.225440979003906e-06,
+        "prob_answer": 7.927417755126953e-06
+    },
+    "26_mlp_out_1": {
+        "token_idx": 1,
+        "tokens": "..\n,  following, \u2026\n, \u00a0in, _exempt, ...\n, implify,  ^{, \u00a0, \u00ad",
+        "rank_subject": 706,
+        "rank_answer": 32631,
+        "logit_subject": 0.2197265625,
+        "logit_answer": 0.06298828125,
+        "prob_subject": 9.655952453613281e-06,
+        "prob_answer": 8.285045623779297e-06
+    },
+    "26_mlp_out_2": {
+        "token_idx": 2,
+        "tokens": "_WARNINGS,  Fletcher, \ufffd, ColumnsMode, angler,  serves, ong, redient, aque,  served",
+        "rank_subject": 64793,
+        "rank_answer": 44733,
+        "logit_subject": 0.00089263916015625,
+        "logit_answer": 0.033203125,
+        "prob_subject": 7.748603820800781e-06,
+        "prob_answer": 8.046627044677734e-06
+    },
+    "26_mlp_out_3": {
+        "token_idx": 3,
+        "tokens": ":UIAlert, -fontawesome, \u00a0in, -cols, ernetes, InstanceState,  halfway,  MainAxisAlignment, PathComponent,  authDomain",
+        "rank_subject": 7442,
+        "rank_answer": 14881,
+        "logit_subject": 0.1240234375,
+        "logit_answer": 0.0947265625,
+        "prob_subject": 8.821487426757812e-06,
+        "prob_answer": 8.52346420288086e-06
+    },
+    "26_mlp_out_4": {
+        "token_idx": 4,
+        "tokens": " Gulf, \ufffd, ifestyles,  Australia, okit, .synthetic, beck, ello, landers, .createSequentialGroup",
+        "rank_subject": 75803,
+        "rank_answer": 64701,
+        "logit_subject": -0.021484375,
+        "logit_answer": 0.00035858154296875,
+        "prob_subject": 7.599592208862305e-06,
+        "prob_answer": 7.748603820800781e-06
+    },
+    "26_mlp_out_5": {
+        "token_idx": 5,
+        "tokens": " may, may,  might,  commonly,  MAY,  maybe,  perhaps, opsy,  otherwise, maybe",
+        "rank_subject": 9349,
+        "rank_answer": 66491,
+        "logit_subject": 0.10205078125,
+        "logit_answer": -0.0019378662109375,
+        "prob_subject": 8.58306884765625e-06,
+        "prob_answer": 7.748603820800781e-06
+    },
+    "26_mlp_out_6": {
+        "token_idx": 6,
+        "tokens": " one, one,  otherwise, \u0435\u0431,  commonly,  better, squ, pp, better, hes",
+        "rank_subject": 14612,
+        "rank_answer": 102133,
+        "logit_subject": 0.1220703125,
+        "logit_answer": -0.08349609375,
+        "prob_subject": 8.761882781982422e-06,
+        "prob_answer": 7.12275505065918e-06
+    },
+    "27_attn_out_0": {
+        "token_idx": 0,
+        "tokens": "\u00a0in, ..\n, \u2026\n, /stdc, -fontawesome, \u0648\u0627\u0621, \u00ad, \\Migration,  ..\n, ...\n",
+        "rank_subject": 10414,
+        "rank_answer": 57957,
+        "logit_subject": 0.0301513671875,
+        "logit_answer": 0.00433349609375,
+        "prob_subject": 8.046627044677734e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "27_attn_out_1": {
+        "token_idx": 1,
+        "tokens": "..\n, \u00a0in, \u00ad, \u0648\u0627\u0621,  ^{, \\Migration, \u00a0, /stdc, \u2026\n, ...\n",
+        "rank_subject": 3568,
+        "rank_answer": 62696,
+        "logit_subject": 0.08544921875,
+        "logit_answer": 0.004180908203125,
+        "prob_subject": 8.463859558105469e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "27_attn_out_2": {
+        "token_idx": 2,
+        "tokens": "\u00ad, ..\n, \u00a0in, ...\n, \u00a0,  ...\n, \u2026\n, ....\n,  ..\n,  \u2026\n",
+        "rank_subject": 1762,
+        "rank_answer": 47376,
+        "logit_subject": 0.052001953125,
+        "logit_answer": 0.00946044921875,
+        "prob_subject": 8.225440979003906e-06,
+        "prob_answer": 7.867813110351562e-06
+    },
+    "27_attn_out_3": {
+        "token_idx": 3,
+        "tokens": "..\n, ...\n, \u2026\n, \u00a0in, \u00a0, ., :,  ^{,  \u2026\n, ,",
+        "rank_subject": 683,
+        "rank_answer": 45002,
+        "logit_subject": 0.08984375,
+        "logit_answer": 0.01519775390625,
+        "prob_subject": 8.52346420288086e-06,
+        "prob_answer": 7.927417755126953e-06
+    },
+    "27_attn_out_4": {
+        "token_idx": 4,
+        "tokens": "ips, oney, ovy, \u0648\u0627\u0621, ..\n, (DialogInterface, ...\n, iere, ....\n,  [...",
+        "rank_subject": 4157,
+        "rank_answer": 45012,
+        "logit_subject": 0.057373046875,
+        "logit_answer": 0.0125732421875,
+        "prob_subject": 8.225440979003906e-06,
+        "prob_answer": 7.867813110351562e-06
+    },
+    "27_attn_out_5": {
+        "token_idx": 5,
+        "tokens": "..\n, ...\n, \u00ad,  ,,  -, \u00a0in,  \u2014, \u00a0,  \u2013, \u2026\n",
+        "rank_subject": 278,
+        "rank_answer": 18329,
+        "logit_subject": 0.0751953125,
+        "logit_answer": 0.0294189453125,
+        "prob_subject": 8.404254913330078e-06,
+        "prob_answer": 8.046627044677734e-06
+    },
+    "27_attn_out_6": {
+        "token_idx": 6,
+        "tokens": "\u00ad, ..\n, \u00a0in, \u00a0, \u2026\n, ...\n, \u0648\u0627\u0621,  \u2026\n,  --,  ^{",
+        "rank_subject": 394,
+        "rank_answer": 4660,
+        "logit_subject": 0.06884765625,
+        "logit_answer": 0.045654296875,
+        "prob_subject": 8.344650268554688e-06,
+        "prob_answer": 8.165836334228516e-06
+    },
+    "27_mlp_out_0": {
+        "token_idx": 0,
+        "tokens": " (,  ,  -, ,, ;,  ., .,  [,  {, :",
+        "rank_subject": 3998,
+        "rank_answer": 46882,
+        "logit_subject": 0.0673828125,
+        "logit_answer": 0.010498046875,
+        "prob_subject": 8.344650268554688e-06,
+        "prob_answer": 7.867813110351562e-06
+    },
+    "27_mlp_out_1": {
+        "token_idx": 1,
+        "tokens": "\u2026\n, \u00a0in, ..\n, \u2026\u201d,  \u2026\n, \u00ad, P, A,  main, la",
+        "rank_subject": 17351,
+        "rank_answer": 62016,
+        "logit_subject": 0.07763671875,
+        "logit_answer": 0.004119873046875,
+        "prob_subject": 8.404254913330078e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "27_mlp_out_2": {
+        "token_idx": 2,
+        "tokens": " of, S,  S, \u2026\n,  and, and, ..\n, ile, ipt,  B",
+        "rank_subject": 110,
+        "rank_answer": 9996,
+        "logit_subject": 0.3203125,
+        "logit_answer": 0.142578125,
+        "prob_subject": 1.0669231414794922e-05,
+        "prob_answer": 8.940696716308594e-06
+    },
+    "27_mlp_out_3": {
+        "token_idx": 3,
+        "tokens": " Norm,  norm, \u2026\n,  Lomb, Norm,  Bas, norm,  T, st, ...\n",
+        "rank_subject": 38403,
+        "rank_answer": 34736,
+        "logit_subject": 0.059814453125,
+        "logit_answer": 0.06884765625,
+        "prob_subject": 8.225440979003906e-06,
+        "prob_answer": 8.285045623779297e-06
+    },
+    "27_mlp_out_4": {
+        "token_idx": 4,
+        "tokens": "port,  Trent,  Ba,  Kot, /pro, iesel,  Pok, iga, ensa,  reporting",
+        "rank_subject": 80,
+        "rank_answer": 102540,
+        "logit_subject": 0.365234375,
+        "logit_answer": -0.08935546875,
+        "prob_subject": 1.1146068572998047e-05,
+        "prob_answer": 7.092952728271484e-06
+    },
+    "27_mlp_out_5": {
+        "token_idx": 5,
+        "tokens": "-, ,, .,  for,  l, \u2026\n,  Ro, \u00ad, .\n,  &",
+        "rank_subject": 109265,
+        "rank_answer": 97219,
+        "logit_subject": -0.10595703125,
+        "logit_answer": -0.07080078125,
+        "prob_subject": 6.973743438720703e-06,
+        "prob_answer": 7.212162017822266e-06
+    },
+    "27_mlp_out_6": {
+        "token_idx": 6,
+        "tokens": "\u2026\n,  without, de, ...\n, \u2026,  a,  Ro, \u00ad, -, \u00a0in",
+        "rank_subject": 127054,
+        "rank_answer": 110200,
+        "logit_subject": -0.318359375,
+        "logit_answer": -0.1396484375,
+        "prob_subject": 5.632638931274414e-06,
+        "prob_answer": 6.705522537231445e-06
+    },
+    "28_attn_out_0": {
+        "token_idx": 0,
+        "tokens": "\u00a0in, \u2026\n, ..\n, \u00a0, ...\n,  \u2026\n, <|end_of_text|>,  ...\n, \u2026,  ^{",
+        "rank_subject": 3168,
+        "rank_answer": 54538,
+        "logit_subject": 0.0732421875,
+        "logit_answer": 0.0093994140625,
+        "prob_subject": 8.404254913330078e-06,
+        "prob_answer": 7.867813110351562e-06
+    },
+    "28_attn_out_1": {
+        "token_idx": 1,
+        "tokens": "\u00a0in, \u2026\n, ..\n,  reuseIdentifier, \u00a0, \\Migration,  internationally,  \u2026\n, in, <|end_of_text|>",
+        "rank_subject": 16101,
+        "rank_answer": 42658,
+        "logit_subject": 0.058349609375,
+        "logit_answer": 0.023681640625,
+        "prob_subject": 8.225440979003906e-06,
+        "prob_answer": 7.987022399902344e-06
+    },
+    "28_attn_out_2": {
+        "token_idx": 2,
+        "tokens": "\u00a0in, ..\n, \u2026\n, \u00a0,  of, <|end_of_text|>,  ^{,  \u2026\n, ...\n,  in",
+        "rank_subject": 4098,
+        "rank_answer": 65337,
+        "logit_subject": 0.08447265625,
+        "logit_answer": 0.00156402587890625,
+        "prob_subject": 8.463859558105469e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "28_attn_out_3": {
+        "token_idx": 3,
+        "tokens": "\u00a0in, ..\n, \u2026\n, ...\n,  ^{, \u00a0, <|end_of_text|>, \\Migration,  \u2026\n, \u00ad",
+        "rank_subject": 4385,
+        "rank_answer": 62450,
+        "logit_subject": 0.08203125,
+        "logit_answer": 0.00506591796875,
+        "prob_subject": 8.463859558105469e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "28_attn_out_4": {
+        "token_idx": 4,
+        "tokens": "..\n, \u00a0in, \u2026\n, \u00a0, \\Migration, ..,  ..\n,  ^{, <|end_of_text|>, \u2026\u201d",
+        "rank_subject": 8872,
+        "rank_answer": 76499,
+        "logit_subject": 0.0673828125,
+        "logit_answer": -0.00933837890625,
+        "prob_subject": 8.344650268554688e-06,
+        "prob_answer": 7.68899917602539e-06
+    },
+    "28_attn_out_5": {
+        "token_idx": 5,
+        "tokens": "..\n, \u00a0in, \u2026\n,  known, \u00a0,  ^{, <|end_of_text|>, ...\n, \u0648\u0627\u0621,  named",
+        "rank_subject": 6632,
+        "rank_answer": 34791,
+        "logit_subject": 0.1357421875,
+        "logit_answer": 0.058349609375,
+        "prob_subject": 8.881092071533203e-06,
+        "prob_answer": 8.225440979003906e-06
+    },
+    "28_attn_out_6": {
+        "token_idx": 6,
+        "tokens": "..\n,  known, \u00a0in, \u2026\n, ...\n, \u00a0,  Known,  named,  ^{, \u0648\u0627\u0621",
+        "rank_subject": 3861,
+        "rank_answer": 17234,
+        "logit_subject": 0.1533203125,
+        "logit_answer": 0.09521484375,
+        "prob_subject": 9.059906005859375e-06,
+        "prob_answer": 8.52346420288086e-06
+    },
+    "28_mlp_out_0": {
+        "token_idx": 0,
+        "tokens": " ,  (, ., ,,  .,  [, :,  -, \n,  {",
+        "rank_subject": 3499,
+        "rank_answer": 33360,
+        "logit_subject": 0.11328125,
+        "logit_answer": 0.032958984375,
+        "prob_subject": 8.702278137207031e-06,
+        "prob_answer": 8.046627044677734e-06
+    },
+    "28_mlp_out_1": {
+        "token_idx": 1,
+        "tokens": "ities, otope, ity, thinkable,  Nathan, ob,  Moore, in,  Tort,  Greene",
+        "rank_subject": 434,
+        "rank_answer": 44864,
+        "logit_subject": 0.2001953125,
+        "logit_answer": 0.02734375,
+        "prob_subject": 9.47713851928711e-06,
+        "prob_answer": 7.987022399902344e-06
+    },
+    "28_mlp_out_2": {
+        "token_idx": 2,
+        "tokens": "al, isation,  and,  Fram,  Mach,  cro, ization, ab, ist, ul",
+        "rank_subject": 65537,
+        "rank_answer": 6302,
+        "logit_subject": -0.002349853515625,
+        "logit_answer": 0.177734375,
+        "prob_subject": 7.748603820800781e-06,
+        "prob_answer": 9.238719940185547e-06
+    },
+    "28_mlp_out_3": {
+        "token_idx": 3,
+        "tokens": " Vic,  the,  VIC,  Victoria, \u2026\n,  ancient,  Nan,  Sab,  Ancient,  F",
+        "rank_subject": 3566,
+        "rank_answer": 22205,
+        "logit_subject": 0.1904296875,
+        "logit_answer": 0.09228515625,
+        "prob_subject": 9.357929229736328e-06,
+        "prob_answer": 8.52346420288086e-06
+    },
+    "28_mlp_out_4": {
+        "token_idx": 4,
+        "tokens": "central, ost,  Os, oste, OST, .os, submenu, Central, ventus, centre",
+        "rank_subject": 61349,
+        "rank_answer": 125406,
+        "logit_subject": 0.006072998046875,
+        "logit_answer": -0.234375,
+        "prob_subject": 7.808208465576172e-06,
+        "prob_answer": 6.139278411865234e-06
+    },
+    "28_mlp_out_5": {
+        "token_idx": 5,
+        "tokens": ",, -se,  forms,  se,  \u2013, is, \n,  has,  -, se",
+        "rank_subject": 21769,
+        "rank_answer": 24336,
+        "logit_subject": 0.091796875,
+        "logit_answer": 0.08447265625,
+        "prob_subject": 8.52346420288086e-06,
+        "prob_answer": 8.463859558105469e-06
+    },
+    "28_mlp_out_6": {
+        "token_idx": 6,
+        "tokens": " se, -se, se, Se, _se, .se, -Se,  SE,  Se, -S",
+        "rank_subject": 58004,
+        "rank_answer": 27222,
+        "logit_subject": 0.01324462890625,
+        "logit_answer": 0.0947265625,
+        "prob_subject": 7.867813110351562e-06,
+        "prob_answer": 8.52346420288086e-06
+    },
+    "29_attn_out_0": {
+        "token_idx": 0,
+        "tokens": "\u2026\n, ..\n, \u00a0in, <|end_of_text|>,  (, ...\n,  ., /stdc, ,, .",
+        "rank_subject": 6032,
+        "rank_answer": 64441,
+        "logit_subject": 0.11376953125,
+        "logit_answer": 0.00152587890625,
+        "prob_subject": 8.702278137207031e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "29_attn_out_1": {
+        "token_idx": 1,
+        "tokens": "..\n, \u2026\n, \u00a0in, <|end_of_text|>,  (, ...\n, _exempt, ., \u00a0, /stdc",
+        "rank_subject": 2463,
+        "rank_answer": 52927,
+        "logit_subject": 0.1572265625,
+        "logit_answer": 0.020263671875,
+        "prob_subject": 9.119510650634766e-06,
+        "prob_answer": 7.927417755126953e-06
+    },
+    "29_attn_out_2": {
+        "token_idx": 2,
+        "tokens": "..\n, \u2026\n, \u00a0in, ., <|end_of_text|>, ,, ...\n, \u00a0,  , \u2026",
+        "rank_subject": 1625,
+        "rank_answer": 40363,
+        "logit_subject": 0.1865234375,
+        "logit_answer": 0.044921875,
+        "prob_subject": 9.357929229736328e-06,
+        "prob_answer": 8.106231689453125e-06
+    },
+    "29_attn_out_3": {
+        "token_idx": 3,
+        "tokens": "..\n, \u2026\n, \u00a0in, ., <|end_of_text|>, ,, ...\n, \u00a0,  ^{,  .",
+        "rank_subject": 3396,
+        "rank_answer": 55372,
+        "logit_subject": 0.2021484375,
+        "logit_answer": 0.0230712890625,
+        "prob_subject": 9.47713851928711e-06,
+        "prob_answer": 7.927417755126953e-06
+    },
+    "29_attn_out_4": {
+        "token_idx": 4,
+        "tokens": "\u2026\n, ..\n, /stdc, \u00a0in, ., <|end_of_text|>, ,,  ., ...\n, \u00a0",
+        "rank_subject": 1402,
+        "rank_answer": 75088,
+        "logit_subject": 0.1669921875,
+        "logit_answer": -0.0145263671875,
+        "prob_subject": 9.179115295410156e-06,
+        "prob_answer": 7.68899917602539e-06
+    },
+    "29_attn_out_5": {
+        "token_idx": 5,
+        "tokens": "..\n, \u00a0in, \u2026\n, ., ,, \u00a0, \u2026, <|end_of_text|>, .., ...\n",
+        "rank_subject": 564,
+        "rank_answer": 11212,
+        "logit_subject": 0.330078125,
+        "logit_answer": 0.17578125,
+        "prob_subject": 1.0728836059570312e-05,
+        "prob_answer": 9.238719940185547e-06
+    },
+    "29_attn_out_6": {
+        "token_idx": 6,
+        "tokens": "..\n, \u00a0in, \u00a0, \u2026\n, <|end_of_text|>, ., .., ...\n, \u2026, ,",
+        "rank_subject": 827,
+        "rank_answer": 7217,
+        "logit_subject": 0.41796875,
+        "logit_answer": 0.26953125,
+        "prob_subject": 1.1682510375976562e-05,
+        "prob_answer": 1.0073184967041016e-05
+    },
+    "29_mlp_out_0": {
+        "token_idx": 0,
+        "tokens": " .,  , ,,  (, !, ., -, .,, :, ...",
+        "rank_subject": 56018,
+        "rank_answer": 61314,
+        "logit_subject": 0.0218505859375,
+        "logit_answer": 0.0086669921875,
+        "prob_subject": 7.927417755126953e-06,
+        "prob_answer": 7.808208465576172e-06
+    },
+    "29_mlp_out_1": {
+        "token_idx": 1,
+        "tokens": " Tradable, ckill, ecs, unifu,  mains, kla, \"./, \u03ad\u03bb, ORB, printStats",
+        "rank_subject": 6725,
+        "rank_answer": 10441,
+        "logit_subject": 0.1611328125,
+        "logit_answer": 0.138671875,
+        "prob_subject": 9.119510650634766e-06,
+        "prob_answer": 8.940696716308594e-06
+    },
+    "29_mlp_out_2": {
+        "token_idx": 2,
+        "tokens": "ideographic,  funnel, ;element, FetchRequest, -C,  simultaneously,  and, \u0648\u0627\u0621, DonaldTrump, ascal",
+        "rank_subject": 49867,
+        "rank_answer": 26972,
+        "logit_subject": 0.03369140625,
+        "logit_answer": 0.09912109375,
+        "prob_subject": 7.987022399902344e-06,
+        "prob_answer": 8.52346420288086e-06
+    },
+    "29_mlp_out_3": {
+        "token_idx": 3,
+        "tokens": "ideographic, elease, ecko, -Methods, chartInstance, FromBody,  eoq, AuthProvider, shint, styleType",
+        "rank_subject": 692,
+        "rank_answer": 5426,
+        "logit_subject": 0.283203125,
+        "logit_answer": 0.1826171875,
+        "prob_subject": 1.0311603546142578e-05,
+        "prob_answer": 9.298324584960938e-06
+    },
+    "29_mlp_out_4": {
+        "token_idx": 4,
+        "tokens": "ideographic, EMPLARY, /stdc, PathComponent, SystemService, URLException, :UITableView, estroy, BindingUtil, oldt",
+        "rank_subject": 53689,
+        "rank_answer": 6351,
+        "logit_subject": 0.02783203125,
+        "logit_answer": 0.23828125,
+        "prob_subject": 7.927417755126953e-06,
+        "prob_answer": 9.775161743164062e-06
+    },
+    "29_mlp_out_5": {
+        "token_idx": 5,
+        "tokens": "onse, PRESSION, RenderingContext, BootApplication, porno, pmat, ertest, \u1ed5, \u0159\u00ed, ZO",
+        "rank_subject": 30079,
+        "rank_answer": 5876,
+        "logit_subject": 0.083984375,
+        "logit_answer": 0.2060546875,
+        "prob_subject": 8.404254913330078e-06,
+        "prob_answer": 9.5367431640625e-06
+    },
+    "29_mlp_out_6": {
+        "token_idx": 6,
+        "tokens": "rame, PointerException,  POLITICO, \u00e9li, (iOS,  Champ,  scr, _IE, endcode, 'gc",
+        "rank_subject": 5769,
+        "rank_answer": 862,
+        "logit_subject": 0.234375,
+        "logit_answer": 0.3515625,
+        "prob_subject": 9.775161743164062e-06,
+        "prob_answer": 1.0967254638671875e-05
+    },
+    "30_attn_out_0": {
+        "token_idx": 0,
+        "tokens": "., \u00a0, ,,  ,  (,  .,  [, ;, ..., \n",
+        "rank_subject": 2726,
+        "rank_answer": 18742,
+        "logit_subject": 0.1416015625,
+        "logit_answer": 0.0703125,
+        "prob_subject": 8.940696716308594e-06,
+        "prob_answer": 8.344650268554688e-06
+    },
+    "30_attn_out_1": {
+        "token_idx": 1,
+        "tokens": "\n, \u00a0,  -, ., ,,  ,  (,  ., \u00a0in, ...",
+        "rank_subject": 1011,
+        "rank_answer": 15568,
+        "logit_subject": 0.2080078125,
+        "logit_answer": 0.09375,
+        "prob_subject": 9.59634780883789e-06,
+        "prob_answer": 8.52346420288086e-06
+    },
+    "30_attn_out_2": {
+        "token_idx": 2,
+        "tokens": "\u00a0, \u00a0in, \n,  -,  (,  , ..\n, ., \u2026\n, ,",
+        "rank_subject": 2990,
+        "rank_answer": 28539,
+        "logit_subject": 0.1728515625,
+        "logit_answer": 0.0634765625,
+        "prob_subject": 9.238719940185547e-06,
+        "prob_answer": 8.285045623779297e-06
+    },
+    "30_attn_out_3": {
+        "token_idx": 3,
+        "tokens": "\u00a0,  and,  , \u00a0in, \n, ..\n,  -,  (, .,  &",
+        "rank_subject": 2658,
+        "rank_answer": 24884,
+        "logit_subject": 0.1962890625,
+        "logit_answer": 0.0810546875,
+        "prob_subject": 9.417533874511719e-06,
+        "prob_answer": 8.404254913330078e-06
+    },
+    "30_attn_out_4": {
+        "token_idx": 4,
+        "tokens": " -, rop,  , encias, empo, elves,  Poh,  --, .,  Zap",
+        "rank_subject": 128253,
+        "rank_answer": 20352,
+        "logit_subject": -0.27734375,
+        "logit_answer": 0.0478515625,
+        "prob_subject": 5.900859832763672e-06,
+        "prob_answer": 8.165836334228516e-06
+    },
+    "30_attn_out_5": {
+        "token_idx": 5,
+        "tokens": "..\n, \u00a0in, \u00a0, \u2026\n,  and,  -, <|end_of_text|>, ., ...\n,  ^{",
+        "rank_subject": 41276,
+        "rank_answer": 12484,
+        "logit_subject": 0.07568359375,
+        "logit_answer": 0.201171875,
+        "prob_subject": 8.285045623779297e-06,
+        "prob_answer": 9.417533874511719e-06
+    },
+    "30_attn_out_6": {
+        "token_idx": 6,
+        "tokens": "..\n, \u00a0in, \u00a0, \u2026\n, ...\n, <|end_of_text|>,  -, \u00a0\n, .,  ^{",
+        "rank_subject": 123149,
+        "rank_answer": 6261,
+        "logit_subject": -0.34375,
+        "logit_answer": 0.306640625,
+        "prob_subject": 5.424022674560547e-06,
+        "prob_answer": 1.0371208190917969e-05
+    },
+    "30_mlp_out_0": {
+        "token_idx": 0,
+        "tokens": ",, :,  , ;, !, (, ..., \n,  ., .",
+        "rank_subject": 4061,
+        "rank_answer": 3350,
+        "logit_subject": 0.70703125,
+        "logit_answer": 0.74609375,
+        "prob_subject": 1.4722347259521484e-05,
+        "prob_answer": 1.52587890625e-05
+    },
+    "30_mlp_out_1": {
+        "token_idx": 1,
+        "tokens": "_________________\n\n, \u00e3n, _OCCURRED, !!!!\n\n, .Office, .MixedReality, .partial, .Txt, (\u65e5, ---</",
+        "rank_subject": 11510,
+        "rank_answer": 69895,
+        "logit_subject": 0.365234375,
+        "logit_answer": -0.0247802734375,
+        "prob_subject": 1.0788440704345703e-05,
+        "prob_answer": 7.3015689849853516e-06
+    },
+    "30_mlp_out_2": {
+        "token_idx": 2,
+        "tokens": " \u00ab,  bur, ster,  bless,  and, w,  pier, in,  Ap,  rests",
+        "rank_subject": 1898,
+        "rank_answer": 33153,
+        "logit_subject": 0.45703125,
+        "logit_answer": 0.146484375,
+        "prob_subject": 1.1980533599853516e-05,
+        "prob_answer": 8.821487426757812e-06
+    },
+    "30_mlp_out_3": {
+        "token_idx": 3,
+        "tokens": "_________________\n\n, _OCCURRED, \ufffd\ufffd, $__, !!!!\n\n, ---</,  eskort, [\"., jedn,  bazen",
+        "rank_subject": 40475,
+        "rank_answer": 75409,
+        "logit_subject": 0.1337890625,
+        "logit_answer": -0.06591796875,
+        "prob_subject": 8.52346420288086e-06,
+        "prob_answer": 7.0035457611083984e-06
+    },
+    "30_mlp_out_4": {
+        "token_idx": 4,
+        "tokens": " Pool, -U, _U,  sona, U, \u1ebb,  ogl, (PC,  Lump,  Kostenlos",
+        "rank_subject": 18508,
+        "rank_answer": 24641,
+        "logit_subject": 0.1982421875,
+        "logit_answer": 0.1630859375,
+        "prob_subject": 9.357929229736328e-06,
+        "prob_answer": 9.000301361083984e-06
+    },
+    "30_mlp_out_5": {
+        "token_idx": 5,
+        "tokens": "_________________\n\n, !!!!\n\n, ,eg, .partial, .Currency, \ufffd,  comple,  \u0441\u0456\u0447,  chung, _TS",
+        "rank_subject": 27782,
+        "rank_answer": 27578,
+        "logit_subject": 0.23828125,
+        "logit_answer": 0.240234375,
+        "prob_subject": 9.417533874511719e-06,
+        "prob_answer": 9.47713851928711e-06
+    },
+    "30_mlp_out_6": {
+        "token_idx": 6,
+        "tokens": "_________________\n\n, !!!!\n\n, ,eg, \u01a0, \ufffd\ufffd, .Serial, .Currency, ,\n\n\n\n, _OCCURRED, \u2026.\n\n",
+        "rank_subject": 30486,
+        "rank_answer": 16613,
+        "logit_subject": 0.2333984375,
+        "logit_answer": 0.380859375,
+        "prob_subject": 9.298324584960938e-06,
+        "prob_answer": 1.0788440704345703e-05
+    },
+    "31_attn_out_0": {
+        "token_idx": 0,
+        "tokens": "\ufffd\ufffd, ...\n\n\n\n,  mastur, 'gc, _________________\n\n, \u30fb\u30fb\u30fb\n\n, $LANG, !!!!\n\n, _vlog, \u0130s",
+        "rank_subject": 125713,
+        "rank_answer": 76838,
+        "logit_subject": -0.28125,
+        "logit_answer": -0.0196533203125,
+        "prob_subject": 5.841255187988281e-06,
+        "prob_answer": 7.599592208862305e-06
+    },
+    "31_attn_out_1": {
+        "token_idx": 1,
+        "tokens": " , \u00a0,  (, <|end_of_text|>,  A, \u2026\n,  S,  I,  \",  -",
+        "rank_subject": 1207,
+        "rank_answer": 24540,
+        "logit_subject": 0.80859375,
+        "logit_answer": 0.28125,
+        "prob_subject": 1.6570091247558594e-05,
+        "prob_answer": 9.775161743164062e-06
+    },
+    "31_attn_out_2": {
+        "token_idx": 2,
+        "tokens": " , ,,  (, ., \u00a0,  in,  -, \n, ;, :",
+        "rank_subject": 2555,
+        "rank_answer": 21295,
+        "logit_subject": 0.7734375,
+        "logit_answer": 0.34765625,
+        "prob_subject": 1.5854835510253906e-05,
+        "prob_answer": 1.0371208190917969e-05
+    },
+    "31_attn_out_3": {
+        "token_idx": 3,
+        "tokens": " , ,, \u00a0,  in,  (, \u2026\n,  and,  a, ., \n",
+        "rank_subject": 1014,
+        "rank_answer": 19494,
+        "logit_subject": 1.2421875,
+        "logit_answer": 0.52734375,
+        "prob_subject": 2.396106719970703e-05,
+        "prob_answer": 1.1682510375976562e-05
+    },
+    "31_attn_out_4": {
+        "token_idx": 4,
+        "tokens": "\u00a0, ,,  in,  , \u2026\n,  (, .,  -,  is, ;",
+        "rank_subject": 1060,
+        "rank_answer": 15666,
+        "logit_subject": 0.8671875,
+        "logit_answer": 0.412109375,
+        "prob_subject": 1.7523765563964844e-05,
+        "prob_answer": 1.1086463928222656e-05
+    },
+    "31_attn_out_5": {
+        "token_idx": 5,
+        "tokens": ",,  in,  ,  (, ., \u00a0,  to,  and, ;, \n",
+        "rank_subject": 573,
+        "rank_answer": 2549,
+        "logit_subject": 1.578125,
+        "logit_answer": 1.203125,
+        "prob_subject": 3.24249267578125e-05,
+        "prob_answer": 2.2172927856445312e-05
+    },
+    "31_attn_out_6": {
+        "token_idx": 6,
+        "tokens": " , ,,  in, \u00a0,  (,  and,  a, \n,  to,  on",
+        "rank_subject": 395,
+        "rank_answer": 1935,
+        "logit_subject": 1.796875,
+        "logit_answer": 1.3515625,
+        "prob_subject": 3.9577484130859375e-05,
+        "prob_answer": 2.5391578674316406e-05
+    },
+    "31_mlp_out_0": {
+        "token_idx": 0,
+        "tokens": "://, php, _REF, .Forms,  Angeles, .swing, .S,  Kong, note, =\"",
+        "rank_subject": 3790,
+        "rank_answer": 33008,
+        "logit_subject": 11.25,
+        "logit_answer": 3.8125,
+        "prob_subject": 1.014588720084573e-24,
+        "prob_answer": 5.963788443470849e-28
+    },
+    "31_mlp_out_1": {
+        "token_idx": 1,
+        "tokens": " ,  (,  C,  T,  S,  P,  D,  M,  V,  B",
+        "rank_subject": 463,
+        "rank_answer": 10932,
+        "logit_subject": 4.78125,
+        "logit_answer": 3.0,
+        "prob_subject": 0.0001430511474609375,
+        "prob_answer": 2.4199485778808594e-05
+    },
+    "31_mlp_out_2": {
+        "token_idx": 2,
+        "tokens": "_________________\n\n, .Currency, .Reporting, \ufffd\ufffd, !\n\n\n\n, .DropDown, .Dictionary, .\n\n\n\n\n\n\n\n, .Serial, .\n\n\n\n\n\n\n\n\n\n",
+        "rank_subject": 16445,
+        "rank_answer": 908,
+        "logit_subject": 0.74609375,
+        "logit_answer": 1.78125,
+        "prob_subject": 1.2874603271484375e-05,
+        "prob_answer": 3.62396240234375e-05
+    },
+    "31_mlp_out_3": {
+        "token_idx": 3,
+        "tokens": "_________________\n\n, .DropDown, .Dictionary, ,eg, .Currency, ---</, ----------------------------------------------------------------------\n, \ufffd\ufffd, .Reporting, .Formatter",
+        "rank_subject": 7541,
+        "rank_answer": 980,
+        "logit_subject": 1.6328125,
+        "logit_answer": 2.859375,
+        "prob_subject": 2.1576881408691406e-05,
+        "prob_answer": 7.343292236328125e-05
+    },
+    "31_mlp_out_4": {
+        "token_idx": 4,
+        "tokens": "\ufffd\ufffd, .DropDown, _________________\n\n, ,\n\n\n\n, .Currency, .Dictionary, .accounts, !\n\n\n\n,  \u00dd, .Reporting",
+        "rank_subject": 7707,
+        "rank_answer": 1422,
+        "logit_subject": 0.96875,
+        "logit_answer": 1.5703125,
+        "prob_subject": 1.6808509826660156e-05,
+        "prob_answer": 3.0517578125e-05
+    },
+    "31_mlp_out_5": {
+        "token_idx": 5,
+        "tokens": "\ufffd\ufffd, _________________\n\n, .DropDown, ...\n\n\n\n, .Reporting, !\n\n\n\n, ---</,  \u0437\u0430\u0432\u0438, .Dictionary, \u2026.\n\n",
+        "rank_subject": 110731,
+        "rank_answer": 39616,
+        "logit_subject": -1.203125,
+        "logit_answer": 0.50390625,
+        "prob_subject": 1.1324882507324219e-06,
+        "prob_answer": 6.22868537902832e-06
+    },
+    "31_mlp_out_6": {
+        "token_idx": 6,
+        "tokens": "...\n\n\n\n, _________________\n\n, \u2026.\n\n, .DropDown, .\n\n\n\n\n\n\n\n, !\n\n\n\n, \u2026\"\n\n, .Reporting, ,www, .\n\n\n\n\n\n\n\n\n\n",
+        "rank_subject": 27777,
+        "rank_answer": 17157,
+        "logit_subject": 0.6328125,
+        "logit_answer": 0.93359375,
+        "prob_subject": 9.59634780883789e-06,
+        "prob_answer": 1.2993812561035156e-05
+    }
+}
