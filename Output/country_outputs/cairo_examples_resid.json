@@ -1,0 +1,3905 @@
+{
+    "text": "The capital of Egypt is",
+    "answer": " Cairo",
+    "subject": " Egypt",
+    "0_pre_0": {
+        "token_idx": 0,
+        "tokens": " Penn,  Search, nt, search,  agency, nd,  sign, online,  /,  Labor",
+        "rank_subject": 31011,
+        "rank_answer": 16355,
+        "logit_subject": -0.002593994140625,
+        "logit_answer": 0.0052490234375,
+        "prob_subject": 1.9788742065429688e-05,
+        "prob_answer": 2.002716064453125e-05
+    },
+    "0_pre_1": {
+        "token_idx": 1,
+        "tokens": "roy, ories, ory,  FB, omy,  cooler, rot, ade, resa, roll",
+        "rank_subject": 37364,
+        "rank_answer": 32029,
+        "logit_subject": -0.010009765625,
+        "logit_answer": -0.0048828125,
+        "prob_subject": 1.9669532775878906e-05,
+        "prob_answer": 1.9788742065429688e-05
+    },
+    "0_pre_2": {
+        "token_idx": 2,
+        "tokens": "ized, ization,  section,  gains, a,  mon,  vacation, izing,  division,  neighboring",
+        "rank_subject": 5413,
+        "rank_answer": 33301,
+        "logit_subject": 0.016845703125,
+        "logit_answer": -0.005218505859375,
+        "prob_subject": 2.0265579223632812e-05,
+        "prob_answer": 1.9788742065429688e-05
+    },
+    "0_pre_3": {
+        "token_idx": 3,
+        "tokens": " ed,  vital,  leagues,  normal,  author,  walls,  critical,  abs,  mid,  inquiries",
+        "rank_subject": 42003,
+        "rank_answer": 45059,
+        "logit_subject": -0.03759765625,
+        "logit_answer": -0.0498046875,
+        "prob_subject": 1.9073486328125e-05,
+        "prob_answer": 1.895427703857422e-05
+    },
+    "0_pre_4": {
+        "token_idx": 4,
+        "tokens": " even,  tr,  most,  much, de,  later,  aged,  sharp, s,  ec",
+        "rank_subject": 19933,
+        "rank_answer": 11918,
+        "logit_subject": 0.00150299072265625,
+        "logit_answer": 0.005462646484375,
+        "prob_subject": 1.990795135498047e-05,
+        "prob_answer": 2.002716064453125e-05
+    },
+    "0_pre_5": {
+        "token_idx": 5,
+        "tokens": " co,  contact,  indeed,  weekly,  Long,  fact,  responsible,  bro,  ab,  becoming",
+        "rank_subject": 36973,
+        "rank_answer": 18537,
+        "logit_subject": -0.021728515625,
+        "logit_answer": 0.01031494140625,
+        "prob_subject": 1.9431114196777344e-05,
+        "prob_answer": 2.002716064453125e-05
+    },
+    "0_mid_0": {
+        "token_idx": 0,
+        "tokens": "<, et,  round,  biologically, (, le,  rep,  myself,  cash, Q",
+        "rank_subject": 33595,
+        "rank_answer": 44174,
+        "logit_subject": -0.044677734375,
+        "logit_answer": -0.126953125,
+        "prob_subject": 1.8835067749023438e-05,
+        "prob_answer": 1.7404556274414062e-05
+    },
+    "0_mid_1": {
+        "token_idx": 1,
+        "tokens": " selective,  member,  Congress,  Ant,  possible,  seed,  recently,  client,  members,  negative",
+        "rank_subject": 13549,
+        "rank_answer": 29732,
+        "logit_subject": 0.107421875,
+        "logit_answer": -0.042724609375,
+        "prob_subject": 2.1696090698242188e-05,
+        "prob_answer": 1.8715858459472656e-05
+    },
+    "0_mid_2": {
+        "token_idx": 2,
+        "tokens": "ized,  of, ize, ised, izing, isation, ization,  architect,  output,  \"",
+        "rank_subject": 10847,
+        "rank_answer": 31385,
+        "logit_subject": 0.353515625,
+        "logit_answer": -0.142578125,
+        "prob_subject": 2.5153160095214844e-05,
+        "prob_answer": 1.537799835205078e-05
+    },
+    "0_mid_3": {
+        "token_idx": 3,
+        "tokens": " of,  was, ize,  member,  \",  scale, ity,  A,  Ad,  the",
+        "rank_subject": 1467,
+        "rank_answer": 9045,
+        "logit_subject": 0.369140625,
+        "logit_answer": 0.1650390625,
+        "prob_subject": 2.8252601623535156e-05,
+        "prob_answer": 2.300739288330078e-05
+    },
+    "0_mid_4": {
+        "token_idx": 4,
+        "tokens": "s, ers, od, ing, ann, en, es, t, ian, ly",
+        "rank_subject": 24188,
+        "rank_answer": 34065,
+        "logit_subject": 0.0079345703125,
+        "logit_answer": -0.1689453125,
+        "prob_subject": 1.8596649169921875e-05,
+        "prob_answer": 1.5616416931152344e-05
+    },
+    "0_mid_5": {
+        "token_idx": 5,
+        "tokens": " an, nt,  k,  new,  the,  more, ',  up,  a,  always",
+        "rank_subject": 14970,
+        "rank_answer": 35385,
+        "logit_subject": 0.09326171875,
+        "logit_answer": -0.09912109375,
+        "prob_subject": 2.1457672119140625e-05,
+        "prob_answer": 1.7642974853515625e-05
+    },
+    "1_pre_0": {
+        "token_idx": 0,
+        "tokens": "Q, <, I, [, &, (,  Q, D, #, W",
+        "rank_subject": 23008,
+        "rank_answer": 34826,
+        "logit_subject": -0.00921630859375,
+        "logit_answer": -0.201171875,
+        "prob_subject": 1.823902130126953e-05,
+        "prob_answer": 1.5079975128173828e-05
+    },
+    "1_pre_1": {
+        "token_idx": 1,
+        "tokens": " e,  D,  New,  T,  new,  us,  A,  recent,  V,  Long",
+        "rank_subject": 9529,
+        "rank_answer": 22806,
+        "logit_subject": 0.3046875,
+        "logit_answer": 0.0303955078125,
+        "prob_subject": 2.5391578674316406e-05,
+        "prob_answer": 1.9311904907226562e-05
+    },
+    "1_pre_2": {
+        "token_idx": 2,
+        "tokens": "ized, ize, ization, izing, isation, ised, ists,  into,  of, ising",
+        "rank_subject": 10559,
+        "rank_answer": 17789,
+        "logit_subject": 0.375,
+        "logit_answer": 0.1611328125,
+        "prob_subject": 2.5391578674316406e-05,
+        "prob_answer": 2.0503997802734375e-05
+    },
+    "1_pre_3": {
+        "token_idx": 3,
+        "tokens": " the,  Ad,  a,  A,  was,  course, ize,  is,  St,  S",
+        "rank_subject": 1576,
+        "rank_answer": 9404,
+        "logit_subject": 0.466796875,
+        "logit_answer": 0.2080078125,
+        "prob_subject": 3.075599670410156e-05,
+        "prob_answer": 2.372264862060547e-05
+    },
+    "1_pre_4": {
+        "token_idx": 4,
+        "tokens": "ian, s, ians, ic, ers, es, ia, ied, od, ans",
+        "rank_subject": 45511,
+        "rank_answer": 44534,
+        "logit_subject": -0.474609375,
+        "logit_answer": -0.435546875,
+        "prob_subject": 1.1444091796875e-05,
+        "prob_answer": 1.1861324310302734e-05
+    },
+    "1_pre_5": {
+        "token_idx": 5,
+        "tokens": " not, nt,  a,  an,  now,  currently,  the,  actually,  based,  always",
+        "rank_subject": 9075,
+        "rank_answer": 27668,
+        "logit_subject": 0.22265625,
+        "logit_answer": -0.03662109375,
+        "prob_subject": 2.396106719970703e-05,
+        "prob_answer": 1.8477439880371094e-05
+    },
+    "1_mid_0": {
+        "token_idx": 0,
+        "tokens": "Q, <, I, &, [,  Q, (, F, W, D",
+        "rank_subject": 29928,
+        "rank_answer": 40842,
+        "logit_subject": -0.1181640625,
+        "logit_answer": -0.28125,
+        "prob_subject": 1.6570091247558594e-05,
+        "prob_answer": 1.4066696166992188e-05
+    },
+    "1_mid_1": {
+        "token_idx": 1,
+        "tokens": " selective,  Governor,  entry,  e,  ultimate,  reporter,  SS,  patch,  us,  statement",
+        "rank_subject": 11631,
+        "rank_answer": 28048,
+        "logit_subject": 0.181640625,
+        "logit_answer": -0.0634765625,
+        "prob_subject": 2.300739288330078e-05,
+        "prob_answer": 1.800060272216797e-05
+    },
+    "1_mid_2": {
+        "token_idx": 2,
+        "tokens": "ization, ized, ize, isation, izing, ists,  symbols, ised, izations, istic",
+        "rank_subject": 12662,
+        "rank_answer": 16357,
+        "logit_subject": 0.267578125,
+        "logit_answer": 0.1796875,
+        "prob_subject": 2.3603439331054688e-05,
+        "prob_answer": 2.1576881408691406e-05
+    },
+    "1_mid_3": {
+        "token_idx": 3,
+        "tokens": "ize, ity,  elasticity,  Chinese,  uncertainty,  Hong,  Men,  Monte,  punishment, oret",
+        "rank_subject": 1472,
+        "rank_answer": 10951,
+        "logit_subject": 0.408203125,
+        "logit_answer": 0.1455078125,
+        "prob_subject": 2.9325485229492188e-05,
+        "prob_answer": 2.2530555725097656e-05
+    },
+    "1_mid_4": {
+        "token_idx": 4,
+        "tokens": "ian, s, ians, ers, es, oid, ic, ann, od, ous",
+        "rank_subject": 41546,
+        "rank_answer": 39661,
+        "logit_subject": -0.298828125,
+        "logit_answer": -0.251953125,
+        "prob_subject": 1.3887882232666016e-05,
+        "prob_answer": 1.4543533325195312e-05
+    },
+    "1_mid_5": {
+        "token_idx": 5,
+        "tokens": " now, nt,  represented,  always,  not,  an,  void,  absorbed,  pure,  a",
+        "rank_subject": 4882,
+        "rank_answer": 31051,
+        "logit_subject": 0.255859375,
+        "logit_answer": -0.06005859375,
+        "prob_subject": 2.5153160095214844e-05,
+        "prob_answer": 1.8358230590820312e-05
+    },
+    "2_pre_0": {
+        "token_idx": 0,
+        "tokens": " the,  (, -,  a, ,, \n,  to, .,  in,  I",
+        "rank_subject": 4557,
+        "rank_answer": 18351,
+        "logit_subject": 9.25,
+        "logit_answer": 2.390625,
+        "prob_subject": 1.0658141036401503e-13,
+        "prob_answer": 1.1188966420050406e-16
+    },
+    "2_pre_1": {
+        "token_idx": 1,
+        "tokens": " Governor,  selective,  Mul,  Rep,  Sor,  Boss,  ultimate,  Parents,  reporter,  Parks",
+        "rank_subject": 27671,
+        "rank_answer": 23298,
+        "logit_subject": -0.033203125,
+        "logit_answer": 0.00762939453125,
+        "prob_subject": 1.8715858459472656e-05,
+        "prob_answer": 1.9550323486328125e-05
+    },
+    "2_pre_2": {
+        "token_idx": 2,
+        "tokens": "ization, ized, ize, izing, isation, ised, ists,  symbols,  section, ise",
+        "rank_subject": 23090,
+        "rank_answer": 9051,
+        "logit_subject": 0.04150390625,
+        "logit_answer": 0.3515625,
+        "prob_subject": 1.895427703857422e-05,
+        "prob_answer": 2.586841583251953e-05
+    },
+    "2_pre_3": {
+        "token_idx": 3,
+        "tokens": " was,  Chinese,  western,  adult,  rival,  today,  gains,  fin,  American,  imagination",
+        "rank_subject": 3498,
+        "rank_answer": 10196,
+        "logit_subject": 0.33984375,
+        "logit_answer": 0.1689453125,
+        "prob_subject": 2.7179718017578125e-05,
+        "prob_answer": 2.300739288330078e-05
+    },
+    "2_pre_4": {
+        "token_idx": 4,
+        "tokens": "ian, ians, s, ers, es, oid, od, on, ine, ic",
+        "rank_subject": 48224,
+        "rank_answer": 39142,
+        "logit_subject": -0.486328125,
+        "logit_answer": -0.2001953125,
+        "prob_subject": 1.1742115020751953e-05,
+        "prob_answer": 1.5616416931152344e-05
+    },
+    "2_pre_5": {
+        "token_idx": 5,
+        "tokens": "nt,  also,  always,  considered,  essentially,  now,  represented,  not,  still,  actually",
+        "rank_subject": 19377,
+        "rank_answer": 43680,
+        "logit_subject": 0.03076171875,
+        "logit_answer": -0.2314453125,
+        "prob_subject": 1.990795135498047e-05,
+        "prob_answer": 1.52587890625e-05
+    },
+    "2_mid_0": {
+        "token_idx": 0,
+        "tokens": " the,  (, -,  a, ,, \n,  to, .,  in,  I",
+        "rank_subject": 4622,
+        "rank_answer": 18345,
+        "logit_subject": 9.1875,
+        "logit_answer": 2.390625,
+        "prob_subject": 9.992007221626409e-14,
+        "prob_answer": 1.1188966420050406e-16
+    },
+    "2_mid_1": {
+        "token_idx": 1,
+        "tokens": " Governor,  selective,  latest,  exclusive,  Boss,  reporter,  signature,  Report,  Rep,  Parks",
+        "rank_subject": 34143,
+        "rank_answer": 28466,
+        "logit_subject": -0.09326171875,
+        "logit_answer": -0.036865234375,
+        "prob_subject": 1.7642974853515625e-05,
+        "prob_answer": 1.8715858459472656e-05
+    },
+    "2_mid_2": {
+        "token_idx": 2,
+        "tokens": "ization, isation, ized, ize, ised, izing, ists,  symbols,  section,  structure",
+        "rank_subject": 16326,
+        "rank_answer": 6994,
+        "logit_subject": 0.1708984375,
+        "logit_answer": 0.427734375,
+        "prob_subject": 2.1576881408691406e-05,
+        "prob_answer": 2.7894973754882812e-05
+    },
+    "2_mid_3": {
+        "token_idx": 3,
+        "tokens": " was,  Chinese,  rival,  gains,  western,  today,  adult,  attraction,  estimated,  finally",
+        "rank_subject": 2165,
+        "rank_answer": 7058,
+        "logit_subject": 0.41015625,
+        "logit_answer": 0.234375,
+        "prob_subject": 2.9206275939941406e-05,
+        "prob_answer": 2.4437904357910156e-05
+    },
+    "2_mid_4": {
+        "token_idx": 4,
+        "tokens": "s, ian, ians, ers, oid, es, od,  adult, ic, ans",
+        "rank_subject": 35347,
+        "rank_answer": 16186,
+        "logit_subject": -0.1416015625,
+        "logit_answer": 0.1220703125,
+        "prob_subject": 1.6450881958007812e-05,
+        "prob_answer": 2.1457672119140625e-05
+    },
+    "2_mid_5": {
+        "token_idx": 5,
+        "tokens": " always,  considered, nt,  essentially,  also,  currently,  still,  estimated,  now,  represented",
+        "rank_subject": 6813,
+        "rank_answer": 20741,
+        "logit_subject": 0.25390625,
+        "logit_answer": 0.031494140625,
+        "prob_subject": 2.47955322265625e-05,
+        "prob_answer": 1.9788742065429688e-05
+    },
+    "3_pre_0": {
+        "token_idx": 0,
+        "tokens": " the,  (, -,  a, ,,  in,  and, ., \n,  to",
+        "rank_subject": 5583,
+        "rank_answer": 19483,
+        "logit_subject": 15.3125,
+        "logit_answer": 3.71875,
+        "prob_subject": 2.3526987637311456e-26,
+        "prob_answer": 2.172448977268802e-31
+    },
+    "3_pre_1": {
+        "token_idx": 1,
+        "tokens": " Governor,  selective,  patch,  Legacy,  straw,  Mul,  policies,  Ter,  Parks,  latest",
+        "rank_subject": 36918,
+        "rank_answer": 25451,
+        "logit_subject": -0.125,
+        "logit_answer": -0.00982666015625,
+        "prob_subject": 1.71661376953125e-05,
+        "prob_answer": 1.919269561767578e-05
+    },
+    "3_pre_2": {
+        "token_idx": 2,
+        "tokens": "ization, ists, ized, isation, ize, izing, ised,  symbols, istic,  region",
+        "rank_subject": 21240,
+        "rank_answer": 9620,
+        "logit_subject": 0.05810546875,
+        "logit_answer": 0.3203125,
+        "prob_subject": 1.9431114196777344e-05,
+        "prob_answer": 2.5272369384765625e-05
+    },
+    "3_pre_3": {
+        "token_idx": 3,
+        "tokens": " uncertainty,  punishment,  western,  the,  ret,  today,  innocence,  its,  Chinese,  average",
+        "rank_subject": 3122,
+        "rank_answer": 7985,
+        "logit_subject": 0.357421875,
+        "logit_answer": 0.2158203125,
+        "prob_subject": 2.765655517578125e-05,
+        "prob_answer": 2.4080276489257812e-05
+    },
+    "3_pre_4": {
+        "token_idx": 4,
+        "tokens": "ers, s, ian, ians, od, ine, als, ic, oid, ina",
+        "rank_subject": 43722,
+        "rank_answer": 37540,
+        "logit_subject": -0.271484375,
+        "logit_answer": -0.154296875,
+        "prob_subject": 1.4662742614746094e-05,
+        "prob_answer": 1.6450881958007812e-05
+    },
+    "3_pre_5": {
+        "token_idx": 5,
+        "tokens": " always,  also,  essentially,  considered,  a, nt,  actually,  now,  still,  strictly",
+        "rank_subject": 27745,
+        "rank_answer": 39872,
+        "logit_subject": -0.0380859375,
+        "logit_answer": -0.173828125,
+        "prob_subject": 1.8596649169921875e-05,
+        "prob_answer": 1.621246337890625e-05
+    },
+    "3_mid_0": {
+        "token_idx": 0,
+        "tokens": " the,  (, -,  a, ,,  in,  and, ., \n,  to",
+        "rank_subject": 5612,
+        "rank_answer": 19475,
+        "logit_subject": 15.25,
+        "logit_answer": 3.71875,
+        "prob_subject": 2.2113348895155403e-26,
+        "prob_answer": 2.172448977268802e-31
+    },
+    "3_mid_1": {
+        "token_idx": 1,
+        "tokens": " Governor,  selective,  policies,  Parents,  patch,  latest,  Mul,  governor,  Parks,  parents",
+        "rank_subject": 36455,
+        "rank_answer": 26335,
+        "logit_subject": -0.1142578125,
+        "logit_answer": -0.018310546875,
+        "prob_subject": 1.7404556274414062e-05,
+        "prob_answer": 1.9073486328125e-05
+    },
+    "3_mid_2": {
+        "token_idx": 2,
+        "tokens": "ization, isation, ists, ized, ised, ize, izing,  district,  intensive,  city",
+        "rank_subject": 24951,
+        "rank_answer": 11586,
+        "logit_subject": -0.0032958984375,
+        "logit_answer": 0.24609375,
+        "prob_subject": 1.8477439880371094e-05,
+        "prob_answer": 2.372264862060547e-05
+    },
+    "3_mid_3": {
+        "token_idx": 3,
+        "tokens": " western,  uncertainty,  punishment,  the,  innocence,  adult,  its,  ret,  Chinese,  today",
+        "rank_subject": 3132,
+        "rank_answer": 11608,
+        "logit_subject": 0.34375,
+        "logit_answer": 0.1455078125,
+        "prob_subject": 2.7418136596679688e-05,
+        "prob_answer": 2.2411346435546875e-05
+    },
+    "3_mid_4": {
+        "token_idx": 4,
+        "tokens": "s, ers, ians, ian, od,  bi,  ke, es, ine, en",
+        "rank_subject": 39564,
+        "rank_answer": 34817,
+        "logit_subject": -0.1796875,
+        "logit_answer": -0.1123046875,
+        "prob_subject": 1.609325408935547e-05,
+        "prob_answer": 1.728534698486328e-05
+    },
+    "3_mid_5": {
+        "token_idx": 5,
+        "tokens": " always,  also,  now,  essentially,  still,  considered,  estimated,  a,  represented,  both",
+        "rank_subject": 16046,
+        "rank_answer": 44010,
+        "logit_subject": 0.09033203125,
+        "logit_answer": -0.26171875,
+        "prob_subject": 2.110004425048828e-05,
+        "prob_answer": 1.4781951904296875e-05
+    },
+    "4_pre_0": {
+        "token_idx": 0,
+        "tokens": " the,  (, -,  a, ,,  in,  and, \n, .,  to",
+        "rank_subject": 5640,
+        "rank_answer": 19761,
+        "logit_subject": 15.3125,
+        "logit_answer": 3.578125,
+        "prob_subject": 1.2167390602128886e-26,
+        "prob_answer": 9.745205518599413e-32
+    },
+    "4_pre_1": {
+        "token_idx": 1,
+        "tokens": " Governor,  selective,  Legacy,  policies,  Survey,  straw,  Value,  Report,  latest,  patch",
+        "rank_subject": 26140,
+        "rank_answer": 17774,
+        "logit_subject": -0.01397705078125,
+        "logit_answer": 0.0625,
+        "prob_subject": 1.919269561767578e-05,
+        "prob_answer": 2.0742416381835938e-05
+    },
+    "4_pre_2": {
+        "token_idx": 2,
+        "tokens": "ization, ize, ized, isation, ists,  of, ised,  district, izing,  region",
+        "rank_subject": 36082,
+        "rank_answer": 6779,
+        "logit_subject": -0.2041015625,
+        "logit_answer": 0.390625,
+        "prob_subject": 1.5020370483398438e-05,
+        "prob_answer": 2.7298927307128906e-05
+    },
+    "4_pre_3": {
+        "token_idx": 3,
+        "tokens": " western,  adult,  each,  active,  the,  17,  Cond,  innocence,  radio,  scale",
+        "rank_subject": 7082,
+        "rank_answer": 6293,
+        "logit_subject": 0.2412109375,
+        "logit_answer": 0.26171875,
+        "prob_subject": 2.467632293701172e-05,
+        "prob_answer": 2.5153160095214844e-05
+    },
+    "4_pre_4": {
+        "token_idx": 4,
+        "tokens": "s, ian, 's, ers, ians,  ke, \u2019, ors, wide,  proper",
+        "rank_subject": 43630,
+        "rank_answer": 47544,
+        "logit_subject": -0.24609375,
+        "logit_answer": -0.373046875,
+        "prob_subject": 1.5139579772949219e-05,
+        "prob_answer": 1.329183578491211e-05
+    },
+    "4_pre_5": {
+        "token_idx": 5,
+        "tokens": " always,  also,  still,  considered,  represented, nt,  essentially,  actually,  given,  almost",
+        "rank_subject": 23244,
+        "rank_answer": 38835,
+        "logit_subject": 0.0081787109375,
+        "logit_answer": -0.1630859375,
+        "prob_subject": 1.9431114196777344e-05,
+        "prob_answer": 1.633167266845703e-05
+    },
+    "4_mid_0": {
+        "token_idx": 0,
+        "tokens": " the,  (, -,  a, ,,  in,  and, \n, .,  to",
+        "rank_subject": 5637,
+        "rank_answer": 19752,
+        "logit_subject": 15.3125,
+        "logit_answer": 3.578125,
+        "prob_subject": 1.2167390602128886e-26,
+        "prob_answer": 9.745205518599413e-32
+    },
+    "4_mid_1": {
+        "token_idx": 1,
+        "tokens": " selective,  Governor,  policies,  controversial,  patch,  latest,  straw,  Mul,  Com,  Value",
+        "rank_subject": 23164,
+        "rank_answer": 20231,
+        "logit_subject": 0.00921630859375,
+        "logit_answer": 0.0341796875,
+        "prob_subject": 1.9669532775878906e-05,
+        "prob_answer": 2.0265579223632812e-05
+    },
+    "4_mid_2": {
+        "token_idx": 2,
+        "tokens": "ization, ize, ized, isation, ists,  of,  district, ised, izing, ising",
+        "rank_subject": 34397,
+        "rank_answer": 8894,
+        "logit_subject": -0.1630859375,
+        "logit_answer": 0.306640625,
+        "prob_subject": 1.5735626220703125e-05,
+        "prob_answer": 2.5272369384765625e-05
+    },
+    "4_mid_3": {
+        "token_idx": 3,
+        "tokens": " cities,  western,  active,  mainland,  uncertainty,  spent,  intensive,  average,  intense,  the",
+        "rank_subject": 6673,
+        "rank_answer": 8855,
+        "logit_subject": 0.26171875,
+        "logit_answer": 0.212890625,
+        "prob_subject": 2.5033950805664062e-05,
+        "prob_answer": 2.384185791015625e-05
+    },
+    "4_mid_4": {
+        "token_idx": 4,
+        "tokens": "s, ers,  proper, ian, 's,  capital,  Stock,  invest, ians,  ideal",
+        "rank_subject": 34048,
+        "rank_answer": 41683,
+        "logit_subject": -0.10107421875,
+        "logit_answer": -0.2109375,
+        "prob_subject": 1.7404556274414062e-05,
+        "prob_answer": 1.5616416931152344e-05
+    },
+    "4_mid_5": {
+        "token_idx": 5,
+        "tokens": " always,  still,  almost,  set,  now,  considered, nt,  arguably,  essentially,  famous",
+        "rank_subject": 9555,
+        "rank_answer": 17599,
+        "logit_subject": 0.2138671875,
+        "logit_answer": 0.0849609375,
+        "prob_subject": 2.372264862060547e-05,
+        "prob_answer": 2.086162567138672e-05
+    },
+    "5_pre_0": {
+        "token_idx": 0,
+        "tokens": " the,  (, -,  a, ,,  in, \n,  and, .,  to",
+        "rank_subject": 5776,
+        "rank_answer": 19811,
+        "logit_subject": 15.125,
+        "logit_answer": 3.53125,
+        "prob_subject": 6.15942594796566e-27,
+        "prob_answer": 5.662234036498473e-32
+    },
+    "5_pre_1": {
+        "token_idx": 1,
+        "tokens": " latest,  dis,  controversial,  straw,  selective,  ra,  Parks,  Pres,  Governor, ory",
+        "rank_subject": 30428,
+        "rank_answer": 23722,
+        "logit_subject": -0.052490234375,
+        "logit_answer": 0.0003261566162109375,
+        "prob_subject": 1.8477439880371094e-05,
+        "prob_answer": 1.9550323486328125e-05
+    },
+    "5_pre_2": {
+        "token_idx": 2,
+        "tokens": "ization, ized, ize, isation, istic, ists, ised,  of,  district,  city",
+        "rank_subject": 26996,
+        "rank_answer": 5264,
+        "logit_subject": -0.03564453125,
+        "logit_answer": 0.46875,
+        "prob_subject": 1.7642974853515625e-05,
+        "prob_answer": 2.9325485229492188e-05
+    },
+    "5_pre_3": {
+        "token_idx": 3,
+        "tokens": " cities,  average,  city, ization,  active,  applied, ize,  Cities,  ~,  towns",
+        "rank_subject": 2153,
+        "rank_answer": 1310,
+        "logit_subject": 0.4921875,
+        "logit_answer": 0.57421875,
+        "prob_subject": 3.123283386230469e-05,
+        "prob_answer": 3.3855438232421875e-05
+    },
+    "5_pre_4": {
+        "token_idx": 4,
+        "tokens": "ian, ians,  classic,  ke, s, 's,  proper,  Steam, wide,  capital",
+        "rank_subject": 23721,
+        "rank_answer": 37488,
+        "logit_subject": 0.00836181640625,
+        "logit_answer": -0.1748046875,
+        "prob_subject": 1.919269561767578e-05,
+        "prob_answer": 1.5974044799804688e-05
+    },
+    "5_pre_5": {
+        "token_idx": 5,
+        "tokens": " always,  almost,  essentially, nt,  still,  now,  set,  governed,  considered,  arguably",
+        "rank_subject": 5039,
+        "rank_answer": 4691,
+        "logit_subject": 0.32421875,
+        "logit_answer": 0.337890625,
+        "prob_subject": 2.6464462280273438e-05,
+        "prob_answer": 2.682209014892578e-05
+    },
+    "5_mid_0": {
+        "token_idx": 0,
+        "tokens": " the,  (, -,  a, ,,  in, \n,  and, .,  to",
+        "rank_subject": 5764,
+        "rank_answer": 19849,
+        "logit_subject": 15.125,
+        "logit_answer": 3.5,
+        "prob_subject": 6.15942594796566e-27,
+        "prob_answer": 5.508159640947495e-32
+    },
+    "5_mid_1": {
+        "token_idx": 1,
+        "tokens": " latest, ories, ory,  controversial,  Rain,  ra,  Pres,  Glass,  Cont,  selective",
+        "rank_subject": 37307,
+        "rank_answer": 33879,
+        "logit_subject": -0.0986328125,
+        "logit_answer": -0.068359375,
+        "prob_subject": 1.7762184143066406e-05,
+        "prob_answer": 1.8358230590820312e-05
+    },
+    "5_mid_2": {
+        "token_idx": 2,
+        "tokens": "ized, ization, ize, isation,  of, ists, ised, izing,  city, istic",
+        "rank_subject": 23001,
+        "rank_answer": 6122,
+        "logit_subject": 0.0267333984375,
+        "logit_answer": 0.416015625,
+        "prob_subject": 1.895427703857422e-05,
+        "prob_answer": 2.8014183044433594e-05
+    },
+    "5_mid_3": {
+        "token_idx": 3,
+        "tokens": " cities,  ~,  city,  active, ize,  average,  density,  applied, ization,  Cities",
+        "rank_subject": 989,
+        "rank_answer": 780,
+        "logit_subject": 0.6171875,
+        "logit_answer": 0.65625,
+        "prob_subject": 3.528594970703125e-05,
+        "prob_answer": 3.6716461181640625e-05
+    },
+    "5_mid_4": {
+        "token_idx": 4,
+        "tokens": " capital, ian, ians,  Capital,  steam,  k,  classic,  Republic,  administrative,  efforts",
+        "rank_subject": 1126,
+        "rank_answer": 5144,
+        "logit_subject": 0.64453125,
+        "logit_answer": 0.37109375,
+        "prob_subject": 3.62396240234375e-05,
+        "prob_answer": 2.753734588623047e-05
+    },
+    "5_mid_5": {
+        "token_idx": 5,
+        "tokens": " set,  dominated,  always,  bounded,  essentially,  regarded,  almost,  inhabited,  decorated,  basically",
+        "rank_subject": 35,
+        "rank_answer": 241,
+        "logit_subject": 1.390625,
+        "logit_answer": 1.0703125,
+        "prob_subject": 7.486343383789062e-05,
+        "prob_answer": 5.459785461425781e-05
+    },
+    "6_pre_0": {
+        "token_idx": 0,
+        "tokens": " the,  (, -,  a, ,,  in,  and, \n, .,  to",
+        "rank_subject": 5880,
+        "rank_answer": 19167,
+        "logit_subject": 15.4375,
+        "logit_answer": 3.9375,
+        "prob_subject": 3.3921018924503508e-28,
+        "prob_answer": 3.442599775592184e-33
+    },
+    "6_pre_1": {
+        "token_idx": 1,
+        "tokens": " ra,  Com,  latest,  em,  Rain,  Report,  Pres, ories,  Value,  newest",
+        "rank_subject": 23259,
+        "rank_answer": 34217,
+        "logit_subject": 0.01007080078125,
+        "logit_answer": -0.0771484375,
+        "prob_subject": 1.9788742065429688e-05,
+        "prob_answer": 1.811981201171875e-05
+    },
+    "6_pre_2": {
+        "token_idx": 2,
+        "tokens": "ized, ize, ization, isation, ised, izing, ising, ists, istic,  of",
+        "rank_subject": 10811,
+        "rank_answer": 8417,
+        "logit_subject": 0.265625,
+        "logit_answer": 0.333984375,
+        "prob_subject": 2.4080276489257812e-05,
+        "prob_answer": 2.586841583251953e-05
+    },
+    "6_pre_3": {
+        "token_idx": 3,
+        "tokens": " city,  cities,  active,  our, ity,  density,  Tokyo,  architecture, ize, city",
+        "rank_subject": 1015,
+        "rank_answer": 1402,
+        "logit_subject": 0.62109375,
+        "logit_answer": 0.5703125,
+        "prob_subject": 3.552436828613281e-05,
+        "prob_answer": 3.3855438232421875e-05
+    },
+    "6_pre_4": {
+        "token_idx": 4,
+        "tokens": "ian,  Metro, ians,  capital,  added,  dil,  proper, ion,  locks,  ke",
+        "rank_subject": 2464,
+        "rank_answer": 1723,
+        "logit_subject": 0.478515625,
+        "logit_answer": 0.5390625,
+        "prob_subject": 3.075599670410156e-05,
+        "prob_answer": 3.266334533691406e-05
+    },
+    "6_pre_5": {
+        "token_idx": 5,
+        "tokens": " always,  essentially,  bounded,  located,  almost,  usually,  drawn,  regarded,  considered,  set",
+        "rank_subject": 464,
+        "rank_answer": 181,
+        "logit_subject": 0.8671875,
+        "logit_answer": 1.0625,
+        "prob_subject": 4.482269287109375e-05,
+        "prob_answer": 5.459785461425781e-05
+    },
+    "6_mid_0": {
+        "token_idx": 0,
+        "tokens": " the,  (, -,  a, ,,  in,  and, \n, .,  I",
+        "rank_subject": 5881,
+        "rank_answer": 19153,
+        "logit_subject": 15.4375,
+        "logit_answer": 3.9375,
+        "prob_subject": 3.3921018924503508e-28,
+        "prob_answer": 3.442599775592184e-33
+    },
+    "6_mid_1": {
+        "token_idx": 1,
+        "tokens": " ra,  Com,  latest,  Pres,  Research,  Rain,  Report,  Complete,  Pros,  Progressive",
+        "rank_subject": 22356,
+        "rank_answer": 33915,
+        "logit_subject": 0.01385498046875,
+        "logit_answer": -0.0751953125,
+        "prob_subject": 1.9788742065429688e-05,
+        "prob_answer": 1.811981201171875e-05
+    },
+    "6_mid_2": {
+        "token_idx": 2,
+        "tokens": "ized, ization, ize, isation, ised, ists, ising, izing,  city,  of",
+        "rank_subject": 6167,
+        "rank_answer": 4660,
+        "logit_subject": 0.404296875,
+        "logit_answer": 0.470703125,
+        "prob_subject": 2.777576446533203e-05,
+        "prob_answer": 2.968311309814453e-05
+    },
+    "6_mid_3": {
+        "token_idx": 3,
+        "tokens": " city,  cities,  active, city,  intense,  density,  architecture,  hall,  our,  Tokyo",
+        "rank_subject": 529,
+        "rank_answer": 838,
+        "logit_subject": 0.72265625,
+        "logit_answer": 0.66015625,
+        "prob_subject": 3.933906555175781e-05,
+        "prob_answer": 3.695487976074219e-05
+    },
+    "6_mid_4": {
+        "token_idx": 4,
+        "tokens": " capital,  Metro, ion, ian, ians,  proper,  Pres, s,  Capital,  dil",
+        "rank_subject": 2060,
+        "rank_answer": 831,
+        "logit_subject": 0.515625,
+        "logit_answer": 0.6640625,
+        "prob_subject": 3.1948089599609375e-05,
+        "prob_answer": 3.695487976074219e-05
+    },
+    "6_mid_5": {
+        "token_idx": 5,
+        "tokens": " bounded,  usually,  considered,  always,  drawn,  almost,  set,  located,  regarded,  ancient",
+        "rank_subject": 284,
+        "rank_answer": 93,
+        "logit_subject": 0.94140625,
+        "logit_answer": 1.140625,
+        "prob_subject": 4.839897155761719e-05,
+        "prob_answer": 5.888938903808594e-05
+    },
+    "7_pre_0": {
+        "token_idx": 0,
+        "tokens": " the,  (, -,  a, ,,  in,  and, \n, .,  to",
+        "rank_subject": 6024,
+        "rank_answer": 19575,
+        "logit_subject": 15.8125,
+        "logit_answer": 3.84375,
+        "prob_subject": 1.6073040943878116e-29,
+        "prob_answer": 1.023150282955719e-34
+    },
+    "7_pre_1": {
+        "token_idx": 1,
+        "tokens": " latest,  recent,  recently, atre, rapy,  entire, ories, oretical,  Com,  newest",
+        "rank_subject": 19253,
+        "rank_answer": 12826,
+        "logit_subject": 0.0390625,
+        "logit_answer": 0.10595703125,
+        "prob_subject": 2.0265579223632812e-05,
+        "prob_answer": 2.1696090698242188e-05
+    },
+    "7_pre_2": {
+        "token_idx": 2,
+        "tokens": "isation, ized, ization, ised, ising, ize, ists, istic, izing,  city",
+        "rank_subject": 2184,
+        "rank_answer": 1636,
+        "logit_subject": 0.64453125,
+        "logit_answer": 0.7109375,
+        "prob_subject": 3.504753112792969e-05,
+        "prob_answer": 3.7670135498046875e-05
+    },
+    "7_pre_3": {
+        "token_idx": 3,
+        "tokens": " city,  cities,  architecture,  our,  intense,  active,  intensive, city,  temple,  concentration",
+        "rank_subject": 142,
+        "rank_answer": 748,
+        "logit_subject": 0.89453125,
+        "logit_answer": 0.6640625,
+        "prob_subject": 4.673004150390625e-05,
+        "prob_answer": 3.719329833984375e-05
+    },
+    "7_pre_4": {
+        "token_idx": 4,
+        "tokens": "ians,  Metro, s,  capital, ian,  Capital, ion, 's,  dil,  proper",
+        "rank_subject": 2632,
+        "rank_answer": 1116,
+        "logit_subject": 0.423828125,
+        "logit_answer": 0.55078125,
+        "prob_subject": 2.9325485229492188e-05,
+        "prob_answer": 3.337860107421875e-05
+    },
+    "7_pre_5": {
+        "token_idx": 5,
+        "tokens": " considered,  always,  located,  bounded,  almost,  still,  often,  ancient,  decorated,  regarded",
+        "rank_subject": 120,
+        "rank_answer": 231,
+        "logit_subject": 1.0390625,
+        "logit_answer": 0.921875,
+        "prob_subject": 5.364418029785156e-05,
+        "prob_answer": 4.76837158203125e-05
+    },
+    "7_mid_0": {
+        "token_idx": 0,
+        "tokens": " the,  (, -,  a, ,,  in,  and, \n, .,  to",
+        "rank_subject": 6024,
+        "rank_answer": 19603,
+        "logit_subject": 15.8125,
+        "logit_answer": 3.828125,
+        "prob_subject": 1.1241267899399418e-29,
+        "prob_answer": 6.996542376094255e-35
+    },
+    "7_mid_1": {
+        "token_idx": 1,
+        "tokens": " latest,  Com,  Wil, ories,  recent,  recently,  last,  following,  word, oretical",
+        "rank_subject": 8467,
+        "rank_answer": 14295,
+        "logit_subject": 0.162109375,
+        "logit_answer": 0.080078125,
+        "prob_subject": 2.300739288330078e-05,
+        "prob_answer": 2.1219253540039062e-05
+    },
+    "7_mid_2": {
+        "token_idx": 2,
+        "tokens": "ized, isation,  city, ization, ised, ists, ising,  of, istic, ize",
+        "rank_subject": 1575,
+        "rank_answer": 1532,
+        "logit_subject": 0.70703125,
+        "logit_answer": 0.71484375,
+        "prob_subject": 3.7670135498046875e-05,
+        "prob_answer": 3.790855407714844e-05
+    },
+    "7_mid_3": {
+        "token_idx": 3,
+        "tokens": " city,  cities,  our,  intense,  architecture,  state,  capital, city,  active,  intensive",
+        "rank_subject": 197,
+        "rank_answer": 798,
+        "logit_subject": 0.88671875,
+        "logit_answer": 0.6796875,
+        "prob_subject": 4.6253204345703125e-05,
+        "prob_answer": 3.7670135498046875e-05
+    },
+    "7_mid_4": {
+        "token_idx": 4,
+        "tokens": " capital, s,  Metro, ians, ian,  Capital,  all,  bi, ans,  proper",
+        "rank_subject": 1044,
+        "rank_answer": 426,
+        "logit_subject": 0.58203125,
+        "logit_answer": 0.7109375,
+        "prob_subject": 3.4332275390625e-05,
+        "prob_answer": 3.910064697265625e-05
+    },
+    "7_mid_5": {
+        "token_idx": 5,
+        "tokens": " always,  considered,  still,  decorated,  located,  bounded,  almost,  regarded,  usually,  dedicated",
+        "rank_subject": 143,
+        "rank_answer": 200,
+        "logit_subject": 1.03125,
+        "logit_answer": 0.9765625,
+        "prob_subject": 5.316734313964844e-05,
+        "prob_answer": 5.030632019042969e-05
+    },
+    "8_pre_0": {
+        "token_idx": 0,
+        "tokens": " the, -,  (, ,,  a,  in,  and, ., \n,  to",
+        "rank_subject": 6054,
+        "rank_answer": 19717,
+        "logit_subject": 18.125,
+        "logit_answer": 4.46875,
+        "prob_subject": 6.355568816477878e-33,
+        "prob_answer": 7.438675188797288e-39
+    },
+    "8_pre_1": {
+        "token_idx": 1,
+        "tokens": " latest, irs, rapy,  Wil,  recent, atre,  recently, ories, oret, sis",
+        "rank_subject": 10089,
+        "rank_answer": 17320,
+        "logit_subject": 0.146484375,
+        "logit_answer": 0.05712890625,
+        "prob_subject": 2.2530555725097656e-05,
+        "prob_answer": 2.0623207092285156e-05
+    },
+    "8_pre_2": {
+        "token_idx": 2,
+        "tokens": "ized,  city, ization, ize, ised, istic, isation, ists, izing, ising",
+        "rank_subject": 1991,
+        "rank_answer": 1692,
+        "logit_subject": 0.67578125,
+        "logit_answer": 0.71484375,
+        "prob_subject": 3.62396240234375e-05,
+        "prob_answer": 3.7670135498046875e-05
+    },
+    "8_pre_3": {
+        "token_idx": 3,
+        "tokens": " city,  cities,  architecture,  our,  buildings,  hill,  temple,  today,  capital,  recorded",
+        "rank_subject": 429,
+        "rank_answer": 1369,
+        "logit_subject": 0.7578125,
+        "logit_answer": 0.59375,
+        "prob_subject": 4.076957702636719e-05,
+        "prob_answer": 3.457069396972656e-05
+    },
+    "8_pre_4": {
+        "token_idx": 4,
+        "tokens": "ians,  Metro,  capital, s, ian,  Capital,  Province,  all,  Director, ans",
+        "rank_subject": 2542,
+        "rank_answer": 544,
+        "logit_subject": 0.4140625,
+        "logit_answer": 0.640625,
+        "prob_subject": 2.9087066650390625e-05,
+        "prob_answer": 3.647804260253906e-05
+    },
+    "8_pre_5": {
+        "token_idx": 5,
+        "tokens": " located,  denoted,  still,  always,  considered,  drawn, nt,  preserved,  decorated,  characterized",
+        "rank_subject": 625,
+        "rank_answer": 360,
+        "logit_subject": 0.734375,
+        "logit_answer": 0.8203125,
+        "prob_subject": 3.9577484130859375e-05,
+        "prob_answer": 4.315376281738281e-05
+    },
+    "8_mid_0": {
+        "token_idx": 0,
+        "tokens": " the, -,  (, ,,  a,  and,  in, ., \n,  to",
+        "rank_subject": 6049,
+        "rank_answer": 19757,
+        "logit_subject": 18.125,
+        "logit_answer": 4.4375,
+        "prob_subject": 6.355568816477878e-33,
+        "prob_answer": 7.255004196481306e-39
+    },
+    "8_mid_1": {
+        "token_idx": 1,
+        "tokens": " Wil,  latest, irs,  recently, sis,  recent, rapy, atre, oret,  Report",
+        "rank_subject": 13157,
+        "rank_answer": 22237,
+        "logit_subject": 0.10400390625,
+        "logit_answer": 0.01043701171875,
+        "prob_subject": 2.1696090698242188e-05,
+        "prob_answer": 1.9669532775878906e-05
+    },
+    "8_mid_2": {
+        "token_idx": 2,
+        "tokens": " city, ized, ization, ists, ised, ize, isation, istic, izing, ising",
+        "rank_subject": 2267,
+        "rank_answer": 2278,
+        "logit_subject": 0.6484375,
+        "logit_answer": 0.6484375,
+        "prob_subject": 3.528594970703125e-05,
+        "prob_answer": 3.528594970703125e-05
+    },
+    "8_mid_3": {
+        "token_idx": 3,
+        "tokens": " city,  cities,  architecture,  today,  capital,  state,  our, city,  buildings,  cool",
+        "rank_subject": 599,
+        "rank_answer": 1999,
+        "logit_subject": 0.7265625,
+        "logit_answer": 0.5390625,
+        "prob_subject": 3.9577484130859375e-05,
+        "prob_answer": 3.266334533691406e-05
+    },
+    "8_mid_4": {
+        "token_idx": 4,
+        "tokens": " capital,  Metro, ians, s, 's,  Capital,  state, ian,  Director,  Province",
+        "rank_subject": 1822,
+        "rank_answer": 398,
+        "logit_subject": 0.482421875,
+        "logit_answer": 0.71875,
+        "prob_subject": 3.123283386230469e-05,
+        "prob_answer": 3.933906555175781e-05
+    },
+    "8_mid_5": {
+        "token_idx": 5,
+        "tokens": " located,  still,  always,  considered,  drawn,  denoted,  city,  cities, nt,  held",
+        "rank_subject": 267,
+        "rank_answer": 177,
+        "logit_subject": 0.890625,
+        "logit_answer": 0.95703125,
+        "prob_subject": 4.6253204345703125e-05,
+        "prob_answer": 4.9591064453125e-05
+    },
+    "9_pre_0": {
+        "token_idx": 0,
+        "tokens": " the, -,  (, ,,  a,  in,  and, ., \n,  of",
+        "rank_subject": 6003,
+        "rank_answer": 19652,
+        "logit_subject": 18.0,
+        "logit_answer": 4.5625,
+        "prob_subject": 4.1600086798764294e-32,
+        "prob_answer": 6.06114274642742e-38
+    },
+    "9_pre_1": {
+        "token_idx": 1,
+        "tokens": "irs,  Golden, rapy,  Wil, atre,  recently,  latest, ory,  recent, resa",
+        "rank_subject": 4753,
+        "rank_answer": 7051,
+        "logit_subject": 0.263671875,
+        "logit_answer": 0.2080078125,
+        "prob_subject": 2.5391578674316406e-05,
+        "prob_answer": 2.396106719970703e-05
+    },
+    "9_pre_2": {
+        "token_idx": 2,
+        "tokens": "ized, ization, isation, ists, ize,  city, ised, istic, izing, ising",
+        "rank_subject": 1098,
+        "rank_answer": 2088,
+        "logit_subject": 0.82421875,
+        "logit_answer": 0.68359375,
+        "prob_subject": 4.1961669921875e-05,
+        "prob_answer": 3.647804260253906e-05
+    },
+    "9_pre_3": {
+        "token_idx": 3,
+        "tokens": " city,  cities,  capital,  concentration,  state,  intensive,  today,  tourist,  beautiful,  count",
+        "rank_subject": 162,
+        "rank_answer": 1697,
+        "logit_subject": 0.9140625,
+        "logit_answer": 0.5703125,
+        "prob_subject": 4.744529724121094e-05,
+        "prob_answer": 3.361701965332031e-05
+    },
+    "9_pre_4": {
+        "token_idx": 4,
+        "tokens": "ians,  capital, ian,  Capital,  Metro,  during,  always,  state, s, aba",
+        "rank_subject": 1185,
+        "rank_answer": 275,
+        "logit_subject": 0.5625,
+        "logit_answer": 0.7734375,
+        "prob_subject": 3.361701965332031e-05,
+        "prob_answer": 4.172325134277344e-05
+    },
+    "9_pre_5": {
+        "token_idx": 5,
+        "tokens": " still,  located,  always,  considered,  drawn,  denoted,  situated,  quite,  definitely,  set",
+        "rank_subject": 342,
+        "rank_answer": 517,
+        "logit_subject": 0.84375,
+        "logit_answer": 0.78125,
+        "prob_subject": 4.4345855712890625e-05,
+        "prob_answer": 4.1484832763671875e-05
+    },
+    "9_mid_0": {
+        "token_idx": 0,
+        "tokens": " the, -, ,,  (,  a,  in,  and, ., \n,  of",
+        "rank_subject": 5910,
+        "rank_answer": 19610,
+        "logit_subject": 18.0,
+        "logit_answer": 4.5625,
+        "prob_subject": 1.1093356479670479e-31,
+        "prob_answer": 1.6236515720732846e-37
+    },
+    "9_mid_1": {
+        "token_idx": 1,
+        "tokens": " recently,  recent,  latest,  former,  Golden, irs, rapy,  sc, ory,  Wil",
+        "rank_subject": 4126,
+        "rank_answer": 8389,
+        "logit_subject": 0.287109375,
+        "logit_answer": 0.18359375,
+        "prob_subject": 2.5987625122070312e-05,
+        "prob_answer": 2.3365020751953125e-05
+    },
+    "9_mid_2": {
+        "token_idx": 2,
+        "tokens": "ized, ization,  city, ists, isation, istic, ize, ised, izing, ising",
+        "rank_subject": 1070,
+        "rank_answer": 1962,
+        "logit_subject": 0.83203125,
+        "logit_answer": 0.6953125,
+        "prob_subject": 4.2438507080078125e-05,
+        "prob_answer": 3.695487976074219e-05
+    },
+    "9_mid_3": {
+        "token_idx": 3,
+        "tokens": " city,  cities,  state,  capital,  today,  concentration,  intensive,  beautiful,  its,  tourist",
+        "rank_subject": 203,
+        "rank_answer": 1997,
+        "logit_subject": 0.89453125,
+        "logit_answer": 0.546875,
+        "prob_subject": 4.673004150390625e-05,
+        "prob_answer": 3.2901763916015625e-05
+    },
+    "9_mid_4": {
+        "token_idx": 4,
+        "tokens": "ians,  capital, ian,  Metro,  state, 's,  Capital, s,  during,  always",
+        "rank_subject": 686,
+        "rank_answer": 188,
+        "logit_subject": 0.66015625,
+        "logit_answer": 0.8515625,
+        "prob_subject": 3.719329833984375e-05,
+        "prob_answer": 4.506111145019531e-05
+    },
+    "9_mid_5": {
+        "token_idx": 5,
+        "tokens": " still,  located,  always,  considered,  set,  drawn,  quite,  situated,  currently,  definitely",
+        "rank_subject": 224,
+        "rank_answer": 393,
+        "logit_subject": 0.9296875,
+        "logit_answer": 0.83984375,
+        "prob_subject": 4.8160552978515625e-05,
+        "prob_answer": 4.410743713378906e-05
+    },
+    "10_pre_0": {
+        "token_idx": 0,
+        "tokens": " the, -,  (, ,,  a,  in,  and, .,  of, \n",
+        "rank_subject": 5917,
+        "rank_answer": 19673,
+        "logit_subject": 17.875,
+        "logit_answer": 4.5625,
+        "prob_subject": 1.640892312617925e-31,
+        "prob_answer": 2.71833068627654e-37
+    },
+    "10_pre_1": {
+        "token_idx": 1,
+        "tokens": "irs, resa, atre, rapy,  latest, oret,  recent, oretical,  Golden, ory",
+        "rank_subject": 5010,
+        "rank_answer": 12545,
+        "logit_subject": 0.2490234375,
+        "logit_answer": 0.1181640625,
+        "prob_subject": 2.5033950805664062e-05,
+        "prob_answer": 2.193450927734375e-05
+    },
+    "10_pre_2": {
+        "token_idx": 2,
+        "tokens": "ization, ists, isation, ized,  city, ize, istic, izing, ised, ising",
+        "rank_subject": 1165,
+        "rank_answer": 1762,
+        "logit_subject": 0.81640625,
+        "logit_answer": 0.72265625,
+        "prob_subject": 4.172325134277344e-05,
+        "prob_answer": 3.790855407714844e-05
+    },
+    "10_pre_3": {
+        "token_idx": 3,
+        "tokens": " city,  cities,  intensive,  concentration,  count,  cool, ize,  punishment,  beautiful,  today",
+        "rank_subject": 147,
+        "rank_answer": 4377,
+        "logit_subject": 0.921875,
+        "logit_answer": 0.388671875,
+        "prob_subject": 4.792213439941406e-05,
+        "prob_answer": 2.8133392333984375e-05
+    },
+    "10_pre_4": {
+        "token_idx": 4,
+        "tokens": "ians, 's,  state, ian,  proper,  capital,  commercial,  always,  during,  Metro",
+        "rank_subject": 422,
+        "rank_answer": 227,
+        "logit_subject": 0.74609375,
+        "logit_answer": 0.83984375,
+        "prob_subject": 4.0531158447265625e-05,
+        "prob_answer": 4.4345855712890625e-05
+    },
+    "10_pre_5": {
+        "token_idx": 5,
+        "tokens": " still,  considered,  located,  currently,  always,  drawn,  held,  denoted,  usually,  set",
+        "rank_subject": 126,
+        "rank_answer": 391,
+        "logit_subject": 0.9609375,
+        "logit_answer": 0.78125,
+        "prob_subject": 4.982948303222656e-05,
+        "prob_answer": 4.172325134277344e-05
+    },
+    "10_mid_0": {
+        "token_idx": 0,
+        "tokens": " the, -,  (, ,,  a,  in,  and, .,  of, \n",
+        "rank_subject": 5937,
+        "rank_answer": 19627,
+        "logit_subject": 17.75,
+        "logit_answer": 4.5625,
+        "prob_subject": 2.3881531310401725e-31,
+        "prob_answer": 4.4668785331246925e-37
+    },
+    "10_mid_1": {
+        "token_idx": 1,
+        "tokens": "resa, irs, rapy, atre, oret, oretical, rapeutic, sis, ory,  recent",
+        "rank_subject": 5397,
+        "rank_answer": 14446,
+        "logit_subject": 0.23046875,
+        "logit_answer": 0.09423828125,
+        "prob_subject": 2.4557113647460938e-05,
+        "prob_answer": 2.1457672119140625e-05
+    },
+    "10_mid_2": {
+        "token_idx": 2,
+        "tokens": "ization, ized, ists, isation,  city, ize, istic, izing, ised, ising",
+        "rank_subject": 1182,
+        "rank_answer": 1765,
+        "logit_subject": 0.79296875,
+        "logit_answer": 0.703125,
+        "prob_subject": 4.100799560546875e-05,
+        "prob_answer": 3.743171691894531e-05
+    },
+    "10_mid_3": {
+        "token_idx": 3,
+        "tokens": " cities,  city,  concentration,  intensive,  capital,  cool, ize,  today,  count,  state",
+        "rank_subject": 146,
+        "rank_answer": 4728,
+        "logit_subject": 0.91015625,
+        "logit_answer": 0.369140625,
+        "prob_subject": 4.744529724121094e-05,
+        "prob_answer": 2.765655517578125e-05
+    },
+    "10_mid_4": {
+        "token_idx": 4,
+        "tokens": "ians,  capital,  state, 's, s,  proper, ian,  Metro,  always,  administrative",
+        "rank_subject": 575,
+        "rank_answer": 279,
+        "logit_subject": 0.6875,
+        "logit_answer": 0.796875,
+        "prob_subject": 3.814697265625e-05,
+        "prob_answer": 4.267692565917969e-05
+    },
+    "10_mid_5": {
+        "token_idx": 5,
+        "tokens": " still,  considered,  located,  currently,  set,  always,  held,  denoted,  cities,  usually",
+        "rank_subject": 188,
+        "rank_answer": 554,
+        "logit_subject": 0.91015625,
+        "logit_answer": 0.73046875,
+        "prob_subject": 4.744529724121094e-05,
+        "prob_answer": 3.9577484130859375e-05
+    },
+    "11_pre_0": {
+        "token_idx": 0,
+        "tokens": "-,  the,  (, ,,  a,  in,  and, ., \n,  of",
+        "rank_subject": 5824,
+        "rank_answer": 19486,
+        "logit_subject": 17.75,
+        "logit_answer": 4.625,
+        "prob_subject": 7.95023881043051e-31,
+        "prob_answer": 1.586917373610088e-36
+    },
+    "11_pre_1": {
+        "token_idx": 1,
+        "tokens": "atre,  recently, resa, irs, oret, rapy, ater, oretical, ory,  sc",
+        "rank_subject": 2345,
+        "rank_answer": 7807,
+        "logit_subject": 0.333984375,
+        "logit_answer": 0.1884765625,
+        "prob_subject": 2.7298927307128906e-05,
+        "prob_answer": 2.3603439331054688e-05
+    },
+    "11_pre_2": {
+        "token_idx": 2,
+        "tokens": "ists, ization,  city, ized, isation, izing, istic, ize, ising,  of",
+        "rank_subject": 1996,
+        "rank_answer": 1732,
+        "logit_subject": 0.73828125,
+        "logit_answer": 0.7734375,
+        "prob_subject": 3.838539123535156e-05,
+        "prob_answer": 3.9577484130859375e-05
+    },
+    "11_pre_3": {
+        "token_idx": 3,
+        "tokens": " city,  cities,  cool,  beautiful,  intensive,  concentration,  many,  course,  every,  attention",
+        "rank_subject": 194,
+        "rank_answer": 2365,
+        "logit_subject": 0.9453125,
+        "logit_answer": 0.546875,
+        "prob_subject": 4.887580871582031e-05,
+        "prob_answer": 3.2901763916015625e-05
+    },
+    "11_pre_4": {
+        "token_idx": 4,
+        "tokens": " state,  proper, ians, 's,  wide, ian,  State,  Metro, ion,  architecture",
+        "rank_subject": 865,
+        "rank_answer": 825,
+        "logit_subject": 0.6640625,
+        "logit_answer": 0.671875,
+        "prob_subject": 3.719329833984375e-05,
+        "prob_answer": 3.743171691894531e-05
+    },
+    "11_pre_5": {
+        "token_idx": 5,
+        "tokens": " located,  considered,  still,  currently,  always,  set,  held,  definitely,  drawn,  situated",
+        "rank_subject": 316,
+        "rank_answer": 407,
+        "logit_subject": 0.859375,
+        "logit_answer": 0.81640625,
+        "prob_subject": 4.506111145019531e-05,
+        "prob_answer": 4.315376281738281e-05
+    },
+    "11_mid_0": {
+        "token_idx": 0,
+        "tokens": "-,  the,  (, ,,  a,  in,  and, ., \n,  of",
+        "rank_subject": 5835,
+        "rank_answer": 19493,
+        "logit_subject": 17.625,
+        "logit_answer": 4.59375,
+        "prob_subject": 1.1586394545433611e-30,
+        "prob_answer": 2.539067797776141e-36
+    },
+    "11_mid_1": {
+        "token_idx": 1,
+        "tokens": "atre, irs, sis, resa,  recently, ater, rapy, oretical, ory, oret",
+        "rank_subject": 2998,
+        "rank_answer": 9120,
+        "logit_subject": 0.302734375,
+        "logit_answer": 0.1640625,
+        "prob_subject": 2.6464462280273438e-05,
+        "prob_answer": 2.300739288330078e-05
+    },
+    "11_mid_2": {
+        "token_idx": 2,
+        "tokens": "ists, ization, ized, isation,  city, izing, istic, ize, ising,  of",
+        "rank_subject": 2278,
+        "rank_answer": 1843,
+        "logit_subject": 0.67578125,
+        "logit_answer": 0.73046875,
+        "prob_subject": 3.62396240234375e-05,
+        "prob_answer": 3.814697265625e-05
+    },
+    "11_mid_3": {
+        "token_idx": 3,
+        "tokens": " city,  cities,  cool,  beautiful,  intensive,  concentration,  today,  every,  Kings, ize",
+        "rank_subject": 243,
+        "rank_answer": 2647,
+        "logit_subject": 0.8828125,
+        "logit_answer": 0.5078125,
+        "prob_subject": 4.601478576660156e-05,
+        "prob_answer": 3.170967102050781e-05
+    },
+    "11_mid_4": {
+        "token_idx": 4,
+        "tokens": " state, 's,  proper, ians, ian,  State,  Metro, ion,  Field, s",
+        "rank_subject": 1235,
+        "rank_answer": 1036,
+        "logit_subject": 0.59765625,
+        "logit_answer": 0.62890625,
+        "prob_subject": 3.4809112548828125e-05,
+        "prob_answer": 3.600120544433594e-05
+    },
+    "11_mid_5": {
+        "token_idx": 5,
+        "tokens": " located,  considered,  still,  currently,  set,  always,  held,  definitely,  drawn,  situated",
+        "rank_subject": 393,
+        "rank_answer": 441,
+        "logit_subject": 0.79296875,
+        "logit_answer": 0.77734375,
+        "prob_subject": 4.220008850097656e-05,
+        "prob_answer": 4.1484832763671875e-05
+    },
+    "12_pre_0": {
+        "token_idx": 0,
+        "tokens": "-,  the,  (, ,,  a,  and,  in, .,  of, \n",
+        "rank_subject": 5714,
+        "rank_answer": 19208,
+        "logit_subject": 17.5,
+        "logit_answer": 4.6875,
+        "prob_subject": 5.3987668201062995e-30,
+        "prob_answer": 1.4670169498262148e-35
+    },
+    "12_pre_1": {
+        "token_idx": 1,
+        "tokens": "irs, atre,  recently,  first, rapy, ory,  latest, oret, oretical, resa",
+        "rank_subject": 2849,
+        "rank_answer": 8024,
+        "logit_subject": 0.326171875,
+        "logit_answer": 0.1923828125,
+        "prob_subject": 2.6941299438476562e-05,
+        "prob_answer": 2.3603439331054688e-05
+    },
+    "12_pre_2": {
+        "token_idx": 2,
+        "tokens": "ists, ization, ized,  city, isation,  of, ize, izing, ised,  gains",
+        "rank_subject": 5848,
+        "rank_answer": 5080,
+        "logit_subject": 0.470703125,
+        "logit_answer": 0.515625,
+        "prob_subject": 2.9087066650390625e-05,
+        "prob_answer": 3.039836883544922e-05
+    },
+    "12_pre_3": {
+        "token_idx": 3,
+        "tokens": " city,  cities,  cool,  today,  such,  primary,  Kings,  concentration,  the,  every",
+        "rank_subject": 310,
+        "rank_answer": 3079,
+        "logit_subject": 0.8984375,
+        "logit_answer": 0.5078125,
+        "prob_subject": 4.649162292480469e-05,
+        "prob_answer": 3.147125244140625e-05
+    },
+    "12_pre_4": {
+        "token_idx": 4,
+        "tokens": " state,  proper, ians, ian, 's,  State,  capital,  province,  Mes,  architecture",
+        "rank_subject": 1561,
+        "rank_answer": 938,
+        "logit_subject": 0.58203125,
+        "logit_answer": 0.66796875,
+        "prob_subject": 3.409385681152344e-05,
+        "prob_answer": 3.719329833984375e-05
+    },
+    "12_pre_5": {
+        "token_idx": 5,
+        "tokens": " considered,  located,  currently,  set,  always,  situated,  still,  held,  regarded,  proper",
+        "rank_subject": 1029,
+        "rank_answer": 670,
+        "logit_subject": 0.6796875,
+        "logit_answer": 0.7578125,
+        "prob_subject": 3.743171691894531e-05,
+        "prob_answer": 4.0531158447265625e-05
+    },
+    "12_mid_0": {
+        "token_idx": 0,
+        "tokens": "-,  the,  (, ,,  a,  and,  in, ., \n,  of",
+        "rank_subject": 5669,
+        "rank_answer": 19143,
+        "logit_subject": 17.5,
+        "logit_answer": 4.71875,
+        "prob_subject": 9.071900410041636e-30,
+        "prob_answer": 2.5578757073892976e-35
+    },
+    "12_mid_1": {
+        "token_idx": 1,
+        "tokens": " first,  recently,  latest, atre, ory, rapy, irs,  following, oretical, resa",
+        "rank_subject": 2811,
+        "rank_answer": 9816,
+        "logit_subject": 0.333984375,
+        "logit_answer": 0.1630859375,
+        "prob_subject": 2.7179718017578125e-05,
+        "prob_answer": 2.288818359375e-05
+    },
+    "12_mid_2": {
+        "token_idx": 2,
+        "tokens": "ists, ization, ized,  city, isation,  of, izing, ize,  gains, ised",
+        "rank_subject": 6818,
+        "rank_answer": 5320,
+        "logit_subject": 0.40625,
+        "logit_answer": 0.48046875,
+        "prob_subject": 2.7418136596679688e-05,
+        "prob_answer": 2.956390380859375e-05
+    },
+    "12_mid_3": {
+        "token_idx": 3,
+        "tokens": " city,  cities,  Kings,  primary,  cool,  intensive,  today,  concentration,  the,  every",
+        "rank_subject": 441,
+        "rank_answer": 2885,
+        "logit_subject": 0.83203125,
+        "logit_answer": 0.515625,
+        "prob_subject": 4.363059997558594e-05,
+        "prob_answer": 3.170967102050781e-05
+    },
+    "12_mid_4": {
+        "token_idx": 4,
+        "tokens": " state, ians,  proper, ian,  State,  capital, 's,  Metro,  province,  Mes",
+        "rank_subject": 1986,
+        "rank_answer": 885,
+        "logit_subject": 0.53515625,
+        "logit_answer": 0.67578125,
+        "prob_subject": 3.266334533691406e-05,
+        "prob_answer": 3.743171691894531e-05
+    },
+    "12_mid_5": {
+        "token_idx": 5,
+        "tokens": " considered,  located,  set,  currently,  king,  situated,  held,  always,  still,  cities",
+        "rank_subject": 1416,
+        "rank_answer": 609,
+        "logit_subject": 0.61328125,
+        "logit_answer": 0.765625,
+        "prob_subject": 3.504753112792969e-05,
+        "prob_answer": 4.100799560546875e-05
+    },
+    "13_pre_0": {
+        "token_idx": 0,
+        "tokens": "-,  the,  (, ,,  a,  in,  and, .,  of, \n",
+        "rank_subject": 5640,
+        "rank_answer": 19118,
+        "logit_subject": 17.5,
+        "logit_answer": 4.71875,
+        "prob_subject": 1.4692534359741345e-29,
+        "prob_answer": 4.1189322052812954e-35
+    },
+    "13_pre_1": {
+        "token_idx": 1,
+        "tokens": " first,  following,  sc,  latest,  National,  recently, ory, atre, irs, rapy",
+        "rank_subject": 5044,
+        "rank_answer": 11791,
+        "logit_subject": 0.27734375,
+        "logit_answer": 0.138671875,
+        "prob_subject": 2.562999725341797e-05,
+        "prob_answer": 2.2292137145996094e-05
+    },
+    "13_pre_2": {
+        "token_idx": 2,
+        "tokens": " city, ists, ization,  of,  gains, ized, isation, izing, ised,  cities",
+        "rank_subject": 8054,
+        "rank_answer": 8541,
+        "logit_subject": 0.384765625,
+        "logit_answer": 0.365234375,
+        "prob_subject": 2.6464462280273438e-05,
+        "prob_answer": 2.5987625122070312e-05
+    },
+    "13_pre_3": {
+        "token_idx": 3,
+        "tokens": " city,  cities,  Kings,  today,  concentration,  primary,  capital,  planned,  your,  architecture",
+        "rank_subject": 597,
+        "rank_answer": 2473,
+        "logit_subject": 0.8046875,
+        "logit_answer": 0.5546875,
+        "prob_subject": 4.2438507080078125e-05,
+        "prob_answer": 3.2901763916015625e-05
+    },
+    "13_pre_4": {
+        "token_idx": 4,
+        "tokens": "ians,  state,  capital, ian,  proper, 's,  State,  Metro,  province,  once",
+        "rank_subject": 2030,
+        "rank_answer": 1105,
+        "logit_subject": 0.53515625,
+        "logit_answer": 0.64453125,
+        "prob_subject": 3.266334533691406e-05,
+        "prob_answer": 3.647804260253906e-05
+    },
+    "13_pre_5": {
+        "token_idx": 5,
+        "tokens": " currently,  considered,  located,  set,  held,  always,  situated,  city,  ab,  usually",
+        "rank_subject": 1295,
+        "rank_answer": 566,
+        "logit_subject": 0.67578125,
+        "logit_answer": 0.82421875,
+        "prob_subject": 3.719329833984375e-05,
+        "prob_answer": 4.315376281738281e-05
+    },
+    "13_mid_0": {
+        "token_idx": 0,
+        "tokens": "-,  the,  (, ,,  a,  in,  and, .,  of, \n",
+        "rank_subject": 5703,
+        "rank_answer": 19167,
+        "logit_subject": 17.375,
+        "logit_answer": 4.6875,
+        "prob_subject": 1.2917597322994068e-29,
+        "prob_answer": 3.987276837989199e-35
+    },
+    "13_mid_1": {
+        "token_idx": 1,
+        "tokens": " first,  following,  National,  sc,  latest, ory,  recently, irs, atre, oretical",
+        "rank_subject": 5605,
+        "rank_answer": 12601,
+        "logit_subject": 0.2578125,
+        "logit_answer": 0.1240234375,
+        "prob_subject": 2.5153160095214844e-05,
+        "prob_answer": 2.205371856689453e-05
+    },
+    "13_mid_2": {
+        "token_idx": 2,
+        "tokens": " city, ists, ization,  of, ized,  gains, isation, izing, ised, ize",
+        "rank_subject": 8817,
+        "rank_answer": 9316,
+        "logit_subject": 0.349609375,
+        "logit_answer": 0.33203125,
+        "prob_subject": 2.562999725341797e-05,
+        "prob_answer": 2.5153160095214844e-05
+    },
+    "13_mid_3": {
+        "token_idx": 3,
+        "tokens": " city,  cities,  Kings,  today,  concentration,  primary,  capital,  your,  planned,  the",
+        "rank_subject": 674,
+        "rank_answer": 2739,
+        "logit_subject": 0.7734375,
+        "logit_answer": 0.52734375,
+        "prob_subject": 4.124641418457031e-05,
+        "prob_answer": 3.218650817871094e-05
+    },
+    "13_mid_4": {
+        "token_idx": 4,
+        "tokens": " state, ians,  capital, ian,  State, 's,  proper,  once,  Metro,  province",
+        "rank_subject": 2186,
+        "rank_answer": 1208,
+        "logit_subject": 0.51171875,
+        "logit_answer": 0.625,
+        "prob_subject": 3.1948089599609375e-05,
+        "prob_answer": 3.5762786865234375e-05
+    },
+    "13_mid_5": {
+        "token_idx": 5,
+        "tokens": " considered,  currently,  set,  located,  held,  always,  situated,  ab,  still,  city",
+        "rank_subject": 1359,
+        "rank_answer": 597,
+        "logit_subject": 0.65234375,
+        "logit_answer": 0.80078125,
+        "prob_subject": 3.647804260253906e-05,
+        "prob_answer": 4.220008850097656e-05
+    },
+    "14_pre_0": {
+        "token_idx": 0,
+        "tokens": "-,  the,  (, ,,  a,  and,  in, .,  of, \n",
+        "rank_subject": 5650,
+        "rank_answer": 19192,
+        "logit_subject": 17.375,
+        "logit_answer": 4.65625,
+        "prob_subject": 2.129924444096732e-29,
+        "prob_answer": 6.394689268473244e-35
+    },
+    "14_pre_1": {
+        "token_idx": 1,
+        "tokens": " following,  latest,  first, ory, sis,  National,  same, oret,  sc,  newest",
+        "rank_subject": 11588,
+        "rank_answer": 16063,
+        "logit_subject": 0.138671875,
+        "logit_answer": 0.07666015625,
+        "prob_subject": 2.2292137145996094e-05,
+        "prob_answer": 2.09808349609375e-05
+    },
+    "14_pre_2": {
+        "token_idx": 2,
+        "tokens": " city, ists, ization,  cities, ized, isation, ised, izing,  of, city",
+        "rank_subject": 21229,
+        "rank_answer": 11292,
+        "logit_subject": 0.03125,
+        "logit_answer": 0.279296875,
+        "prob_subject": 1.8358230590820312e-05,
+        "prob_answer": 2.3484230041503906e-05
+    },
+    "14_pre_3": {
+        "token_idx": 3,
+        "tokens": " city,  cities,  Kings,  today,  location,  concentration,  such,  your,  capital,  metropolitan",
+        "rank_subject": 1523,
+        "rank_answer": 3671,
+        "logit_subject": 0.66796875,
+        "logit_answer": 0.48828125,
+        "prob_subject": 3.695487976074219e-05,
+        "prob_answer": 3.075599670410156e-05
+    },
+    "14_pre_4": {
+        "token_idx": 4,
+        "tokens": "ians, ian,  state,  capital, 's,  proper,  Metro,  State,  province,  once",
+        "rank_subject": 1356,
+        "rank_answer": 1708,
+        "logit_subject": 0.62890625,
+        "logit_answer": 0.58984375,
+        "prob_subject": 3.5762786865234375e-05,
+        "prob_answer": 3.4332275390625e-05
+    },
+    "14_pre_5": {
+        "token_idx": 5,
+        "tokens": " currently,  located,  considered,  city,  usually,  traditionally,  situated,  cities,  generally,  always",
+        "rank_subject": 3670,
+        "rank_answer": 553,
+        "logit_subject": 0.462890625,
+        "logit_answer": 0.82421875,
+        "prob_subject": 3.0040740966796875e-05,
+        "prob_answer": 4.315376281738281e-05
+    },
+    "14_mid_0": {
+        "token_idx": 0,
+        "tokens": "-,  the,  (, ,,  a,  in,  and, .,  of, \n",
+        "rank_subject": 5639,
+        "rank_answer": 19171,
+        "logit_subject": 17.375,
+        "logit_answer": 4.65625,
+        "prob_subject": 2.129924444096732e-29,
+        "prob_answer": 6.394689268473244e-35
+    },
+    "14_mid_1": {
+        "token_idx": 1,
+        "tokens": " latest,  following, ory,  first, sis, oret, oretical,  National, rapy, atre",
+        "rank_subject": 12537,
+        "rank_answer": 15863,
+        "logit_subject": 0.12158203125,
+        "logit_answer": 0.07861328125,
+        "prob_subject": 2.193450927734375e-05,
+        "prob_answer": 2.110004425048828e-05
+    },
+    "14_mid_2": {
+        "token_idx": 2,
+        "tokens": " city, ists, ization, isation, ized,  cities, ised, izing, ist, city",
+        "rank_subject": 21753,
+        "rank_answer": 10413,
+        "logit_subject": 0.0225830078125,
+        "logit_answer": 0.3046875,
+        "prob_subject": 1.823902130126953e-05,
+        "prob_answer": 2.4199485778808594e-05
+    },
+    "14_mid_3": {
+        "token_idx": 3,
+        "tokens": " city,  cities,  Kings,  today,  capital,  concentration,  Maur,  these,  your,  beautiful",
+        "rank_subject": 1368,
+        "rank_answer": 3333,
+        "logit_subject": 0.671875,
+        "logit_answer": 0.490234375,
+        "prob_subject": 3.719329833984375e-05,
+        "prob_answer": 3.0994415283203125e-05
+    },
+    "14_mid_4": {
+        "token_idx": 4,
+        "tokens": "ians, ian,  capital,  state, 's,  State,  Metro,  province,  proper,  Mes",
+        "rank_subject": 1078,
+        "rank_answer": 1182,
+        "logit_subject": 0.66796875,
+        "logit_answer": 0.65234375,
+        "prob_subject": 3.719329833984375e-05,
+        "prob_answer": 3.647804260253906e-05
+    },
+    "14_mid_5": {
+        "token_idx": 5,
+        "tokens": " currently,  considered,  located,  situated,  usually,  city,  cities,  always,  set,  traditionally",
+        "rank_subject": 3087,
+        "rank_answer": 373,
+        "logit_subject": 0.47265625,
+        "logit_answer": 0.83984375,
+        "prob_subject": 3.0517578125e-05,
+        "prob_answer": 4.410743713378906e-05
+    },
+    "15_pre_0": {
+        "token_idx": 0,
+        "tokens": "-,  the,  (, ,,  a, .,  of,  and,  in, \n",
+        "rank_subject": 5295,
+        "rank_answer": 18524,
+        "logit_subject": 16.625,
+        "logit_answer": 4.875,
+        "prob_subject": 1.3894049351476637e-25,
+        "prob_answer": 1.0970096963229695e-30
+    },
+    "15_pre_1": {
+        "token_idx": 1,
+        "tokens": " following, ory,  first,  latest, sis, oret, rapy, atre, oretical, ater",
+        "rank_subject": 15937,
+        "rank_answer": 23924,
+        "logit_subject": 0.08251953125,
+        "logit_answer": -0.01068115234375,
+        "prob_subject": 2.110004425048828e-05,
+        "prob_answer": 1.919269561767578e-05
+    },
+    "15_pre_2": {
+        "token_idx": 2,
+        "tokens": " city,  cities, ists, ization,  of,  City, isation, city, ized, ised",
+        "rank_subject": 13467,
+        "rank_answer": 6816,
+        "logit_subject": 0.2216796875,
+        "logit_answer": 0.474609375,
+        "prob_subject": 2.193450927734375e-05,
+        "prob_answer": 2.8371810913085938e-05
+    },
+    "15_pre_3": {
+        "token_idx": 3,
+        "tokens": " city,  cities,  your,  today,  these,  cool,  state,  beautiful,  South,  southern",
+        "rank_subject": 1408,
+        "rank_answer": 4829,
+        "logit_subject": 0.69921875,
+        "logit_answer": 0.4453125,
+        "prob_subject": 3.790855407714844e-05,
+        "prob_answer": 2.944469451904297e-05
+    },
+    "15_pre_4": {
+        "token_idx": 4,
+        "tokens": "ians,  state, ian,  capital,  State,  proper,  province, 's,  Metro,  Mes",
+        "rank_subject": 1286,
+        "rank_answer": 2361,
+        "logit_subject": 0.67578125,
+        "logit_answer": 0.5546875,
+        "prob_subject": 3.719329833984375e-05,
+        "prob_answer": 3.2901763916015625e-05
+    },
+    "15_pre_5": {
+        "token_idx": 5,
+        "tokens": " currently,  considered,  usually,  generally,  traditionally,  located,  presently,  still,  set,  regarded",
+        "rank_subject": 4162,
+        "rank_answer": 1109,
+        "logit_subject": 0.44921875,
+        "logit_answer": 0.71484375,
+        "prob_subject": 2.968311309814453e-05,
+        "prob_answer": 3.8623809814453125e-05
+    },
+    "15_mid_0": {
+        "token_idx": 0,
+        "tokens": "-,  the,  (, ,,  a, .,  of,  and,  in, \n",
+        "rank_subject": 5293,
+        "rank_answer": 18468,
+        "logit_subject": 16.625,
+        "logit_answer": 4.90625,
+        "prob_subject": 1.3894049351476637e-25,
+        "prob_answer": 1.1339875512552045e-30
+    },
+    "15_mid_1": {
+        "token_idx": 1,
+        "tokens": " following, ory,  first, sis,  latest, oret, rapy, oretical, atre,  sc",
+        "rank_subject": 14732,
+        "rank_answer": 21848,
+        "logit_subject": 0.09765625,
+        "logit_answer": 0.01116943359375,
+        "prob_subject": 2.1338462829589844e-05,
+        "prob_answer": 1.9550323486328125e-05
+    },
+    "15_mid_2": {
+        "token_idx": 2,
+        "tokens": " city, ists, ization,  cities,  of, isation,  City, city, ist, ised",
+        "rank_subject": 12009,
+        "rank_answer": 5745,
+        "logit_subject": 0.265625,
+        "logit_answer": 0.53125,
+        "prob_subject": 2.300739288330078e-05,
+        "prob_answer": 2.9921531677246094e-05
+    },
+    "15_mid_3": {
+        "token_idx": 3,
+        "tokens": " city,  cities,  your,  today,  these,  cool,  Abu,  South,  state,  Kings",
+        "rank_subject": 1230,
+        "rank_answer": 3768,
+        "logit_subject": 0.72265625,
+        "logit_answer": 0.494140625,
+        "prob_subject": 3.886222839355469e-05,
+        "prob_answer": 3.0994415283203125e-05
+    },
+    "15_mid_4": {
+        "token_idx": 4,
+        "tokens": "ians,  capital, ian,  State,  state,  province,  Metro,  proper,  Mes, 's",
+        "rank_subject": 727,
+        "rank_answer": 1104,
+        "logit_subject": 0.82421875,
+        "logit_answer": 0.73828125,
+        "prob_subject": 4.291534423828125e-05,
+        "prob_answer": 3.9577484130859375e-05
+    },
+    "15_mid_5": {
+        "token_idx": 5,
+        "tokens": " currently,  considered,  usually,  located,  generally,  presently,  traditionally,  set,  still,  regarded",
+        "rank_subject": 3235,
+        "rank_answer": 703,
+        "logit_subject": 0.494140625,
+        "logit_answer": 0.78125,
+        "prob_subject": 3.0994415283203125e-05,
+        "prob_answer": 4.124641418457031e-05
+    },
+    "16_pre_0": {
+        "token_idx": 0,
+        "tokens": "-,  the,  (, ,,  a, .,  of,  and,  in, \n",
+        "rank_subject": 5266,
+        "rank_answer": 18491,
+        "logit_subject": 16.625,
+        "logit_answer": 4.875,
+        "prob_subject": 1.3974828708171268e-25,
+        "prob_answer": 1.0970096963229695e-30
+    },
+    "16_pre_1": {
+        "token_idx": 1,
+        "tokens": " following,  first,  sc, sis, ory,  rise,  problem,  National,  latest, oret",
+        "rank_subject": 11064,
+        "rank_answer": 18045,
+        "logit_subject": 0.166015625,
+        "logit_answer": 0.05712890625,
+        "prob_subject": 2.276897430419922e-05,
+        "prob_answer": 2.0384788513183594e-05
+    },
+    "16_pre_2": {
+        "token_idx": 2,
+        "tokens": " city,  cities, ization, ists,  of, isation,  City,  gains, ised, izing",
+        "rank_subject": 7624,
+        "rank_answer": 4791,
+        "logit_subject": 0.49609375,
+        "logit_answer": 0.6796875,
+        "prob_subject": 2.7894973754882812e-05,
+        "prob_answer": 3.361701965332031e-05
+    },
+    "16_pre_3": {
+        "token_idx": 3,
+        "tokens": " city,  cities,  today,  southern,  your,  beautiful,  state,  these,  primary,  light",
+        "rank_subject": 1173,
+        "rank_answer": 4435,
+        "logit_subject": 0.7890625,
+        "logit_answer": 0.49609375,
+        "prob_subject": 4.100799560546875e-05,
+        "prob_answer": 3.075599670410156e-05
+    },
+    "16_pre_4": {
+        "token_idx": 4,
+        "tokens": " capital, ians,  State,  state,  proper, ian,  province,  Mes,  Metro, 's",
+        "rank_subject": 1387,
+        "rank_answer": 1460,
+        "logit_subject": 0.73046875,
+        "logit_answer": 0.72265625,
+        "prob_subject": 3.886222839355469e-05,
+        "prob_answer": 3.8623809814453125e-05
+    },
+    "16_pre_5": {
+        "token_idx": 5,
+        "tokens": " currently,  usually,  considered,  city,  located,  generally,  traditionally,  cities,  presently,  often",
+        "rank_subject": 4388,
+        "rank_answer": 1134,
+        "logit_subject": 0.46484375,
+        "logit_answer": 0.76171875,
+        "prob_subject": 2.9921531677246094e-05,
+        "prob_answer": 4.029273986816406e-05
+    },
+    "16_mid_0": {
+        "token_idx": 0,
+        "tokens": "-,  the,  (, ,,  a, .,  of,  and,  in, \n",
+        "rank_subject": 5319,
+        "rank_answer": 18512,
+        "logit_subject": 16.5,
+        "logit_answer": 4.84375,
+        "prob_subject": 1.2359241574278636e-25,
+        "prob_answer": 1.0661948172127738e-30
+    },
+    "16_mid_1": {
+        "token_idx": 1,
+        "tokens": " following, sis, ory,  first,  sc, oret, rapy,  rise,  problem,  latest",
+        "rank_subject": 10221,
+        "rank_answer": 16420,
+        "logit_subject": 0.169921875,
+        "logit_answer": 0.0751953125,
+        "prob_subject": 2.288818359375e-05,
+        "prob_answer": 2.086162567138672e-05
+    },
+    "16_mid_2": {
+        "token_idx": 2,
+        "tokens": " city,  cities, ization, ists, isation,  of,  gains,  City, city, izing",
+        "rank_subject": 7559,
+        "rank_answer": 4093,
+        "logit_subject": 0.4609375,
+        "logit_answer": 0.68359375,
+        "prob_subject": 2.753734588623047e-05,
+        "prob_answer": 3.457069396972656e-05
+    },
+    "16_mid_3": {
+        "token_idx": 3,
+        "tokens": " city,  cities,  today,  southern,  your,  state,  beautiful,  these,  light,  South",
+        "rank_subject": 969,
+        "rank_answer": 3626,
+        "logit_subject": 0.75,
+        "logit_answer": 0.48828125,
+        "prob_subject": 4.00543212890625e-05,
+        "prob_answer": 3.075599670410156e-05
+    },
+    "16_mid_4": {
+        "token_idx": 4,
+        "tokens": " capital, ians,  State,  state,  Mes, ian,  proper,  province,  Metro,  Province",
+        "rank_subject": 1143,
+        "rank_answer": 1042,
+        "logit_subject": 0.7109375,
+        "logit_answer": 0.734375,
+        "prob_subject": 3.838539123535156e-05,
+        "prob_answer": 3.933906555175781e-05
+    },
+    "16_mid_5": {
+        "token_idx": 5,
+        "tokens": " currently,  usually,  considered,  city,  located,  traditionally,  presently,  generally,  centered,  situated",
+        "rank_subject": 4112,
+        "rank_answer": 699,
+        "logit_subject": 0.42578125,
+        "logit_answer": 0.76171875,
+        "prob_subject": 2.9087066650390625e-05,
+        "prob_answer": 4.076957702636719e-05
+    },
+    "17_pre_0": {
+        "token_idx": 0,
+        "tokens": "-,  the,  (, ,,  a, .,  of, :, (,  and",
+        "rank_subject": 4558,
+        "rank_answer": 18205,
+        "logit_subject": 16.0,
+        "logit_answer": 5.03125,
+        "prob_subject": 9.275010772434589e-20,
+        "prob_answer": 1.5962000882859206e-24
+    },
+    "17_pre_1": {
+        "token_idx": 1,
+        "tokens": " following, sis, ory,  first,  sc, atre, rapy,  rise,  problem, ater",
+        "rank_subject": 12654,
+        "rank_answer": 20426,
+        "logit_subject": 0.1298828125,
+        "logit_answer": 0.0264892578125,
+        "prob_subject": 2.205371856689453e-05,
+        "prob_answer": 1.990795135498047e-05
+    },
+    "17_pre_2": {
+        "token_idx": 2,
+        "tokens": " city,  cities, ization,  of, isation, ists, city,  City, izing, ised",
+        "rank_subject": 13126,
+        "rank_answer": 5247,
+        "logit_subject": 0.25,
+        "logit_answer": 0.60546875,
+        "prob_subject": 2.2172927856445312e-05,
+        "prob_answer": 3.170967102050781e-05
+    },
+    "17_pre_3": {
+        "token_idx": 3,
+        "tokens": " city,  cities,  of,  the,  your,  our,  southern,  each,  these,  today",
+        "rank_subject": 2513,
+        "rank_answer": 5256,
+        "logit_subject": 0.609375,
+        "logit_answer": 0.44140625,
+        "prob_subject": 3.457069396972656e-05,
+        "prob_answer": 2.9087066650390625e-05
+    },
+    "17_pre_4": {
+        "token_idx": 4,
+        "tokens": "ians,  capital,  State,  state,  proper,  Mes, ian, 's,  and,  today",
+        "rank_subject": 2207,
+        "rank_answer": 2441,
+        "logit_subject": 0.5859375,
+        "logit_answer": 0.56640625,
+        "prob_subject": 3.3855438232421875e-05,
+        "prob_answer": 3.314018249511719e-05
+    },
+    "17_pre_5": {
+        "token_idx": 5,
+        "tokens": " currently,  located,  considered,  usually,  traditionally,  city,  centered,  always,  listed,  generally",
+        "rank_subject": 8049,
+        "rank_answer": 1286,
+        "logit_subject": 0.296875,
+        "logit_answer": 0.6953125,
+        "prob_subject": 2.5391578674316406e-05,
+        "prob_answer": 3.790855407714844e-05
+    },
+    "17_mid_0": {
+        "token_idx": 0,
+        "tokens": "-,  the,  (, ,,  a, .,  of, :, (, \n",
+        "rank_subject": 4551,
+        "rank_answer": 18163,
+        "logit_subject": 16.0,
+        "logit_answer": 5.0625,
+        "prob_subject": 9.867933835512599e-20,
+        "prob_answer": 1.7577588016751838e-24
+    },
+    "17_mid_1": {
+        "token_idx": 1,
+        "tokens": " following, sis, ory, atre, rapy,  sc,  first,  rise, ater,  problem",
+        "rank_subject": 13751,
+        "rank_answer": 21219,
+        "logit_subject": 0.11181640625,
+        "logit_answer": 0.017333984375,
+        "prob_subject": 2.1696090698242188e-05,
+        "prob_answer": 1.9669532775878906e-05
+    },
+    "17_mid_2": {
+        "token_idx": 2,
+        "tokens": " city,  cities, ization, isation,  of, ists, city,  City, izing, ised",
+        "rank_subject": 13592,
+        "rank_answer": 5362,
+        "logit_subject": 0.2333984375,
+        "logit_answer": 0.58984375,
+        "prob_subject": 2.193450927734375e-05,
+        "prob_answer": 3.123283386230469e-05
+    },
+    "17_mid_3": {
+        "token_idx": 3,
+        "tokens": " city,  cities,  of,  your,  the,  southern,  our,  each,  these,  today",
+        "rank_subject": 2555,
+        "rank_answer": 5340,
+        "logit_subject": 0.58984375,
+        "logit_answer": 0.42578125,
+        "prob_subject": 3.3855438232421875e-05,
+        "prob_answer": 2.872943878173828e-05
+    },
+    "17_mid_4": {
+        "token_idx": 4,
+        "tokens": "ians,  capital,  State,  state,  Mes, ian,  proper, 's,  and,  today",
+        "rank_subject": 2232,
+        "rank_answer": 2494,
+        "logit_subject": 0.578125,
+        "logit_answer": 0.5546875,
+        "prob_subject": 3.361701965332031e-05,
+        "prob_answer": 3.2901763916015625e-05
+    },
+    "17_mid_5": {
+        "token_idx": 5,
+        "tokens": " currently,  located,  considered,  usually,  city,  always,  traditionally,  centered,  listed,  situated",
+        "rank_subject": 7548,
+        "rank_answer": 1188,
+        "logit_subject": 0.3046875,
+        "logit_answer": 0.6953125,
+        "prob_subject": 2.562999725341797e-05,
+        "prob_answer": 3.790855407714844e-05
+    },
+    "18_pre_0": {
+        "token_idx": 0,
+        "tokens": "-,  the,  (, ,,  a, .,  of, :, (, \n",
+        "rank_subject": 4460,
+        "rank_answer": 18157,
+        "logit_subject": 15.9375,
+        "logit_answer": 5.03125,
+        "prob_subject": 2.371692252312041e-19,
+        "prob_answer": 4.3685476100456774e-24
+    },
+    "18_pre_1": {
+        "token_idx": 1,
+        "tokens": " sc, sis, ory,  following, rapy, atre,  rise, oret,  problem, ater",
+        "rank_subject": 15057,
+        "rank_answer": 25413,
+        "logit_subject": 0.10009765625,
+        "logit_answer": -0.033203125,
+        "prob_subject": 2.1338462829589844e-05,
+        "prob_answer": 1.8596649169921875e-05
+    },
+    "18_pre_2": {
+        "token_idx": 2,
+        "tokens": " city,  cities, ization,  of, isation, ists, city,  City, izing,  gains",
+        "rank_subject": 24783,
+        "rank_answer": 6130,
+        "logit_subject": -0.0537109375,
+        "logit_answer": 0.5859375,
+        "prob_subject": 1.5974044799804688e-05,
+        "prob_answer": 3.0279159545898438e-05
+    },
+    "18_pre_3": {
+        "token_idx": 3,
+        "tokens": " city,  cities,  your,  our,  South,  today,  the,  southern,  such,  beautiful",
+        "rank_subject": 2914,
+        "rank_answer": 6297,
+        "logit_subject": 0.59765625,
+        "logit_answer": 0.404296875,
+        "prob_subject": 3.3855438232421875e-05,
+        "prob_answer": 2.7894973754882812e-05
+    },
+    "18_pre_4": {
+        "token_idx": 4,
+        "tokens": "ians,  proper,  State, ian,  capital, 's,  state,  Mes,  today,  and",
+        "rank_subject": 1658,
+        "rank_answer": 2362,
+        "logit_subject": 0.6796875,
+        "logit_answer": 0.59375,
+        "prob_subject": 3.719329833984375e-05,
+        "prob_answer": 3.409385681152344e-05
+    },
+    "18_pre_5": {
+        "token_idx": 5,
+        "tokens": " currently,  located,  usually,  considered,  traditionally,  always,  listed,  generally,  situated,  presently",
+        "rank_subject": 8199,
+        "rank_answer": 796,
+        "logit_subject": 0.291015625,
+        "logit_answer": 0.7890625,
+        "prob_subject": 2.5272369384765625e-05,
+        "prob_answer": 4.1484832763671875e-05
+    },
+    "18_mid_0": {
+        "token_idx": 0,
+        "tokens": "-,  the,  (, ,,  a, .,  of, :, (, \n",
+        "rank_subject": 4493,
+        "rank_answer": 18150,
+        "logit_subject": 15.875,
+        "logit_answer": 5.03125,
+        "prob_subject": 2.371692252312041e-19,
+        "prob_answer": 4.6270415514684986e-24
+    },
+    "18_mid_1": {
+        "token_idx": 1,
+        "tokens": "sis,  sc, ory,  following, rapy, atre, ater,  problem, oret,  rise",
+        "rank_subject": 14097,
+        "rank_answer": 26064,
+        "logit_subject": 0.11328125,
+        "logit_answer": -0.036865234375,
+        "prob_subject": 2.1576881408691406e-05,
+        "prob_answer": 1.8596649169921875e-05
+    },
+    "18_mid_2": {
+        "token_idx": 2,
+        "tokens": " city,  cities, ization,  of, isation, ists, city,  City, izing, ised",
+        "rank_subject": 24853,
+        "rank_answer": 5850,
+        "logit_subject": -0.0498046875,
+        "logit_answer": 0.58203125,
+        "prob_subject": 1.621246337890625e-05,
+        "prob_answer": 3.0517578125e-05
+    },
+    "18_mid_3": {
+        "token_idx": 3,
+        "tokens": " city,  South,  your,  cities,  southern,  our,  Spain,  Puerto,  beautiful,  each",
+        "rank_subject": 874,
+        "rank_answer": 6020,
+        "logit_subject": 0.87890625,
+        "logit_answer": 0.416015625,
+        "prob_subject": 4.482269287109375e-05,
+        "prob_answer": 2.8133392333984375e-05
+    },
+    "18_mid_4": {
+        "token_idx": 4,
+        "tokens": " proper, ians,  State, ian,  capital,  state, 's, --,  province,  Mes",
+        "rank_subject": 974,
+        "rank_answer": 2588,
+        "logit_subject": 0.78515625,
+        "logit_answer": 0.5703125,
+        "prob_subject": 4.124641418457031e-05,
+        "prob_answer": 3.314018249511719e-05
+    },
+    "18_mid_5": {
+        "token_idx": 5,
+        "tokens": " currently,  located,  usually,  traditionally,  considered,  always,  listed,  situated,  expected,  generally",
+        "rank_subject": 8030,
+        "rank_answer": 628,
+        "logit_subject": 0.28125,
+        "logit_answer": 0.79296875,
+        "prob_subject": 2.5153160095214844e-05,
+        "prob_answer": 4.1961669921875e-05
+    },
+    "19_pre_0": {
+        "token_idx": 0,
+        "tokens": "-,  the,  (, ,, .,  a,  of, (, :, _",
+        "rank_subject": 4408,
+        "rank_answer": 18235,
+        "logit_subject": 15.625,
+        "logit_answer": 4.9375,
+        "prob_subject": 1.3688052427629493e-18,
+        "prob_answer": 3.1226068123876795e-23
+    },
+    "19_pre_1": {
+        "token_idx": 1,
+        "tokens": " sc, ory,  problem,  following, sis,  main, ater, rapy,  first,  latest",
+        "rank_subject": 10760,
+        "rank_answer": 24048,
+        "logit_subject": 0.19140625,
+        "logit_answer": -0.021484375,
+        "prob_subject": 2.3245811462402344e-05,
+        "prob_answer": 1.8715858459472656e-05
+    },
+    "19_pre_2": {
+        "token_idx": 2,
+        "tokens": " city,  of,  cities, ization, isation, ists,  City, city,  gains, ised",
+        "rank_subject": 25457,
+        "rank_answer": 6295,
+        "logit_subject": -0.07373046875,
+        "logit_answer": 0.58203125,
+        "prob_subject": 1.5616416931152344e-05,
+        "prob_answer": 3.0159950256347656e-05
+    },
+    "19_pre_3": {
+        "token_idx": 3,
+        "tokens": " city,  your,  South,  cities,  our,  the,  Canada,  southern,  each,  Spain",
+        "rank_subject": 621,
+        "rank_answer": 7143,
+        "logit_subject": 1.09375,
+        "logit_answer": 0.4375,
+        "prob_subject": 5.412101745605469e-05,
+        "prob_answer": 2.8133392333984375e-05
+    },
+    "19_pre_4": {
+        "token_idx": 4,
+        "tokens": " proper, ians, ian,  capital, 's,  State,  state,  today,  ph,  has",
+        "rank_subject": 230,
+        "rank_answer": 2684,
+        "logit_subject": 1.1328125,
+        "logit_answer": 0.59765625,
+        "prob_subject": 5.793571472167969e-05,
+        "prob_answer": 3.3855438232421875e-05
+    },
+    "19_pre_5": {
+        "token_idx": 5,
+        "tokens": " currently,  usually,  always,  traditionally,  considered,  located,  listed,  actually,  expected,  generally",
+        "rank_subject": 5058,
+        "rank_answer": 519,
+        "logit_subject": 0.439453125,
+        "logit_answer": 0.94921875,
+        "prob_subject": 2.8967857360839844e-05,
+        "prob_answer": 4.839897155761719e-05
+    },
+    "19_mid_0": {
+        "token_idx": 0,
+        "tokens": "-,  the,  (, ,, .,  a,  of, (, :, _",
+        "rank_subject": 4398,
+        "rank_answer": 18272,
+        "logit_subject": 15.625,
+        "logit_answer": 4.90625,
+        "prob_subject": 1.4365678785432934e-18,
+        "prob_answer": 3.1846453583291565e-23
+    },
+    "19_mid_1": {
+        "token_idx": 1,
+        "tokens": "ory, sis, ater, rapy,  sc,  following,  problem, mes,  latest, atre",
+        "rank_subject": 12924,
+        "rank_answer": 25980,
+        "logit_subject": 0.138671875,
+        "logit_answer": -0.04052734375,
+        "prob_subject": 2.205371856689453e-05,
+        "prob_answer": 1.8477439880371094e-05
+    },
+    "19_mid_2": {
+        "token_idx": 2,
+        "tokens": " city,  of,  cities, ization, isation, ists, city,  City, izing,  gains",
+        "rank_subject": 26417,
+        "rank_answer": 5793,
+        "logit_subject": -0.08642578125,
+        "logit_answer": 0.578125,
+        "prob_subject": 1.5735626220703125e-05,
+        "prob_answer": 3.0517578125e-05
+    },
+    "19_mid_3": {
+        "token_idx": 3,
+        "tokens": " city,  South,  your,  cities,  our,  Canada,  Spain,  southern,  each,  state",
+        "rank_subject": 516,
+        "rank_answer": 5395,
+        "logit_subject": 1.09375,
+        "logit_answer": 0.494140625,
+        "prob_subject": 5.4836273193359375e-05,
+        "prob_answer": 3.0040740966796875e-05
+    },
+    "19_mid_4": {
+        "token_idx": 4,
+        "tokens": "ians,  proper, ian,  capital, 's,  State,  state,  Mes,  today,  ph",
+        "rank_subject": 187,
+        "rank_answer": 1843,
+        "logit_subject": 1.109375,
+        "logit_answer": 0.64453125,
+        "prob_subject": 5.698204040527344e-05,
+        "prob_answer": 3.5762786865234375e-05
+    },
+    "19_mid_5": {
+        "token_idx": 5,
+        "tokens": " currently,  always,  usually,  traditionally,  located,  considered,  listed,  expected,  officially,  actually",
+        "rank_subject": 3731,
+        "rank_answer": 238,
+        "logit_subject": 0.482421875,
+        "logit_answer": 1.0546875,
+        "prob_subject": 3.0517578125e-05,
+        "prob_answer": 5.412101745605469e-05
+    },
+    "20_pre_0": {
+        "token_idx": 0,
+        "tokens": "-,  the, \ufffd, \ufffd, _, \ufffd, \ufffd, ., (, \ufffd",
+        "rank_subject": 3913,
+        "rank_answer": 18146,
+        "logit_subject": 15.125,
+        "logit_answer": 4.9375,
+        "prob_subject": 1.2045919817182948e-14,
+        "prob_answer": 4.54009659728305e-19
+    },
+    "20_pre_1": {
+        "token_idx": 1,
+        "tokens": " following,  first,  sc,  main, ater, ory, rapy, sis,  problem,  National",
+        "rank_subject": 12240,
+        "rank_answer": 26485,
+        "logit_subject": 0.1669921875,
+        "logit_answer": -0.058837890625,
+        "prob_subject": 2.2530555725097656e-05,
+        "prob_answer": 1.800060272216797e-05
+    },
+    "20_pre_2": {
+        "token_idx": 2,
+        "tokens": " city,  of,  cities, ization, isation, ists,  City, ist,  gains, city",
+        "rank_subject": 16739,
+        "rank_answer": 2579,
+        "logit_subject": 0.162109375,
+        "logit_answer": 1.0078125,
+        "prob_subject": 1.919269561767578e-05,
+        "prob_answer": 4.458427429199219e-05
+    },
+    "20_pre_3": {
+        "token_idx": 3,
+        "tokens": " city,  South,  your,  the,  our,  this,  southern,  state,  both,  today",
+        "rank_subject": 514,
+        "rank_answer": 7472,
+        "logit_subject": 1.2265625,
+        "logit_answer": 0.462890625,
+        "prob_subject": 6.103515625e-05,
+        "prob_answer": 2.8371810913085938e-05
+    },
+    "20_pre_4": {
+        "token_idx": 4,
+        "tokens": "ians, 's, ian,  proper,  capital,  State,  state,  and,  today, ,",
+        "rank_subject": 326,
+        "rank_answer": 3552,
+        "logit_subject": 1.1484375,
+        "logit_answer": 0.56640625,
+        "prob_subject": 5.841255187988281e-05,
+        "prob_answer": 3.266334533691406e-05
+    },
+    "20_pre_5": {
+        "token_idx": 5,
+        "tokens": " currently,  always,  usually,  traditionally,  also,  located,  almost,  considered,  known,  probably",
+        "rank_subject": 3037,
+        "rank_answer": 211,
+        "logit_subject": 0.625,
+        "logit_answer": 1.3046875,
+        "prob_subject": 3.4332275390625e-05,
+        "prob_answer": 6.771087646484375e-05
+    },
+    "20_mid_0": {
+        "token_idx": 0,
+        "tokens": "-,  the, \ufffd, \ufffd, _, \ufffd, \ufffd, ., (, \ufffd",
+        "rank_subject": 3902,
+        "rank_answer": 18136,
+        "logit_subject": 15.125,
+        "logit_answer": 4.9375,
+        "prob_subject": 1.404432126150823e-14,
+        "prob_answer": 5.285485590866834e-19
+    },
+    "20_mid_1": {
+        "token_idx": 1,
+        "tokens": "ater,  following, rapy, ory, sis,  first, oret, atre,  sc,  main",
+        "rank_subject": 12269,
+        "rank_answer": 25018,
+        "logit_subject": 0.1572265625,
+        "logit_answer": -0.0341796875,
+        "prob_subject": 2.2411346435546875e-05,
+        "prob_answer": 1.8477439880371094e-05
+    },
+    "20_mid_2": {
+        "token_idx": 2,
+        "tokens": " city,  of,  cities, ization, isation, ists,  City, ist, city,  gains",
+        "rank_subject": 14177,
+        "rank_answer": 1740,
+        "logit_subject": 0.2431640625,
+        "logit_answer": 1.109375,
+        "prob_subject": 2.110004425048828e-05,
+        "prob_answer": 5.030632019042969e-05
+    },
+    "20_mid_3": {
+        "token_idx": 3,
+        "tokens": " city,  South,  your,  our,  the,  southern,  today,  state,  Spain,  my",
+        "rank_subject": 369,
+        "rank_answer": 6517,
+        "logit_subject": 1.2890625,
+        "logit_answer": 0.490234375,
+        "prob_subject": 6.532669067382812e-05,
+        "prob_answer": 2.9325485229492188e-05
+    },
+    "20_mid_4": {
+        "token_idx": 4,
+        "tokens": "ians,  capital, ian,  proper,  today,  State, 's,  province,  state,  mainland",
+        "rank_subject": 112,
+        "rank_answer": 3220,
+        "logit_subject": 1.4140625,
+        "logit_answer": 0.6015625,
+        "prob_subject": 7.581710815429688e-05,
+        "prob_answer": 3.361701965332031e-05
+    },
+    "20_mid_5": {
+        "token_idx": 5,
+        "tokens": " currently,  always,  traditionally,  officially,  usually,  located,  cities,  considered,  also,  almost",
+        "rank_subject": 2631,
+        "rank_answer": 132,
+        "logit_subject": 0.640625,
+        "logit_answer": 1.3671875,
+        "prob_subject": 3.504753112792969e-05,
+        "prob_answer": 7.2479248046875e-05
+    },
+    "21_pre_0": {
+        "token_idx": 0,
+        "tokens": "-,  the, \ufffd, \ufffd, \ufffd, \ufffd, _, \ufffd, ., (",
+        "rank_subject": 3885,
+        "rank_answer": 18219,
+        "logit_subject": 15.125,
+        "logit_answer": 4.90625,
+        "prob_subject": 1.787459069646502e-14,
+        "prob_answer": 6.505213034913027e-19
+    },
+    "21_pre_1": {
+        "token_idx": 1,
+        "tokens": " first,  following, ater, ory, rapy, oret,  problem, sis, rap,  main",
+        "rank_subject": 9781,
+        "rank_answer": 20901,
+        "logit_subject": 0.228515625,
+        "logit_answer": 0.01953125,
+        "prob_subject": 2.384185791015625e-05,
+        "prob_answer": 1.9431114196777344e-05
+    },
+    "21_pre_2": {
+        "token_idx": 2,
+        "tokens": " city,  of,  cities, ization, isation,  City, ists, ist, ized,  gains",
+        "rank_subject": 13054,
+        "rank_answer": 3374,
+        "logit_subject": 0.291015625,
+        "logit_answer": 0.890625,
+        "prob_subject": 2.193450927734375e-05,
+        "prob_answer": 4.00543212890625e-05
+    },
+    "21_pre_3": {
+        "token_idx": 3,
+        "tokens": " city,  South,  state,  southern,  our,  the,  Canada,  Spain,  my,  western",
+        "rank_subject": 367,
+        "rank_answer": 7614,
+        "logit_subject": 1.3125,
+        "logit_answer": 0.43359375,
+        "prob_subject": 6.67572021484375e-05,
+        "prob_answer": 2.765655517578125e-05
+    },
+    "21_pre_4": {
+        "token_idx": 4,
+        "tokens": " capital, ians, ian,  proper, 's,  State,  today,  and,  state,  has",
+        "rank_subject": 212,
+        "rank_answer": 4423,
+        "logit_subject": 1.265625,
+        "logit_answer": 0.51953125,
+        "prob_subject": 6.532669067382812e-05,
+        "prob_answer": 3.0994415283203125e-05
+    },
+    "21_pre_5": {
+        "token_idx": 5,
+        "tokens": " currently,  city,  always,  traditionally,  officially,  located,  also,  cities,  usually,  now",
+        "rank_subject": 7072,
+        "rank_answer": 350,
+        "logit_subject": 0.369140625,
+        "logit_answer": 1.1015625,
+        "prob_subject": 2.682209014892578e-05,
+        "prob_answer": 5.5789947509765625e-05
+    },
+    "21_mid_0": {
+        "token_idx": 0,
+        "tokens": "-,  the, \ufffd, \ufffd, \ufffd, \ufffd, _, \ufffd, (, .",
+        "rank_subject": 3907,
+        "rank_answer": 18205,
+        "logit_subject": 15.0625,
+        "logit_answer": 4.90625,
+        "prob_subject": 1.9095836023552692e-14,
+        "prob_answer": 7.420008617947671e-19
+    },
+    "21_mid_1": {
+        "token_idx": 1,
+        "tokens": " first,  following, ater, ory, rapy, oret, sis,  problem,  main, rap",
+        "rank_subject": 11688,
+        "rank_answer": 21729,
+        "logit_subject": 0.181640625,
+        "logit_answer": 0.00775146484375,
+        "prob_subject": 2.276897430419922e-05,
+        "prob_answer": 1.919269561767578e-05
+    },
+    "21_mid_2": {
+        "token_idx": 2,
+        "tokens": " city,  of,  cities, ization, isation,  City, ists, ist, city,  gains",
+        "rank_subject": 11927,
+        "rank_answer": 2714,
+        "logit_subject": 0.330078125,
+        "logit_answer": 0.9609375,
+        "prob_subject": 2.288818359375e-05,
+        "prob_answer": 4.315376281738281e-05
+    },
+    "21_mid_3": {
+        "token_idx": 3,
+        "tokens": " city,  South,  southern,  state,  western,  Spain,  Canada,  our,  eastern,  Vietnam",
+        "rank_subject": 334,
+        "rank_answer": 6556,
+        "logit_subject": 1.359375,
+        "logit_answer": 0.4765625,
+        "prob_subject": 7.009506225585938e-05,
+        "prob_answer": 2.8967857360839844e-05
+    },
+    "21_mid_4": {
+        "token_idx": 4,
+        "tokens": " capital, ians, ian,  proper, 's,  State,  has,  today,  lies,  province",
+        "rank_subject": 159,
+        "rank_answer": 4126,
+        "logit_subject": 1.375,
+        "logit_answer": 0.546875,
+        "prob_subject": 7.2479248046875e-05,
+        "prob_answer": 3.170967102050781e-05
+    },
+    "21_mid_5": {
+        "token_idx": 5,
+        "tokens": " city,  currently,  officially,  traditionally,  always,  located,  cities,  also,  usually,  almost",
+        "rank_subject": 7141,
+        "rank_answer": 358,
+        "logit_subject": 0.373046875,
+        "logit_answer": 1.1015625,
+        "prob_subject": 2.6941299438476562e-05,
+        "prob_answer": 5.5789947509765625e-05
+    },
+    "22_pre_0": {
+        "token_idx": 0,
+        "tokens": " the, -, \ufffd, \ufffd, \ufffd, \ufffd, _, \ufffd, \ufffd, (",
+        "rank_subject": 3869,
+        "rank_answer": 18033,
+        "logit_subject": 15.0625,
+        "logit_answer": 4.96875,
+        "prob_subject": 3.019806626980426e-14,
+        "prob_answer": 1.2468324983583301e-18
+    },
+    "22_pre_1": {
+        "token_idx": 1,
+        "tokens": " following,  first, ory,  problem, rapy, oret, ater,  main,  biggest, rap",
+        "rank_subject": 15326,
+        "rank_answer": 17425,
+        "logit_subject": 0.1142578125,
+        "logit_answer": 0.07763671875,
+        "prob_subject": 2.1219253540039062e-05,
+        "prob_answer": 2.0503997802734375e-05
+    },
+    "22_pre_2": {
+        "token_idx": 2,
+        "tokens": " city, ization,  of, isation,  cities,  City, ized, ists, izing, ised",
+        "rank_subject": 12469,
+        "rank_answer": 2489,
+        "logit_subject": 0.30859375,
+        "logit_answer": 1.0234375,
+        "prob_subject": 2.205371856689453e-05,
+        "prob_answer": 4.506111145019531e-05
+    },
+    "22_pre_3": {
+        "token_idx": 3,
+        "tokens": " South,  city,  Canada,  Spain,  France,  southern,  Italy,  Scotland,  western,  Australia",
+        "rank_subject": 234,
+        "rank_answer": 5289,
+        "logit_subject": 1.5703125,
+        "logit_answer": 0.55078125,
+        "prob_subject": 8.58306884765625e-05,
+        "prob_answer": 3.0994415283203125e-05
+    },
+    "22_pre_4": {
+        "token_idx": 4,
+        "tokens": " proper,  capital, ians, ian, 's,  has,  lies,  State,  traditionally,  and",
+        "rank_subject": 337,
+        "rank_answer": 3364,
+        "logit_subject": 1.2421875,
+        "logit_answer": 0.640625,
+        "prob_subject": 6.341934204101562e-05,
+        "prob_answer": 3.457069396972656e-05
+    },
+    "22_pre_5": {
+        "token_idx": 5,
+        "tokens": " city,  currently,  traditionally,  officially,  located,  cities,  situated,  usually,  always,  probably",
+        "rank_subject": 4990,
+        "rank_answer": 133,
+        "logit_subject": 0.490234375,
+        "logit_answer": 1.3828125,
+        "prob_subject": 3.0040740966796875e-05,
+        "prob_answer": 7.343292236328125e-05
+    },
+    "22_mid_0": {
+        "token_idx": 0,
+        "tokens": " the, -, \ufffd, \ufffd, \ufffd, \ufffd, _, \ufffd, \ufffd, (",
+        "rank_subject": 3903,
+        "rank_answer": 18015,
+        "logit_subject": 15.0,
+        "logit_answer": 4.96875,
+        "prob_subject": 2.8310687127941492e-14,
+        "prob_answer": 1.2468324983583301e-18
+    },
+    "22_mid_1": {
+        "token_idx": 1,
+        "tokens": " first,  following,  problem, ory, rapy, oret,  biggest,  main, ater,  last",
+        "rank_subject": 15692,
+        "rank_answer": 18761,
+        "logit_subject": 0.10693359375,
+        "logit_answer": 0.05419921875,
+        "prob_subject": 2.110004425048828e-05,
+        "prob_answer": 2.002716064453125e-05
+    },
+    "22_mid_2": {
+        "token_idx": 2,
+        "tokens": " city, ization,  of, isation,  cities,  City, ized, ists, izing, ist",
+        "rank_subject": 14244,
+        "rank_answer": 2827,
+        "logit_subject": 0.2421875,
+        "logit_answer": 0.96875,
+        "prob_subject": 2.0623207092285156e-05,
+        "prob_answer": 4.267692565917969e-05
+    },
+    "22_mid_3": {
+        "token_idx": 3,
+        "tokens": " South,  Canada,  city,  Spain,  France,  Italy,  Scotland,  southern,  Australia,  Ireland",
+        "rank_subject": 262,
+        "rank_answer": 6661,
+        "logit_subject": 1.515625,
+        "logit_answer": 0.47265625,
+        "prob_subject": 8.153915405273438e-05,
+        "prob_answer": 2.872943878173828e-05
+    },
+    "22_mid_4": {
+        "token_idx": 4,
+        "tokens": " proper,  capital,  has, ians, 's, ian,  is,  traditionally,  State,  lies",
+        "rank_subject": 483,
+        "rank_answer": 2932,
+        "logit_subject": 1.203125,
+        "logit_answer": 0.70703125,
+        "prob_subject": 6.031990051269531e-05,
+        "prob_answer": 3.6716461181640625e-05
+    },
+    "22_mid_5": {
+        "token_idx": 5,
+        "tokens": " city,  currently,  traditionally,  officially,  located,  cities,  situated,  usually,  also,  now",
+        "rank_subject": 8841,
+        "rank_answer": 138,
+        "logit_subject": 0.33203125,
+        "logit_answer": 1.421875,
+        "prob_subject": 2.5510787963867188e-05,
+        "prob_answer": 7.581710815429688e-05
+    },
+    "23_pre_0": {
+        "token_idx": 0,
+        "tokens": " the, -, \ufffd, \ufffd, \ufffd, \ufffd, _, \ufffd, \ufffd, \ufffd",
+        "rank_subject": 3842,
+        "rank_answer": 17933,
+        "logit_subject": 15.0,
+        "logit_answer": 5.0,
+        "prob_subject": 4.241051954068098e-14,
+        "prob_answer": 1.9244588561617704e-18
+    },
+    "23_pre_1": {
+        "token_idx": 1,
+        "tokens": " problem,  first, ory, oret, rap,  following,  main, rapy,  average,  last",
+        "rank_subject": 11602,
+        "rank_answer": 12786,
+        "logit_subject": 0.2138671875,
+        "logit_answer": 0.18359375,
+        "prob_subject": 2.3245811462402344e-05,
+        "prob_answer": 2.2530555725097656e-05
+    },
+    "23_pre_2": {
+        "token_idx": 2,
+        "tokens": " city, ization,  of, isation,  cities, ized,  City, izing, ists, ised",
+        "rank_subject": 12088,
+        "rank_answer": 1932,
+        "logit_subject": 0.34375,
+        "logit_answer": 1.1484375,
+        "prob_subject": 2.2530555725097656e-05,
+        "prob_answer": 5.054473876953125e-05
+    },
+    "23_pre_3": {
+        "token_idx": 3,
+        "tokens": " city,  South,  western,  Canada,  Australia,  Spain,  southern,  state,  France,  Mexico",
+        "rank_subject": 214,
+        "rank_answer": 4881,
+        "logit_subject": 1.59375,
+        "logit_answer": 0.58984375,
+        "prob_subject": 8.7738037109375e-05,
+        "prob_answer": 3.218650817871094e-05
+    },
+    "23_pre_4": {
+        "token_idx": 4,
+        "tokens": " proper,  capital, ians, ian, 's,  has,  today, ,,  traditionally,  El",
+        "rank_subject": 51,
+        "rank_answer": 253,
+        "logit_subject": 1.859375,
+        "logit_answer": 1.4140625,
+        "prob_subject": 0.00011491775512695312,
+        "prob_answer": 7.390975952148438e-05
+    },
+    "23_pre_5": {
+        "token_idx": 5,
+        "tokens": " city,  currently,  located,  officially,  also,  situated,  traditionally,  cities,  called,  known",
+        "rank_subject": 7318,
+        "rank_answer": 177,
+        "logit_subject": 0.3984375,
+        "logit_answer": 1.4296875,
+        "prob_subject": 2.7179718017578125e-05,
+        "prob_answer": 7.62939453125e-05
+    },
+    "23_mid_0": {
+        "token_idx": 0,
+        "tokens": " the, -, \ufffd, \ufffd, \ufffd, \ufffd, _, \ufffd, \ufffd, \ufffd",
+        "rank_subject": 3864,
+        "rank_answer": 17982,
+        "logit_subject": 14.9375,
+        "logit_answer": 4.96875,
+        "prob_subject": 4.39648317751562e-14,
+        "prob_answer": 2.0599841277224584e-18
+    },
+    "23_mid_1": {
+        "token_idx": 1,
+        "tokens": " problem, ory,  first, oret, rap, rapy,  following,  main, ater,  biggest",
+        "rank_subject": 12466,
+        "rank_answer": 12586,
+        "logit_subject": 0.185546875,
+        "logit_answer": 0.18359375,
+        "prob_subject": 2.2649765014648438e-05,
+        "prob_answer": 2.2530555725097656e-05
+    },
+    "23_mid_2": {
+        "token_idx": 2,
+        "tokens": " city, ization,  of, isation,  cities, ized, izing,  City, ists, ised",
+        "rank_subject": 12519,
+        "rank_answer": 1750,
+        "logit_subject": 0.310546875,
+        "logit_answer": 1.15625,
+        "prob_subject": 2.205371856689453e-05,
+        "prob_answer": 5.14984130859375e-05
+    },
+    "23_mid_3": {
+        "token_idx": 3,
+        "tokens": " city,  South,  Spain,  western,  Canada,  Australia,  France,  Mexico,  Ireland,  southern",
+        "rank_subject": 170,
+        "rank_answer": 4142,
+        "logit_subject": 1.6484375,
+        "logit_answer": 0.61328125,
+        "prob_subject": 9.34600830078125e-05,
+        "prob_answer": 3.314018249511719e-05
+    },
+    "23_mid_4": {
+        "token_idx": 4,
+        "tokens": " proper,  capital, ians, ian,  has,  today,  officially, 's,  El,  traditionally",
+        "rank_subject": 46,
+        "rank_answer": 183,
+        "logit_subject": 1.9140625,
+        "logit_answer": 1.53125,
+        "prob_subject": 0.00012111663818359375,
+        "prob_answer": 8.249282836914062e-05
+    },
+    "23_mid_5": {
+        "token_idx": 5,
+        "tokens": " city,  currently,  located,  officially,  situated,  called,  cities,  also,  traditionally,  known",
+        "rank_subject": 8601,
+        "rank_answer": 166,
+        "logit_subject": 0.33984375,
+        "logit_answer": 1.4375,
+        "prob_subject": 2.562999725341797e-05,
+        "prob_answer": 7.677078247070312e-05
+    },
+    "24_pre_0": {
+        "token_idx": 0,
+        "tokens": "-,  the, \ufffd, \ufffd, \ufffd, \ufffd, \ufffd, _, \ufffd, \ufffd",
+        "rank_subject": 3882,
+        "rank_answer": 17903,
+        "logit_subject": 14.8125,
+        "logit_answer": 5.0,
+        "prob_subject": 6.927791673660977e-14,
+        "prob_answer": 3.7947076036992655e-18
+    },
+    "24_pre_1": {
+        "token_idx": 1,
+        "tokens": " problem, ory, oret,  first, rap,  biggest, rapy,  average,  last,  main",
+        "rank_subject": 11875,
+        "rank_answer": 13794,
+        "logit_subject": 0.2109375,
+        "logit_answer": 0.1640625,
+        "prob_subject": 2.300739288330078e-05,
+        "prob_answer": 2.193450927734375e-05
+    },
+    "24_pre_2": {
+        "token_idx": 2,
+        "tokens": " city, ization,  of, isation, ized, izing,  cities, ised, ists, ize",
+        "rank_subject": 7410,
+        "rank_answer": 822,
+        "logit_subject": 0.625,
+        "logit_answer": 1.5703125,
+        "prob_subject": 2.8371810913085938e-05,
+        "prob_answer": 7.295608520507812e-05
+    },
+    "24_pre_3": {
+        "token_idx": 3,
+        "tokens": " South,  the,  Australia,  Canada,  western,  state,  Ireland,  southern,  city,  northern",
+        "rank_subject": 153,
+        "rank_answer": 3906,
+        "logit_subject": 1.7890625,
+        "logit_answer": 0.68359375,
+        "prob_subject": 0.00010585784912109375,
+        "prob_answer": 3.504753112792969e-05
+    },
+    "24_pre_4": {
+        "token_idx": 4,
+        "tokens": " proper,  officially,  has, ians, ian, 's,  today,  capital, ,,  is",
+        "rank_subject": 110,
+        "rank_answer": 335,
+        "logit_subject": 1.6953125,
+        "logit_answer": 1.4140625,
+        "prob_subject": 9.679794311523438e-05,
+        "prob_answer": 7.295608520507812e-05
+    },
+    "24_pre_5": {
+        "token_idx": 5,
+        "tokens": " located,  currently,  city,  called,  officially,  also,  known,  usually,  situated,  cities",
+        "rank_subject": 15059,
+        "rank_answer": 92,
+        "logit_subject": 0.14453125,
+        "logit_answer": 1.796875,
+        "prob_subject": 2.086162567138672e-05,
+        "prob_answer": 0.0001087188720703125
+    },
+    "24_mid_0": {
+        "token_idx": 0,
+        "tokens": "-,  the, \ufffd, \ufffd, \ufffd, \ufffd, \ufffd, _, \ufffd, \ufffd",
+        "rank_subject": 3854,
+        "rank_answer": 17963,
+        "logit_subject": 14.8125,
+        "logit_answer": 4.96875,
+        "prob_subject": 7.682743330406083e-14,
+        "prob_answer": 4.092863201132779e-18
+    },
+    "24_mid_1": {
+        "token_idx": 1,
+        "tokens": "ory,  problem, oret, rapy, rap,  biggest, ories, atre, ater,  first",
+        "rank_subject": 13299,
+        "rank_answer": 13985,
+        "logit_subject": 0.1611328125,
+        "logit_answer": 0.146484375,
+        "prob_subject": 2.205371856689453e-05,
+        "prob_answer": 2.181529998779297e-05
+    },
+    "24_mid_2": {
+        "token_idx": 2,
+        "tokens": " city, ization, isation, ized,  of, izing,  cities, ised, ize, ists",
+        "rank_subject": 7506,
+        "rank_answer": 520,
+        "logit_subject": 0.5546875,
+        "logit_answer": 1.6171875,
+        "prob_subject": 2.753734588623047e-05,
+        "prob_answer": 7.963180541992188e-05
+    },
+    "24_mid_3": {
+        "token_idx": 3,
+        "tokens": " Australia,  South,  Ireland,  Spain,  Canada,  Scotland,  northern,  western,  southern,  eastern",
+        "rank_subject": 139,
+        "rank_answer": 2731,
+        "logit_subject": 1.7734375,
+        "logit_answer": 0.72265625,
+        "prob_subject": 0.00010633468627929688,
+        "prob_answer": 3.719329833984375e-05
+    },
+    "24_mid_4": {
+        "token_idx": 4,
+        "tokens": " proper,  is,  lies,  capital,  has,  officially,  located, ians,  called,  sits",
+        "rank_subject": 42,
+        "rank_answer": 69,
+        "logit_subject": 2.1875,
+        "logit_answer": 2.046875,
+        "prob_subject": 0.00015544891357421875,
+        "prob_answer": 0.0001354217529296875
+    },
+    "24_mid_5": {
+        "token_idx": 5,
+        "tokens": " located,  called,  situated,  city,  currently,  officially,  cities,  known,  Cairo,  also",
+        "rank_subject": 810,
+        "rank_answer": 8,
+        "logit_subject": 1.1015625,
+        "logit_answer": 2.921875,
+        "prob_subject": 5.3882598876953125e-05,
+        "prob_answer": 0.0003337860107421875
+    },
+    "25_pre_0": {
+        "token_idx": 0,
+        "tokens": "\ufffd, \ufffd, \ufffd, \ufffd, \ufffd, \ufffd, \ufffd, \ufffd, \ufffd, \ufffd",
+        "rank_subject": 3557,
+        "rank_answer": 17520,
+        "logit_subject": 14.75,
+        "logit_answer": 5.15625,
+        "prob_subject": 7.993605777301127e-14,
+        "prob_answer": 5.44811591673966e-18
+    },
+    "25_pre_1": {
+        "token_idx": 1,
+        "tokens": "ory,  answer,  problem, oret,  first,  idea,  last,  following,  main, rap",
+        "rank_subject": 8177,
+        "rank_answer": 12264,
+        "logit_subject": 0.37109375,
+        "logit_answer": 0.224609375,
+        "prob_subject": 2.6464462280273438e-05,
+        "prob_answer": 2.288818359375e-05
+    },
+    "25_pre_2": {
+        "token_idx": 2,
+        "tokens": " city, ization,  of,  cities, isation, ized, izing,  City, ised, ize",
+        "rank_subject": 7721,
+        "rank_answer": 735,
+        "logit_subject": 0.63671875,
+        "logit_answer": 1.703125,
+        "prob_subject": 2.753734588623047e-05,
+        "prob_answer": 7.963180541992188e-05
+    },
+    "25_pre_3": {
+        "token_idx": 3,
+        "tokens": " South,  the,  Australia,  Ireland,  Canada,  Scotland,  India,  Spain,  France,  Northern",
+        "rank_subject": 89,
+        "rank_answer": 3531,
+        "logit_subject": 2.328125,
+        "logit_answer": 0.78125,
+        "prob_subject": 0.00017642974853515625,
+        "prob_answer": 3.743171691894531e-05
+    },
+    "25_pre_4": {
+        "token_idx": 4,
+        "tokens": " is,  proper, ,,  has,  lies,  located,  was,  officially,  and, ian",
+        "rank_subject": 96,
+        "rank_answer": 176,
+        "logit_subject": 2.21875,
+        "logit_answer": 1.984375,
+        "prob_subject": 0.000152587890625,
+        "prob_answer": 0.00012063980102539062
+    },
+    "25_pre_5": {
+        "token_idx": 5,
+        "tokens": " located,  called,  currently,  known,  situated,  also,  always,  city,  Cairo,  usually",
+        "rank_subject": 952,
+        "rank_answer": 8,
+        "logit_subject": 1.234375,
+        "logit_answer": 3.203125,
+        "prob_subject": 5.936622619628906e-05,
+        "prob_answer": 0.0004253387451171875
+    },
+    "25_mid_0": {
+        "token_idx": 0,
+        "tokens": "\ufffd, \ufffd, \ufffd, \ufffd, \ufffd, \ufffd, \ufffd, \ufffd, \ufffd, \ufffd",
+        "rank_subject": 3560,
+        "rank_answer": 17479,
+        "logit_subject": 14.5625,
+        "logit_answer": 5.125,
+        "prob_subject": 6.661338147750939e-14,
+        "prob_answer": 5.312590645178972e-18
+    },
+    "25_mid_1": {
+        "token_idx": 1,
+        "tokens": " answer, ory,  problem, oret,  idea,  first,  biggest, ater, rapy, rap",
+        "rank_subject": 8666,
+        "rank_answer": 11890,
+        "logit_subject": 0.3359375,
+        "logit_answer": 0.2275390625,
+        "prob_subject": 2.574920654296875e-05,
+        "prob_answer": 2.3126602172851562e-05
+    },
+    "25_mid_2": {
+        "token_idx": 2,
+        "tokens": " city, ization, isation,  cities,  of, ized, izing, ised,  City, ize",
+        "rank_subject": 8946,
+        "rank_answer": 616,
+        "logit_subject": 0.5078125,
+        "logit_answer": 1.640625,
+        "prob_subject": 2.5391578674316406e-05,
+        "prob_answer": 7.867813110351562e-05
+    },
+    "25_mid_3": {
+        "token_idx": 3,
+        "tokens": " South,  Ireland,  Australia,  Scotland,  Spain,  Canada,  India,  France,  Italy,  Thailand",
+        "rank_subject": 109,
+        "rank_answer": 3336,
+        "logit_subject": 2.109375,
+        "logit_answer": 0.71875,
+        "prob_subject": 0.00014591217041015625,
+        "prob_answer": 3.62396240234375e-05
+    },
+    "25_mid_4": {
+        "token_idx": 4,
+        "tokens": " is,  proper,  lies,  has,  located,  officially, ians,  traditionally,  capital, ian",
+        "rank_subject": 108,
+        "rank_answer": 135,
+        "logit_subject": 1.984375,
+        "logit_answer": 1.90625,
+        "prob_subject": 0.0001239776611328125,
+        "prob_answer": 0.00011491775512695312
+    },
+    "25_mid_5": {
+        "token_idx": 5,
+        "tokens": " located,  situated,  currently,  known,  called,  Cairo,  city,  traditionally,  officially,  always",
+        "rank_subject": 834,
+        "rank_answer": 5,
+        "logit_subject": 1.1640625,
+        "logit_answer": 3.15625,
+        "prob_subject": 5.6743621826171875e-05,
+        "prob_answer": 0.000415802001953125
+    },
+    "26_pre_0": {
+        "token_idx": 0,
+        "tokens": "\ufffd, \ufffd, \ufffd, \ufffd, \ufffd, \ufffd, \ufffd, \ufffd, \ufffd, \ufffd",
+        "rank_subject": 3370,
+        "rank_answer": 17070,
+        "logit_subject": 14.25,
+        "logit_answer": 5.28125,
+        "prob_subject": 2.142730437526552e-14,
+        "prob_answer": 2.72405795836983e-18
+    },
+    "26_pre_1": {
+        "token_idx": 1,
+        "tokens": "oret,  problem,  answer, ory, rap,  following, sis,  first, ater,  latest",
+        "rank_subject": 8239,
+        "rank_answer": 10688,
+        "logit_subject": 0.462890625,
+        "logit_answer": 0.349609375,
+        "prob_subject": 2.7418136596679688e-05,
+        "prob_answer": 2.4557113647460938e-05
+    },
+    "26_pre_2": {
+        "token_idx": 2,
+        "tokens": " city, ization,  of, ized, isation,  cities, izing,  City, ize, ised",
+        "rank_subject": 14586,
+        "rank_answer": 1592,
+        "logit_subject": 0.294921875,
+        "logit_answer": 1.4921875,
+        "prob_subject": 1.7881393432617188e-05,
+        "prob_answer": 5.91278076171875e-05
+    },
+    "26_pre_3": {
+        "token_idx": 3,
+        "tokens": " the,  South,  this,  Australia,  Thailand,  British,  ancient,  Scotland,  Ireland,  France",
+        "rank_subject": 49,
+        "rank_answer": 2367,
+        "logit_subject": 2.5,
+        "logit_answer": 0.98828125,
+        "prob_subject": 0.00020599365234375,
+        "prob_answer": 4.5299530029296875e-05
+    },
+    "26_pre_4": {
+        "token_idx": 4,
+        "tokens": " is,  has, ,,  proper, ians,  was,  capital,  lies,  located,  today",
+        "rank_subject": 152,
+        "rank_answer": 404,
+        "logit_subject": 2.0,
+        "logit_answer": 1.65625,
+        "prob_subject": 0.00012302398681640625,
+        "prob_answer": 8.726119995117188e-05
+    },
+    "26_pre_5": {
+        "token_idx": 5,
+        "tokens": " located,  called,  also,  currently,  situated,  known,  definitely,  officially,  city,  usually",
+        "rank_subject": 698,
+        "rank_answer": 15,
+        "logit_subject": 1.390625,
+        "logit_answer": 3.03125,
+        "prob_subject": 6.866455078125e-05,
+        "prob_answer": 0.000354766845703125
+    },
+    "26_mid_0": {
+        "token_idx": 0,
+        "tokens": "\ufffd, \ufffd, \ufffd, \ufffd, \ufffd, \ufffd, \ufffd, \ufffd, \ufffd, \ufffd",
+        "rank_subject": 3420,
+        "rank_answer": 17118,
+        "logit_subject": 14.125,
+        "logit_answer": 5.25,
+        "prob_subject": 1.6986412276764895e-14,
+        "prob_answer": 2.3852447794681098e-18
+    },
+    "26_mid_1": {
+        "token_idx": 1,
+        "tokens": "oret, ory,  answer,  problem, sis, rap, ater, rapy,  following, resa",
+        "rank_subject": 9527,
+        "rank_answer": 11264,
+        "logit_subject": 0.357421875,
+        "logit_answer": 0.287109375,
+        "prob_subject": 2.5272369384765625e-05,
+        "prob_answer": 2.3484230041503906e-05
+    },
+    "26_mid_2": {
+        "token_idx": 2,
+        "tokens": " city, ization,  of, ized, isation,  cities, izing,  City,  markets, ize",
+        "rank_subject": 16259,
+        "rank_answer": 1356,
+        "logit_subject": 0.197265625,
+        "logit_answer": 1.4609375,
+        "prob_subject": 1.6808509826660156e-05,
+        "prob_answer": 5.9604644775390625e-05
+    },
+    "26_mid_3": {
+        "token_idx": 3,
+        "tokens": " the,  South,  Thailand,  capital,  Spain,  Scotland,  Australia,  France,  British,  Ireland",
+        "rank_subject": 69,
+        "rank_answer": 1656,
+        "logit_subject": 2.5625,
+        "logit_answer": 1.09375,
+        "prob_subject": 0.00022029876708984375,
+        "prob_answer": 5.054473876953125e-05
+    },
+    "26_mid_4": {
+        "token_idx": 4,
+        "tokens": " is,  Egypt,  proper, ians, ,,  capital,  located,  has,  lies,  was",
+        "rank_subject": 1,
+        "rank_answer": 15,
+        "logit_subject": 3.578125,
+        "logit_answer": 2.953125,
+        "prob_subject": 0.000598907470703125,
+        "prob_answer": 0.0003204345703125
+    },
+    "26_mid_5": {
+        "token_idx": 5,
+        "tokens": " Cairo,  Egypt,  located,  Alexandria,  called,  city,  situated,  also,  currently,  Abu",
+        "rank_subject": 1,
+        "rank_answer": 0,
+        "logit_subject": 4.84375,
+        "logit_answer": 6.09375,
+        "prob_subject": 0.002105712890625,
+        "prob_answer": 0.007354736328125
+    },
+    "27_pre_0": {
+        "token_idx": 0,
+        "tokens": "\ufffd, \ufffd, \ufffd, \ufffd, \ufffd, \ufffd, \ufffd, \ufffd, \ufffd, \ufffd",
+        "rank_subject": 3530,
+        "rank_answer": 17498,
+        "logit_subject": 14.25,
+        "logit_answer": 5.15625,
+        "prob_subject": 2.1094237467877974e-14,
+        "prob_answer": 2.371692252312041e-18
+    },
+    "27_pre_1": {
+        "token_idx": 1,
+        "tokens": "oret,  answer,  problem, ory,  following,  main,  biggest, rap,  latest,  first",
+        "rank_subject": 9328,
+        "rank_answer": 12580,
+        "logit_subject": 0.5390625,
+        "logit_answer": 0.361328125,
+        "prob_subject": 2.6464462280273438e-05,
+        "prob_answer": 2.2172927856445312e-05
+    },
+    "27_pre_2": {
+        "token_idx": 2,
+        "tokens": " city,  of, ization,  cities, ized,  City, isation, ists, izing,  markets",
+        "rank_subject": 15222,
+        "rank_answer": 1743,
+        "logit_subject": 0.3046875,
+        "logit_answer": 1.734375,
+        "prob_subject": 1.3172626495361328e-05,
+        "prob_answer": 5.507469177246094e-05
+    },
+    "27_pre_3": {
+        "token_idx": 3,
+        "tokens": " the,  South,  this,  British,  Spain,  capital,  Thailand,  Scotland,  North,  France",
+        "rank_subject": 103,
+        "rank_answer": 3553,
+        "logit_subject": 2.921875,
+        "logit_answer": 1.03125,
+        "prob_subject": 0.0002803802490234375,
+        "prob_answer": 4.220008850097656e-05
+    },
+    "27_pre_4": {
+        "token_idx": 4,
+        "tokens": " is, ,,  has,  was,  and,  located,  -, \u2019,  known,  proper",
+        "rank_subject": 20,
+        "rank_answer": 53,
+        "logit_subject": 3.546875,
+        "logit_answer": 3.0625,
+        "prob_subject": 0.000530242919921875,
+        "prob_answer": 0.00032806396484375
+    },
+    "27_pre_5": {
+        "token_idx": 5,
+        "tokens": " Cairo,  located,  also,  city,  called,  known,  Egypt,  situated,  currently,  Alexandria",
+        "rank_subject": 6,
+        "rank_answer": 0,
+        "logit_subject": 4.6875,
+        "logit_answer": 6.40625,
+        "prob_subject": 0.00160980224609375,
+        "prob_answer": 0.00897216796875
+    },
+    "27_mid_0": {
+        "token_idx": 0,
+        "tokens": "\ufffd, \ufffd, \ufffd, \ufffd, \ufffd, \ufffd, \ufffd, \ufffd, \ufffd, \ufffd",
+        "rank_subject": 3603,
+        "rank_answer": 17633,
+        "logit_subject": 14.1875,
+        "logit_answer": 5.125,
+        "prob_subject": 1.9539925233402755e-14,
+        "prob_answer": 2.2632720350634905e-18
+    },
+    "27_mid_1": {
+        "token_idx": 1,
+        "tokens": " answer, oret, ory,  problem,  following,  main,  biggest,  latest, rap,  purpose",
+        "rank_subject": 9116,
+        "rank_answer": 13091,
+        "logit_subject": 0.546875,
+        "logit_answer": 0.33203125,
+        "prob_subject": 2.682209014892578e-05,
+        "prob_answer": 2.1576881408691406e-05
+    },
+    "27_mid_2": {
+        "token_idx": 2,
+        "tokens": " city,  of, ization,  cities,  City, isation, ized, ists,  markets, izing",
+        "rank_subject": 14910,
+        "rank_answer": 1317,
+        "logit_subject": 0.318359375,
+        "logit_answer": 1.8828125,
+        "prob_subject": 1.2755393981933594e-05,
+        "prob_answer": 6.103515625e-05
+    },
+    "27_mid_3": {
+        "token_idx": 3,
+        "tokens": " the,  South,  Spain,  capital,  British,  Scotland,  Thailand,  this,  France,  Canada",
+        "rank_subject": 105,
+        "rank_answer": 2151,
+        "logit_subject": 2.921875,
+        "logit_answer": 1.2578125,
+        "prob_subject": 0.00028228759765625,
+        "prob_answer": 5.340576171875e-05
+    },
+    "27_mid_4": {
+        "token_idx": 4,
+        "tokens": " is,  Egypt,  was,  has, ,,  Cairo,  and,  located,  lies, \u2019",
+        "rank_subject": 1,
+        "rank_answer": 5,
+        "logit_subject": 5.53125,
+        "logit_answer": 4.53125,
+        "prob_subject": 0.00360107421875,
+        "prob_answer": 0.0013275146484375
+    },
+    "27_mid_5": {
+        "token_idx": 5,
+        "tokens": " Cairo,  Egypt,  located,  Egyptian,  city,  Alexandria,  called,  also,  cities,  known",
+        "rank_subject": 1,
+        "rank_answer": 0,
+        "logit_subject": 7.25,
+        "logit_answer": 8.375,
+        "prob_subject": 0.0186767578125,
+        "prob_answer": 0.057373046875
+    },
+    "28_pre_0": {
+        "token_idx": 0,
+        "tokens": "\ufffd, \ufffd, \ufffd, \ufffd, \ufffd, \ufffd, \ufffd, \ufffd, \ufffd, \ufffd",
+        "rank_subject": 3660,
+        "rank_answer": 17855,
+        "logit_subject": 14.0625,
+        "logit_answer": 5.03125,
+        "prob_subject": 1.587618925213974e-14,
+        "prob_answer": 1.8973538018496328e-18
+    },
+    "28_pre_1": {
+        "token_idx": 1,
+        "tokens": " problem,  answer, oret, ory,  biggest,  following,  main,  purpose,  idea,  latest",
+        "rank_subject": 7277,
+        "rank_answer": 11873,
+        "logit_subject": 0.7890625,
+        "logit_answer": 0.46875,
+        "prob_subject": 3.0994415283203125e-05,
+        "prob_answer": 2.2530555725097656e-05
+    },
+    "28_pre_2": {
+        "token_idx": 2,
+        "tokens": " city,  of, ization,  cities,  City, isation, ized,  gains,  markets, ists",
+        "rank_subject": 11561,
+        "rank_answer": 1686,
+        "logit_subject": 0.5859375,
+        "logit_answer": 1.9453125,
+        "prob_subject": 1.239776611328125e-05,
+        "prob_answer": 4.8160552978515625e-05
+    },
+    "28_pre_3": {
+        "token_idx": 3,
+        "tokens": " the,  Spain,  Scotland,  Portugal,  France,  Germany,  Australia,  Canada,  Thailand,  Italy",
+        "rank_subject": 90,
+        "rank_answer": 1391,
+        "logit_subject": 3.5,
+        "logit_answer": 1.6484375,
+        "prob_subject": 0.0004520416259765625,
+        "prob_answer": 7.104873657226562e-05
+    },
+    "28_pre_4": {
+        "token_idx": 4,
+        "tokens": " is,  Egypt, ,,  has,  Cairo,  was,  and,  Egyptian,  ,,  isn",
+        "rank_subject": 1,
+        "rank_answer": 4,
+        "logit_subject": 6.6875,
+        "logit_answer": 5.78125,
+        "prob_subject": 0.0103759765625,
+        "prob_answer": 0.00421142578125
+    },
+    "28_pre_5": {
+        "token_idx": 5,
+        "tokens": " Cairo,  Egypt,  Egyptian,  Alexandria,  located,  known,  city,  also,  called,  always",
+        "rank_subject": 1,
+        "rank_answer": 0,
+        "logit_subject": 8.25,
+        "logit_answer": 10.0,
+        "prob_subject": 0.036865234375,
+        "prob_answer": 0.2119140625
+    },
+    "28_mid_0": {
+        "token_idx": 0,
+        "tokens": "\ufffd, \ufffd, \ufffd, \ufffd, \ufffd, \ufffd, \ufffd, \ufffd, \ufffd, \ufffd",
+        "rank_subject": 3680,
+        "rank_answer": 17816,
+        "logit_subject": 14.0,
+        "logit_answer": 5.03125,
+        "prob_subject": 1.3877787807814457e-14,
+        "prob_answer": 1.7618285302889447e-18
+    },
+    "28_mid_1": {
+        "token_idx": 1,
+        "tokens": " problem,  answer, ory, oret,  biggest,  following,  purpose,  main,  idea,  latest",
+        "rank_subject": 7262,
+        "rank_answer": 11272,
+        "logit_subject": 0.75,
+        "logit_answer": 0.47265625,
+        "prob_subject": 3.0994415283203125e-05,
+        "prob_answer": 2.3365020751953125e-05
+    },
+    "28_mid_2": {
+        "token_idx": 2,
+        "tokens": " city,  of, ization,  cities,  City, isation, ized,  gains,  markets, ists",
+        "rank_subject": 11448,
+        "rank_answer": 1319,
+        "logit_subject": 0.53515625,
+        "logit_answer": 1.921875,
+        "prob_subject": 1.430511474609375e-05,
+        "prob_answer": 5.745887756347656e-05
+    },
+    "28_mid_3": {
+        "token_idx": 3,
+        "tokens": " Spain,  the,  Scotland,  Portugal,  Thailand,  Germany,  France,  Australia,  Canada,  Italy",
+        "rank_subject": 89,
+        "rank_answer": 1232,
+        "logit_subject": 3.453125,
+        "logit_answer": 1.6171875,
+        "prob_subject": 0.00045013427734375,
+        "prob_answer": 7.152557373046875e-05
+    },
+    "28_mid_4": {
+        "token_idx": 4,
+        "tokens": " is,  has,  Egypt, ,,  was,  Cairo,  isn,  lies,  and, \u2019",
+        "rank_subject": 2,
+        "rank_answer": 5,
+        "logit_subject": 5.71875,
+        "logit_answer": 5.40625,
+        "prob_subject": 0.004150390625,
+        "prob_answer": 0.0030364990234375
+    },
+    "28_mid_5": {
+        "token_idx": 5,
+        "tokens": " Cairo,  Egypt,  Alexandria,  located,  known,  Egyptian,  city,  also,  called,  Abu",
+        "rank_subject": 1,
+        "rank_answer": 0,
+        "logit_subject": 6.84375,
+        "logit_answer": 9.25,
+        "prob_subject": 0.01129150390625,
+        "prob_answer": 0.125
+    },
+    "29_pre_0": {
+        "token_idx": 0,
+        "tokens": "\ufffd, \ufffd, \ufffd, \ufffd, \ufffd, \ufffd, \ufffd, \ufffd, \ufffd, \ufffd",
+        "rank_subject": 3613,
+        "rank_answer": 17685,
+        "logit_subject": 13.875,
+        "logit_answer": 5.0625,
+        "prob_subject": 8.1601392309949e-15,
+        "prob_answer": 1.212951180468158e-18
+    },
+    "29_pre_1": {
+        "token_idx": 1,
+        "tokens": " answer,  problem, oret,  following, ory,  main,  biggest,  purpose,  first,  idea",
+        "rank_subject": 5079,
+        "rank_answer": 7974,
+        "logit_subject": 1.25,
+        "logit_answer": 0.94140625,
+        "prob_subject": 4.029273986816406e-05,
+        "prob_answer": 2.956390380859375e-05
+    },
+    "29_pre_2": {
+        "token_idx": 2,
+        "tokens": " of,  city, ization, isation, ized,  gains,  cities,  City,  markets,  investment",
+        "rank_subject": 10210,
+        "rank_answer": 1715,
+        "logit_subject": 0.765625,
+        "logit_answer": 2.171875,
+        "prob_subject": 8.165836334228516e-06,
+        "prob_answer": 3.337860107421875e-05
+    },
+    "29_pre_3": {
+        "token_idx": 3,
+        "tokens": " Spain,  the,  Portugal,  Thailand,  state,  Kazakh,  Switzerland,  France,  Bulgaria,  Australia",
+        "rank_subject": 118,
+        "rank_answer": 1208,
+        "logit_subject": 5.09375,
+        "logit_answer": 2.4375,
+        "prob_subject": 0.00112152099609375,
+        "prob_answer": 7.867813110351562e-05
+    },
+    "29_pre_4": {
+        "token_idx": 4,
+        "tokens": " is,  has, ,,  was,  Egypt,  lies,  Cairo,  isn,  and, 's",
+        "rank_subject": 4,
+        "rank_answer": 6,
+        "logit_subject": 6.25,
+        "logit_answer": 6.03125,
+        "prob_subject": 0.005340576171875,
+        "prob_answer": 0.0042724609375
+    },
+    "29_pre_5": {
+        "token_idx": 5,
+        "tokens": " Cairo,  Egypt,  Alexandria,  known,  located,  called,  also,  one,  Egyptian,  a",
+        "rank_subject": 1,
+        "rank_answer": 0,
+        "logit_subject": 7.40625,
+        "logit_answer": 10.375,
+        "prob_subject": 0.012939453125,
+        "prob_answer": 0.251953125
+    },
+    "29_mid_0": {
+        "token_idx": 0,
+        "tokens": "\ufffd, \ufffd, \ufffd, \ufffd, \ufffd, \ufffd, \ufffd, \ufffd, \ufffd, \ufffd",
+        "rank_subject": 3712,
+        "rank_answer": 17867,
+        "logit_subject": 13.8125,
+        "logit_answer": 5.0,
+        "prob_subject": 7.605027718682322e-15,
+        "prob_answer": 1.1384122811097797e-18
+    },
+    "29_mid_1": {
+        "token_idx": 1,
+        "tokens": " answer,  problem, oret,  biggest, ory,  following,  idea,  main,  purpose,  latest",
+        "rank_subject": 5026,
+        "rank_answer": 7888,
+        "logit_subject": 1.2109375,
+        "logit_answer": 0.91015625,
+        "prob_subject": 4.029273986816406e-05,
+        "prob_answer": 2.9802322387695312e-05
+    },
+    "29_mid_2": {
+        "token_idx": 2,
+        "tokens": " city,  of, ization, isation, ized,  cities,  gains,  investment,  markets,  City",
+        "rank_subject": 9788,
+        "rank_answer": 1135,
+        "logit_subject": 0.72265625,
+        "logit_answer": 2.265625,
+        "prob_subject": 1.0311603546142578e-05,
+        "prob_answer": 4.839897155761719e-05
+    },
+    "29_mid_3": {
+        "token_idx": 3,
+        "tokens": " Spain,  Portugal,  Thailand,  Kazakh,  Switzerland,  Bulgaria,  Romania,  Austria,  Denmark,  Hungary",
+        "rank_subject": 127,
+        "rank_answer": 1003,
+        "logit_subject": 5.15625,
+        "logit_answer": 2.546875,
+        "prob_subject": 0.00115203857421875,
+        "prob_answer": 8.487701416015625e-05
+    },
+    "29_mid_4": {
+        "token_idx": 4,
+        "tokens": " is,  Egypt,  Cairo,  has, ,,  was,  lies,  Egyptian,  consists,  isn",
+        "rank_subject": 1,
+        "rank_answer": 2,
+        "logit_subject": 7.5,
+        "logit_answer": 7.28125,
+        "prob_subject": 0.01904296875,
+        "prob_answer": 0.01531982421875
+    },
+    "29_mid_5": {
+        "token_idx": 5,
+        "tokens": " Cairo,  Egypt,  Alexandria,  Egyptian,  located,  known,  Nile,  called,  situated,  Abu",
+        "rank_subject": 1,
+        "rank_answer": 0,
+        "logit_subject": 8.875,
+        "logit_answer": 11.9375,
+        "prob_subject": 0.0281982421875,
+        "prob_answer": 0.6015625
+    },
+    "30_pre_0": {
+        "token_idx": 0,
+        "tokens": "\ufffd, \ufffd, \ufffd, \ufffd, \ufffd, \ufffd, \ufffd, \ufffd, \ufffd, \ufffd",
+        "rank_subject": 3523,
+        "rank_answer": 17070,
+        "logit_subject": 13.5,
+        "logit_answer": 5.28125,
+        "prob_subject": 2.192690473634684e-15,
+        "prob_answer": 5.929230630780102e-19
+    },
+    "30_pre_1": {
+        "token_idx": 1,
+        "tokens": " first,  following,  problem,  main,  answer,  best,  biggest,  idea,  purpose,  only",
+        "rank_subject": 6793,
+        "rank_answer": 11340,
+        "logit_subject": 1.3125,
+        "logit_answer": 0.84765625,
+        "prob_subject": 3.0994415283203125e-05,
+        "prob_answer": 1.9431114196777344e-05
+    },
+    "30_pre_2": {
+        "token_idx": 2,
+        "tokens": " city,  of, ization,  cities,  City,  and, 's,  gains,  is, isation",
+        "rank_subject": 10568,
+        "rank_answer": 1658,
+        "logit_subject": 0.8671875,
+        "logit_answer": 2.625,
+        "prob_subject": 1.2218952178955078e-06,
+        "prob_answer": 7.063150405883789e-06
+    },
+    "30_pre_3": {
+        "token_idx": 3,
+        "tokens": " the,  state,  Spain,  Portugal,  South,  Eston,  Thailand,  Kazakh,  Northern,  northern",
+        "rank_subject": 146,
+        "rank_answer": 1540,
+        "logit_subject": 5.75,
+        "logit_answer": 2.859375,
+        "prob_subject": 0.0010986328125,
+        "prob_answer": 6.103515625e-05
+    },
+    "30_pre_4": {
+        "token_idx": 4,
+        "tokens": ",,  is,  has,  was,  and,  Cairo,  lies, 's,  Egypt,  (",
+        "rank_subject": 8,
+        "rank_answer": 5,
+        "logit_subject": 7.40625,
+        "logit_answer": 7.78125,
+        "prob_subject": 0.005950927734375,
+        "prob_answer": 0.0086669921875
+    },
+    "30_pre_5": {
+        "token_idx": 5,
+        "tokens": " Cairo,  a,  the,  one,  known,  called,  located,  an,  Egypt,  also",
+        "rank_subject": 8,
+        "rank_answer": 0,
+        "logit_subject": 8.375,
+        "logit_answer": 11.625,
+        "prob_subject": 0.0126953125,
+        "prob_answer": 0.328125
+    },
+    "30_mid_0": {
+        "token_idx": 0,
+        "tokens": "\ufffd, \ufffd, \ufffd, \ufffd, \ufffd, \ufffd, \ufffd, \ufffd, \ufffd, \ufffd",
+        "rank_subject": 3480,
+        "rank_answer": 16960,
+        "logit_subject": 13.4375,
+        "logit_answer": 5.3125,
+        "prob_subject": 2.0539125955565396e-15,
+        "prob_answer": 6.06475590234079e-19
+    },
+    "30_mid_1": {
+        "token_idx": 1,
+        "tokens": " answer,  first,  problem,  following,  main,  biggest,  idea,  latest, oret, ory",
+        "rank_subject": 5957,
+        "rank_answer": 9782,
+        "logit_subject": 1.3046875,
+        "logit_answer": 0.90625,
+        "prob_subject": 3.600120544433594e-05,
+        "prob_answer": 2.4080276489257812e-05
+    },
+    "30_mid_2": {
+        "token_idx": 2,
+        "tokens": " city,  of,  cities, ization,  City,  gains, isation,  markets, 's, city",
+        "rank_subject": 9546,
+        "rank_answer": 675,
+        "logit_subject": 0.8046875,
+        "logit_answer": 2.90625,
+        "prob_subject": 1.4230608940124512e-06,
+        "prob_answer": 1.1622905731201172e-05
+    },
+    "30_mid_3": {
+        "token_idx": 3,
+        "tokens": " the,  Spain,  state,  Kazakh,  Thailand,  Eston,  Portugal,  Romania,  Bulgaria,  Sweden",
+        "rank_subject": 123,
+        "rank_answer": 1061,
+        "logit_subject": 5.875,
+        "logit_answer": 3.03125,
+        "prob_subject": 0.00139617919921875,
+        "prob_answer": 8.106231689453125e-05
+    },
+    "30_mid_4": {
+        "token_idx": 4,
+        "tokens": " is, ,,  has,  was,  lies,  Cairo,  and, 's,  isn,  sits",
+        "rank_subject": 10,
+        "rank_answer": 5,
+        "logit_subject": 7.03125,
+        "logit_answer": 7.78125,
+        "prob_subject": 0.005462646484375,
+        "prob_answer": 0.01153564453125
+    },
+    "30_mid_5": {
+        "token_idx": 5,
+        "tokens": " Cairo,  located,  known,  Egypt,  called,  a,  the,  Alexandria,  one,  an",
+        "rank_subject": 4,
+        "rank_answer": 0,
+        "logit_subject": 8.0625,
+        "logit_answer": 11.625,
+        "prob_subject": 0.0123291015625,
+        "prob_answer": 0.435546875
+    },
+    "31_pre_0": {
+        "token_idx": 0,
+        "tokens": "\ufffd, \ufffd, \ufffd, \ufffd, \ufffd, \ufffd, \ufffd, \ufffd, \ufffd, \ufffd",
+        "rank_subject": 1608,
+        "rank_answer": 6216,
+        "logit_subject": 5.5625,
+        "logit_answer": 4.03125,
+        "prob_subject": 9.417533874511719e-06,
+        "prob_answer": 2.0265579223632812e-06
+    },
+    "31_pre_1": {
+        "token_idx": 1,
+        "tokens": " first,  answer,  problem,  following,  main,  purpose,  idea,  best,  only,  latest",
+        "rank_subject": 6022,
+        "rank_answer": 9137,
+        "logit_subject": 1.609375,
+        "logit_answer": 1.234375,
+        "prob_subject": 3.457069396972656e-05,
+        "prob_answer": 2.372264862060547e-05
+    },
+    "31_pre_2": {
+        "token_idx": 2,
+        "tokens": " of,  city,  and, ization, 's,  is, ,,  cities,  gains, -",
+        "rank_subject": 9402,
+        "rank_answer": 1425,
+        "logit_subject": 1.046875,
+        "logit_answer": 2.984375,
+        "prob_subject": 9.499490261077881e-07,
+        "prob_answer": 6.616115570068359e-06
+    },
+    "31_pre_3": {
+        "token_idx": 3,
+        "tokens": " the,  Spain,  South,  Portugal,  India,  Scotland,  Thailand,  Romania,  New,  Eston",
+        "rank_subject": 110,
+        "rank_answer": 1089,
+        "logit_subject": 6.9375,
+        "logit_answer": 3.65625,
+        "prob_subject": 0.001739501953125,
+        "prob_answer": 6.532669067382812e-05
+    },
+    "31_pre_4": {
+        "token_idx": 4,
+        "tokens": " is, ,,  has,  was,  and,  lies, 's,  sits,  will,  (",
+        "rank_subject": 88,
+        "rank_answer": 40,
+        "logit_subject": 6.3125,
+        "logit_answer": 7.1875,
+        "prob_subject": 0.0004711151123046875,
+        "prob_answer": 0.001129150390625
+    },
+    "31_pre_5": {
+        "token_idx": 5,
+        "tokens": " the,  Cairo,  a,  one,  called,  also,  known,  located,  an,  not",
+        "rank_subject": 46,
+        "rank_answer": 1,
+        "logit_subject": 6.75,
+        "logit_answer": 10.75,
+        "prob_subject": 0.001800537109375,
+        "prob_answer": 0.09814453125
+    },
+    "31_mid_0": {
+        "token_idx": 0,
+        "tokens": "Q, <, I, T, &, W, C, S, P, [",
+        "rank_subject": 15721,
+        "rank_answer": 27256,
+        "logit_subject": 0.1767578125,
+        "logit_answer": -0.201171875,
+        "prob_subject": 1.4483928680419922e-05,
+        "prob_answer": 9.894371032714844e-06
+    },
+    "31_mid_1": {
+        "token_idx": 1,
+        "tokens": " first,  answer,  problem,  following,  main,  best,  only,  purpose,  idea,  fact",
+        "rank_subject": 5108,
+        "rank_answer": 8765,
+        "logit_subject": 1.765625,
+        "logit_answer": 1.2890625,
+        "prob_subject": 3.981590270996094e-05,
+        "prob_answer": 2.467632293701172e-05
+    },
+    "31_mid_2": {
+        "token_idx": 2,
+        "tokens": " city,  of,  and, ization, 's,  is, ,,  cities,  market,  gains",
+        "rank_subject": 8221,
+        "rank_answer": 1054,
+        "logit_subject": 1.21875,
+        "logit_answer": 3.3125,
+        "prob_subject": 1.080334186553955e-06,
+        "prob_answer": 8.761882781982422e-06
+    },
+    "31_mid_3": {
+        "token_idx": 3,
+        "tokens": " the,  South,  Spain,  India,  New,  Portugal,  Scotland,  Thailand,  Romania,  B",
+        "rank_subject": 116,
+        "rank_answer": 1171,
+        "logit_subject": 7.1875,
+        "logit_answer": 3.78125,
+        "prob_subject": 0.00150299072265625,
+        "prob_answer": 5.0067901611328125e-05
+    },
+    "31_mid_4": {
+        "token_idx": 4,
+        "tokens": " is, ,,  has,  and,  was, .,  (,  lies,  will,  for",
+        "rank_subject": 53,
+        "rank_answer": 23,
+        "logit_subject": 7.65625,
+        "logit_answer": 8.8125,
+        "prob_subject": 0.00048828125,
+        "prob_answer": 0.00154876708984375
+    },
+    "31_mid_5": {
+        "token_idx": 5,
+        "tokens": " Cairo,  the,  a,  one,  called,  also,  located,  known,  an,  in",
+        "rank_subject": 19,
+        "rank_answer": 0,
+        "logit_subject": 8.4375,
+        "logit_answer": 13.125,
+        "prob_subject": 0.0033721923828125,
+        "prob_answer": 0.365234375
+    },
+    "final_post_0": {
+        "token_idx": 0,
+        "tokens": "Q, <, I, The, Question, A, In, This, It, Problem",
+        "rank_subject": 33774,
+        "rank_answer": 40597,
+        "logit_subject": -1.59375,
+        "logit_answer": -2.0625,
+        "prob_subject": 1.2922100722789764e-08,
+        "prob_answer": 8.09086486697197e-09
+    },
+    "final_post_1": {
+        "token_idx": 1,
+        "tokens": " first,  problem,  following,  answer,  best,  only,  most,  new,  main,  other",
+        "rank_subject": 4332,
+        "rank_answer": 10086,
+        "logit_subject": 4.125,
+        "logit_answer": 2.9375,
+        "prob_subject": 3.719329833984375e-05,
+        "prob_answer": 1.1324882507324219e-05
+    },
+    "final_post_2": {
+        "token_idx": 2,
+        "tokens": " of,  city,  is,  and, ,,  gains, ization,  market,  markets, 's",
+        "rank_subject": 4828,
+        "rank_answer": 797,
+        "logit_subject": 2.765625,
+        "logit_answer": 5.03125,
+        "prob_subject": 2.905726432800293e-06,
+        "prob_answer": 2.8014183044433594e-05
+    },
+    "final_post_3": {
+        "token_idx": 3,
+        "tokens": " the,  South,  Spain,  New,  India,  Canada,  France,  Portugal,  this,  Scotland",
+        "rank_subject": 96,
+        "rank_answer": 1267,
+        "logit_subject": 10.125,
+        "logit_answer": 6.09375,
+        "prob_subject": 0.001922607421875,
+        "prob_answer": 3.409385681152344e-05
+    },
+    "final_post_4": {
+        "token_idx": 4,
+        "tokens": ",,  is,  has,  and,  was, .,  (,  lies,  will,  for",
+        "rank_subject": 53,
+        "rank_answer": 19,
+        "logit_subject": 9.875,
+        "logit_answer": 11.4375,
+        "prob_subject": 0.000598907470703125,
+        "prob_answer": 0.0028533935546875
+    },
+    "final_post_5": {
+        "token_idx": 5,
+        "tokens": " Cairo,  the,  a,  one,  called,  located,  an,  known,  home,  also",
+        "rank_subject": 20,
+        "rank_answer": 0,
+        "logit_subject": 10.875,
+        "logit_answer": 16.0,
+        "prob_subject": 0.0029296875,
+        "prob_answer": 0.4921875
+    }
+}

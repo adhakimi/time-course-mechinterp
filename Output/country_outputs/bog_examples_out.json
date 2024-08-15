@@ -1,0 +1,3905 @@
+{
+    "text": "The capital of Colombia is",
+    "answer": " Bog",
+    "subject": " Colombia",
+    "embed_0": {
+        "token_idx": 0,
+        "tokens": " Penn,  Search, nt, search,  agency, nd,  sign, online,  /,  Labor",
+        "rank_subject": 40390,
+        "rank_answer": 47512,
+        "logit_subject": -0.0091552734375,
+        "logit_answer": -0.01904296875,
+        "prob_subject": 1.9669532775878906e-05,
+        "prob_answer": 1.9550323486328125e-05
+    },
+    "embed_1": {
+        "token_idx": 1,
+        "tokens": "roy, ories, ory,  FB, omy,  cooler, rot, ade, resa, roll",
+        "rank_subject": 36471,
+        "rank_answer": 49348,
+        "logit_subject": -0.009033203125,
+        "logit_answer": -0.039794921875,
+        "prob_subject": 1.9669532775878906e-05,
+        "prob_answer": 1.9073486328125e-05
+    },
+    "embed_2": {
+        "token_idx": 2,
+        "tokens": "ized, ization,  section,  gains, a,  mon,  vacation, izing,  division,  neighboring",
+        "rank_subject": 41801,
+        "rank_answer": 21641,
+        "logit_subject": -0.0125732421875,
+        "logit_answer": 0.0020294189453125,
+        "prob_subject": 1.9669532775878906e-05,
+        "prob_answer": 1.990795135498047e-05
+    },
+    "embed_3": {
+        "token_idx": 3,
+        "tokens": " ed,  vital,  leagues,  normal,  author,  walls,  critical,  abs,  mid,  inquiries",
+        "rank_subject": 44585,
+        "rank_answer": 49577,
+        "logit_subject": -0.047607421875,
+        "logit_answer": -0.09423828125,
+        "prob_subject": 1.895427703857422e-05,
+        "prob_answer": 1.811981201171875e-05
+    },
+    "embed_4": {
+        "token_idx": 4,
+        "tokens": " scaling,  intentional,  significant,  notable,  stride,  quite,  surprisingly,  NY,  surprising,  more",
+        "rank_subject": 18987,
+        "rank_answer": 49376,
+        "logit_subject": 0.001861572265625,
+        "logit_answer": -0.0157470703125,
+        "prob_subject": 1.990795135498047e-05,
+        "prob_answer": 1.9550323486328125e-05
+    },
+    "embed_5": {
+        "token_idx": 5,
+        "tokens": " contact,  co,  indeed,  weekly,  Long,  fact,  responsible,  bro,  ab,  becoming",
+        "rank_subject": 35194,
+        "rank_answer": 36342,
+        "logit_subject": -0.0186767578125,
+        "logit_answer": -0.0211181640625,
+        "prob_subject": 1.9550323486328125e-05,
+        "prob_answer": 1.9431114196777344e-05
+    },
+    "0_attn_out_0": {
+        "token_idx": 0,
+        "tokens": "<,  myself,  biologically,  round, et, (,  fish, le,  rep,  cash",
+        "rank_subject": 4635,
+        "rank_answer": 16751,
+        "logit_subject": 0.146484375,
+        "logit_answer": 0.043212890625,
+        "prob_subject": 2.288818359375e-05,
+        "prob_answer": 2.0623207092285156e-05
+    },
+    "0_attn_out_1": {
+        "token_idx": 1,
+        "tokens": " selective,  member,  Congress,  Ant,  possible,  recently,  seed,  client,  negative,  director",
+        "rank_subject": 883,
+        "rank_answer": 18287,
+        "logit_subject": 0.412109375,
+        "logit_answer": 0.0556640625,
+        "prob_subject": 2.944469451904297e-05,
+        "prob_answer": 2.0623207092285156e-05
+    },
+    "0_attn_out_2": {
+        "token_idx": 2,
+        "tokens": "ized,  of, ize, ised, izing, isation,  output,  architect,  spent,  \"",
+        "rank_subject": 4747,
+        "rank_answer": 20480,
+        "logit_subject": 0.61328125,
+        "logit_answer": 0.10107421875,
+        "prob_subject": 3.266334533691406e-05,
+        "prob_answer": 1.9550323486328125e-05
+    },
+    "0_attn_out_3": {
+        "token_idx": 3,
+        "tokens": " of,  was, ize,  output,  the,  member,  \", is,  $, iss",
+        "rank_subject": 1137,
+        "rank_answer": 28723,
+        "logit_subject": 0.3984375,
+        "logit_answer": -0.033935546875,
+        "prob_subject": 2.9087066650390625e-05,
+        "prob_answer": 1.8835067749023438e-05
+    },
+    "0_attn_out_4": {
+        "token_idx": 4,
+        "tokens": " the,  Mo, amp,  Nav,  A,  a,  N, res,  floor,  e",
+        "rank_subject": 23733,
+        "rank_answer": 35092,
+        "logit_subject": 0.01251220703125,
+        "logit_answer": -0.16796875,
+        "prob_subject": 1.9073486328125e-05,
+        "prob_answer": 1.5854835510253906e-05
+    },
+    "0_attn_out_5": {
+        "token_idx": 5,
+        "tokens": " an,  the,  a,  D,  more,  A,  S, nt,  T,  only",
+        "rank_subject": 10689,
+        "rank_answer": 32817,
+        "logit_subject": 0.142578125,
+        "logit_answer": -0.06884765625,
+        "prob_subject": 2.2530555725097656e-05,
+        "prob_answer": 1.823902130126953e-05
+    },
+    "0_mlp_out_0": {
+        "token_idx": 0,
+        "tokens": "Q, I, [, <,  Q, &, H, (, F, D",
+        "rank_subject": 19195,
+        "rank_answer": 10187,
+        "logit_subject": 0.057861328125,
+        "logit_answer": 0.26953125,
+        "prob_subject": 1.9550323486328125e-05,
+        "prob_answer": 2.4199485778808594e-05
+    },
+    "0_mlp_out_1": {
+        "token_idx": 1,
+        "tokens": ":, ., ,,  one,  a,  -,  F,  3,  New,  on",
+        "rank_subject": 27007,
+        "rank_answer": 1152,
+        "logit_subject": -0.04150390625,
+        "logit_answer": 0.5234375,
+        "prob_subject": 1.8477439880371094e-05,
+        "prob_answer": 3.266334533691406e-05
+    },
+    "0_mlp_out_2": {
+        "token_idx": 2,
+        "tokens": "als,  gains, ists, ism, ization,  comm, istically,  flows,  injection, istic",
+        "rank_subject": 44818,
+        "rank_answer": 20436,
+        "logit_subject": -0.32421875,
+        "logit_answer": 0.06298828125,
+        "prob_subject": 1.3887882232666016e-05,
+        "prob_answer": 2.0384788513183594e-05
+    },
+    "0_mlp_out_3": {
+        "token_idx": 3,
+        "tokens": " means,  this,  any,  such,  the,  following,  a,  heat,  early,  Re",
+        "rank_subject": 18310,
+        "rank_answer": 3325,
+        "logit_subject": 0.0283203125,
+        "logit_answer": 0.1904296875,
+        "prob_subject": 2.0265579223632812e-05,
+        "prob_answer": 2.384185791015625e-05
+    },
+    "0_mlp_out_4": {
+        "token_idx": 4,
+        "tokens": "ian, 's,  itself,  End, ita, a, ald, ians,  qual, ed",
+        "rank_subject": 40194,
+        "rank_answer": 40371,
+        "logit_subject": -0.150390625,
+        "logit_answer": -0.1533203125,
+        "prob_subject": 1.6808509826660156e-05,
+        "prob_answer": 1.6689300537109375e-05
+    },
+    "0_mlp_out_5": {
+        "token_idx": 5,
+        "tokens": " not,  actually,  now,  currently, nt,  simply,  certainly,  NOT,  surely,  still",
+        "rank_subject": 28664,
+        "rank_answer": 6563,
+        "logit_subject": -0.0299072265625,
+        "logit_answer": 0.1279296875,
+        "prob_subject": 1.919269561767578e-05,
+        "prob_answer": 2.2411346435546875e-05
+    },
+    "1_attn_out_0": {
+        "token_idx": 0,
+        "tokens": "Imm, Identity, Ethics, Energy,  tears,  shuffle, Student,  Imm, Cause,  rap",
+        "rank_subject": 43760,
+        "rank_answer": 34429,
+        "logit_subject": -0.0927734375,
+        "logit_answer": -0.037109375,
+        "prob_subject": 1.800060272216797e-05,
+        "prob_answer": 1.9073486328125e-05
+    },
+    "1_attn_out_1": {
+        "token_idx": 1,
+        "tokens": "Nan, Ethics, Instr, Kin, MV, Dur, Imm, Uk, DIV, ARR",
+        "rank_subject": 39774,
+        "rank_answer": 29513,
+        "logit_subject": -0.12109375,
+        "logit_answer": -0.0257568359375,
+        "prob_subject": 1.7404556274414062e-05,
+        "prob_answer": 1.9073486328125e-05
+    },
+    "1_attn_out_2": {
+        "token_idx": 2,
+        "tokens": "Royal, Nan, Bir, Nob, Nat, Gun, Dun, Fine, Prince, Awards",
+        "rank_subject": 37601,
+        "rank_answer": 22540,
+        "logit_subject": -0.177734375,
+        "logit_answer": 0.048583984375,
+        "prob_subject": 1.5854835510253906e-05,
+        "prob_answer": 1.990795135498047e-05
+    },
+    "1_attn_out_3": {
+        "token_idx": 3,
+        "tokens": "Bir, Royal, Hom, Tre, Story, Cond, Queen, Bet, Dam, Imm",
+        "rank_subject": 40278,
+        "rank_answer": 21406,
+        "logit_subject": -0.166015625,
+        "logit_answer": 0.04345703125,
+        "prob_subject": 1.6450881958007812e-05,
+        "prob_answer": 2.0265579223632812e-05
+    },
+    "1_attn_out_4": {
+        "token_idx": 4,
+        "tokens": "AZ, Mir, Ell, Hist, Az, Hom, Histor, Bir, Grant, Mont",
+        "rank_subject": 26348,
+        "rank_answer": 19952,
+        "logit_subject": 0.00323486328125,
+        "logit_answer": 0.06494140625,
+        "prob_subject": 1.9431114196777344e-05,
+        "prob_answer": 2.0742416381835938e-05
+    },
+    "1_attn_out_5": {
+        "token_idx": 5,
+        "tokens": "AZ, Imm, Bu, Ele, lost, Cir, Hist, Mov, Loss, Lost",
+        "rank_subject": 41028,
+        "rank_answer": 30307,
+        "logit_subject": -0.1640625,
+        "logit_answer": -0.033203125,
+        "prob_subject": 1.6570091247558594e-05,
+        "prob_answer": 1.8835067749023438e-05
+    },
+    "1_mlp_out_0": {
+        "token_idx": 0,
+        "tokens": " the,  (, -,  a, ,, \n,  in,  to, .,  and",
+        "rank_subject": 6290,
+        "rank_answer": 18152,
+        "logit_subject": 7.5,
+        "logit_answer": 2.453125,
+        "prob_subject": 6.039613253960852e-14,
+        "prob_answer": 3.885780586188048e-16
+    },
+    "1_mlp_out_1": {
+        "token_idx": 1,
+        "tokens": "Feed, Contin, Pet, Mil, Market, Bru, Blo, Nan, Mag, Bay",
+        "rank_subject": 32366,
+        "rank_answer": 10938,
+        "logit_subject": -0.04638671875,
+        "logit_answer": 0.12451171875,
+        "prob_subject": 1.8715858459472656e-05,
+        "prob_answer": 2.2172927856445312e-05
+    },
+    "1_mlp_out_2": {
+        "token_idx": 2,
+        "tokens": " window,  hur,  draw, /,  sets,  s,  duty,  performance,  nature,  lac",
+        "rank_subject": 33251,
+        "rank_answer": 33317,
+        "logit_subject": -0.06201171875,
+        "logit_answer": -0.0625,
+        "prob_subject": 1.8477439880371094e-05,
+        "prob_answer": 1.8477439880371094e-05
+    },
+    "1_mlp_out_3": {
+        "token_idx": 3,
+        "tokens": " today,  online,  loved,  tour,  cop,  handling,  everyday,  law,  life,  short",
+        "rank_subject": 5861,
+        "rank_answer": 32890,
+        "logit_subject": 0.1611328125,
+        "logit_answer": -0.056884765625,
+        "prob_subject": 2.3126602172851562e-05,
+        "prob_answer": 1.8596649169921875e-05
+    },
+    "1_mlp_out_4": {
+        "token_idx": 4,
+        "tokens": " feature,  visual,  pre,  features,  responses,  behavior,  releases,  home,  power,  development",
+        "rank_subject": 45273,
+        "rank_answer": 50007,
+        "logit_subject": -0.1728515625,
+        "logit_answer": -0.361328125,
+        "prob_subject": 1.6570091247558594e-05,
+        "prob_answer": 1.3709068298339844e-05
+    },
+    "1_mlp_out_5": {
+        "token_idx": 5,
+        "tokens": " either,  also,  yet,  simply,  some,  essentially,  actually,  mature,  composed,  considered",
+        "rank_subject": 28096,
+        "rank_answer": 10862,
+        "logit_subject": -0.0247802734375,
+        "logit_answer": 0.10400390625,
+        "prob_subject": 1.919269561767578e-05,
+        "prob_answer": 2.181529998779297e-05
+    },
+    "2_attn_out_0": {
+        "token_idx": 0,
+        "tokens": " tail,  headers,  things,  tem,  runner,  conform,  ingredients,  misuse,  tempo,  margin",
+        "rank_subject": 37751,
+        "rank_answer": 17448,
+        "logit_subject": -0.0098876953125,
+        "logit_answer": 0.006622314453125,
+        "prob_subject": 1.9669532775878906e-05,
+        "prob_answer": 2.002716064453125e-05
+    },
+    "2_attn_out_1": {
+        "token_idx": 1,
+        "tokens": " whip,  instruments,  incl,  cards,  combo,  cars,  che,  toys,  plus,  proper",
+        "rank_subject": 47989,
+        "rank_answer": 41365,
+        "logit_subject": -0.10009765625,
+        "logit_answer": -0.05029296875,
+        "prob_subject": 1.800060272216797e-05,
+        "prob_answer": 1.8835067749023438e-05
+    },
+    "2_attn_out_2": {
+        "token_idx": 2,
+        "tokens": " bet,  sight,  outfit,  sch,  trust,  tidal,  hidden,  privately,  portal,  pay",
+        "rank_subject": 30499,
+        "rank_answer": 45239,
+        "logit_subject": -0.0213623046875,
+        "logit_answer": -0.1083984375,
+        "prob_subject": 1.9431114196777344e-05,
+        "prob_answer": 1.7762184143066406e-05
+    },
+    "2_attn_out_3": {
+        "token_idx": 3,
+        "tokens": " estimate, iest,  network,  regarded,  pit,  nature,  gap,  mark,  sight,  Transit",
+        "rank_subject": 47986,
+        "rank_answer": 49216,
+        "logit_subject": -0.10302734375,
+        "logit_answer": -0.1279296875,
+        "prob_subject": 1.7881393432617188e-05,
+        "prob_answer": 1.7404556274414062e-05
+    },
+    "2_attn_out_4": {
+        "token_idx": 4,
+        "tokens": " north,  North,  concentrated,  yet,  min,  direct,  entr,  Commonwealth,  economies,  south",
+        "rank_subject": 10456,
+        "rank_answer": 34529,
+        "logit_subject": 0.08056640625,
+        "logit_answer": -0.0458984375,
+        "prob_subject": 2.1457672119140625e-05,
+        "prob_answer": 1.8835067749023438e-05
+    },
+    "2_attn_out_5": {
+        "token_idx": 5,
+        "tokens": " Union,  union,  entrance,  network, union, Union, eb,  networks, wa,  entr",
+        "rank_subject": 34738,
+        "rank_answer": 28420,
+        "logit_subject": -0.0537109375,
+        "logit_answer": -0.0103759765625,
+        "prob_subject": 1.8715858459472656e-05,
+        "prob_answer": 1.9550323486328125e-05
+    },
+    "2_mlp_out_0": {
+        "token_idx": 0,
+        "tokens": " the, -, ,,  (,  a,  in,  and, .,  to,  for",
+        "rank_subject": 11146,
+        "rank_answer": 13815,
+        "logit_subject": 4.15625,
+        "logit_answer": 3.21875,
+        "prob_subject": 8.326672684688674e-15,
+        "prob_answer": 3.247402347028583e-15
+    },
+    "2_mlp_out_1": {
+        "token_idx": 1,
+        "tokens": " beyond, --,  worked,  much, es, ou,  lines,  fac,  def, al",
+        "rank_subject": 4406,
+        "rank_answer": 48473,
+        "logit_subject": 0.09716796875,
+        "logit_answer": -0.1318359375,
+        "prob_subject": 2.181529998779297e-05,
+        "prob_answer": 1.7404556274414062e-05
+    },
+    "2_mlp_out_2": {
+        "token_idx": 2,
+        "tokens": " sk,  mode,  saf,  date, ,,  pace,  too,  moment,  time,  scholars",
+        "rank_subject": 46572,
+        "rank_answer": 10759,
+        "logit_subject": -0.19921875,
+        "logit_answer": 0.10546875,
+        "prob_subject": 1.609325408935547e-05,
+        "prob_answer": 2.181529998779297e-05
+    },
+    "2_mlp_out_3": {
+        "token_idx": 3,
+        "tokens": " s,  dates,  date,  Law,  high,  Rud, alle,  Bullet, arg,  Jos",
+        "rank_subject": 33246,
+        "rank_answer": 2708,
+        "logit_subject": -0.042236328125,
+        "logit_answer": 0.18359375,
+        "prob_subject": 1.895427703857422e-05,
+        "prob_answer": 2.372264862060547e-05
+    },
+    "2_mlp_out_4": {
+        "token_idx": 4,
+        "tokens": " leaves,  changes,  hair,  according,  pet,  Det,  effects,  relax,  either,  rest",
+        "rank_subject": 35128,
+        "rank_answer": 18298,
+        "logit_subject": -0.080078125,
+        "logit_answer": 0.046630859375,
+        "prob_subject": 1.811981201171875e-05,
+        "prob_answer": 2.0503997802734375e-05
+    },
+    "2_mlp_out_5": {
+        "token_idx": 5,
+        "tokens": " activity,  responses,  judging,  circles,  silently,  roles,  ones, \u2013,  outcomes,  clusters",
+        "rank_subject": 37828,
+        "rank_answer": 45208,
+        "logit_subject": -0.0849609375,
+        "logit_answer": -0.1640625,
+        "prob_subject": 1.811981201171875e-05,
+        "prob_answer": 1.6689300537109375e-05
+    },
+    "3_attn_out_0": {
+        "token_idx": 0,
+        "tokens": " tim,  preference, tim, SP,  Occ, Occ,  thesis,  Heavy, command, Phase",
+        "rank_subject": 8305,
+        "rank_answer": 11733,
+        "logit_subject": 0.0185546875,
+        "logit_answer": 0.01397705078125,
+        "prob_subject": 2.0265579223632812e-05,
+        "prob_answer": 2.014636993408203e-05
+    },
+    "3_attn_out_1": {
+        "token_idx": 1,
+        "tokens": " renew,  relate,  broad,  nurt,  relates,  enrich,  jug,  related,  remed,  tour",
+        "rank_subject": 29694,
+        "rank_answer": 21319,
+        "logit_subject": -0.00543212890625,
+        "logit_answer": 0.0052490234375,
+        "prob_subject": 1.9788742065429688e-05,
+        "prob_answer": 2.002716064453125e-05
+    },
+    "3_attn_out_2": {
+        "token_idx": 2,
+        "tokens": "ear,  global,  south, do,  Mason,  top, dict,  forth,  qualitative,  pandemic",
+        "rank_subject": 4269,
+        "rank_answer": 22943,
+        "logit_subject": 0.1064453125,
+        "logit_answer": 0.00872802734375,
+        "prob_subject": 2.205371856689453e-05,
+        "prob_answer": 2.002716064453125e-05
+    },
+    "3_attn_out_3": {
+        "token_idx": 3,
+        "tokens": "dict,  phrases, setting, ear, details, listed, Below,  ', listing,  Dick",
+        "rank_subject": 2339,
+        "rank_answer": 7540,
+        "logit_subject": 0.10302734375,
+        "logit_answer": 0.06298828125,
+        "prob_subject": 2.193450927734375e-05,
+        "prob_answer": 2.110004425048828e-05
+    },
+    "3_attn_out_4": {
+        "token_idx": 4,
+        "tokens": " the,  certain,  tens,  positive,  detailed,  west,  regard,  nine,  tight,  critical",
+        "rank_subject": 15987,
+        "rank_answer": 7716,
+        "logit_subject": 0.037353515625,
+        "logit_answer": 0.0810546875,
+        "prob_subject": 2.0503997802734375e-05,
+        "prob_answer": 2.1457672119140625e-05
+    },
+    "3_attn_out_5": {
+        "token_idx": 5,
+        "tokens": " Pop, pop,  its,  furnished,  pop,  ',  dimensional, dict,  chart,  panel",
+        "rank_subject": 12952,
+        "rank_answer": 18770,
+        "logit_subject": 0.04931640625,
+        "logit_answer": 0.025146484375,
+        "prob_subject": 2.086162567138672e-05,
+        "prob_answer": 2.0265579223632812e-05
+    },
+    "3_mlp_out_0": {
+        "token_idx": 0,
+        "tokens": ",,  (, -,  and, .,  of,  in, \n, /,  as",
+        "rank_subject": 31666,
+        "rank_answer": 12233,
+        "logit_subject": -0.05908203125,
+        "logit_answer": 0.08349609375,
+        "prob_subject": 1.8477439880371094e-05,
+        "prob_answer": 2.1338462829589844e-05
+    },
+    "3_mlp_out_1": {
+        "token_idx": 1,
+        "tokens": "ick, pl,  toxic, ck,  Wik,  Stream,  Gra,  there,  kn, <",
+        "rank_subject": 16033,
+        "rank_answer": 26116,
+        "logit_subject": 0.0294189453125,
+        "logit_answer": 0.0005035400390625,
+        "prob_subject": 2.0384788513183594e-05,
+        "prob_answer": 1.9788742065429688e-05
+    },
+    "3_mlp_out_2": {
+        "token_idx": 2,
+        "tokens": "als,  spec,  levels,  hair,  comfortable,  automatic,  layer,  WS, ar,  Hen",
+        "rank_subject": 22046,
+        "rank_answer": 29537,
+        "logit_subject": 0.0172119140625,
+        "logit_answer": -0.0281982421875,
+        "prob_subject": 2.002716064453125e-05,
+        "prob_answer": 1.919269561767578e-05
+    },
+    "3_mlp_out_3": {
+        "token_idx": 3,
+        "tokens": " lin,  Rep,  vs,  repo,  pr,  season,  Vancouver,  posted,  trial,  @",
+        "rank_subject": 13556,
+        "rank_answer": 19093,
+        "logit_subject": 0.064453125,
+        "logit_answer": 0.030029296875,
+        "prob_subject": 2.110004425048828e-05,
+        "prob_answer": 2.0384788513183594e-05
+    },
+    "3_mlp_out_4": {
+        "token_idx": 4,
+        "tokens": " HA, MA,  cycle,  pol, HA,  sp,  session,  parade,  Commonwealth, os",
+        "rank_subject": 45518,
+        "rank_answer": 42339,
+        "logit_subject": -0.177734375,
+        "logit_answer": -0.1279296875,
+        "prob_subject": 1.6450881958007812e-05,
+        "prob_answer": 1.728534698486328e-05
+    },
+    "3_mlp_out_5": {
+        "token_idx": 5,
+        "tokens": " finally,  Junior,  career,  s,  \u00a3,  pros,  accomplished,  genuinely,  beg,  jumped",
+        "rank_subject": 27312,
+        "rank_answer": 42786,
+        "logit_subject": -0.00518798828125,
+        "logit_answer": -0.12255859375,
+        "prob_subject": 1.9669532775878906e-05,
+        "prob_answer": 1.7404556274414062e-05
+    },
+    "4_attn_out_0": {
+        "token_idx": 0,
+        "tokens": "late, \", \u00a0, vert, appropriate, pop, port, ek,  mark, ``",
+        "rank_subject": 5531,
+        "rank_answer": 35762,
+        "logit_subject": 0.0242919921875,
+        "logit_answer": -0.01031494140625,
+        "prob_subject": 2.0384788513183594e-05,
+        "prob_answer": 1.9669532775878906e-05
+    },
+    "4_attn_out_1": {
+        "token_idx": 1,
+        "tokens": " an, ',  something,  (, \u00a0,  either,  ...,   , --,  a",
+        "rank_subject": 12194,
+        "rank_answer": 27557,
+        "logit_subject": 0.03369140625,
+        "logit_answer": -0.00604248046875,
+        "prob_subject": 2.0503997802734375e-05,
+        "prob_answer": 1.9788742065429688e-05
+    },
+    "4_attn_out_2": {
+        "token_idx": 2,
+        "tokens": " head,  2018,  court,  industry,  heavy,  direct,  Industry,  ideal,  isolated,  increasingly",
+        "rank_subject": 8521,
+        "rank_answer": 35874,
+        "logit_subject": 0.0703125,
+        "logit_answer": -0.04052734375,
+        "prob_subject": 2.1219253540039062e-05,
+        "prob_answer": 1.9073486328125e-05
+    },
+    "4_attn_out_3": {
+        "token_idx": 3,
+        "tokens": " funds, ri, av,  agreement,  amount,  visit, T,  set,  accumulation,  ground",
+        "rank_subject": 5713,
+        "rank_answer": 37101,
+        "logit_subject": 0.11474609375,
+        "logit_answer": -0.056396484375,
+        "prob_subject": 2.2172927856445312e-05,
+        "prob_answer": 1.8715858459472656e-05
+    },
+    "4_attn_out_4": {
+        "token_idx": 4,
+        "tokens": " upon,  prime,  shock,  many,  everywhere,  Qu,  meters,  inform,  central,  ancient",
+        "rank_subject": 4228,
+        "rank_answer": 10102,
+        "logit_subject": 0.12890625,
+        "logit_answer": 0.0751953125,
+        "prob_subject": 2.2530555725097656e-05,
+        "prob_answer": 2.1338462829589844e-05
+    },
+    "4_attn_out_5": {
+        "token_idx": 5,
+        "tokens": " cities,  Ac,  funds,  involvement,  bodies,  buildings,  activity,  z,  farms,  famous",
+        "rank_subject": 3469,
+        "rank_answer": 16954,
+        "logit_subject": 0.26171875,
+        "logit_answer": 0.06201171875,
+        "prob_subject": 2.5391578674316406e-05,
+        "prob_answer": 2.086162567138672e-05
+    },
+    "4_mlp_out_0": {
+        "token_idx": 0,
+        "tokens": " (, \n,  ', (, _,  J,  F,   , s,  ",
+        "rank_subject": 43711,
+        "rank_answer": 22742,
+        "logit_subject": -0.08935546875,
+        "logit_answer": -0.00183868408203125,
+        "prob_subject": 1.811981201171875e-05,
+        "prob_answer": 1.9788742065429688e-05
+    },
+    "4_mlp_out_1": {
+        "token_idx": 1,
+        "tokens": " ab, art,  [\u2026],  best,  host,  very,  finest,  g,  purpose,  car",
+        "rank_subject": 31549,
+        "rank_answer": 16236,
+        "logit_subject": -0.0257568359375,
+        "logit_answer": 0.0301513671875,
+        "prob_subject": 1.9311904907226562e-05,
+        "prob_answer": 2.0384788513183594e-05
+    },
+    "4_mlp_out_2": {
+        "token_idx": 2,
+        "tokens": "om,  billing, ra, /,  hon, ack, omo, OM,  towards,  begging",
+        "rank_subject": 18472,
+        "rank_answer": 29806,
+        "logit_subject": 0.0576171875,
+        "logit_answer": -0.0267333984375,
+        "prob_subject": 2.0742416381835938e-05,
+        "prob_answer": 1.9073486328125e-05
+    },
+    "4_mlp_out_3": {
+        "token_idx": 3,
+        "tokens": " applied,  capable,  itself,  located,  tuned,  recognized, ino,  del,  devoted,  downtown",
+        "rank_subject": 11302,
+        "rank_answer": 9520,
+        "logit_subject": 0.10400390625,
+        "logit_answer": 0.1220703125,
+        "prob_subject": 2.181529998779297e-05,
+        "prob_answer": 2.2172927856445312e-05
+    },
+    "4_mlp_out_4": {
+        "token_idx": 4,
+        "tokens": " Supreme,  coach,  won,  colours,  Bag,  bag,  yet,  celebrations,  jug,  Health",
+        "rank_subject": 7198,
+        "rank_answer": 7075,
+        "logit_subject": 0.1640625,
+        "logit_answer": 0.166015625,
+        "prob_subject": 2.3126602172851562e-05,
+        "prob_answer": 2.3126602172851562e-05
+    },
+    "4_mlp_out_5": {
+        "token_idx": 5,
+        "tokens": " ISO,  TM,  Pick,  techniques,  based,  crashes,  capable,  published,  meets,  MS",
+        "rank_subject": 27020,
+        "rank_answer": 8582,
+        "logit_subject": -0.0086669921875,
+        "logit_answer": 0.11669921875,
+        "prob_subject": 1.9550323486328125e-05,
+        "prob_answer": 2.2172927856445312e-05
+    },
+    "5_attn_out_0": {
+        "token_idx": 0,
+        "tokens": "\u00a0,  ,   ,  candidate, test,  exist, e,  est,  %, (",
+        "rank_subject": 22770,
+        "rank_answer": 45114,
+        "logit_subject": 0.003082275390625,
+        "logit_answer": -0.028076171875,
+        "prob_subject": 1.990795135498047e-05,
+        "prob_answer": 1.9311904907226562e-05
+    },
+    "5_attn_out_1": {
+        "token_idx": 1,
+        "tokens": "over, sil, PDF, te,  CDs, Jan, pr, fe, heat, see",
+        "rank_subject": 35459,
+        "rank_answer": 48272,
+        "logit_subject": -0.035888671875,
+        "logit_answer": -0.1484375,
+        "prob_subject": 1.9073486328125e-05,
+        "prob_answer": 1.704692840576172e-05
+    },
+    "5_attn_out_2": {
+        "token_idx": 2,
+        "tokens": " rel,  function,  det,  inf,  the,  preference,  ur, \u00a0,  \",  te",
+        "rank_subject": 31360,
+        "rank_answer": 33076,
+        "logit_subject": -0.0244140625,
+        "logit_answer": -0.031494140625,
+        "prob_subject": 1.9311904907226562e-05,
+        "prob_answer": 1.919269561767578e-05
+    },
+    "5_attn_out_3": {
+        "token_idx": 3,
+        "tokens": " th,  rem,  inf,  regional,  preference,  financial,  set,  programmes,  reaction,  biased",
+        "rank_subject": 22857,
+        "rank_answer": 16158,
+        "logit_subject": 0.01104736328125,
+        "logit_answer": 0.03955078125,
+        "prob_subject": 2.002716064453125e-05,
+        "prob_answer": 2.0623207092285156e-05
+    },
+    "5_attn_out_4": {
+        "token_idx": 4,
+        "tokens": " upper,  basics,  programs,  Spanish,  Madrid,  Buenos,  vibr,  US,  part,  located",
+        "rank_subject": 53,
+        "rank_answer": 3876,
+        "logit_subject": 0.54296875,
+        "logit_answer": 0.2099609375,
+        "prob_subject": 3.3855438232421875e-05,
+        "prob_answer": 2.4318695068359375e-05
+    },
+    "5_attn_out_5": {
+        "token_idx": 5,
+        "tokens": " regions,  regional,  basics,  resources,  Bas,  Spanish,  provinces,  biological,  vig,  efforts",
+        "rank_subject": 35,
+        "rank_answer": 4763,
+        "logit_subject": 0.8671875,
+        "logit_answer": 0.28515625,
+        "prob_subject": 4.6253204345703125e-05,
+        "prob_answer": 2.586841583251953e-05
+    },
+    "5_mlp_out_0": {
+        "token_idx": 0,
+        "tokens": " F,  L,  B,  A,  I,  So, -,  (,  He,  and",
+        "rank_subject": 20053,
+        "rank_answer": 7870,
+        "logit_subject": 0.0791015625,
+        "logit_answer": 0.640625,
+        "prob_subject": 1.6450881958007812e-05,
+        "prob_answer": 2.8967857360839844e-05
+    },
+    "5_mlp_out_1": {
+        "token_idx": 1,
+        "tokens": " staff,  al,  reporting,  sold,  units,  cool,  ger,  heat,  settled,  shut",
+        "rank_subject": 32616,
+        "rank_answer": 45739,
+        "logit_subject": -0.0281982421875,
+        "logit_answer": -0.10693359375,
+        "prob_subject": 1.9311904907226562e-05,
+        "prob_answer": 1.7762184143066406e-05
+    },
+    "5_mlp_out_2": {
+        "token_idx": 2,
+        "tokens": " otherwise,  reserves,  mas,  possession,  employees,  flat,  bag, ale,  carriers,  stack",
+        "rank_subject": 33620,
+        "rank_answer": 25606,
+        "logit_subject": -0.049560546875,
+        "logit_answer": -0.0004558563232421875,
+        "prob_subject": 1.8715858459472656e-05,
+        "prob_answer": 1.9669532775878906e-05
+    },
+    "5_mlp_out_3": {
+        "token_idx": 3,
+        "tokens": " internally,  line,  along, ers,  cause,  alike,  daily,  stand,  test,  interior",
+        "rank_subject": 48773,
+        "rank_answer": 28350,
+        "logit_subject": -0.244140625,
+        "logit_answer": -0.0220947265625,
+        "prob_subject": 1.537799835205078e-05,
+        "prob_answer": 1.9311904907226562e-05
+    },
+    "5_mlp_out_4": {
+        "token_idx": 4,
+        "tokens": " further,  completely,  actively,  parent, ness,  truly,  my,  complete,  particular,  specific",
+        "rank_subject": 21026,
+        "rank_answer": 22341,
+        "logit_subject": 0.02392578125,
+        "logit_answer": 0.015869140625,
+        "prob_subject": 2.014636993408203e-05,
+        "prob_answer": 2.002716064453125e-05
+    },
+    "5_mlp_out_5": {
+        "token_idx": 5,
+        "tokens": " modification,  indeed,  Lee,  appliance,  was, modified, ering,  Central,  conf, el",
+        "rank_subject": 48808,
+        "rank_answer": 25331,
+        "logit_subject": -0.357421875,
+        "logit_answer": 0.000576019287109375,
+        "prob_subject": 1.3649463653564453e-05,
+        "prob_answer": 1.9550323486328125e-05
+    },
+    "6_attn_out_0": {
+        "token_idx": 0,
+        "tokens": " \\, F, X, un, \n, O,  F, S, e,   ",
+        "rank_subject": 27764,
+        "rank_answer": 20997,
+        "logit_subject": -0.0034637451171875,
+        "logit_answer": 0.0030670166015625,
+        "prob_subject": 1.9788742065429688e-05,
+        "prob_answer": 1.990795135498047e-05
+    },
+    "6_attn_out_1": {
+        "token_idx": 1,
+        "tokens": " Nor,  Had,  Academy,  hours,  Down, V,  Christmas,  Competition,  Park,  Great",
+        "rank_subject": 14791,
+        "rank_answer": 8600,
+        "logit_subject": 0.0220947265625,
+        "logit_answer": 0.04052734375,
+        "prob_subject": 2.0265579223632812e-05,
+        "prob_answer": 2.0623207092285156e-05
+    },
+    "6_attn_out_2": {
+        "token_idx": 2,
+        "tokens": "un, e,  Greater,  older,  industry,  definition,  Q, \u00a0,  recent,  A",
+        "rank_subject": 3772,
+        "rank_answer": 9211,
+        "logit_subject": 0.11767578125,
+        "logit_answer": 0.0693359375,
+        "prob_subject": 2.2292137145996094e-05,
+        "prob_answer": 2.1219253540039062e-05
+    },
+    "6_attn_out_3": {
+        "token_idx": 3,
+        "tokens": " direct, un,  definition,  Bi, ep, ind, e,  couple, f, ens",
+        "rank_subject": 13690,
+        "rank_answer": 10086,
+        "logit_subject": 0.0390625,
+        "logit_answer": 0.05419921875,
+        "prob_subject": 2.0623207092285156e-05,
+        "prob_answer": 2.09808349609375e-05
+    },
+    "6_attn_out_4": {
+        "token_idx": 4,
+        "tokens": "ind, f,  upper,  rich, T,  Financial,  existing,  Commercial,  capital, d",
+        "rank_subject": 42318,
+        "rank_answer": 7640,
+        "logit_subject": -0.0634765625,
+        "logit_answer": 0.06591796875,
+        "prob_subject": 1.8596649169921875e-05,
+        "prob_answer": 2.1219253540039062e-05
+    },
+    "6_attn_out_5": {
+        "token_idx": 5,
+        "tokens": "...,  definition, av, fact,  assumption,  indicator,  ratio,  clinical, f,  informative",
+        "rank_subject": 35833,
+        "rank_answer": 30085,
+        "logit_subject": -0.038818359375,
+        "logit_answer": -0.014404296875,
+        "prob_subject": 1.9073486328125e-05,
+        "prob_answer": 1.9550323486328125e-05
+    },
+    "6_mlp_out_0": {
+        "token_idx": 0,
+        "tokens": " the,  (,  and,  a, ,,  of, -, \n,  in,  for",
+        "rank_subject": 26614,
+        "rank_answer": 23610,
+        "logit_subject": -0.047119140625,
+        "logit_answer": 0.044677734375,
+        "prob_subject": 1.4483928680419922e-05,
+        "prob_answer": 1.5854835510253906e-05
+    },
+    "6_mlp_out_1": {
+        "token_idx": 1,
+        "tokens": " same,  inner,  existing,  last,  existence,  spread,  first,  identity,  fact,  relation",
+        "rank_subject": 13249,
+        "rank_answer": 27523,
+        "logit_subject": 0.045654296875,
+        "logit_answer": -0.0120849609375,
+        "prob_subject": 2.0742416381835938e-05,
+        "prob_answer": 1.9550323486328125e-05
+    },
+    "6_mlp_out_2": {
+        "token_idx": 2,
+        "tokens": " train,  travel,  fancy,  gy,  weird,  wander,  interesting,  butt,  capt,  odd",
+        "rank_subject": 24002,
+        "rank_answer": 4056,
+        "logit_subject": 0.01068115234375,
+        "logit_answer": 0.1845703125,
+        "prob_subject": 1.990795135498047e-05,
+        "prob_answer": 2.372264862060547e-05
+    },
+    "6_mlp_out_3": {
+        "token_idx": 3,
+        "tokens": " gy,  glad,  train,  odd,  Gy,  enjoy,  embarrassment,  cook,  further,  party",
+        "rank_subject": 23515,
+        "rank_answer": 818,
+        "logit_subject": 0.01019287109375,
+        "logit_answer": 0.26171875,
+        "prob_subject": 1.990795135498047e-05,
+        "prob_answer": 2.562999725341797e-05
+    },
+    "6_mlp_out_4": {
+        "token_idx": 4,
+        "tokens": "iger,  flower,  encryption, na,  bump, lik,  message,  Manual, ental,  modelling",
+        "rank_subject": 17425,
+        "rank_answer": 23341,
+        "logit_subject": 0.05810546875,
+        "logit_answer": 0.0250244140625,
+        "prob_subject": 2.086162567138672e-05,
+        "prob_answer": 2.0265579223632812e-05
+    },
+    "6_mlp_out_5": {
+        "token_idx": 5,
+        "tokens": " Hot,  gar,  keen,  posted,  Street,  outdoors,  glad,  surfaces,  Wu,  converse",
+        "rank_subject": 4777,
+        "rank_answer": 6173,
+        "logit_subject": 0.1767578125,
+        "logit_answer": 0.154296875,
+        "prob_subject": 2.3484230041503906e-05,
+        "prob_answer": 2.300739288330078e-05
+    },
+    "7_attn_out_0": {
+        "token_idx": 0,
+        "tokens": " the, \n,  a,  An,  ,  The,  most,  c,  -,  I",
+        "rank_subject": 20109,
+        "rank_answer": 32284,
+        "logit_subject": 0.00341796875,
+        "logit_answer": -0.01019287109375,
+        "prob_subject": 1.990795135498047e-05,
+        "prob_answer": 1.9669532775878906e-05
+    },
+    "7_attn_out_1": {
+        "token_idx": 1,
+        "tokens": "\n,  This,   ,  \u2018,  p,  which,  (,  en, 1,     ",
+        "rank_subject": 27746,
+        "rank_answer": 45051,
+        "logit_subject": -0.01422119140625,
+        "logit_answer": -0.0712890625,
+        "prob_subject": 1.9550323486328125e-05,
+        "prob_answer": 1.8477439880371094e-05
+    },
+    "7_attn_out_2": {
+        "token_idx": 2,
+        "tokens": "\n,  tim,  last,  the,  1,  L,  less,  p,  best,  A",
+        "rank_subject": 12465,
+        "rank_answer": 18233,
+        "logit_subject": 0.054931640625,
+        "logit_answer": 0.0213623046875,
+        "prob_subject": 2.086162567138672e-05,
+        "prob_answer": 2.0265579223632812e-05
+    },
+    "7_attn_out_3": {
+        "token_idx": 3,
+        "tokens": " part,  No,  Co,  Ind,  A,  M, -, ites,  She,  Last",
+        "rank_subject": 18159,
+        "rank_answer": 13842,
+        "logit_subject": 0.017578125,
+        "logit_answer": 0.03759765625,
+        "prob_subject": 2.014636993408203e-05,
+        "prob_answer": 2.0623207092285156e-05
+    },
+    "7_attn_out_4": {
+        "token_idx": 4,
+        "tokens": " most,  the,  H,  c,  that,  on,  part,  one, :,  1",
+        "rank_subject": 1267,
+        "rank_answer": 7714,
+        "logit_subject": 0.201171875,
+        "logit_answer": 0.08544921875,
+        "prob_subject": 2.4199485778808594e-05,
+        "prob_answer": 2.1576881408691406e-05
+    },
+    "7_attn_out_5": {
+        "token_idx": 5,
+        "tokens": " part,  most,  working,  capacity,  the,  that,  game,  wins,  win,  club",
+        "rank_subject": 6971,
+        "rank_answer": 18730,
+        "logit_subject": 0.11083984375,
+        "logit_answer": 0.02001953125,
+        "prob_subject": 2.205371856689453e-05,
+        "prob_answer": 2.014636993408203e-05
+    },
+    "7_mlp_out_0": {
+        "token_idx": 0,
+        "tokens": ",, -, .,  of,  and, t,  the,  in, a,  to",
+        "rank_subject": 22598,
+        "rank_answer": 25203,
+        "logit_subject": 0.390625,
+        "logit_answer": 0.1328125,
+        "prob_subject": 1.2665987014770508e-06,
+        "prob_answer": 9.760260581970215e-07
+    },
+    "7_mlp_out_1": {
+        "token_idx": 1,
+        "tokens": "Edit,  outlook, eri, math,  Tra, resa, irs,  Rating,  performances,  shouldn",
+        "rank_subject": 25026,
+        "rank_answer": 12634,
+        "logit_subject": 0.005462646484375,
+        "logit_answer": 0.050537109375,
+        "prob_subject": 1.990795135498047e-05,
+        "prob_answer": 2.086162567138672e-05
+    },
+    "7_mlp_out_2": {
+        "token_idx": 2,
+        "tokens": " sol,  stock,  pur,  trouble,  screens,  underwater,  sw,  seal,  could,  waves",
+        "rank_subject": 12707,
+        "rank_answer": 10789,
+        "logit_subject": 0.08447265625,
+        "logit_answer": 0.10107421875,
+        "prob_subject": 2.1457672119140625e-05,
+        "prob_answer": 2.181529998779297e-05
+    },
+    "7_mlp_out_3": {
+        "token_idx": 3,
+        "tokens": " fle,  yourself,  scr,  strokes,  carefully,  doll,  later,  others,  performed,  stroke",
+        "rank_subject": 20678,
+        "rank_answer": 12706,
+        "logit_subject": 0.0203857421875,
+        "logit_answer": 0.0654296875,
+        "prob_subject": 2.014636993408203e-05,
+        "prob_answer": 2.110004425048828e-05
+    },
+    "7_mlp_out_4": {
+        "token_idx": 4,
+        "tokens": " produced,  sleep,  pro,  half,  bed,  quant,  carefully,  mod,  dig, ien",
+        "rank_subject": 32063,
+        "rank_answer": 29416,
+        "logit_subject": -0.03125,
+        "logit_answer": -0.0177001953125,
+        "prob_subject": 1.919269561767578e-05,
+        "prob_answer": 1.9431114196777344e-05
+    },
+    "7_mlp_out_5": {
+        "token_idx": 5,
+        "tokens": " called,  games,  novel,  --,  produced,  cover, val,  performed,  triggered,  park",
+        "rank_subject": 41155,
+        "rank_answer": 32078,
+        "logit_subject": -0.12060546875,
+        "logit_answer": -0.041015625,
+        "prob_subject": 1.7404556274414062e-05,
+        "prob_answer": 1.8835067749023438e-05
+    },
+    "8_attn_out_0": {
+        "token_idx": 0,
+        "tokens": " ', x, kin,  cart, ?\",  nor,  b, {\\,  Spring,  Cool",
+        "rank_subject": 3344,
+        "rank_answer": 30738,
+        "logit_subject": 0.046630859375,
+        "logit_answer": -0.006683349609375,
+        "prob_subject": 2.086162567138672e-05,
+        "prob_answer": 1.9788742065429688e-05
+    },
+    "8_attn_out_1": {
+        "token_idx": 1,
+        "tokens": " b,  component,  p,  nor, x,  cart, 's, \",  men, \u00e2",
+        "rank_subject": 34063,
+        "rank_answer": 44971,
+        "logit_subject": -0.017578125,
+        "logit_answer": -0.052490234375,
+        "prob_subject": 1.9550323486328125e-05,
+        "prob_answer": 1.8835067749023438e-05
+    },
+    "8_attn_out_2": {
+        "token_idx": 2,
+        "tokens": "...,  b,  \",  ',  -,  F, ?,  (,  L, e",
+        "rank_subject": 13004,
+        "rank_answer": 6510,
+        "logit_subject": 0.046142578125,
+        "logit_answer": 0.09375,
+        "prob_subject": 2.0742416381835938e-05,
+        "prob_answer": 2.1696090698242188e-05
+    },
+    "8_attn_out_3": {
+        "token_idx": 3,
+        "tokens": "...,  (,  F,  -,  \",  p,  b, p,  A, e",
+        "rank_subject": 11687,
+        "rank_answer": 10395,
+        "logit_subject": 0.042236328125,
+        "logit_answer": 0.04833984375,
+        "prob_subject": 2.0742416381835938e-05,
+        "prob_answer": 2.086162567138672e-05
+    },
+    "8_attn_out_4": {
+        "token_idx": 4,
+        "tokens": "..., e,  b,  c,  CO,  brave,  ,  you,  The,  great",
+        "rank_subject": 4688,
+        "rank_answer": 1544,
+        "logit_subject": 0.10205078125,
+        "logit_answer": 0.1591796875,
+        "prob_subject": 2.193450927734375e-05,
+        "prob_answer": 2.3245811462402344e-05
+    },
+    "8_attn_out_5": {
+        "token_idx": 5,
+        "tokens": " p,  n,  c,  a,  o,  f,  local,  means,  de,  -",
+        "rank_subject": 176,
+        "rank_answer": 6836,
+        "logit_subject": 0.3046875,
+        "logit_answer": 0.09521484375,
+        "prob_subject": 2.682209014892578e-05,
+        "prob_answer": 2.181529998779297e-05
+    },
+    "8_mlp_out_0": {
+        "token_idx": 0,
+        "tokens": "\ufffd, \ufffd, \ufffd, \ufffd, \ufffd, \ufffd, \ufffd, \ufffd, \ufffd, \ufffd",
+        "rank_subject": 29911,
+        "rank_answer": 33426,
+        "logit_subject": -0.06298828125,
+        "logit_answer": -0.1474609375,
+        "prob_subject": 1.71661376953125e-05,
+        "prob_answer": 1.5735626220703125e-05
+    },
+    "8_mlp_out_1": {
+        "token_idx": 1,
+        "tokens": "og, erv, ic, ot,  kits,  sw,  once, abel, .., ty",
+        "rank_subject": 31140,
+        "rank_answer": 13312,
+        "logit_subject": -0.0185546875,
+        "logit_answer": 0.03857421875,
+        "prob_subject": 1.9431114196777344e-05,
+        "prob_answer": 2.0623207092285156e-05
+    },
+    "8_mlp_out_2": {
+        "token_idx": 2,
+        "tokens": " leak,  breaks,  soup,  exhibitions,  leaks,  displays,  showing,  neg,  import,  pointless",
+        "rank_subject": 16055,
+        "rank_answer": 14171,
+        "logit_subject": 0.0537109375,
+        "logit_answer": 0.0654296875,
+        "prob_subject": 2.086162567138672e-05,
+        "prob_answer": 2.110004425048828e-05
+    },
+    "8_mlp_out_3": {
+        "token_idx": 3,
+        "tokens": " cleanup,  clearance,  down,  cleaning,  counties,  clean,  colours,  incumbent,  overseas,  cleaner",
+        "rank_subject": 2948,
+        "rank_answer": 26701,
+        "logit_subject": 0.150390625,
+        "logit_answer": -0.004058837890625,
+        "prob_subject": 2.300739288330078e-05,
+        "prob_answer": 1.9669532775878906e-05
+    },
+    "8_mlp_out_4": {
+        "token_idx": 4,
+        "tokens": " horn,  invention,  resulted, idd,  publication,  merchandise,  pub,  Horn,  inferior,  clearance",
+        "rank_subject": 25728,
+        "rank_answer": 4034,
+        "logit_subject": 0.0020599365234375,
+        "logit_answer": 0.146484375,
+        "prob_subject": 1.9788742065429688e-05,
+        "prob_answer": 2.288818359375e-05
+    },
+    "8_mlp_out_5": {
+        "token_idx": 5,
+        "tokens": " powers,  chain,  franchise,  aggregate,  powder,  redesign,  Chain,  Army,  inherited,  else",
+        "rank_subject": 28999,
+        "rank_answer": 44755,
+        "logit_subject": -0.0162353515625,
+        "logit_answer": -0.1435546875,
+        "prob_subject": 1.9431114196777344e-05,
+        "prob_answer": 1.704692840576172e-05
+    },
+    "9_attn_out_0": {
+        "token_idx": 0,
+        "tokens": "\u8fc7, {\\, \u8d77, \u96c6, \ufffd, }{\\, \ufffd, \u4efb, \u51fa, \ufffd",
+        "rank_subject": 23591,
+        "rank_answer": 33471,
+        "logit_subject": 0.039794921875,
+        "logit_answer": -0.044921875,
+        "prob_subject": 2.0503997802734375e-05,
+        "prob_answer": 1.8835067749023438e-05
+    },
+    "9_attn_out_1": {
+        "token_idx": 1,
+        "tokens": " just,  a,  trend,  \u201c,  lean,  something,  hard,  C,  really,  d",
+        "rank_subject": 32182,
+        "rank_answer": 34334,
+        "logit_subject": -0.0181884765625,
+        "logit_answer": -0.021728515625,
+        "prob_subject": 1.9550323486328125e-05,
+        "prob_answer": 1.9431114196777344e-05
+    },
+    "9_attn_out_2": {
+        "token_idx": 2,
+        "tokens": " p,  C,  a,  just,  P,  the,  c,  when,  running,  an",
+        "rank_subject": 16264,
+        "rank_answer": 15827,
+        "logit_subject": 0.022705078125,
+        "logit_answer": 0.0244140625,
+        "prob_subject": 2.0265579223632812e-05,
+        "prob_answer": 2.0384788513183594e-05
+    },
+    "9_attn_out_3": {
+        "token_idx": 3,
+        "tokens": " c,  C,  P,  p,  a,  the,  d,  H, e,  part",
+        "rank_subject": 18941,
+        "rank_answer": 22711,
+        "logit_subject": 0.0096435546875,
+        "logit_answer": 0.00049591064453125,
+        "prob_subject": 2.002716064453125e-05,
+        "prob_answer": 1.990795135498047e-05
+    },
+    "9_attn_out_4": {
+        "token_idx": 4,
+        "tokens": " p,  C,  c,  a,  the,  P,  just,  an,  one,  cost",
+        "rank_subject": 633,
+        "rank_answer": 4102,
+        "logit_subject": 0.1357421875,
+        "logit_answer": 0.07373046875,
+        "prob_subject": 2.276897430419922e-05,
+        "prob_answer": 2.1338462829589844e-05
+    },
+    "9_attn_out_5": {
+        "token_idx": 5,
+        "tokens": " p,  c,  C,  P,  pop,  pot,  D, C,  the,  a",
+        "rank_subject": 3124,
+        "rank_answer": 9072,
+        "logit_subject": 0.0927734375,
+        "logit_answer": 0.049072265625,
+        "prob_subject": 2.181529998779297e-05,
+        "prob_answer": 2.086162567138672e-05
+    },
+    "9_mlp_out_0": {
+        "token_idx": 0,
+        "tokens": " recorded,  Ly, eless, igo, ous, ango, ault, ision, iat,  arts",
+        "rank_subject": 25972,
+        "rank_answer": 31102,
+        "logit_subject": 0.0079345703125,
+        "logit_answer": -0.040771484375,
+        "prob_subject": 1.9669532775878906e-05,
+        "prob_answer": 1.8835067749023438e-05
+    },
+    "9_mlp_out_1": {
+        "token_idx": 1,
+        "tokens": " involuntary,  vanishing,  outline,  intertw,  citizenship,  defects,  blamed,  intended,  unders,  cracks",
+        "rank_subject": 41621,
+        "rank_answer": 42275,
+        "logit_subject": -0.06103515625,
+        "logit_answer": -0.0654296875,
+        "prob_subject": 1.8715858459472656e-05,
+        "prob_answer": 1.8596649169921875e-05
+    },
+    "9_mlp_out_2": {
+        "token_idx": 2,
+        "tokens": " least,  filler,  biological,  plat,  consistent,  bill,  blank,  productive,  diagnosis,  certification",
+        "rank_subject": 16360,
+        "rank_answer": 27724,
+        "logit_subject": 0.046630859375,
+        "logit_answer": -0.01043701171875,
+        "prob_subject": 2.0742416381835938e-05,
+        "prob_answer": 1.9550323486328125e-05
+    },
+    "9_mlp_out_3": {
+        "token_idx": 3,
+        "tokens": " plat,  biological,  practice,  patterns,  perform,  Consumer,  suspension,  verbal,  brands,  hockey",
+        "rank_subject": 31584,
+        "rank_answer": 42869,
+        "logit_subject": -0.0255126953125,
+        "logit_answer": -0.10400390625,
+        "prob_subject": 1.9311904907226562e-05,
+        "prob_answer": 1.7762184143066406e-05
+    },
+    "9_mlp_out_4": {
+        "token_idx": 4,
+        "tokens": " .,  Scar,  league,  su,  plate,  media,  guy,  act,  medium,  Information",
+        "rank_subject": 30417,
+        "rank_answer": 31951,
+        "logit_subject": -0.02685546875,
+        "logit_answer": -0.034423828125,
+        "prob_subject": 1.9311904907226562e-05,
+        "prob_answer": 1.9073486328125e-05
+    },
+    "9_mlp_out_5": {
+        "token_idx": 5,
+        "tokens": " position,  Consumer,  penetration,  plat,  biological,  privacy,  sli,  organization,  length,  media",
+        "rank_subject": 40200,
+        "rank_answer": 45955,
+        "logit_subject": -0.091796875,
+        "logit_answer": -0.1650390625,
+        "prob_subject": 1.800060272216797e-05,
+        "prob_answer": 1.6689300537109375e-05
+    },
+    "10_attn_out_0": {
+        "token_idx": 0,
+        "tokens": "}{\\, {\\, reck, ){\\, lambda, anch, arl, orse, itted, omen",
+        "rank_subject": 24563,
+        "rank_answer": 37209,
+        "logit_subject": 0.020751953125,
+        "logit_answer": -0.0478515625,
+        "prob_subject": 2.0265579223632812e-05,
+        "prob_answer": 1.8835067749023438e-05
+    },
+    "10_attn_out_1": {
+        "token_idx": 1,
+        "tokens": "{\\, Exp, F, Result, AR, Gall, Total,  {\\, HD, total",
+        "rank_subject": 36306,
+        "rank_answer": 15078,
+        "logit_subject": -0.02001953125,
+        "logit_answer": 0.0203857421875,
+        "prob_subject": 1.9431114196777344e-05,
+        "prob_answer": 2.0265579223632812e-05
+    },
+    "10_attn_out_2": {
+        "token_idx": 2,
+        "tokens": "K,  o, \n,  I,  4, O, k,  (, D, 4",
+        "rank_subject": 33449,
+        "rank_answer": 12852,
+        "logit_subject": -0.032958984375,
+        "logit_answer": 0.04052734375,
+        "prob_subject": 1.919269561767578e-05,
+        "prob_answer": 2.0623207092285156e-05
+    },
+    "10_attn_out_3": {
+        "token_idx": 3,
+        "tokens": "\n,  o,  2,  P,  1,  4, K,  p, O,  O",
+        "rank_subject": 24788,
+        "rank_answer": 15721,
+        "logit_subject": -0.003387451171875,
+        "logit_answer": 0.0189208984375,
+        "prob_subject": 1.9788742065429688e-05,
+        "prob_answer": 2.0265579223632812e-05
+    },
+    "10_attn_out_4": {
+        "token_idx": 4,
+        "tokens": "List,  List,  FY, Lim, Supp, Everything, Event,  0, Est, looking",
+        "rank_subject": 33940,
+        "rank_answer": 15285,
+        "logit_subject": -0.0201416015625,
+        "logit_answer": 0.0234375,
+        "prob_subject": 1.9431114196777344e-05,
+        "prob_answer": 2.0384788513183594e-05
+    },
+    "10_attn_out_5": {
+        "token_idx": 5,
+        "tokens": "\n,  o, *,   ,  P,  T,  2,  O, O, p",
+        "rank_subject": 29993,
+        "rank_answer": 16320,
+        "logit_subject": -0.0164794921875,
+        "logit_answer": 0.0198974609375,
+        "prob_subject": 1.9550323486328125e-05,
+        "prob_answer": 2.0265579223632812e-05
+    },
+    "10_mlp_out_0": {
+        "token_idx": 0,
+        "tokens": " Otherwise,  Sadly,  Apparently,  Whereas,  Were,  Hopefully,  Unfortunately,  Assuming,  Firstly,  Surprisingly",
+        "rank_subject": 30510,
+        "rank_answer": 35117,
+        "logit_subject": -0.01611328125,
+        "logit_answer": -0.0712890625,
+        "prob_subject": 1.919269561767578e-05,
+        "prob_answer": 1.823902130126953e-05
+    },
+    "10_mlp_out_1": {
+        "token_idx": 1,
+        "tokens": " related,  moving,  received,  arch,  going,  feed,  surrounding,  stores,  formed,  locked",
+        "rank_subject": 24334,
+        "rank_answer": 9834,
+        "logit_subject": -0.003143310546875,
+        "logit_answer": 0.046142578125,
+        "prob_subject": 1.9788742065429688e-05,
+        "prob_answer": 2.0742416381835938e-05
+    },
+    "10_mlp_out_2": {
+        "token_idx": 2,
+        "tokens": " community,  area,  very,  close,  subjects,  folks,  duty,  potentially,  strong,  neighborhood",
+        "rank_subject": 17899,
+        "rank_answer": 19430,
+        "logit_subject": 0.0302734375,
+        "logit_answer": 0.021240234375,
+        "prob_subject": 2.0384788513183594e-05,
+        "prob_answer": 2.014636993408203e-05
+    },
+    "10_mlp_out_3": {
+        "token_idx": 3,
+        "tokens": " covered,  guys,  material,  community,  control,  team,  Pot,  shared,  dat,  link",
+        "rank_subject": 27227,
+        "rank_answer": 7541,
+        "logit_subject": -0.0213623046875,
+        "logit_answer": 0.0986328125,
+        "prob_subject": 1.9311904907226562e-05,
+        "prob_answer": 2.181529998779297e-05
+    },
+    "10_mlp_out_4": {
+        "token_idx": 4,
+        "tokens": " campaign,  data,  ace,  rather,  region,  campaigns,  plan,  spread,  whisk,  context",
+        "rank_subject": 27,
+        "rank_answer": 876,
+        "logit_subject": 0.59375,
+        "logit_answer": 0.349609375,
+        "prob_subject": 3.552436828613281e-05,
+        "prob_answer": 2.7894973754882812e-05
+    },
+    "10_mlp_out_5": {
+        "token_idx": 5,
+        "tokens": " rather,  system,  men,  track,  sign,  site,  clearly,  support,  G,  pe",
+        "rank_subject": 46514,
+        "rank_answer": 11627,
+        "logit_subject": -0.1494140625,
+        "logit_answer": 0.0732421875,
+        "prob_subject": 1.704692840576172e-05,
+        "prob_answer": 2.1219253540039062e-05
+    },
+    "11_attn_out_0": {
+        "token_idx": 0,
+        "tokens": "rong, \ufffd, olved, avel, \ufffd, \ufffd, \u7b97, itt, \ufffd, \u5f0f",
+        "rank_subject": 31125,
+        "rank_answer": 32447,
+        "logit_subject": -0.0206298828125,
+        "logit_answer": -0.02978515625,
+        "prob_subject": 1.9311904907226562e-05,
+        "prob_answer": 1.919269561767578e-05
+    },
+    "11_attn_out_1": {
+        "token_idx": 1,
+        "tokens": "Ar, Sl, 5, sum, Bl, values, value, H, 9, 4",
+        "rank_subject": 18348,
+        "rank_answer": 38196,
+        "logit_subject": 0.0091552734375,
+        "logit_answer": -0.0185546875,
+        "prob_subject": 2.002716064453125e-05,
+        "prob_answer": 1.9550323486328125e-05
+    },
+    "11_attn_out_2": {
+        "token_idx": 2,
+        "tokens": "H, Y, T, L, _, \", f, Ar, F, D",
+        "rank_subject": 22849,
+        "rank_answer": 16079,
+        "logit_subject": 0.005096435546875,
+        "logit_answer": 0.02587890625,
+        "prob_subject": 1.990795135498047e-05,
+        "prob_answer": 2.0384788513183594e-05
+    },
+    "11_attn_out_3": {
+        "token_idx": 3,
+        "tokens": "_, H, F, \", f, Ar, B, 5, T, J",
+        "rank_subject": 30370,
+        "rank_answer": 21045,
+        "logit_subject": -0.0118408203125,
+        "logit_answer": 0.00762939453125,
+        "prob_subject": 1.9669532775878906e-05,
+        "prob_answer": 2.002716064453125e-05
+    },
+    "11_attn_out_4": {
+        "token_idx": 4,
+        "tokens": "Ps,  Term, #, Pop,  one, season, pop,  Error, Fr, mean",
+        "rank_subject": 10428,
+        "rank_answer": 32258,
+        "logit_subject": 0.043701171875,
+        "logit_answer": -0.01458740234375,
+        "prob_subject": 2.0742416381835938e-05,
+        "prob_answer": 1.9550323486328125e-05
+    },
+    "11_attn_out_5": {
+        "token_idx": 5,
+        "tokens": "Y, _, Pa, T, Tr, 1, So, pa, J, G",
+        "rank_subject": 18358,
+        "rank_answer": 40181,
+        "logit_subject": 0.0208740234375,
+        "logit_answer": -0.0478515625,
+        "prob_subject": 2.0265579223632812e-05,
+        "prob_answer": 1.895427703857422e-05
+    },
+    "11_mlp_out_0": {
+        "token_idx": 0,
+        "tokens": "^{-\\, \ufffd, NaN, \u3067, \u529b, )^{-, \u043d\u043e\u0435, \u043d\u044b\u0439, \u5b66, Nullable",
+        "rank_subject": 23282,
+        "rank_answer": 33571,
+        "logit_subject": 0.10888671875,
+        "logit_answer": -0.099609375,
+        "prob_subject": 2.09808349609375e-05,
+        "prob_answer": 1.704692840576172e-05
+    },
+    "11_mlp_out_1": {
+        "token_idx": 1,
+        "tokens": " operation,  force,  first,  observation,  appropriate,  operating,  activities,  buildings,  strength,  technology",
+        "rank_subject": 42539,
+        "rank_answer": 2780,
+        "logit_subject": -0.0546875,
+        "logit_answer": 0.103515625,
+        "prob_subject": 1.8835067749023438e-05,
+        "prob_answer": 2.205371856689453e-05
+    },
+    "11_mlp_out_2": {
+        "token_idx": 2,
+        "tokens": " market,  second,  dec,  sector,  personal,  back,  walk,  outfit,  which,  backup",
+        "rank_subject": 32806,
+        "rank_answer": 49143,
+        "logit_subject": -0.0498046875,
+        "logit_answer": -0.203125,
+        "prob_subject": 1.8835067749023438e-05,
+        "prob_answer": 1.609325408935547e-05
+    },
+    "11_mlp_out_3": {
+        "token_idx": 3,
+        "tokens": " backup,  permanent,  committed,  dedicated,  full,  market,  deep,  trusted,  donor,  silent",
+        "rank_subject": 15460,
+        "rank_answer": 40191,
+        "logit_subject": 0.03466796875,
+        "logit_answer": -0.0693359375,
+        "prob_subject": 2.0503997802734375e-05,
+        "prob_answer": 1.8477439880371094e-05
+    },
+    "11_mlp_out_4": {
+        "token_idx": 4,
+        "tokens": " substance,  foundation,  contents,  states,  public,  material,  comb,  publicly,  state,  seats",
+        "rank_subject": 7095,
+        "rank_answer": 15306,
+        "logit_subject": 0.11376953125,
+        "logit_answer": 0.04296875,
+        "prob_subject": 2.2172927856445312e-05,
+        "prob_answer": 2.0623207092285156e-05
+    },
+    "11_mlp_out_5": {
+        "token_idx": 5,
+        "tokens": " uniform,  ones,  protected,  specified,  park,  group,  perm,  split,  designated,  permanent",
+        "rank_subject": 20255,
+        "rank_answer": 23394,
+        "logit_subject": 0.0162353515625,
+        "logit_answer": 0.0006256103515625,
+        "prob_subject": 2.014636993408203e-05,
+        "prob_answer": 1.9788742065429688e-05
+    },
+    "12_attn_out_0": {
+        "token_idx": 0,
+        "tokens": " \u044d\u0442, \u7684, \ufffd, Namespace, \u5408, \u7b49, \ufffd, \ufffd, outer, anto",
+        "rank_subject": 30145,
+        "rank_answer": 37185,
+        "logit_subject": -0.00439453125,
+        "logit_answer": -0.03662109375,
+        "prob_subject": 1.9788742065429688e-05,
+        "prob_answer": 1.9073486328125e-05
+    },
+    "12_attn_out_1": {
+        "token_idx": 1,
+        "tokens": " \u201c, \n,  \", \u00a0, f, _,  Summer, over,  U,  Z",
+        "rank_subject": 9935,
+        "rank_answer": 10727,
+        "logit_subject": 0.0211181640625,
+        "logit_answer": 0.01953125,
+        "prob_subject": 2.0265579223632812e-05,
+        "prob_answer": 2.0265579223632812e-05
+    },
+    "12_attn_out_2": {
+        "token_idx": 2,
+        "tokens": "</, tw, Ar, sp, over, _, pic, dim, JD, J",
+        "rank_subject": 22351,
+        "rank_answer": 30629,
+        "logit_subject": 0.01019287109375,
+        "logit_answer": -0.0111083984375,
+        "prob_subject": 2.002716064453125e-05,
+        "prob_answer": 1.9669532775878906e-05
+    },
+    "12_attn_out_3": {
+        "token_idx": 3,
+        "tokens": "main,  main, str,  =,  Main, Main,  metropolitan,  +, sp, 10",
+        "rank_subject": 15411,
+        "rank_answer": 39033,
+        "logit_subject": 0.0216064453125,
+        "logit_answer": -0.028564453125,
+        "prob_subject": 2.0265579223632812e-05,
+        "prob_answer": 1.9311904907226562e-05
+    },
+    "12_attn_out_4": {
+        "token_idx": 4,
+        "tokens": "main, str, Str, pop, Result, sized, Ar, points, \n\t, sp",
+        "rank_subject": 14972,
+        "rank_answer": 34580,
+        "logit_subject": 0.019287109375,
+        "logit_answer": -0.01318359375,
+        "prob_subject": 2.0265579223632812e-05,
+        "prob_answer": 1.9550323486328125e-05
+    },
+    "12_attn_out_5": {
+        "token_idx": 5,
+        "tokens": " king,  h,  cities,  King,  provinces,  =,  sovereign,  capital,  seven,  provincial",
+        "rank_subject": 3823,
+        "rank_answer": 12751,
+        "logit_subject": 0.08837890625,
+        "logit_answer": 0.03857421875,
+        "prob_subject": 2.1696090698242188e-05,
+        "prob_answer": 2.0623207092285156e-05
+    },
+    "12_mlp_out_0": {
+        "token_idx": 0,
+        "tokens": "ER, FE, KE, OT, VE, ING, PP, ES, RA, AC",
+        "rank_subject": 33043,
+        "rank_answer": 40914,
+        "logit_subject": -0.020751953125,
+        "logit_answer": -0.06298828125,
+        "prob_subject": 1.9431114196777344e-05,
+        "prob_answer": 1.8596649169921875e-05
+    },
+    "12_mlp_out_1": {
+        "token_idx": 1,
+        "tokens": " whole,  which,  National,  generation,  monthly,  night,  material,  that,  document,  stream",
+        "rank_subject": 25736,
+        "rank_answer": 32668,
+        "logit_subject": -0.009765625,
+        "logit_answer": -0.0281982421875,
+        "prob_subject": 1.9669532775878906e-05,
+        "prob_answer": 1.9311904907226562e-05
+    },
+    "12_mlp_out_2": {
+        "token_idx": 2,
+        "tokens": " city,  owner,  flo,  floor, \u2013,  motor,  file,  thing,  structure,  Blues",
+        "rank_subject": 19052,
+        "rank_answer": 7480,
+        "logit_subject": 0.0289306640625,
+        "logit_answer": 0.11865234375,
+        "prob_subject": 2.0265579223632812e-05,
+        "prob_answer": 2.2172927856445312e-05
+    },
+    "12_mlp_out_3": {
+        "token_idx": 3,
+        "tokens": " landlord,  college,  forums,  cabinet,  contained,  font,  conventions,  owner,  nationally,  inform",
+        "rank_subject": 15723,
+        "rank_answer": 34209,
+        "logit_subject": 0.041259765625,
+        "logit_answer": -0.037109375,
+        "prob_subject": 2.0623207092285156e-05,
+        "prob_answer": 1.9073486328125e-05
+    },
+    "12_mlp_out_4": {
+        "token_idx": 4,
+        "tokens": " Central,  dead,  link,  load,  flow,  sell,  hand,  competitive,  issues,  County",
+        "rank_subject": 24463,
+        "rank_answer": 15826,
+        "logit_subject": -0.0004367828369140625,
+        "logit_answer": 0.03564453125,
+        "prob_subject": 1.9788742065429688e-05,
+        "prob_answer": 2.0503997802734375e-05
+    },
+    "12_mlp_out_5": {
+        "token_idx": 5,
+        "tokens": " home,  items,  seat,  inform,  ant,  buzz,  site,  maker,  person,  bur",
+        "rank_subject": 12056,
+        "rank_answer": 23840,
+        "logit_subject": 0.08544921875,
+        "logit_answer": -0.005401611328125,
+        "prob_subject": 2.1457672119140625e-05,
+        "prob_answer": 1.9550323486328125e-05
+    },
+    "13_attn_out_0": {
+        "token_idx": 0,
+        "tokens": "  , _, ke,  \", point, y, ME, l, ::, x",
+        "rank_subject": 44679,
+        "rank_answer": 22794,
+        "logit_subject": -0.018310546875,
+        "logit_answer": 0.0019989013671875,
+        "prob_subject": 1.9550323486328125e-05,
+        "prob_answer": 1.990795135498047e-05
+    },
+    "13_attn_out_1": {
+        "token_idx": 1,
+        "tokens": "ot, pic, cell, ai, div, amp, ar, hat, \u2009, pm",
+        "rank_subject": 32382,
+        "rank_answer": 33134,
+        "logit_subject": -0.0037384033203125,
+        "logit_answer": -0.00433349609375,
+        "prob_subject": 1.9788742065429688e-05,
+        "prob_answer": 1.9788742065429688e-05
+    },
+    "13_attn_out_2": {
+        "token_idx": 2,
+        "tokens": "th, ot, e,  N, 4, f, pic,  \", ar, \u00ad",
+        "rank_subject": 27051,
+        "rank_answer": 23148,
+        "logit_subject": -0.0015716552734375,
+        "logit_answer": 0.003143310546875,
+        "prob_subject": 1.9788742065429688e-05,
+        "prob_answer": 1.990795135498047e-05
+    },
+    "13_attn_out_3": {
+        "token_idx": 3,
+        "tokens": "th, e,  N,  \", pro, l,  L, b, com, 4",
+        "rank_subject": 30889,
+        "rank_answer": 23455,
+        "logit_subject": -0.005462646484375,
+        "logit_answer": 0.00174713134765625,
+        "prob_subject": 1.9788742065429688e-05,
+        "prob_answer": 1.990795135498047e-05
+    },
+    "13_attn_out_4": {
+        "token_idx": 4,
+        "tokens": "  ,  N,  \", \r, e,  (,  U,  L, l,  of",
+        "rank_subject": 34397,
+        "rank_answer": 21721,
+        "logit_subject": -0.00946044921875,
+        "logit_answer": 0.0029754638671875,
+        "prob_subject": 1.9669532775878906e-05,
+        "prob_answer": 1.990795135498047e-05
+    },
+    "13_attn_out_5": {
+        "token_idx": 5,
+        "tokens": " N, e,  U, app, l,  Gu,  Ur,  Wh,  H,  L",
+        "rank_subject": 21869,
+        "rank_answer": 18054,
+        "logit_subject": 0.004302978515625,
+        "logit_answer": 0.009765625,
+        "prob_subject": 1.990795135498047e-05,
+        "prob_answer": 2.002716064453125e-05
+    },
+    "13_mlp_out_0": {
+        "token_idx": 0,
+        "tokens": "\ufffd, abb, \ufffd, anda, \ufffd, \ufffd, \ufffd, \ufffd, \ufffd, \ufffd",
+        "rank_subject": 32616,
+        "rank_answer": 42783,
+        "logit_subject": -0.02294921875,
+        "logit_answer": -0.1142578125,
+        "prob_subject": 1.9311904907226562e-05,
+        "prob_answer": 1.7642974853515625e-05
+    },
+    "13_mlp_out_1": {
+        "token_idx": 1,
+        "tokens": " current,  same,  newest,  freedom,  latest,  directions,  world, ses,  information,  material",
+        "rank_subject": 45546,
+        "rank_answer": 31827,
+        "logit_subject": -0.06494140625,
+        "logit_answer": -0.0167236328125,
+        "prob_subject": 1.8596649169921875e-05,
+        "prob_answer": 1.9550323486328125e-05
+    },
+    "13_mlp_out_2": {
+        "token_idx": 2,
+        "tokens": " city,  cities, city,  allowance,  area,  City,  metropolitan,  capital,  temperature,  mass",
+        "rank_subject": 7618,
+        "rank_answer": 43732,
+        "logit_subject": 0.109375,
+        "logit_answer": -0.12158203125,
+        "prob_subject": 2.205371856689453e-05,
+        "prob_answer": 1.7523765563964844e-05
+    },
+    "13_mlp_out_3": {
+        "token_idx": 3,
+        "tokens": " Assistant,  Central,  lo,  East,  optim,  Target,  UK,  pair,  Trans,  Southern",
+        "rank_subject": 798,
+        "rank_answer": 39599,
+        "logit_subject": 0.212890625,
+        "logit_answer": -0.06689453125,
+        "prob_subject": 2.4437904357910156e-05,
+        "prob_answer": 1.8477439880371094e-05
+    },
+    "13_mlp_out_4": {
+        "token_idx": 4,
+        "tokens": " con, ian,  everywhere,  further, es,  passed,  vehicle,  whatever,  leg,  passing",
+        "rank_subject": 12152,
+        "rank_answer": 28692,
+        "logit_subject": 0.053466796875,
+        "logit_answer": -0.015869140625,
+        "prob_subject": 2.086162567138672e-05,
+        "prob_answer": 1.9550323486328125e-05
+    },
+    "13_mlp_out_5": {
+        "token_idx": 5,
+        "tokens": " optim,  machine,  DP,  Cel,  accurate,  DC,  onto,  papers,  Harrison,  incoming",
+        "rank_subject": 11241,
+        "rank_answer": 7158,
+        "logit_subject": 0.07861328125,
+        "logit_answer": 0.11474609375,
+        "prob_subject": 2.1338462829589844e-05,
+        "prob_answer": 2.2172927856445312e-05
+    },
+    "14_attn_out_0": {
+        "token_idx": 0,
+        "tokens": "pr, kin, lib, pro, ail, class, pic, vs, Cart, cart",
+        "rank_subject": 18404,
+        "rank_answer": 44388,
+        "logit_subject": 0.016357421875,
+        "logit_answer": -0.041259765625,
+        "prob_subject": 2.014636993408203e-05,
+        "prob_answer": 1.9073486328125e-05
+    },
+    "14_attn_out_1": {
+        "token_idx": 1,
+        "tokens": "Hit, scalar, Frame, Cart, peak, ${\\, Clock, Hamilton, Scalar, Eq",
+        "rank_subject": 27521,
+        "rank_answer": 41145,
+        "logit_subject": 0.00201416015625,
+        "logit_answer": -0.0284423828125,
+        "prob_subject": 1.990795135498047e-05,
+        "prob_answer": 1.9311904907226562e-05
+    },
+    "14_attn_out_2": {
+        "token_idx": 2,
+        "tokens": "year, Z, ail,  Golf, E, player, kin, IP, season, fit",
+        "rank_subject": 8432,
+        "rank_answer": 28816,
+        "logit_subject": 0.05517578125,
+        "logit_answer": -0.00165557861328125,
+        "prob_subject": 2.09808349609375e-05,
+        "prob_answer": 1.9788742065429688e-05
+    },
+    "14_attn_out_3": {
+        "token_idx": 3,
+        "tokens": "year, ij, E,  Golf,  Spanish, Bet,  arrived,  List,  Thai, fit",
+        "rank_subject": 18198,
+        "rank_answer": 25163,
+        "logit_subject": 0.017578125,
+        "logit_answer": 0.0045166015625,
+        "prob_subject": 2.0265579223632812e-05,
+        "prob_answer": 1.990795135498047e-05
+    },
+    "14_attn_out_4": {
+        "token_idx": 4,
+        "tokens": " Indian,  headquarters,  Financial,  County,  Finance,  Country, country,  peaceful,  Spanish,  country",
+        "rank_subject": 3126,
+        "rank_answer": 9581,
+        "logit_subject": 0.07275390625,
+        "logit_answer": 0.04443359375,
+        "prob_subject": 2.1338462829589844e-05,
+        "prob_answer": 2.0742416381835938e-05
+    },
+    "14_attn_out_5": {
+        "token_idx": 5,
+        "tokens": " peaceful,  arrived, ij, year, Indian,  reforms,  Thai, Spanish,  tourists,  Spanish",
+        "rank_subject": 10814,
+        "rank_answer": 37865,
+        "logit_subject": 0.051025390625,
+        "logit_answer": -0.0400390625,
+        "prob_subject": 2.086162567138672e-05,
+        "prob_answer": 1.9073486328125e-05
+    },
+    "14_mlp_out_0": {
+        "token_idx": 0,
+        "tokens": "\ufffd, \u3067, \u0440\u0435\u0434, \u529b, \u043a\u0438, \u308c, \ufffd, \u6c0f, \ufffd, \ufffd",
+        "rank_subject": 28131,
+        "rank_answer": 39294,
+        "logit_subject": 0.07666015625,
+        "logit_answer": -0.875,
+        "prob_subject": 1.1861324310302734e-05,
+        "prob_answer": 4.589557647705078e-06
+    },
+    "14_mlp_out_1": {
+        "token_idx": 1,
+        "tokens": " bulk,  number,  fully,  on,  following,  superior,  z,  long,  great,  focus",
+        "rank_subject": 48555,
+        "rank_answer": 28891,
+        "logit_subject": -0.0966796875,
+        "logit_answer": -0.017333984375,
+        "prob_subject": 1.800060272216797e-05,
+        "prob_answer": 1.9550323486328125e-05
+    },
+    "14_mlp_out_2": {
+        "token_idx": 2,
+        "tokens": " alone,  selected,  created,  normally,  now,  representative,  setting,  previously,  only,  traditionally",
+        "rank_subject": 34278,
+        "rank_answer": 47912,
+        "logit_subject": -0.060791015625,
+        "logit_answer": -0.1826171875,
+        "prob_subject": 1.8596649169921875e-05,
+        "prob_answer": 1.6450881958007812e-05
+    },
+    "14_mlp_out_3": {
+        "token_idx": 3,
+        "tokens": " unt,  filling,  windows,  spread,  medium,  traffic,  neutral,  travel,  goods,  void",
+        "rank_subject": 42810,
+        "rank_answer": 27599,
+        "logit_subject": -0.09130859375,
+        "logit_answer": -0.0181884765625,
+        "prob_subject": 1.811981201171875e-05,
+        "prob_answer": 1.9431114196777344e-05
+    },
+    "14_mlp_out_4": {
+        "token_idx": 4,
+        "tokens": " ramp,  cover,  direction,  contacts,  down,  demand,  chill,  own,  surface,  co",
+        "rank_subject": 33547,
+        "rank_answer": 12226,
+        "logit_subject": -0.0380859375,
+        "logit_answer": 0.05224609375,
+        "prob_subject": 1.9073486328125e-05,
+        "prob_answer": 2.086162567138672e-05
+    },
+    "14_mlp_out_5": {
+        "token_idx": 5,
+        "tokens": " means,  new,  base,  particular,  shift,  lax,  fle,  lar,  marketing,  normally",
+        "rank_subject": 47603,
+        "rank_answer": 21955,
+        "logit_subject": -0.1650390625,
+        "logit_answer": 0.00677490234375,
+        "prob_subject": 1.6689300537109375e-05,
+        "prob_answer": 1.990795135498047e-05
+    },
+    "15_attn_out_0": {
+        "token_idx": 0,
+        "tokens": " +,  =,  \u00e2, CD, \u00d7,  ==,  vs, %,  coll,  \u00d7",
+        "rank_subject": 22602,
+        "rank_answer": 46603,
+        "logit_subject": 0.003997802734375,
+        "logit_answer": -0.0281982421875,
+        "prob_subject": 1.990795135498047e-05,
+        "prob_answer": 1.9311904907226562e-05
+    },
+    "15_attn_out_1": {
+        "token_idx": 1,
+        "tokens": " \u2018,  Def,  coll,  .,  w,  aside,  +,  Ron,  ahead,  \u2019",
+        "rank_subject": 9849,
+        "rank_answer": 47908,
+        "logit_subject": 0.015625,
+        "logit_answer": -0.0341796875,
+        "prob_subject": 2.014636993408203e-05,
+        "prob_answer": 1.919269561767578e-05
+    },
+    "15_attn_out_2": {
+        "token_idx": 2,
+        "tokens": " underlying,  phenomenon,  Committee, est,  Association, iest,  Initiative,  aspect,  Def,  closest",
+        "rank_subject": 15734,
+        "rank_answer": 13355,
+        "logit_subject": 0.0267333984375,
+        "logit_answer": 0.03271484375,
+        "prob_subject": 2.0384788513183594e-05,
+        "prob_answer": 2.0503997802734375e-05
+    },
+    "15_attn_out_3": {
+        "token_idx": 3,
+        "tokens": "est,  Def,  Ron,  Lik,  Initiative,  Summit,  provisions,  Ma,  \\\\,  Joint",
+        "rank_subject": 8759,
+        "rank_answer": 18497,
+        "logit_subject": 0.027099609375,
+        "logit_answer": 0.01202392578125,
+        "prob_subject": 2.0384788513183594e-05,
+        "prob_answer": 2.014636993408203e-05
+    },
+    "15_attn_out_4": {
+        "token_idx": 4,
+        "tokens": " population,  headquarters,  Population,  capital,  tourism,  inhabitants,  Rio, est,  populations,  Sa",
+        "rank_subject": 147,
+        "rank_answer": 1885,
+        "logit_subject": 0.14453125,
+        "logit_answer": 0.08544921875,
+        "prob_subject": 2.288818359375e-05,
+        "prob_answer": 2.1576881408691406e-05
+    },
+    "15_attn_out_5": {
+        "token_idx": 5,
+        "tokens": " Camp,  Population,  Azerba,  Lik,  Switzerland,  tourism, Est, est,  Nepal, Population",
+        "rank_subject": 107,
+        "rank_answer": 24397,
+        "logit_subject": 0.11572265625,
+        "logit_answer": 0.005615234375,
+        "prob_subject": 2.2292137145996094e-05,
+        "prob_answer": 2.002716064453125e-05
+    },
+    "15_mlp_out_0": {
+        "token_idx": 0,
+        "tokens": "namespace, \ufffd, NS, string, String, Exception, usp, null, shape, oph",
+        "rank_subject": 40476,
+        "rank_answer": 33493,
+        "logit_subject": -0.058837890625,
+        "logit_answer": -0.022705078125,
+        "prob_subject": 1.8715858459472656e-05,
+        "prob_answer": 1.9431114196777344e-05
+    },
+    "15_mlp_out_1": {
+        "token_idx": 1,
+        "tokens": " dry,  application,  high,  general,  type,  games,  system,  low,  cop,  ex",
+        "rank_subject": 1978,
+        "rank_answer": 4581,
+        "logit_subject": 0.12451171875,
+        "logit_answer": 0.08984375,
+        "prob_subject": 2.2411346435546875e-05,
+        "prob_answer": 2.1696090698242188e-05
+    },
+    "15_mlp_out_2": {
+        "token_idx": 2,
+        "tokens": " country,  little,  post,  H,  media,  pre,  city,  fit,  heat,  US",
+        "rank_subject": 12530,
+        "rank_answer": 13257,
+        "logit_subject": 0.1005859375,
+        "logit_answer": 0.091796875,
+        "prob_subject": 2.1696090698242188e-05,
+        "prob_answer": 2.1576881408691406e-05
+    },
+    "15_mlp_out_3": {
+        "token_idx": 3,
+        "tokens": " end,  performance,  success,  pre,  extensive,  activity,  most,  achievements,  experience,  services",
+        "rank_subject": 7012,
+        "rank_answer": 23523,
+        "logit_subject": 0.11279296875,
+        "logit_answer": -0.006500244140625,
+        "prob_subject": 2.2172927856445312e-05,
+        "prob_answer": 1.9669532775878906e-05
+    },
+    "15_mlp_out_4": {
+        "token_idx": 4,
+        "tokens": " skill,  model,  individual,  piece,  professional,  business,  working,  idea,  activities,  routine",
+        "rank_subject": 26265,
+        "rank_answer": 12484,
+        "logit_subject": -0.02392578125,
+        "logit_answer": 0.06298828125,
+        "prob_subject": 1.9311904907226562e-05,
+        "prob_answer": 2.110004425048828e-05
+    },
+    "15_mlp_out_5": {
+        "token_idx": 5,
+        "tokens": " sign,  under,  extensive,  little,  here,  engaged,  contact,  activity,  inner,  co",
+        "rank_subject": 16729,
+        "rank_answer": 6372,
+        "logit_subject": 0.035400390625,
+        "logit_answer": 0.134765625,
+        "prob_subject": 2.0503997802734375e-05,
+        "prob_answer": 2.2530555725097656e-05
+    },
+    "16_attn_out_0": {
+        "token_idx": 0,
+        "tokens": "local, dot, cal, vs, sh, String, double, const, equ, pr",
+        "rank_subject": 33700,
+        "rank_answer": 30946,
+        "logit_subject": -0.0169677734375,
+        "logit_answer": -0.009521484375,
+        "prob_subject": 1.9550323486328125e-05,
+        "prob_answer": 1.9669532775878906e-05
+    },
+    "16_attn_out_1": {
+        "token_idx": 1,
+        "tokens": "Eq, ${, String, \n\t\t, shr, [\\, </, const, vs, sal",
+        "rank_subject": 37341,
+        "rank_answer": 35067,
+        "logit_subject": -0.023193359375,
+        "logit_answer": -0.01708984375,
+        "prob_subject": 1.9431114196777344e-05,
+        "prob_answer": 1.9550323486328125e-05
+    },
+    "16_attn_out_2": {
+        "token_idx": 2,
+        "tokens": "Eq, Str, shr, Sum, dot, String, mus, Spin, tax, vs",
+        "rank_subject": 35123,
+        "rank_answer": 30714,
+        "logit_subject": -0.042724609375,
+        "logit_answer": -0.015625,
+        "prob_subject": 1.895427703857422e-05,
+        "prob_answer": 1.9550323486328125e-05
+    },
+    "16_attn_out_3": {
+        "token_idx": 3,
+        "tokens": "Eq, Str, vs, String, \n\t\t, Spin, shr, Sum, joint, dot",
+        "rank_subject": 36736,
+        "rank_answer": 31076,
+        "logit_subject": -0.039794921875,
+        "logit_answer": -0.01361083984375,
+        "prob_subject": 1.9073486328125e-05,
+        "prob_answer": 1.9550323486328125e-05
+    },
+    "16_attn_out_4": {
+        "token_idx": 4,
+        "tokens": "Eq, Str, shr, Vari, String, Spin, Hint, Sum, Pt, hint",
+        "rank_subject": 36527,
+        "rank_answer": 23409,
+        "logit_subject": -0.0361328125,
+        "logit_answer": 0.016357421875,
+        "prob_subject": 1.919269561767578e-05,
+        "prob_answer": 2.014636993408203e-05
+    },
+    "16_attn_out_5": {
+        "token_idx": 5,
+        "tokens": "Str, Hint, Spin, Eq, Appro, vs, Pin, Vari, Rat, shr",
+        "rank_subject": 38660,
+        "rank_answer": 24036,
+        "logit_subject": -0.05322265625,
+        "logit_answer": 0.015869140625,
+        "prob_subject": 1.8835067749023438e-05,
+        "prob_answer": 2.014636993408203e-05
+    },
+    "16_mlp_out_0": {
+        "token_idx": 0,
+        "tokens": "\ufffd\ufffd, \ufffd, \u0440\u0435\u0434, \u3063\u3066\u3044\u308b, \u0440\u0430\u0432, \u6c0f, \u0448\u0435, \u0430\u0435\u0442, \ufffd, \u0443\u044e",
+        "rank_subject": 17144,
+        "rank_answer": 33649,
+        "logit_subject": 0.875,
+        "logit_answer": -0.36328125,
+        "prob_subject": 1.990795135498047e-05,
+        "prob_answer": 5.781650543212891e-06
+    },
+    "16_mlp_out_1": {
+        "token_idx": 1,
+        "tokens": "ide, \u00a0, ge, es, ask, que,  input,  passing,  que,  lies",
+        "rank_subject": 47914,
+        "rank_answer": 47391,
+        "logit_subject": -0.0771484375,
+        "logit_answer": -0.072265625,
+        "prob_subject": 1.8358230590820312e-05,
+        "prob_answer": 1.8477439880371094e-05
+    },
+    "16_mlp_out_2": {
+        "token_idx": 2,
+        "tokens": " or,  mid,  super,  screen,  etc,  share,  shooting,  app,  fun,  Inc",
+        "rank_subject": 29929,
+        "rank_answer": 31962,
+        "logit_subject": -0.02685546875,
+        "logit_answer": -0.036865234375,
+        "prob_subject": 1.919269561767578e-05,
+        "prob_answer": 1.9073486328125e-05
+    },
+    "16_mlp_out_3": {
+        "token_idx": 3,
+        "tokens": " rare,  t,  our,  test,  (,  of,  K,  st,  ke,  d",
+        "rank_subject": 13291,
+        "rank_answer": 13644,
+        "logit_subject": 0.049072265625,
+        "logit_answer": 0.046875,
+        "prob_subject": 2.0742416381835938e-05,
+        "prob_answer": 2.0742416381835938e-05
+    },
+    "16_mlp_out_4": {
+        "token_idx": 4,
+        "tokens": " previously,  hand,  fl,  cover,  brain,  rapidly,  pet,  already,  bottom,  re",
+        "rank_subject": 50076,
+        "rank_answer": 50179,
+        "logit_subject": -0.2265625,
+        "logit_answer": -0.2470703125,
+        "prob_subject": 1.5735626220703125e-05,
+        "prob_answer": 1.5497207641601562e-05
+    },
+    "16_mlp_out_5": {
+        "token_idx": 5,
+        "tokens": " final,  spread,  transfer,  having,  structured,  inc,  pl,  battle,  or,  structure",
+        "rank_subject": 43948,
+        "rank_answer": 26437,
+        "logit_subject": -0.1259765625,
+        "logit_answer": -0.013427734375,
+        "prob_subject": 1.7404556274414062e-05,
+        "prob_answer": 1.9431114196777344e-05
+    },
+    "17_attn_out_0": {
+        "token_idx": 0,
+        "tokens": " \u044d\u0442,  r\u00e9,  extracellular,  \uc774,  fax,  organisations, \u00e1s,  d\u00e9s,  \ufffd,  instrument",
+        "rank_subject": 34977,
+        "rank_answer": 48338,
+        "logit_subject": -0.00823974609375,
+        "logit_answer": -0.046630859375,
+        "prob_subject": 1.9669532775878906e-05,
+        "prob_answer": 1.895427703857422e-05
+    },
+    "17_attn_out_1": {
+        "token_idx": 1,
+        "tokens": "\"),, \").,  orb,  hes, \");, \",\",  proprietary, ,..., etc,  hers",
+        "rank_subject": 34485,
+        "rank_answer": 39911,
+        "logit_subject": -0.0035400390625,
+        "logit_answer": -0.007476806640625,
+        "prob_subject": 1.9788742065429688e-05,
+        "prob_answer": 1.9788742065429688e-05
+    },
+    "17_attn_out_2": {
+        "token_idx": 2,
+        "tokens": " GmbH,  hers,  europe, \"),, r\u00e9, perturb, \u7b49,  doesnt,  announces, pit",
+        "rank_subject": 41500,
+        "rank_answer": 42402,
+        "logit_subject": -0.01409912109375,
+        "logit_answer": -0.01556396484375,
+        "prob_subject": 1.9550323486328125e-05,
+        "prob_answer": 1.9550323486328125e-05
+    },
+    "17_attn_out_3": {
+        "token_idx": 3,
+        "tokens": "\"),, Eq, train, pit,  hers, \u00b1, \")., perturb, fixed, \"><",
+        "rank_subject": 42237,
+        "rank_answer": 40223,
+        "logit_subject": -0.016357421875,
+        "logit_answer": -0.01312255859375,
+        "prob_subject": 1.9550323486328125e-05,
+        "prob_answer": 1.9669532775878906e-05
+    },
+    "17_attn_out_4": {
+        "token_idx": 4,
+        "tokens": " Ad,  Underground,  worldwide,  enterprise,  \u00b7,  revolution,  eng,  nation,  passion,  underground",
+        "rank_subject": 33413,
+        "rank_answer": 38104,
+        "logit_subject": -0.005035400390625,
+        "logit_answer": -0.00921630859375,
+        "prob_subject": 1.9788742065429688e-05,
+        "prob_answer": 1.9669532775878906e-05
+    },
+    "17_attn_out_5": {
+        "token_idx": 5,
+        "tokens": " Australia,  Europe,  worldwide,  europe,  Germany,  European,  international,  America,  Malaysia,  Americas",
+        "rank_subject": 15740,
+        "rank_answer": 27541,
+        "logit_subject": 0.0103759765625,
+        "logit_answer": 0.000518798828125,
+        "prob_subject": 2.002716064453125e-05,
+        "prob_answer": 1.990795135498047e-05
+    },
+    "17_mlp_out_0": {
+        "token_idx": 0,
+        "tokens": "INGS, \u5730, \u53d8, \ufffd, \u9053, )$-, \u3053\u3068, OUS, supervised, ISTS",
+        "rank_subject": 32876,
+        "rank_answer": 40751,
+        "logit_subject": -0.050537109375,
+        "logit_answer": -0.1650390625,
+        "prob_subject": 1.8596649169921875e-05,
+        "prob_answer": 1.6570091247558594e-05
+    },
+    "17_mlp_out_1": {
+        "token_idx": 1,
+        "tokens": " AR,  sc,  exc,  Acc,  UN,  s,  complic,  visit,  X,  un",
+        "rank_subject": 759,
+        "rank_answer": 974,
+        "logit_subject": 0.1396484375,
+        "logit_answer": 0.1318359375,
+        "prob_subject": 2.276897430419922e-05,
+        "prob_answer": 2.2649765014648438e-05
+    },
+    "17_mlp_out_2": {
+        "token_idx": 2,
+        "tokens": " region,  district,  check,  across,  other,  track,  off,  floor,  lat,  area",
+        "rank_subject": 19602,
+        "rank_answer": 9486,
+        "logit_subject": 0.021728515625,
+        "logit_answer": 0.10009765625,
+        "prob_subject": 2.014636993408203e-05,
+        "prob_answer": 2.181529998779297e-05
+    },
+    "17_mlp_out_3": {
+        "token_idx": 3,
+        "tokens": " opposite,  origin,  accent,  hyper,  district, ium,  downtown,  alphabet,  east,  char",
+        "rank_subject": 3078,
+        "rank_answer": 26444,
+        "logit_subject": 0.1455078125,
+        "logit_answer": -0.0050048828125,
+        "prob_subject": 2.288818359375e-05,
+        "prob_answer": 1.9669532775878906e-05
+    },
+    "17_mlp_out_4": {
+        "token_idx": 4,
+        "tokens": " name,  net,  word,  independent,  bur,  everything,  thing,  passionate,  trust,  instrument",
+        "rank_subject": 599,
+        "rank_answer": 14276,
+        "logit_subject": 0.2451171875,
+        "logit_answer": 0.04638671875,
+        "prob_subject": 2.5272369384765625e-05,
+        "prob_answer": 2.0742416381835938e-05
+    },
+    "17_mlp_out_5": {
+        "token_idx": 5,
+        "tokens": " opposite,  anything,  outside,  area,  even,  Marg,  Char,  char,  technically,  alphabet",
+        "rank_subject": 11974,
+        "rank_answer": 1544,
+        "logit_subject": 0.06591796875,
+        "logit_answer": 0.1923828125,
+        "prob_subject": 2.110004425048828e-05,
+        "prob_answer": 2.396106719970703e-05
+    },
+    "18_attn_out_0": {
+        "token_idx": 0,
+        "tokens": "</, <, _, wr, hel, nu, p, Se, native, aged",
+        "rank_subject": 38607,
+        "rank_answer": 42294,
+        "logit_subject": -0.02001953125,
+        "logit_answer": -0.028076171875,
+        "prob_subject": 1.9431114196777344e-05,
+        "prob_answer": 1.9311904907226562e-05
+    },
+    "18_attn_out_1": {
+        "token_idx": 1,
+        "tokens": "kin, soft, que, ought, sep, pink, special, ara, adian, joint",
+        "rank_subject": 32770,
+        "rank_answer": 35283,
+        "logit_subject": -0.0057373046875,
+        "logit_answer": -0.00921630859375,
+        "prob_subject": 1.9788742065429688e-05,
+        "prob_answer": 1.9669532775878906e-05
+    },
+    "18_attn_out_2": {
+        "token_idx": 2,
+        "tokens": "kin, fee, lin, Fe, hn, PR, quot, sum, shr, ought",
+        "rank_subject": 29513,
+        "rank_answer": 28564,
+        "logit_subject": -0.0030364990234375,
+        "logit_answer": -0.00021648406982421875,
+        "prob_subject": 1.9788742065429688e-05,
+        "prob_answer": 1.990795135498047e-05
+    },
+    "18_attn_out_3": {
+        "token_idx": 3,
+        "tokens": " territory,  kingdom,  fr,  ambition,  colony,  momentum,  India,  Italy,  Ireland,  empire",
+        "rank_subject": 27,
+        "rank_answer": 15691,
+        "logit_subject": 0.349609375,
+        "logit_answer": 0.039306640625,
+        "prob_subject": 2.8133392333984375e-05,
+        "prob_answer": 2.0623207092285156e-05
+    },
+    "18_attn_out_4": {
+        "token_idx": 4,
+        "tokens": " territory,  Ground, PV, PIN,  financially,  Labour,  Libert,  Nom, PI,  territories",
+        "rank_subject": 125,
+        "rank_answer": 3692,
+        "logit_subject": 0.2021484375,
+        "logit_answer": 0.103515625,
+        "prob_subject": 2.4199485778808594e-05,
+        "prob_answer": 2.193450927734375e-05
+    },
+    "18_attn_out_5": {
+        "token_idx": 5,
+        "tokens": "Big, iss, Module, account, Move, Fe, Opp, elected, ij, Student",
+        "rank_subject": 35923,
+        "rank_answer": 14091,
+        "logit_subject": -0.026611328125,
+        "logit_answer": 0.036376953125,
+        "prob_subject": 1.9311904907226562e-05,
+        "prob_answer": 2.0623207092285156e-05
+    },
+    "18_mlp_out_0": {
+        "token_idx": 0,
+        "tokens": "\u529b, \u884c, \ufffd, \u043d\u043e\u0435, \u3057\u3066, )$-, \ufffd, \u53d8, \u7740, \ufffd",
+        "rank_subject": 28052,
+        "rank_answer": 39551,
+        "logit_subject": 0.0126953125,
+        "logit_answer": -0.24609375,
+        "prob_subject": 1.9073486328125e-05,
+        "prob_answer": 1.4722347259521484e-05
+    },
+    "18_mlp_out_1": {
+        "token_idx": 1,
+        "tokens": "  ,  proper,  [,  main,  Co,  \n\n,    ,  DM,  \n,  sh",
+        "rank_subject": 14211,
+        "rank_answer": 46562,
+        "logit_subject": 0.035400390625,
+        "logit_answer": -0.09228515625,
+        "prob_subject": 2.0503997802734375e-05,
+        "prob_answer": 1.811981201171875e-05
+    },
+    "18_mlp_out_2": {
+        "token_idx": 2,
+        "tokens": " b,  pre,  number,  ke, f, s,  p,  SH,  pa,  conc",
+        "rank_subject": 28494,
+        "rank_answer": 20030,
+        "logit_subject": -0.034423828125,
+        "logit_answer": 0.0125732421875,
+        "prob_subject": 1.9073486328125e-05,
+        "prob_answer": 2.002716064453125e-05
+    },
+    "18_mlp_out_3": {
+        "token_idx": 3,
+        "tokens": " N,  all,  every,  V,  pass,  i,  Ed,  back,  current,  the",
+        "rank_subject": 2832,
+        "rank_answer": 15142,
+        "logit_subject": 0.2275390625,
+        "logit_answer": 0.051513671875,
+        "prob_subject": 2.47955322265625e-05,
+        "prob_answer": 2.0742416381835938e-05
+    },
+    "18_mlp_out_4": {
+        "token_idx": 4,
+        "tokens": " met,  existing,  back,  already,  left,  extra,  inter,  pass,  pre,  established",
+        "rank_subject": 39750,
+        "rank_answer": 20351,
+        "logit_subject": -0.07373046875,
+        "logit_answer": 0.00933837890625,
+        "prob_subject": 1.8358230590820312e-05,
+        "prob_answer": 2.002716064453125e-05
+    },
+    "18_mlp_out_5": {
+        "token_idx": 5,
+        "tokens": " v,  counter,  Pass,  popular,  s,  waiting,  First,  wa,  International, v",
+        "rank_subject": 8236,
+        "rank_answer": 10445,
+        "logit_subject": 0.126953125,
+        "logit_answer": 0.099609375,
+        "prob_subject": 2.2411346435546875e-05,
+        "prob_answer": 2.181529998779297e-05
+    },
+    "19_attn_out_0": {
+        "token_idx": 0,
+        "tokens": "\n\t\t, \n\t, \n\t\t\t, ();,  :=, \"), \")), (', );, Date",
+        "rank_subject": 10272,
+        "rank_answer": 40327,
+        "logit_subject": 0.033447265625,
+        "logit_answer": -0.0341796875,
+        "prob_subject": 2.0503997802734375e-05,
+        "prob_answer": 1.919269561767578e-05
+    },
+    "19_attn_out_1": {
+        "token_idx": 1,
+        "tokens": ".\\,  Studios, ../, ${, Dim,  />, 2019, ts,  aka, Sum",
+        "rank_subject": 35640,
+        "rank_answer": 39457,
+        "logit_subject": -0.022705078125,
+        "logit_answer": -0.03564453125,
+        "prob_subject": 1.9431114196777344e-05,
+        "prob_answer": 1.919269561767578e-05
+    },
+    "19_attn_out_2": {
+        "token_idx": 2,
+        "tokens": "ban, xy,  Manufacturing, year, gap, -\\, SD, Fit, edge, spin",
+        "rank_subject": 35013,
+        "rank_answer": 43766,
+        "logit_subject": -0.03271484375,
+        "logit_answer": -0.09326171875,
+        "prob_subject": 1.919269561767578e-05,
+        "prob_answer": 1.800060272216797e-05
+    },
+    "19_attn_out_3": {
+        "token_idx": 3,
+        "tokens": "imes, lambda, \"),, Son,  Atlantic, Age, driver, \")), Factor,  ago",
+        "rank_subject": 40889,
+        "rank_answer": 42857,
+        "logit_subject": -0.0439453125,
+        "logit_answer": -0.05419921875,
+        "prob_subject": 1.895427703857422e-05,
+        "prob_answer": 1.8835067749023438e-05
+    },
+    "19_attn_out_4": {
+        "token_idx": 4,
+        "tokens": "ville, BN, vac, NAME,  Recall, -\\, Tele, MI, MO, las",
+        "rank_subject": 34233,
+        "rank_answer": 29488,
+        "logit_subject": -0.0247802734375,
+        "logit_answer": -0.0030059814453125,
+        "prob_subject": 1.9311904907226562e-05,
+        "prob_answer": 1.9788742065429688e-05
+    },
+    "19_attn_out_5": {
+        "token_idx": 5,
+        "tokens": "akes, quee, face,  Authority, lambda,  Philadelphia, (), Upper, gr, ['",
+        "rank_subject": 23229,
+        "rank_answer": 27899,
+        "logit_subject": 0.019775390625,
+        "logit_answer": 0.00286865234375,
+        "prob_subject": 2.0265579223632812e-05,
+        "prob_answer": 1.990795135498047e-05
+    },
+    "19_mlp_out_0": {
+        "token_idx": 0,
+        "tokens": "\ufffd\ufffd, \u606f, \u308c, \ufffd, \u0440\u0430\u0432, \u3063\u305f, \u3063\u3066\u3044\u308b, \u043d\u043e\u0433\u043e, \ufffd\ufffd, \ufffd\ufffd",
+        "rank_subject": 28938,
+        "rank_answer": 41903,
+        "logit_subject": 0.04248046875,
+        "logit_answer": -0.99609375,
+        "prob_subject": 1.2874603271484375e-05,
+        "prob_answer": 4.559755325317383e-06
+    },
+    "19_mlp_out_1": {
+        "token_idx": 1,
+        "tokens": " only,  well,  first,  whole,  following,  three,  one,  un,  just,  head",
+        "rank_subject": 31931,
+        "rank_answer": 4905,
+        "logit_subject": -0.038818359375,
+        "logit_answer": 0.11328125,
+        "prob_subject": 1.9073486328125e-05,
+        "prob_answer": 2.2172927856445312e-05
+    },
+    "19_mlp_out_2": {
+        "token_idx": 2,
+        "tokens": ",,  which,  for,  even,  in,  by,  if, \n,  fl,  daily",
+        "rank_subject": 21492,
+        "rank_answer": 6817,
+        "logit_subject": 0.0029754638671875,
+        "logit_answer": 0.1982421875,
+        "prob_subject": 1.9669532775878906e-05,
+        "prob_answer": 2.384185791015625e-05
+    },
+    "19_mlp_out_3": {
+        "token_idx": 3,
+        "tokens": " better,  post,  either,  more,  specific,  beyond,  s,  multiple,  now,  as",
+        "rank_subject": 8825,
+        "rank_answer": 28383,
+        "logit_subject": 0.11181640625,
+        "logit_answer": -0.03564453125,
+        "prob_subject": 2.205371856689453e-05,
+        "prob_answer": 1.9073486328125e-05
+    },
+    "19_mlp_out_4": {
+        "token_idx": 4,
+        "tokens": " as,  sub,  even,  dis,  pro,  to,  des,  in,  so,  form",
+        "rank_subject": 48673,
+        "rank_answer": 28901,
+        "logit_subject": -0.1943359375,
+        "logit_answer": -0.048828125,
+        "prob_subject": 1.621246337890625e-05,
+        "prob_answer": 1.8715858459472656e-05
+    },
+    "19_mlp_out_5": {
+        "token_idx": 5,
+        "tokens": " first,  on,  in,  more,  non,  (,  advanced,  mid,  among,  unique",
+        "rank_subject": 18166,
+        "rank_answer": 14957,
+        "logit_subject": 0.025390625,
+        "logit_answer": 0.050048828125,
+        "prob_subject": 2.0265579223632812e-05,
+        "prob_answer": 2.0742416381835938e-05
+    },
+    "20_attn_out_0": {
+        "token_idx": 0,
+        "tokens": "\r\n, \r\n\t\t, \r\n\t,  \\<, \n\t\t, \");, username, \r\n\r\n, \r\n\t\t\t, ());",
+        "rank_subject": 25777,
+        "rank_answer": 38168,
+        "logit_subject": 0.0038604736328125,
+        "logit_answer": -0.022216796875,
+        "prob_subject": 1.990795135498047e-05,
+        "prob_answer": 1.9431114196777344e-05
+    },
+    "20_attn_out_1": {
+        "token_idx": 1,
+        "tokens": "lambda, map, Sigma, \u4e2d, Data, mathcal, Gamma,  \u043f\u0440\u0435\u0434, Range, \u5206",
+        "rank_subject": 24509,
+        "rank_answer": 33069,
+        "logit_subject": 0.0123291015625,
+        "logit_answer": -0.01141357421875,
+        "prob_subject": 2.014636993408203e-05,
+        "prob_answer": 1.9669532775878906e-05
+    },
+    "20_attn_out_2": {
+        "token_idx": 2,
+        "tokens": " Collect,  Centre,  Department,  Reve,  Interactive,  Hidden,  Association,  Promise,  Between,  Sexual",
+        "rank_subject": 19777,
+        "rank_answer": 28748,
+        "logit_subject": 0.03466796875,
+        "logit_answer": 0.0003299713134765625,
+        "prob_subject": 2.0503997802734375e-05,
+        "prob_answer": 1.9788742065429688e-05
+    },
+    "20_attn_out_3": {
+        "token_idx": 3,
+        "tokens": " Reve,  Records,  Movement,  Association,  Predict,  Between,  Throughout,  Sexual,  Influ,  Collect",
+        "rank_subject": 19265,
+        "rank_answer": 41800,
+        "logit_subject": 0.0252685546875,
+        "logit_answer": -0.05712890625,
+        "prob_subject": 2.0384788513183594e-05,
+        "prob_answer": 1.8715858459472656e-05
+    },
+    "20_attn_out_4": {
+        "token_idx": 4,
+        "tokens": " kingdom,  worldwide,  province,  nation,  island,  empire,  municipality,  longest,  centuries,  countryside",
+        "rank_subject": 4673,
+        "rank_answer": 36435,
+        "logit_subject": 0.1376953125,
+        "logit_answer": -0.054931640625,
+        "prob_subject": 2.2649765014648438e-05,
+        "prob_answer": 1.8715858459472656e-05
+    },
+    "20_attn_out_5": {
+        "token_idx": 5,
+        "tokens": " provinces,  Aer,  parliament,  Federation,  Influ,  province,  Tam,  Ele,  Delta,  im",
+        "rank_subject": 36882,
+        "rank_answer": 45334,
+        "logit_subject": -0.043212890625,
+        "logit_answer": -0.11767578125,
+        "prob_subject": 1.895427703857422e-05,
+        "prob_answer": 1.7642974853515625e-05
+    },
+    "20_mlp_out_0": {
+        "token_idx": 0,
+        "tokens": " electronic,  chase,  unknown,  judicial,  scrambled,  gradient,  medal,  suspend,  chased,  nickname",
+        "rank_subject": 40487,
+        "rank_answer": 42926,
+        "logit_subject": -0.04150390625,
+        "logit_answer": -0.053955078125,
+        "prob_subject": 1.9073486328125e-05,
+        "prob_answer": 1.8835067749023438e-05
+    },
+    "20_mlp_out_1": {
+        "token_idx": 1,
+        "tokens": " post,  most,  leading,  sentiment,  second,  frequency,  burn,  solution,  Apple,  dry",
+        "rank_subject": 14328,
+        "rank_answer": 9297,
+        "logit_subject": 0.030029296875,
+        "logit_answer": 0.053955078125,
+        "prob_subject": 2.0384788513183594e-05,
+        "prob_answer": 2.09808349609375e-05
+    },
+    "20_mlp_out_2": {
+        "token_idx": 2,
+        "tokens": " back,  previously,  soft,  series,  transfer,  directions,  retained,  useless, ur,  products",
+        "rank_subject": 49474,
+        "rank_answer": 31065,
+        "logit_subject": -0.201171875,
+        "logit_answer": -0.031982421875,
+        "prob_subject": 1.621246337890625e-05,
+        "prob_answer": 1.919269561767578e-05
+    },
+    "20_mlp_out_3": {
+        "token_idx": 3,
+        "tokens": " grass,  anti,  lower,  regional,  little,  Lower,  bottom,  vacc,  climate,  exp",
+        "rank_subject": 19613,
+        "rank_answer": 6295,
+        "logit_subject": 0.0198974609375,
+        "logit_answer": 0.095703125,
+        "prob_subject": 2.014636993408203e-05,
+        "prob_answer": 2.181529998779297e-05
+    },
+    "20_mlp_out_4": {
+        "token_idx": 4,
+        "tokens": " w,  inf,  y,  co,  en,  Brazilian,  ill,  z,  inst,  boots",
+        "rank_subject": 305,
+        "rank_answer": 40803,
+        "logit_subject": 0.3125,
+        "logit_answer": -0.08642578125,
+        "prob_subject": 2.7060508728027344e-05,
+        "prob_answer": 1.811981201171875e-05
+    },
+    "20_mlp_out_5": {
+        "token_idx": 5,
+        "tokens": " product,  treatment,  younger,  workplace,  citizen,  supply,  numbers,  continuation,  sink,  productivity",
+        "rank_subject": 36727,
+        "rank_answer": 9050,
+        "logit_subject": -0.05712890625,
+        "logit_answer": 0.08984375,
+        "prob_subject": 1.8715858459472656e-05,
+        "prob_answer": 2.1576881408691406e-05
+    },
+    "21_attn_out_0": {
+        "token_idx": 0,
+        "tokens": "dex, \ufffd, eline, ASH, PD, iders, cod, ());, umble, pend",
+        "rank_subject": 30617,
+        "rank_answer": 41089,
+        "logit_subject": -0.0032501220703125,
+        "logit_answer": -0.02392578125,
+        "prob_subject": 1.9788742065429688e-05,
+        "prob_answer": 1.9431114196777344e-05
+    },
+    "21_attn_out_1": {
+        "token_idx": 1,
+        "tokens": " &, </,  F, \u201d, f,  Res,   , hr, ies, arc",
+        "rank_subject": 37669,
+        "rank_answer": 42138,
+        "logit_subject": -0.012451171875,
+        "logit_answer": -0.02001953125,
+        "prob_subject": 1.9669532775878906e-05,
+        "prob_answer": 1.9431114196777344e-05
+    },
+    "21_attn_out_2": {
+        "token_idx": 2,
+        "tokens": " organised,  pupils,  earnings,  emphas,  political,  Personal,  literary,  constitution,  Res,  Capital",
+        "rank_subject": 14773,
+        "rank_answer": 39991,
+        "logit_subject": 0.026123046875,
+        "logit_answer": -0.037109375,
+        "prob_subject": 2.0384788513183594e-05,
+        "prob_answer": 1.9073486328125e-05
+    },
+    "21_attn_out_3": {
+        "token_idx": 3,
+        "tokens": " political,  foreigners,  imperial,  Political,  historic,  inhabitants,  constitution,  pupils,  organised,  literary",
+        "rank_subject": 27204,
+        "rank_answer": 34871,
+        "logit_subject": 0.00101470947265625,
+        "logit_answer": -0.017578125,
+        "prob_subject": 1.990795135498047e-05,
+        "prob_answer": 1.9550323486328125e-05
+    },
+    "21_attn_out_4": {
+        "token_idx": 4,
+        "tokens": " famous,  became,  symbol,  finally,  famously,  officially,  iconic,  serves,  naturally,  mach",
+        "rank_subject": 17248,
+        "rank_answer": 2152,
+        "logit_subject": 0.0238037109375,
+        "logit_answer": 0.11767578125,
+        "prob_subject": 2.0265579223632812e-05,
+        "prob_answer": 2.2292137145996094e-05
+    },
+    "21_attn_out_5": {
+        "token_idx": 5,
+        "tokens": " politics,  historical,  famously,  officially,  famous,  politically,  electoral,  historically,  political,  culturally",
+        "rank_subject": 23947,
+        "rank_answer": 27387,
+        "logit_subject": 0.009765625,
+        "logit_answer": -0.00107574462890625,
+        "prob_subject": 2.002716064453125e-05,
+        "prob_answer": 1.9788742065429688e-05
+    },
+    "21_mlp_out_0": {
+        "token_idx": 0,
+        "tokens": "\ufffd, ()), github,  NULL,  retrieve, \ufffd, ```,  repeal, \ufffd, bootstrap",
+        "rank_subject": 34053,
+        "rank_answer": 32041,
+        "logit_subject": -0.0206298828125,
+        "logit_answer": -0.01171875,
+        "prob_subject": 1.9431114196777344e-05,
+        "prob_answer": 1.9550323486328125e-05
+    },
+    "21_mlp_out_1": {
+        "token_idx": 1,
+        "tokens": " hal,  view,  way,  largest,  issue,  Hal,  phenomenon,  incoming,  fourth,  third",
+        "rank_subject": 27812,
+        "rank_answer": 14528,
+        "logit_subject": -0.0078125,
+        "logit_answer": 0.031005859375,
+        "prob_subject": 1.9669532775878906e-05,
+        "prob_answer": 2.0503997802734375e-05
+    },
+    "21_mlp_out_2": {
+        "token_idx": 2,
+        "tokens": "ized, ization, izing, 'll,  train,  territory, ize,  safety,  mass,  group",
+        "rank_subject": 28133,
+        "rank_answer": 21011,
+        "logit_subject": -0.0205078125,
+        "logit_answer": 0.0145263671875,
+        "prob_subject": 1.9311904907226562e-05,
+        "prob_answer": 2.002716064453125e-05
+    },
+    "21_mlp_out_3": {
+        "token_idx": 3,
+        "tokens": " Germany,  Canada,  France,  Italy,  type,  lead,  cold,  media,  USA,  territories",
+        "rank_subject": 1366,
+        "rank_answer": 31722,
+        "logit_subject": 0.2041015625,
+        "logit_answer": -0.030517578125,
+        "prob_subject": 2.4318695068359375e-05,
+        "prob_answer": 1.919269561767578e-05
+    },
+    "21_mlp_out_4": {
+        "token_idx": 4,
+        "tokens": " parallel,  cross,  consequence,  slightly,  internal,  capacity,  scenarios,  side,  scenario,  capacities",
+        "rank_subject": 33726,
+        "rank_answer": 35072,
+        "logit_subject": -0.037109375,
+        "logit_answer": -0.04296875,
+        "prob_subject": 1.9073486328125e-05,
+        "prob_answer": 1.895427703857422e-05
+    },
+    "21_mlp_out_5": {
+        "token_idx": 5,
+        "tokens": " scenario,  baseline,  lead,  restart,  operations,  externally,  RI,  circular,  bl,  Delta",
+        "rank_subject": 33212,
+        "rank_answer": 46041,
+        "logit_subject": -0.045166015625,
+        "logit_answer": -0.1484375,
+        "prob_subject": 1.8835067749023438e-05,
+        "prob_answer": 1.704692840576172e-05
+    },
+    "22_attn_out_0": {
+        "token_idx": 0,
+        "tokens": "ado, asting, Son, Controller, ars,  =, ari, fy, active, ens",
+        "rank_subject": 26937,
+        "rank_answer": 36638,
+        "logit_subject": 0.000885009765625,
+        "logit_answer": -0.0216064453125,
+        "prob_subject": 1.990795135498047e-05,
+        "prob_answer": 1.9431114196777344e-05
+    },
+    "22_attn_out_1": {
+        "token_idx": 1,
+        "tokens": " your,  OP,  Reddit,  bo,  Wikipedia,  often,  you,  mil,  /, ert",
+        "rank_subject": 12907,
+        "rank_answer": 48717,
+        "logit_subject": 0.013671875,
+        "logit_answer": -0.04541015625,
+        "prob_subject": 2.014636993408203e-05,
+        "prob_answer": 1.895427703857422e-05
+    },
+    "22_attn_out_2": {
+        "token_idx": 2,
+        "tokens": " your,  you,  Leg,  SO,  tele, io, _,  -,  uns,  Your",
+        "rank_subject": 34491,
+        "rank_answer": 41897,
+        "logit_subject": -0.017822265625,
+        "logit_answer": -0.035400390625,
+        "prob_subject": 1.9550323486328125e-05,
+        "prob_answer": 1.919269561767578e-05
+    },
+    "22_attn_out_3": {
+        "token_idx": 3,
+        "tokens": " insurance,  Leg,  kids,  leg,  Belgian,  tele,  clean,  licensed, oun,  Your",
+        "rank_subject": 34664,
+        "rank_answer": 39138,
+        "logit_subject": -0.0157470703125,
+        "logit_answer": -0.0257568359375,
+        "prob_subject": 1.9550323486328125e-05,
+        "prob_answer": 1.9311904907226562e-05
+    },
+    "22_attn_out_4": {
+        "token_idx": 4,
+        "tokens": " its,  tr,  pop,  =,  fur,  is,  light,  tourism, pop,  tourist",
+        "rank_subject": 23557,
+        "rank_answer": 14158,
+        "logit_subject": -9.679794311523438e-05,
+        "logit_answer": 0.0224609375,
+        "prob_subject": 1.990795135498047e-05,
+        "prob_answer": 2.0265579223632812e-05
+    },
+    "22_attn_out_5": {
+        "token_idx": 5,
+        "tokens": " its,  mine,  Its,  population,  it,  International,  discount,  pop,  men,  mass",
+        "rank_subject": 40533,
+        "rank_answer": 4111,
+        "logit_subject": -0.045166015625,
+        "logit_answer": 0.080078125,
+        "prob_subject": 1.895427703857422e-05,
+        "prob_answer": 2.1457672119140625e-05
+    },
+    "22_mlp_out_0": {
+        "token_idx": 0,
+        "tokens": "();, ());,  genotypes, \u6709, ())),  reagents,  electrode,  attainment,  stimuli, \u5229",
+        "rank_subject": 40186,
+        "rank_answer": 35615,
+        "logit_subject": -0.0556640625,
+        "logit_answer": -0.0296630859375,
+        "prob_subject": 1.8715858459472656e-05,
+        "prob_answer": 1.919269561767578e-05
+    },
+    "22_mlp_out_1": {
+        "token_idx": 1,
+        "tokens": " Ha,  idea, rap,  H,  product,  problem,  actual,  w,  origin,  article",
+        "rank_subject": 20599,
+        "rank_answer": 14126,
+        "logit_subject": 0.00909423828125,
+        "logit_answer": 0.0341796875,
+        "prob_subject": 2.002716064453125e-05,
+        "prob_answer": 2.0503997802734375e-05
+    },
+    "22_mlp_out_2": {
+        "token_idx": 2,
+        "tokens": " Te,  bro,  Y, it,  y,  minor,  Gal,  crown,  dat,  Ir",
+        "rank_subject": 5089,
+        "rank_answer": 1787,
+        "logit_subject": 0.142578125,
+        "logit_answer": 0.216796875,
+        "prob_subject": 2.276897430419922e-05,
+        "prob_answer": 2.4557113647460938e-05
+    },
+    "22_mlp_out_3": {
+        "token_idx": 3,
+        "tokens": " def,  whichever,  plain,  int,  home,  Oz,  blind,  classic,  corners,  choice",
+        "rank_subject": 32778,
+        "rank_answer": 252,
+        "logit_subject": -0.031494140625,
+        "logit_answer": 0.271484375,
+        "prob_subject": 1.919269561767578e-05,
+        "prob_answer": 2.5987625122070312e-05
+    },
+    "22_mlp_out_4": {
+        "token_idx": 4,
+        "tokens": " based,  outside,  off,  located,  demands,  compound,  charges,  under,  origin,  Ir",
+        "rank_subject": 30469,
+        "rank_answer": 22604,
+        "logit_subject": -0.027099609375,
+        "logit_answer": 0.0027313232421875,
+        "prob_subject": 1.9311904907226562e-05,
+        "prob_answer": 1.990795135498047e-05
+    },
+    "22_mlp_out_5": {
+        "token_idx": 5,
+        "tokens": " otherwise,  inj,  flavor,  threads,  hard, J,  nuts,  metadata,  IM,  dig",
+        "rank_subject": 32864,
+        "rank_answer": 45981,
+        "logit_subject": -0.0380859375,
+        "logit_answer": -0.154296875,
+        "prob_subject": 1.895427703857422e-05,
+        "prob_answer": 1.6927719116210938e-05
+    },
+    "23_attn_out_0": {
+        "token_idx": 0,
+        "tokens": "aste, args, ode, username, asy, asty, ._, ail, (){, Sm",
+        "rank_subject": 25424,
+        "rank_answer": 30450,
+        "logit_subject": 0.006561279296875,
+        "logit_answer": -0.0078125,
+        "prob_subject": 2.002716064453125e-05,
+        "prob_answer": 1.9669532775878906e-05
+    },
+    "23_attn_out_1": {
+        "token_idx": 1,
+        "tokens": "map, \"),, \u2010, username, .\u2019, itter, Style, \u7740, \ufffd,  2021",
+        "rank_subject": 20895,
+        "rank_answer": 30201,
+        "logit_subject": 0.009521484375,
+        "logit_answer": -0.0028076171875,
+        "prob_subject": 2.002716064453125e-05,
+        "prob_answer": 1.9788742065429688e-05
+    },
+    "23_attn_out_2": {
+        "token_idx": 2,
+        "tokens": "API, Api, map,  soundtrack, docs, iest, TER, login, Card,  finale",
+        "rank_subject": 21370,
+        "rank_answer": 32970,
+        "logit_subject": 0.017822265625,
+        "logit_answer": -0.011962890625,
+        "prob_subject": 2.0265579223632812e-05,
+        "prob_answer": 1.9669532775878906e-05
+    },
+    "23_attn_out_3": {
+        "token_idx": 3,
+        "tokens": "vi, ops,  outfit,  referred, ?\",, ife, ete, ado, Card, ry",
+        "rank_subject": 7799,
+        "rank_answer": 32155,
+        "logit_subject": 0.046875,
+        "logit_answer": -0.00994873046875,
+        "prob_subject": 2.086162567138672e-05,
+        "prob_answer": 1.9669532775878906e-05
+    },
+    "23_attn_out_4": {
+        "token_idx": 4,
+        "tokens": " Victoria,  town, row, Sur,  arrived, Card,  surely, rew,  grew,  ought",
+        "rank_subject": 36179,
+        "rank_answer": 8447,
+        "logit_subject": -0.0242919921875,
+        "logit_answer": 0.048828125,
+        "prob_subject": 1.9311904907226562e-05,
+        "prob_answer": 2.086162567138672e-05
+    },
+    "23_attn_out_5": {
+        "token_idx": 5,
+        "tokens": " everyone, Card,  aren,  accessibility,  must,  \u2018, \u00e4,  everybody,  unusual, ari",
+        "rank_subject": 44492,
+        "rank_answer": 10257,
+        "logit_subject": -0.055419921875,
+        "logit_answer": 0.035888671875,
+        "prob_subject": 1.8835067749023438e-05,
+        "prob_answer": 2.0623207092285156e-05
+    },
+    "23_mlp_out_0": {
+        "token_idx": 0,
+        "tokens": "anged, ://, acks, \ufffd, \ufffd, anning, ashed, NotFound, };, ING",
+        "rank_subject": 39163,
+        "rank_answer": 43989,
+        "logit_subject": -0.0673828125,
+        "logit_answer": -0.1201171875,
+        "prob_subject": 1.8477439880371094e-05,
+        "prob_answer": 1.7523765563964844e-05
+    },
+    "23_mlp_out_1": {
+        "token_idx": 1,
+        "tokens": " question,  comment,  idea,  article,  head,  answer,  invention,  comments,  graphic,  Last",
+        "rank_subject": 45276,
+        "rank_answer": 36465,
+        "logit_subject": -0.078125,
+        "logit_answer": -0.0400390625,
+        "prob_subject": 1.8358230590820312e-05,
+        "prob_answer": 1.9073486328125e-05
+    },
+    "23_mlp_out_2": {
+        "token_idx": 2,
+        "tokens": "ized, izing, ised, ization, istic,  stop, ising, izes,  rule,  ram",
+        "rank_subject": 28076,
+        "rank_answer": 26697,
+        "logit_subject": -0.034912109375,
+        "logit_answer": -0.025634765625,
+        "prob_subject": 1.895427703857422e-05,
+        "prob_answer": 1.919269561767578e-05
+    },
+    "23_mlp_out_3": {
+        "token_idx": 3,
+        "tokens": " the,  distributed,  wh,  region,  whole,  hands,  and,  f,  ground,  entire",
+        "rank_subject": 18981,
+        "rank_answer": 4459,
+        "logit_subject": 0.020263671875,
+        "logit_answer": 0.1591796875,
+        "prob_subject": 2.014636993408203e-05,
+        "prob_answer": 2.3126602172851562e-05
+    },
+    "23_mlp_out_4": {
+        "token_idx": 4,
+        "tokens": " over,  best,  point,  ch,  even,  [,  path,  track,  about,  at",
+        "rank_subject": 48686,
+        "rank_answer": 31143,
+        "logit_subject": -0.1630859375,
+        "logit_answer": -0.03564453125,
+        "prob_subject": 1.6808509826660156e-05,
+        "prob_answer": 1.9073486328125e-05
+    },
+    "23_mlp_out_5": {
+        "token_idx": 5,
+        "tokens": " obviously,  inst,  further,  Internet,  simply,  London,  already,  the,  additional,  platform",
+        "rank_subject": 31908,
+        "rank_answer": 11096,
+        "logit_subject": -0.038330078125,
+        "logit_answer": 0.08642578125,
+        "prob_subject": 1.895427703857422e-05,
+        "prob_answer": 2.1457672119140625e-05
+    },
+    "24_attn_out_0": {
+        "token_idx": 0,
+        "tokens": "\u3002, cite, \u4e4b, NaN, GFP, }{\\, NotFound, \u53f7, \u4fdd, \u884c",
+        "rank_subject": 24797,
+        "rank_answer": 41354,
+        "logit_subject": 0.01171875,
+        "logit_answer": -0.045654296875,
+        "prob_subject": 2.014636993408203e-05,
+        "prob_answer": 1.895427703857422e-05
+    },
+    "24_attn_out_1": {
+        "token_idx": 1,
+        "tokens": "\u53f7, })\\, \ufffd, \ufffd, \"></, eqn, MO, \ufffd, Eq, \ufffd",
+        "rank_subject": 23725,
+        "rank_answer": 45102,
+        "logit_subject": 0.01708984375,
+        "logit_answer": -0.07373046875,
+        "prob_subject": 2.014636993408203e-05,
+        "prob_answer": 1.8477439880371094e-05
+    },
+    "24_attn_out_2": {
+        "token_idx": 2,
+        "tokens": "\u6cd5, eqn, \u653f, \ufffd, svg, \u5730, \u5f0f, \ufffd, \ufffd, \u6807",
+        "rank_subject": 20186,
+        "rank_answer": 36549,
+        "logit_subject": 0.050048828125,
+        "logit_answer": -0.05126953125,
+        "prob_subject": 2.0742416381835938e-05,
+        "prob_answer": 1.8835067749023438e-05
+    },
+    "24_attn_out_3": {
+        "token_idx": 3,
+        "tokens": "\u5730, \u6cd5, \ufffd, \u653f, react, Tok, \ufffd, \ufffd, Paris, NaN",
+        "rank_subject": 23842,
+        "rank_answer": 38016,
+        "logit_subject": 0.025634765625,
+        "logit_answer": -0.05224609375,
+        "prob_subject": 2.0265579223632812e-05,
+        "prob_answer": 1.8835067749023438e-05
+    },
+    "24_attn_out_4": {
+        "token_idx": 4,
+        "tokens": " namely,  resides,  located,  lies,  situated,  surrounded,  sits,  called,  reached,  resided",
+        "rank_subject": 26,
+        "rank_answer": 38,
+        "logit_subject": 0.486328125,
+        "logit_answer": 0.45703125,
+        "prob_subject": 3.218650817871094e-05,
+        "prob_answer": 3.123283386230469e-05
+    },
+    "24_attn_out_5": {
+        "token_idx": 5,
+        "tokens": " Colombia,  located,  Colomb,  Bog,  situated,  surrounded,  Columbia,  resides,  sits,  Tehran",
+        "rank_subject": 0,
+        "rank_answer": 3,
+        "logit_subject": 0.7265625,
+        "logit_answer": 0.58984375,
+        "prob_subject": 4.076957702636719e-05,
+        "prob_answer": 3.552436828613281e-05
+    },
+    "24_mlp_out_0": {
+        "token_idx": 0,
+        "tokens": "());, \ufffd,  '., \u043e\u043b,  '),  filename,  ',,  vascul,  microenvironment, \ufffd\ufffd",
+        "rank_subject": 26043,
+        "rank_answer": 43982,
+        "logit_subject": 0.07958984375,
+        "logit_answer": -0.53515625,
+        "prob_subject": 1.9311904907226562e-05,
+        "prob_answer": 1.049041748046875e-05
+    },
+    "24_mlp_out_1": {
+        "token_idx": 1,
+        "tokens": " answer,  St,  back,  answers,  first,  (,  right,  third,  New,  and",
+        "rank_subject": 12780,
+        "rank_answer": 3052,
+        "logit_subject": 0.06982421875,
+        "logit_answer": 0.203125,
+        "prob_subject": 2.1219253540039062e-05,
+        "prob_answer": 2.4199485778808594e-05
+    },
+    "24_mlp_out_2": {
+        "token_idx": 2,
+        "tokens": " f,  and,  inter,  short,  at,  post, ,,  end,  fr, -",
+        "rank_subject": 14455,
+        "rank_answer": 1693,
+        "logit_subject": 0.078125,
+        "logit_answer": 0.380859375,
+        "prob_subject": 2.110004425048828e-05,
+        "prob_answer": 2.86102294921875e-05
+    },
+    "24_mlp_out_3": {
+        "token_idx": 3,
+        "tokens": " post,  L,  the,  Ar,  M,  O,  P,  PR,  one,  D",
+        "rank_subject": 4422,
+        "rank_answer": 34576,
+        "logit_subject": 0.25,
+        "logit_answer": -0.10009765625,
+        "prob_subject": 2.5153160095214844e-05,
+        "prob_answer": 1.7762184143066406e-05
+    },
+    "24_mlp_out_4": {
+        "token_idx": 4,
+        "tokens": " which,  previously,  and, .,  per,  cons,  on, ,,  for,  (",
+        "rank_subject": 49012,
+        "rank_answer": 5753,
+        "logit_subject": -0.287109375,
+        "logit_answer": 0.2294921875,
+        "prob_subject": 1.4662742614746094e-05,
+        "prob_answer": 2.4557113647460938e-05
+    },
+    "24_mlp_out_5": {
+        "token_idx": 5,
+        "tokens": " one,  like,  an,  low,  another,  similar,  very,  a,  best,  Cent",
+        "rank_subject": 17149,
+        "rank_answer": 7410,
+        "logit_subject": 0.04638671875,
+        "logit_answer": 0.1845703125,
+        "prob_subject": 2.0503997802734375e-05,
+        "prob_answer": 2.3484230041503906e-05
+    },
+    "25_attn_out_0": {
+        "token_idx": 0,
+        "tokens": "Rub, Destroy, Serial, Ll, Api, Flu, Sequ, Ped, Lex, Scene",
+        "rank_subject": 23085,
+        "rank_answer": 34047,
+        "logit_subject": 0.022216796875,
+        "logit_answer": -0.0322265625,
+        "prob_subject": 2.0265579223632812e-05,
+        "prob_answer": 1.919269561767578e-05
+    },
+    "25_attn_out_1": {
+        "token_idx": 1,
+        "tokens": ",..., )..., ()).,  loot,  gospel, archy,  finance,  gardening,  Breast,  archaeological",
+        "rank_subject": 38579,
+        "rank_answer": 44089,
+        "logit_subject": -0.0224609375,
+        "logit_answer": -0.045166015625,
+        "prob_subject": 1.9431114196777344e-05,
+        "prob_answer": 1.895427703857422e-05
+    },
+    "25_attn_out_2": {
+        "token_idx": 2,
+        "tokens": "Socket, Labels, Sock, Cluster, Church, InputStream, SOCK, Mock, Blood, OutputStream",
+        "rank_subject": 34459,
+        "rank_answer": 43846,
+        "logit_subject": -0.0277099609375,
+        "logit_answer": -0.10888671875,
+        "prob_subject": 1.919269561767578e-05,
+        "prob_answer": 1.7762184143066406e-05
+    },
+    "25_attn_out_3": {
+        "token_idx": 3,
+        "tokens": "Estim, Mass, Phot, Self, Sad, Equal, \ufffd, Dear, Whenever, Determ",
+        "rank_subject": 40778,
+        "rank_answer": 34017,
+        "logit_subject": -0.07373046875,
+        "logit_answer": -0.0252685546875,
+        "prob_subject": 1.8358230590820312e-05,
+        "prob_answer": 1.9311904907226562e-05
+    },
+    "25_attn_out_4": {
+        "token_idx": 4,
+        "tokens": " hometown, category,  Judaism, Category,  mankind, Sign,  civilization,  Ottoman,  nationality, \ufffd",
+        "rank_subject": 45273,
+        "rank_answer": 39744,
+        "logit_subject": -0.1201171875,
+        "logit_answer": -0.061279296875,
+        "prob_subject": 1.7523765563964844e-05,
+        "prob_answer": 1.8596649169921875e-05
+    },
+    "25_attn_out_5": {
+        "token_idx": 5,
+        "tokens": " migrants, Language, Latin, Native, Career,  emig,  deportation, ouring,  immigrants, ilder",
+        "rank_subject": 35122,
+        "rank_answer": 46486,
+        "logit_subject": -0.035888671875,
+        "logit_answer": -0.1513671875,
+        "prob_subject": 1.9073486328125e-05,
+        "prob_answer": 1.704692840576172e-05
+    },
+    "25_mlp_out_0": {
+        "token_idx": 0,
+        "tokens": "());, \u0435\u043c, \u0430\u0431\u043e\u0442, \ufffd, \u043e\u0432\u043e\u0440, \ufffd\ufffd, \u043e\u043b, ()));, Unmarshal, \ufffd\ufffd",
+        "rank_subject": 27931,
+        "rank_answer": 41734,
+        "logit_subject": 0.05322265625,
+        "logit_answer": -0.44921875,
+        "prob_subject": 1.8358230590820312e-05,
+        "prob_answer": 1.1146068572998047e-05
+    },
+    "25_mlp_out_1": {
+        "token_idx": 1,
+        "tokens": "res, sis,  post,  other,  following, ft, oret,  trouble, rap,  purpose",
+        "rank_subject": 24106,
+        "rank_answer": 8429,
+        "logit_subject": -0.02099609375,
+        "logit_answer": 0.142578125,
+        "prob_subject": 1.919269561767578e-05,
+        "prob_answer": 2.2649765014648438e-05
+    },
+    "25_mlp_out_2": {
+        "token_idx": 2,
+        "tokens": " S,  s, ,,  B,  C,  D, -,  of,  A,  in",
+        "rank_subject": 40475,
+        "rank_answer": 4238,
+        "logit_subject": -0.18359375,
+        "logit_answer": 0.330078125,
+        "prob_subject": 1.609325408935547e-05,
+        "prob_answer": 2.6941299438476562e-05
+    },
+    "25_mlp_out_3": {
+        "token_idx": 3,
+        "tokens": " a,  the,  one,  F,  Be,  clean,  St,  M,  particular,  new",
+        "rank_subject": 24237,
+        "rank_answer": 11141,
+        "logit_subject": -0.021484375,
+        "logit_answer": 0.1083984375,
+        "prob_subject": 1.919269561767578e-05,
+        "prob_answer": 2.181529998779297e-05
+    },
+    "25_mlp_out_4": {
+        "token_idx": 4,
+        "tokens": ",,  ho,  by,  in,  with,  tr,  4,  then,  now,  w",
+        "rank_subject": 41656,
+        "rank_answer": 15923,
+        "logit_subject": -0.11572265625,
+        "logit_answer": 0.0458984375,
+        "prob_subject": 1.7523765563964844e-05,
+        "prob_answer": 2.0623207092285156e-05
+    },
+    "25_mlp_out_5": {
+        "token_idx": 5,
+        "tokens": " one,  F,  some,  recent,  United,  also,  l,  open,  very,  in",
+        "rank_subject": 37527,
+        "rank_answer": 37158,
+        "logit_subject": -0.1123046875,
+        "logit_answer": -0.109375,
+        "prob_subject": 1.7523765563964844e-05,
+        "prob_answer": 1.7523765563964844e-05
+    },
+    "26_attn_out_0": {
+        "token_idx": 0,
+        "tokens": "Squ, Socket, Api, FileName, \ufffd, FilePath, \u5730, \u0430\u0435\u0442, Constants, \ufffd",
+        "rank_subject": 31009,
+        "rank_answer": 39727,
+        "logit_subject": -0.00860595703125,
+        "logit_answer": -0.0576171875,
+        "prob_subject": 1.9669532775878906e-05,
+        "prob_answer": 1.8715858459472656e-05
+    },
+    "26_attn_out_1": {
+        "token_idx": 1,
+        "tokens": "Sup, sic, \u5730, Sock, \u529b, \u60c5, Socket, Squ, \u223c, })\\",
+        "rank_subject": 28198,
+        "rank_answer": 38895,
+        "logit_subject": 0.0018157958984375,
+        "logit_answer": -0.0498046875,
+        "prob_subject": 1.990795135498047e-05,
+        "prob_answer": 1.8835067749023438e-05
+    },
+    "26_attn_out_2": {
+        "token_idx": 2,
+        "tokens": " capital,  Capital, capital, Cap,  Capitol,  Cap,  capitalism, CAP,  capitalist,  cap",
+        "rank_subject": 31048,
+        "rank_answer": 32914,
+        "logit_subject": -0.01531982421875,
+        "logit_answer": -0.0308837890625,
+        "prob_subject": 1.9431114196777344e-05,
+        "prob_answer": 1.9073486328125e-05
+    },
+    "26_attn_out_3": {
+        "token_idx": 3,
+        "tokens": " capital,  Capital, capital, Cap,  Spain,  capitalism,  Beijing,  Brussels,  Austria,  Bulgaria",
+        "rank_subject": 246,
+        "rank_answer": 9817,
+        "logit_subject": 0.2353515625,
+        "logit_answer": 0.08251953125,
+        "prob_subject": 2.5033950805664062e-05,
+        "prob_answer": 2.1457672119140625e-05
+    },
+    "26_attn_out_4": {
+        "token_idx": 4,
+        "tokens": " Colombia,  Colomb,  Ecuador,  Venezuela,  Venezuel,  Peru,  Brazil,  Guatemala,  Spain,  Panama",
+        "rank_subject": 0,
+        "rank_answer": 26,
+        "logit_subject": 2.1875,
+        "logit_answer": 0.921875,
+        "prob_subject": 0.00017547607421875,
+        "prob_answer": 4.9591064453125e-05
+    },
+    "26_attn_out_5": {
+        "token_idx": 5,
+        "tokens": " Colombia,  Colomb,  Ecuador,  Venezuel,  Venezuela,  Columb,  Peru,  Buenos,  Bog,  Columbia",
+        "rank_subject": 0,
+        "rank_answer": 8,
+        "logit_subject": 3.1875,
+        "logit_answer": 1.6953125,
+        "prob_subject": 0.0004730224609375,
+        "prob_answer": 0.00010633468627929688
+    },
+    "26_mlp_out_0": {
+        "token_idx": 0,
+        "tokens": " (,  the, ,, \n,  he,  in,  for,  a,  and,  all",
+        "rank_subject": 26325,
+        "rank_answer": 9851,
+        "logit_subject": -0.06396484375,
+        "logit_answer": 0.21484375,
+        "prob_subject": 1.7881393432617188e-05,
+        "prob_answer": 2.372264862060547e-05
+    },
+    "26_mlp_out_1": {
+        "token_idx": 1,
+        "tokens": " main,  number,  short,  original,  following,  most,  new,  best,  average,  way",
+        "rank_subject": 24729,
+        "rank_answer": 21259,
+        "logit_subject": -0.045654296875,
+        "logit_answer": 0.0027313232421875,
+        "prob_subject": 1.8477439880371094e-05,
+        "prob_answer": 1.9311904907226562e-05
+    },
+    "26_mlp_out_2": {
+        "token_idx": 2,
+        "tokens": " of, -,  is,  O,  (,  and,  one, /,  st,  city",
+        "rank_subject": 27007,
+        "rank_answer": 7883,
+        "logit_subject": -0.08154296875,
+        "logit_answer": 0.28125,
+        "prob_subject": 1.7523765563964844e-05,
+        "prob_answer": 2.5153160095214844e-05
+    },
+    "26_mlp_out_3": {
+        "token_idx": 3,
+        "tokens": " the,  S,  T,  K,  A,  D,  M,  P,  ra,  p",
+        "rank_subject": 1097,
+        "rank_answer": 9707,
+        "logit_subject": 0.54296875,
+        "logit_answer": 0.17578125,
+        "prob_subject": 3.337860107421875e-05,
+        "prob_answer": 2.3126602172851562e-05
+    },
+    "26_mlp_out_4": {
+        "token_idx": 4,
+        "tokens": ":, ,, \u2019,  is,  in,  simply, ...,  as,  (,  and",
+        "rank_subject": 37611,
+        "rank_answer": 33806,
+        "logit_subject": -0.140625,
+        "logit_answer": -0.11083984375,
+        "prob_subject": 1.6927719116210938e-05,
+        "prob_answer": 1.7404556274414062e-05
+    },
+    "26_mlp_out_5": {
+        "token_idx": 5,
+        "tokens": " no,  s,  P,  place,  (,  a,  very,  in,  R,  part",
+        "rank_subject": 27158,
+        "rank_answer": 947,
+        "logit_subject": -0.0732421875,
+        "logit_answer": 0.71484375,
+        "prob_subject": 1.7762184143066406e-05,
+        "prob_answer": 3.910064697265625e-05
+    },
+    "27_attn_out_0": {
+        "token_idx": 0,
+        "tokens": " (, <|endoftext|>, ](,  director,  \u2026, \n\t\t\t,  cap,  commercial, \r\n, \u2019",
+        "rank_subject": 35271,
+        "rank_answer": 35118,
+        "logit_subject": -0.0281982421875,
+        "logit_answer": -0.02783203125,
+        "prob_subject": 1.9311904907226562e-05,
+        "prob_answer": 1.9311904907226562e-05
+    },
+    "27_attn_out_1": {
+        "token_idx": 1,
+        "tokens": ",\u201d,  however,  unfortunately,  \ufffd,  Georg,  organisations,  :),  sentenced, OS,  Movie",
+        "rank_subject": 24476,
+        "rank_answer": 40834,
+        "logit_subject": 0.004669189453125,
+        "logit_answer": -0.0301513671875,
+        "prob_subject": 1.990795135498047e-05,
+        "prob_answer": 1.9311904907226562e-05
+    },
+    "27_attn_out_2": {
+        "token_idx": 2,
+        "tokens": " consists, iest,  wasn,  Economic,  City,  was,  isn,  begins,  Union, \u2018",
+        "rank_subject": 4499,
+        "rank_answer": 36263,
+        "logit_subject": 0.11865234375,
+        "logit_answer": -0.04541015625,
+        "prob_subject": 2.2292137145996094e-05,
+        "prob_answer": 1.895427703857422e-05
+    },
+    "27_attn_out_3": {
+        "token_idx": 3,
+        "tokens": " territory,  cities,  headquarters,  city, ,\",  City,  funds, city,  markets, City",
+        "rank_subject": 463,
+        "rank_answer": 32091,
+        "logit_subject": 0.19921875,
+        "logit_answer": -0.0203857421875,
+        "prob_subject": 2.4199485778808594e-05,
+        "prob_answer": 1.9431114196777344e-05
+    },
+    "27_attn_out_4": {
+        "token_idx": 4,
+        "tokens": " Colombia,  Colomb,  is,  Columb,  Columbia,  isn,  Col, Columb,  was,  col",
+        "rank_subject": 0,
+        "rank_answer": 41,
+        "logit_subject": 1.6953125,
+        "logit_answer": 0.703125,
+        "prob_subject": 0.00010728836059570312,
+        "prob_answer": 3.981590270996094e-05
+    },
+    "27_attn_out_5": {
+        "token_idx": 5,
+        "tokens": " Colomb,  Colombia,  Columb,  Columbia, Columb, Col,  cocaine,  Colin,  Col,  Bog",
+        "rank_subject": 1,
+        "rank_answer": 9,
+        "logit_subject": 2.859375,
+        "logit_answer": 1.328125,
+        "prob_subject": 0.0003414154052734375,
+        "prob_answer": 7.390975952148438e-05
+    },
+    "27_mlp_out_0": {
+        "token_idx": 0,
+        "tokens": "\n\t\t\t, ());,  presidency, LL, \r\n\t\t\t,  permeability,  partition,  Hindu, ():, Ll",
+        "rank_subject": 46599,
+        "rank_answer": 46975,
+        "logit_subject": -0.1494140625,
+        "logit_answer": -0.1572265625,
+        "prob_subject": 1.704692840576172e-05,
+        "prob_answer": 1.6927719116210938e-05
+    },
+    "27_mlp_out_1": {
+        "token_idx": 1,
+        "tokens": " latter,  thing,  Office,  idea,  problem,  second,  biggest,  former,  purpose,  Library",
+        "rank_subject": 25155,
+        "rank_answer": 4924,
+        "logit_subject": -0.02099609375,
+        "logit_answer": 0.1884765625,
+        "prob_subject": 1.9311904907226562e-05,
+        "prob_answer": 2.372264862060547e-05
+    },
+    "27_mlp_out_2": {
+        "token_idx": 2,
+        "tokens": " word,  words,  letters,  plant,  m,  project,  future,  short,  charges,  cl",
+        "rank_subject": 5666,
+        "rank_answer": 5177,
+        "logit_subject": 0.244140625,
+        "logit_answer": 0.2578125,
+        "prob_subject": 2.491474151611328e-05,
+        "prob_answer": 2.5272369384765625e-05
+    },
+    "27_mlp_out_3": {
+        "token_idx": 3,
+        "tokens": " any,  Germany,  Spain,  Portugal,  Italy,  progress,  Brazil,  the,  Band,  Japan",
+        "rank_subject": 50,
+        "rank_answer": 351,
+        "logit_subject": 0.74609375,
+        "logit_answer": 0.515625,
+        "prob_subject": 4.124641418457031e-05,
+        "prob_answer": 3.2901763916015625e-05
+    },
+    "27_mlp_out_4": {
+        "token_idx": 4,
+        "tokens": " Colombia,  Bog,  happens,  Bol,  Pablo,  Gu, Col,  happen,  ro,  Peru",
+        "rank_subject": 0,
+        "rank_answer": 1,
+        "logit_subject": 1.46875,
+        "logit_answer": 1.328125,
+        "prob_subject": 8.440017700195312e-05,
+        "prob_answer": 7.343292236328125e-05
+    },
+    "27_mlp_out_5": {
+        "token_idx": 5,
+        "tokens": " ne,  more,  aut,  bi,  Bog,  which,  serious,  a,  about,  col",
+        "rank_subject": 309,
+        "rank_answer": 4,
+        "logit_subject": 0.76953125,
+        "logit_answer": 1.328125,
+        "prob_subject": 4.1484832763671875e-05,
+        "prob_answer": 7.2479248046875e-05
+    },
+    "28_attn_out_0": {
+        "token_idx": 0,
+        "tokens": "Field, Filename, \n\t\t\n\t, NotFound, FileName, \ufffd, Infl, NotNull, Maximum, Driver",
+        "rank_subject": 32705,
+        "rank_answer": 42035,
+        "logit_subject": -0.0079345703125,
+        "logit_answer": -0.042236328125,
+        "prob_subject": 1.9669532775878906e-05,
+        "prob_answer": 1.9073486328125e-05
+    },
+    "28_attn_out_1": {
+        "token_idx": 1,
+        "tokens": "Android, Meanwhile, Experimental, Cookie, Shadow, Else, Phot, Interface, Java, Environment",
+        "rank_subject": 25861,
+        "rank_answer": 39456,
+        "logit_subject": 0.01202392578125,
+        "logit_answer": -0.043212890625,
+        "prob_subject": 2.002716064453125e-05,
+        "prob_answer": 1.895427703857422e-05
+    },
+    "28_attn_out_2": {
+        "token_idx": 2,
+        "tokens": "Interface, Field, Upper, Sleep, Imm, Average, Pret, Surface, Phot, Pair",
+        "rank_subject": 27059,
+        "rank_answer": 38092,
+        "logit_subject": 0.0155029296875,
+        "logit_answer": -0.06640625,
+        "prob_subject": 2.002716064453125e-05,
+        "prob_answer": 1.8477439880371094e-05
+    },
+    "28_attn_out_3": {
+        "token_idx": 3,
+        "tokens": "Interface, Field, Surface, Compat, Java, Qual, Pret, Fields, Generic, Contract",
+        "rank_subject": 23779,
+        "rank_answer": 36567,
+        "logit_subject": 0.0299072265625,
+        "logit_answer": -0.0419921875,
+        "prob_subject": 2.0384788513183594e-05,
+        "prob_answer": 1.895427703857422e-05
+    },
+    "28_attn_out_4": {
+        "token_idx": 4,
+        "tokens": " participates,  Welch,  drying,  annealing,  exceeds,  sits, Async,  enjoys,  belongs, Sleep",
+        "rank_subject": 50303,
+        "rank_answer": 48590,
+        "logit_subject": -0.9453125,
+        "logit_answer": -0.26171875,
+        "prob_subject": 7.68899917602539e-06,
+        "prob_answer": 1.519918441772461e-05
+    },
+    "28_attn_out_5": {
+        "token_idx": 5,
+        "tokens": " Welch,  IEEE, IEEE,  Republicans, ridge,  freezer, \u9053, \ufffd, RV,  Verizon",
+        "rank_subject": 50303,
+        "rank_answer": 49705,
+        "logit_subject": -1.21875,
+        "logit_answer": -0.3828125,
+        "prob_subject": 5.811452865600586e-06,
+        "prob_answer": 1.341104507446289e-05
+    },
+    "28_mlp_out_0": {
+        "token_idx": 0,
+        "tokens": "\ufffd, {{\\, ></, FFFFFFFF, \ufffd, \n\t\t\n\t, \u5411, ){, \r\n\t\t, \r\n\t\t\t",
+        "rank_subject": 26075,
+        "rank_answer": 41439,
+        "logit_subject": 0.0341796875,
+        "logit_answer": -0.1953125,
+        "prob_subject": 2.002716064453125e-05,
+        "prob_answer": 1.5974044799804688e-05
+    },
+    "28_mlp_out_1": {
+        "token_idx": 1,
+        "tokens": " first,  new,  federal,  best,  fact,  past,  concept,  Eagles,  return,  above",
+        "rank_subject": 9799,
+        "rank_answer": 4528,
+        "logit_subject": 0.234375,
+        "logit_answer": 0.369140625,
+        "prob_subject": 2.4318695068359375e-05,
+        "prob_answer": 2.777576446533203e-05
+    },
+    "28_mlp_out_2": {
+        "token_idx": 2,
+        "tokens": " of,  and,  O,  g,  stock,  back,  needed,  for, ise,  p",
+        "rank_subject": 20555,
+        "rank_answer": 14040,
+        "logit_subject": 0.0147705078125,
+        "logit_answer": 0.12451171875,
+        "prob_subject": 1.9311904907226562e-05,
+        "prob_answer": 2.1576881408691406e-05
+    },
+    "28_mlp_out_3": {
+        "token_idx": 3,
+        "tokens": " state,  Luxem,  Nevada,  Lithuan,  Mal,  Lie,  Eston,  Slov,  Nam,  Maur",
+        "rank_subject": 146,
+        "rank_answer": 558,
+        "logit_subject": 1.921875,
+        "logit_answer": 1.2578125,
+        "prob_subject": 0.0001239776611328125,
+        "prob_answer": 6.389617919921875e-05
+    },
+    "28_mlp_out_4": {
+        "token_idx": 4,
+        "tokens": ",, 's,  up,  can, ., \u2019,  or,  had,  spread,  not",
+        "rank_subject": 44844,
+        "rank_answer": 48429,
+        "logit_subject": -0.2119140625,
+        "logit_answer": -0.29296875,
+        "prob_subject": 1.5735626220703125e-05,
+        "prob_answer": 1.4543533325195312e-05
+    },
+    "28_mlp_out_5": {
+        "token_idx": 5,
+        "tokens": " one,  Q,  New,  h,  bo,  b,  R,  un,  a,  every",
+        "rank_subject": 36640,
+        "rank_answer": 308,
+        "logit_subject": -0.185546875,
+        "logit_answer": 0.94921875,
+        "prob_subject": 1.5735626220703125e-05,
+        "prob_answer": 4.9114227294921875e-05
+    },
+    "29_attn_out_0": {
+        "token_idx": 0,
+        "tokens": " \", \n,  a,  (, <|endoftext|>,  m,  F,  D,  C,  the",
+        "rank_subject": 35780,
+        "rank_answer": 27890,
+        "logit_subject": -0.04296875,
+        "logit_answer": -0.020263671875,
+        "prob_subject": 1.895427703857422e-05,
+        "prob_answer": 1.9431114196777344e-05
+    },
+    "29_attn_out_1": {
+        "token_idx": 1,
+        "tokens": " lyrics, Symbol, \ufffd, \u653f, Impl,  sentenced,  equations, \ufffd, Icon,  sentences",
+        "rank_subject": 23600,
+        "rank_answer": 38005,
+        "logit_subject": 0.0186767578125,
+        "logit_answer": -0.03857421875,
+        "prob_subject": 2.014636993408203e-05,
+        "prob_answer": 1.9073486328125e-05
+    },
+    "29_attn_out_2": {
+        "token_idx": 2,
+        "tokens": "Symbol, Roman, Iter, \u91d1, \u0440\u0435\u0434, \ufffd, \u5411, NotNull, Infl, \u6c42",
+        "rank_subject": 11923,
+        "rank_answer": 37753,
+        "logit_subject": 0.12158203125,
+        "logit_answer": -0.0810546875,
+        "prob_subject": 2.2172927856445312e-05,
+        "prob_answer": 1.811981201171875e-05
+    },
+    "29_attn_out_3": {
+        "token_idx": 3,
+        "tokens": " provinces, Roman,  Qing,  Azerba,  Buddhism, Spain,  USSR, California,  Auckland, Portug",
+        "rank_subject": 543,
+        "rank_answer": 26466,
+        "logit_subject": 0.1953125,
+        "logit_answer": 0.018798828125,
+        "prob_subject": 2.396106719970703e-05,
+        "prob_answer": 2.014636993408203e-05
+    },
+    "29_attn_out_4": {
+        "token_idx": 4,
+        "tokens": " Colombia,  Colomb,  located,  situated,  inhabited,  colonial,  inhab, located,  erected,  Argentina",
+        "rank_subject": 0,
+        "rank_answer": 31,
+        "logit_subject": 0.9453125,
+        "logit_answer": 0.484375,
+        "prob_subject": 5.054473876953125e-05,
+        "prob_answer": 3.1948089599609375e-05
+    },
+    "29_attn_out_5": {
+        "token_idx": 5,
+        "tokens": " Colombia,  Colomb, Columb,  Columb, Col,  Bog,  Columbia,  Colon,  col, colon",
+        "rank_subject": 0,
+        "rank_answer": 5,
+        "logit_subject": 1.421875,
+        "logit_answer": 0.91015625,
+        "prob_subject": 8.153915405273438e-05,
+        "prob_answer": 4.887580871582031e-05
+    },
+    "29_mlp_out_0": {
+        "token_idx": 0,
+        "tokens": "\u043b\u0435\u043c, \u043b\u0438, \ufffd, \ufffd, \u30c3, \ufffd\ufffd, \u0438\u0441\u0442, \u30fc\u30eb, \u0644\u0649, \u0435\u0436",
+        "rank_subject": 25822,
+        "rank_answer": 41402,
+        "logit_subject": 0.134765625,
+        "logit_answer": -0.439453125,
+        "prob_subject": 1.9788742065429688e-05,
+        "prob_answer": 1.1146068572998047e-05
+    },
+    "29_mlp_out_1": {
+        "token_idx": 1,
+        "tokens": "., ,, -,  \",  in,  a,  (,  all,  and,  D",
+        "rank_subject": 19579,
+        "rank_answer": 9754,
+        "logit_subject": 0.047607421875,
+        "logit_answer": 0.259765625,
+        "prob_subject": 1.9550323486328125e-05,
+        "prob_answer": 2.4080276489257812e-05
+    },
+    "29_mlp_out_2": {
+        "token_idx": 2,
+        "tokens": ",,  and, -,  city,  (,  C,  \",  ',  in,  T",
+        "rank_subject": 28496,
+        "rank_answer": 10829,
+        "logit_subject": -0.1435546875,
+        "logit_answer": 0.251953125,
+        "prob_subject": 1.5616416931152344e-05,
+        "prob_answer": 2.3126602172851562e-05
+    },
+    "29_mlp_out_3": {
+        "token_idx": 3,
+        "tokens": " the,  R,  a,  F,  S,  and, ,, -,  T,  in",
+        "rank_subject": 5005,
+        "rank_answer": 6194,
+        "logit_subject": 0.57421875,
+        "logit_answer": 0.498046875,
+        "prob_subject": 3.123283386230469e-05,
+        "prob_answer": 2.8967857360839844e-05
+    },
+    "29_mlp_out_4": {
+        "token_idx": 4,
+        "tokens": ",,  for,  (,  in,  and,  a, -,  the,  F, \n",
+        "rank_subject": 29825,
+        "rank_answer": 2748,
+        "logit_subject": -0.142578125,
+        "logit_answer": 0.6640625,
+        "prob_subject": 1.5735626220703125e-05,
+        "prob_answer": 3.528594970703125e-05
+    },
+    "29_mlp_out_5": {
+        "token_idx": 5,
+        "tokens": " a,  the,  full,  only,  to,  in,  one, -, ,,  an",
+        "rank_subject": 40379,
+        "rank_answer": 2267,
+        "logit_subject": -0.361328125,
+        "logit_answer": 0.91796875,
+        "prob_subject": 1.2040138244628906e-05,
+        "prob_answer": 4.315376281738281e-05
+    },
+    "30_attn_out_0": {
+        "token_idx": 0,
+        "tokens": "\f, \ufffd, \ufffd, \ufffd, NotFound, \u653f,  Redistributions, \u6c11, \ufffd, \u6c17",
+        "rank_subject": 30123,
+        "rank_answer": 39130,
+        "logit_subject": -0.0047607421875,
+        "logit_answer": -0.0849609375,
+        "prob_subject": 1.9669532775878906e-05,
+        "prob_answer": 1.811981201171875e-05
+    },
+    "30_attn_out_1": {
+        "token_idx": 1,
+        "tokens": " [<, \u00a0\n,  [`, ~\\,  **[, \u529b,  $[, District, NotFound, ![](",
+        "rank_subject": 23811,
+        "rank_answer": 35347,
+        "logit_subject": 0.047119140625,
+        "logit_answer": -0.0556640625,
+        "prob_subject": 2.0623207092285156e-05,
+        "prob_answer": 1.8596649169921875e-05
+    },
+    "30_attn_out_2": {
+        "token_idx": 2,
+        "tokens": "\u5e02, City, capital, District, Asset, \ufffd, Stock, \u529b,  \u0446, \ufffd",
+        "rank_subject": 22447,
+        "rank_answer": 37436,
+        "logit_subject": 0.10205078125,
+        "logit_answer": -0.150390625,
+        "prob_subject": 2.1219253540039062e-05,
+        "prob_answer": 1.6450881958007812e-05
+    },
+    "30_attn_out_3": {
+        "token_idx": 3,
+        "tokens": "States, District, England, \u72b6, state, \u56fd,  Redistributions, \u00a0\n, State, Country",
+        "rank_subject": 4630,
+        "rank_answer": 29477,
+        "logit_subject": 0.2431640625,
+        "logit_answer": 0.005950927734375,
+        "prob_subject": 2.467632293701172e-05,
+        "prob_answer": 1.9431114196777344e-05
+    },
+    "30_attn_out_4": {
+        "token_idx": 4,
+        "tokens": " dominates, has,  resides,  hath,  represents,  owes, District, \u662f, capital, City",
+        "rank_subject": 37122,
+        "rank_answer": 41833,
+        "logit_subject": -0.1171875,
+        "logit_answer": -0.220703125,
+        "prob_subject": 1.71661376953125e-05,
+        "prob_answer": 1.5497207641601562e-05
+    },
+    "30_attn_out_5": {
+        "token_idx": 5,
+        "tokens": "\ufffd, \u529b, \f, \u5411, NotFound, \u5e02, \ufffd, \ufffd, \u6c11, \u653f",
+        "rank_subject": 38640,
+        "rank_answer": 39023,
+        "logit_subject": -0.1689453125,
+        "logit_answer": -0.1767578125,
+        "prob_subject": 1.621246337890625e-05,
+        "prob_answer": 1.609325408935547e-05
+    },
+    "30_mlp_out_0": {
+        "token_idx": 0,
+        "tokens": "Sud, BAS, Dur, Sah, CAN, Cir, Haw, Rat, BUS, Anth",
+        "rank_subject": 43602,
+        "rank_answer": 21836,
+        "logit_subject": -7.53125,
+        "logit_answer": 0.0986328125,
+        "prob_subject": 2.202285662861181e-20,
+        "prob_answer": 4.5319650809894085e-17
+    },
+    "30_mlp_out_1": {
+        "token_idx": 1,
+        "tokens": "\n,  show,  T,  re,  P,  by,  in,  t,  d,  A",
+        "rank_subject": 18712,
+        "rank_answer": 11341,
+        "logit_subject": 0.109375,
+        "logit_answer": 0.234375,
+        "prob_subject": 2.1219253540039062e-05,
+        "prob_answer": 2.4080276489257812e-05
+    },
+    "30_mlp_out_2": {
+        "token_idx": 2,
+        "tokens": " one,  One,  raised,  raise, ,, -,  out, \n,  for,  in",
+        "rank_subject": 28676,
+        "rank_answer": 5310,
+        "logit_subject": -0.134765625,
+        "logit_answer": 0.490234375,
+        "prob_subject": 1.5735626220703125e-05,
+        "prob_answer": 2.944469451904297e-05
+    },
+    "30_mlp_out_3": {
+        "token_idx": 3,
+        "tokens": "\n,  B,  J,  O,  o,  the,  T,  S,  Washington, ,",
+        "rank_subject": 3395,
+        "rank_answer": 1083,
+        "logit_subject": 0.57421875,
+        "logit_answer": 0.86328125,
+        "prob_subject": 3.2901763916015625e-05,
+        "prob_answer": 4.38690185546875e-05
+    },
+    "30_mlp_out_4": {
+        "token_idx": 4,
+        "tokens": "\n, ,,  will,  returns,  in,  is,  can,  and,  changed,  features",
+        "rank_subject": 47602,
+        "rank_answer": 30459,
+        "logit_subject": -0.48828125,
+        "logit_answer": -0.166015625,
+        "prob_subject": 1.1086463928222656e-05,
+        "prob_answer": 1.52587890625e-05
+    },
+    "30_mlp_out_5": {
+        "token_idx": 5,
+        "tokens": " home,  the,  under, \n,  ab,  a,  O, ,,  and,  h",
+        "rank_subject": 50225,
+        "rank_answer": 17782,
+        "logit_subject": -0.96875,
+        "logit_answer": 0.08349609375,
+        "prob_subject": 6.794929504394531e-06,
+        "prob_answer": 1.9431114196777344e-05
+    },
+    "31_attn_out_0": {
+        "token_idx": 0,
+        "tokens": "Sud, Lic, CAN, Cir, Fo, Rub, Cop, Sequ, Deg, Que",
+        "rank_subject": 48313,
+        "rank_answer": 22990,
+        "logit_subject": -5.65625,
+        "logit_answer": -0.90625,
+        "prob_subject": 1.438849039914203e-13,
+        "prob_answer": 1.659827830735594e-11
+    },
+    "31_attn_out_1": {
+        "token_idx": 1,
+        "tokens": " and,  the, \r, <,  \\,  \u2026, \n, .,  a, ,",
+        "rank_subject": 6055,
+        "rank_answer": 14298,
+        "logit_subject": 0.08349609375,
+        "logit_answer": 0.03076171875,
+        "prob_subject": 2.1576881408691406e-05,
+        "prob_answer": 2.0384788513183594e-05
+    },
+    "31_attn_out_2": {
+        "token_idx": 2,
+        "tokens": " \u2026, </,  \\\\, \u00a0, \\\\, \r, ?, ?\",  campaign, ?.",
+        "rank_subject": 19620,
+        "rank_answer": 12465,
+        "logit_subject": 0.032470703125,
+        "logit_answer": 0.08349609375,
+        "prob_subject": 2.0384788513183594e-05,
+        "prob_answer": 2.1457672119140625e-05
+    },
+    "31_attn_out_3": {
+        "token_idx": 3,
+        "tokens": "s, ,,  to, \n, .,  in,  is, ?, \u00a0,   ",
+        "rank_subject": 1603,
+        "rank_answer": 5825,
+        "logit_subject": 0.302734375,
+        "logit_answer": 0.1796875,
+        "prob_subject": 2.658367156982422e-05,
+        "prob_answer": 2.3484230041503906e-05
+    },
+    "31_attn_out_4": {
+        "token_idx": 4,
+        "tokens": "., ,,  and,  Colombia,  to, \n,  F,  raising,  the, :",
+        "rank_subject": 3,
+        "rank_answer": 96,
+        "logit_subject": 1.703125,
+        "logit_answer": 1.09375,
+        "prob_subject": 0.0001049041748046875,
+        "prob_answer": 5.7220458984375e-05
+    },
+    "31_attn_out_5": {
+        "token_idx": 5,
+        "tokens": " Bog,  Colombia,  Colomb,  Cart,  Cal, s,  Med,  Col,  Bo,  Latin",
+        "rank_subject": 1,
+        "rank_answer": 0,
+        "logit_subject": 2.203125,
+        "logit_answer": 2.546875,
+        "prob_subject": 0.00017547607421875,
+        "prob_answer": 0.000247955322265625
+    },
+    "31_mlp_out_0": {
+        "token_idx": 0,
+        "tokens": "Question, Problem, Answer, ##, A, ###, Could, The, Given, ```",
+        "rank_subject": 42145,
+        "rank_answer": 38700,
+        "logit_subject": -1.7421875,
+        "logit_answer": -1.5234375,
+        "prob_subject": 1.816079020500183e-07,
+        "prob_answer": 2.2631138563156128e-07
+    },
+    "31_mlp_out_1": {
+        "token_idx": 1,
+        "tokens": " man,  people,  I,  book,  Man,  \u201c,  more,  game,  time,  New",
+        "rank_subject": 16195,
+        "rank_answer": 8089,
+        "logit_subject": 1.3359375,
+        "logit_answer": 1.9609375,
+        "prob_subject": 2.288818359375e-05,
+        "prob_answer": 4.267692565917969e-05
+    },
+    "31_mlp_out_2": {
+        "token_idx": 2,
+        "tokens": " building,  plan,  gain,  control,  met,  project,  needed,  gained,  purchase,  flow",
+        "rank_subject": 12534,
+        "rank_answer": 1465,
+        "logit_subject": 0.609375,
+        "logit_answer": 1.546875,
+        "prob_subject": 2.6226043701171875e-05,
+        "prob_answer": 6.67572021484375e-05
+    },
+    "31_mlp_out_3": {
+        "token_idx": 3,
+        "tokens": " And,  An,  Japan,  Em,  Europe,  China,  Or,  England,  T,  Cas",
+        "rank_subject": 443,
+        "rank_answer": 29,
+        "logit_subject": 2.8125,
+        "logit_answer": 3.28125,
+        "prob_subject": 0.0001373291015625,
+        "prob_answer": 0.0002193450927734375
+    },
+    "31_mlp_out_4": {
+        "token_idx": 4,
+        "tokens": " lives,  saved, .,  experienced,  ha,  left,  Sa,  paid,  moved,  returned",
+        "rank_subject": 1307,
+        "rank_answer": 475,
+        "logit_subject": 1.8125,
+        "logit_answer": 2.140625,
+        "prob_subject": 8.106231689453125e-05,
+        "prob_answer": 0.0001125335693359375
+    },
+    "31_mlp_out_5": {
+        "token_idx": 5,
+        "tokens": " Bog,  laid,  running,  en,  nick,  famous,  celebrated,  hosting,  prepared,  made",
+        "rank_subject": 791,
+        "rank_answer": 0,
+        "logit_subject": 2.203125,
+        "logit_answer": 4.03125,
+        "prob_subject": 0.00011014938354492188,
+        "prob_answer": 0.0006866455078125
+    }
+}
