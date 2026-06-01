@@ -1,0 +1,84 @@
+{
+    "name": "country_capital_city",
+    "prompt_templates": [
+        "{} has the capital city of"
+    ],
+    "samples": [
+        {
+            "subject": "United States",
+            "object": "Washington D.C."
+        },
+        {
+            "subject": "Canada",
+            "object": "Ottawa"
+        },
+        {
+            "subject": "Argentina",
+            "object": "Buenos Aires"
+        },
+        {
+            "subject": "Chile",
+            "object": "Santiago"
+        },
+        {
+            "subject": "Peru",
+            "object": "Lima"
+        },
+        {
+            "subject": "Venezuela",
+            "object": "Caracas"
+        },
+        {
+            "subject": "Spain",
+            "object": "Madrid"
+        },
+        {
+            "subject": "Germany",
+            "object": "Berlin"
+        },
+        {
+            "subject": "Italy",
+            "object": "Rome"
+        },
+        {
+            "subject": "Russia",
+            "object": "Moscow"
+        },
+        {
+            "subject": "China",
+            "object": "Beijing"
+        },
+        {
+            "subject": "Japan",
+            "object": "Tokyo"
+        },
+        {
+            "subject": "South Korea",
+            "object": "Seoul"
+        },
+        {
+            "subject": "Pakistan",
+            "object": "Islamabad"
+        },
+        {
+            "subject": "Nigeria",
+            "object": "Abuja"
+        },
+        {
+            "subject": "Egypt",
+            "object": "Cairo"
+        },
+        {
+            "subject": "Saudi Arabia",
+            "object": "Riyadh"
+        },
+        {
+            "subject": "Turkey",
+            "object": "Ankara"
+        },
+        {
+            "subject": "Australia",
+            "object": "Canberra"
+        }
+    ]
+}

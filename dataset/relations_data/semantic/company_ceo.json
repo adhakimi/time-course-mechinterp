@@ -1,0 +1,76 @@
+{
+    "name": "company_ceo",
+    "prompt_templates": [
+        "Who is the CEO of {}? Their name is"
+    ],
+    "samples": [
+        {
+            "subject": "Tesla, Inc.",
+            "object": "Elon Musk"
+        },
+        {
+            "subject": "Dell Inc.",
+            "object": "Michael Dell"
+        },
+        {
+            "subject": "Ubisoft",
+            "object": "Yves Guillemot"
+        },
+        {
+            "subject": "LVMH",
+            "object": "Bernard Arnault"
+        },
+        {
+            "subject": "Bank of America",
+            "object": "Brian Moynihan"
+        },
+        {
+            "subject": "Gazprom",
+            "object": "Alexey Miller"
+        },
+        {
+            "subject": "Berkshire Hathaway",
+            "object": "Warren Buffett"
+        },
+        {
+            "subject": "JPMorgan Chase",
+            "object": "Jamie Dimon"
+        },
+        {
+            "subject": "Xiaomi",
+            "object": "Lei Jun"
+        },
+        {
+            "subject": "SoftBank Group",
+            "object": "Masayoshi Son"
+        },
+        {
+            "subject": "Morgan Stanley",
+            "object": "James P. Gorman"
+        },
+        {
+            "subject": "Mastercard",
+            "object": "Ajaypal Singh Banga"
+        },
+        {
+            "subject": "Activision Blizzard",
+            "object": "Bobby Kotick"
+        },
+        {
+            "subject": "AOL",
+            "object": "Tim Armstrong"
+        },
+        {
+            "subject": "CVS Health",
+            "object": "Larry Merlo"
+        },
+        {
+            "subject": "Pinterest",
+            "object": "Ben Silbermann"
+        },
+        {
+            "subject": "Raytheon Company",
+            "object": "Thomas Kennedy"
+        }
+    ]
+}

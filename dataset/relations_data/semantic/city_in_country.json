@@ -1,0 +1,64 @@
+{
+    "name": "city_in_country",
+    "prompt_templates": [
+        "{} is part of the country of"
+    ],
+    "samples": [
+        {
+            "subject": "Rio de Janeiro",
+            "object": "Brazil"
+        },
+        {
+            "subject": "Buenos Aires",
+            "object": "Argentina"
+        },
+        {
+            "subject": "Mexico City",
+            "object": "Mexico"
+        },
+        {
+            "subject": "Kuala Lumpur",
+            "object": "Malaysia"
+        },
+        {
+            "subject": "Cape Town",
+            "object": "South Africa"
+        },
+        {
+            "subject": "New Delhi",
+            "object": "India"
+        },
+        {
+            "subject": "Hong Kong",
+            "object": "China"
+        },
+        {
+            "subject": "Tel Aviv",
+            "object": "Israel"
+        },
+        {
+            "subject": "Johannesburg",
+            "object": "South Africa"
+        },
+        {
+            "subject": "Port-au-Prince",
+            "object": "Haiti"
+        },
+        {
+            "subject": "Panama City",
+            "object": "Panama"
+        },
+        {
+            "subject": "Siem Reap",
+            "object": "Cambodia"
+        },
+        {
+            "subject": "Casablanca",
+            "object": "Morocco"
+        },
+        {
+            "subject": "Addis Ababa",
+            "object": "Ethiopia"
+        }
+    ]
+}

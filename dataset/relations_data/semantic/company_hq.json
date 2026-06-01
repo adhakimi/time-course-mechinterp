@@ -1,0 +1,88 @@
+{
+    "name": "company_hq",
+    "prompt_templates": [
+        "The headquarters of {} are in the city of"
+    ],
+    "samples": [
+        {
+            "subject": "Ontario Hydro",
+            "object": "Toronto"
+        },
+        {
+            "subject": "Cummins",
+            "object": "Columbus"
+        },
+        {
+            "subject": "American Bar Association",
+            "object": "Chicago"
+        },
+        {
+            "subject": "State Street Corporation",
+            "object": "Boston"
+        },
+        {
+            "subject": "Liberty Mutual",
+            "object": "Boston"
+        },
+        {
+            "subject": "World Championship Wrestling",
+            "object": "Atlanta"
+        },
+        {
+            "subject": "Zillow",
+            "object": "Seattle"
+        },
+        {
+            "subject": "University of Washington",
+            "object": "Seattle"
+        },
+        {
+            "subject": "Russian Post",
+            "object": "Moscow"
+        },
+        {
+            "subject": "Sherwin-Williams",
+            "object": "Cleveland"
+        },
+        {
+            "subject": "McGill University",
+            "object": "Montreal"
+        },
+        {
+            "subject": "GTCR",
+            "object": "Chicago"
+        },
+        {
+            "subject": "Weta Digital",
+            "object": "Wellington"
+        },
+        {
+            "subject": "LaSalle Bank",
+            "object": "Chicago"
+        },
+        {
+            "subject": "The Weather Channel",
+            "object": "Atlanta"
+        },
+        {
+            "subject": "DNB ASA",
+            "object": "Oslo"
+        },
+        {
+            "subject": "Guinness World Records",
+            "object": "London"
+        },
+        {
+            "subject": "Asprey",
+            "object": "London"
+        },
+        {
+            "subject": "Czech National Bank",
+            "object": "Prague"
+        },
+        {
+            "subject": "Bayerischer Rundfunk",
+            "object": "Munich"
+        }
+    ]
+}

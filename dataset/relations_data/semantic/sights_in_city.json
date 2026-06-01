@@ -1,0 +1,76 @@
+{
+    "name": "sights_in_city",
+    "prompt_templates": [
+        "{} is a landmark in the city of"
+    ],
+    "samples": [
+        {
+            "subject": "Eiffel Tower",
+            "object": "Paris"
+        },
+        {
+            "subject": "Statue of Liberty",
+            "object": "New York"
+        },
+        {
+            "subject": "Big Ben",
+            "object": "London"
+        },
+        {
+            "subject": "Christ the Redeemer",
+            "object": "Rio de Janeiro"
+        },
+        {
+            "subject": "Machu Picchu",
+            "object": "Cusco"
+        },
+        {
+            "subject": "Golden Gate Bridge",
+            "object": "San Francisco"
+        },
+        {
+            "subject": "Burj Khalifa",
+            "object": "Dubai"
+        },
+        {
+            "subject": "The Louvre",
+            "object": "Paris"
+        },
+        {
+            "subject": "Acropolis",
+            "object": "Athens"
+        },
+        {
+            "subject": "Sagrada Familia",
+            "object": "Barcelona"
+        },
+        {
+            "subject": "Forbidden City",
+            "object": "Beijing"
+        },
+        {
+            "subject": "Brandenburg Gate",
+            "object": "Berlin"
+        },
+        {
+            "subject": "Space Needle",
+            "object": "Seattle"
+        },
+        {
+            "subject": "Alhambra",
+            "object": "Granada"
+        },
+        {
+            "subject": "Hollywood Sign",
+            "object": "Los Angeles"
+        },
+        {
+            "subject": "Trevi Fountain",
+            "object": "Rome"
+        },
+        {
+            "subject": "Neuschwanstein Castle",
+            "object": "F\u00fcssen"
+        }
+    ]
+}

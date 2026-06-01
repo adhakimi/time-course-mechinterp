@@ -1,0 +1,796 @@
+{
+    "name": "country capital city",
+    "prompt_templates": [
+        "The capital of {} is the city with the following name:"
+    ],
+    "prompt_templates_zs": [
+    ],
+    "properties": {
+        "relation_type": "factual",
+        "domain_name": "country",
+        "range_name": "city",
+        "symmetric": false
+    },
+    "samples": [
+        {
+            "subject": "Algeria",
+            "object": "Algiers"
+        },
+        {
+            "subject": "Angola",
+            "object": "Luanda"
+        },
+        {
+            "subject": "Benin",
+            "object": "Porto-Novo"
+        },
+        {
+            "subject": "Botswana",
+            "object": "Gaborone"
+        },
+        {
+            "subject": "Burkina Faso",
+            "object": "Ouagadougou"
+        },
+        {
+            "subject": "Burundi",
+            "object": "Gitega"
+        },
+        {
+            "subject": "Cabo Verde",
+            "object": "Praia"
+        },
+        {
+            "subject": "Cameroon",
+            "object": "Yaoundé"
+        },
+        {
+            "subject": "Central African Republic",
+            "object": "Bangui"
+        },
+        {
+            "subject": "Chad",
+            "object": "N'Djamena"
+        },
+        {
+            "subject": "Comoros",
+            "object": "Moroni"
+        },
+        {
+            "subject": "Congo (Democratic Republic)",
+            "object": "Kinshasa"
+        },
+        {
+            "subject": "Congo (Republic)",
+            "object": "Brazzaville"
+        },
+        {
+            "subject": "Djibouti",
+            "object": "Djibouti"
+        },
+        {
+            "subject": "Egypt",
+            "object": "Cairo"
+        },
+        {
+            "subject": "Equatorial Guinea",
+            "object": "Malabo"
+        },
+        {
+            "subject": "Eswatini",
+            "object": "Mbabane"
+        },
+        {
+            "subject": "Ethiopia",
+            "object": "Addis Ababa"
+        },
+        {
+            "subject": "Gabon",
+            "object": "Libreville"
+        },
+        {
+            "subject": "Gambia",
+            "object": "Banjul"
+        },
+        {
+            "subject": "Ghana",
+            "object": "Accra"
+        },
+        {
+            "subject": "Guinea",
+            "object": "Conakry"
+        },
+        {
+            "subject": "Guinea-Bissau",
+            "object": "Bissau"
+        },
+        {
+            "subject": "Ivory Coast",
+            "object": "Yamoussoukro"
+        },
+        {
+            "subject": "Kenya",
+            "object": "Nairobi"
+        },
+        {
+            "subject": "Lesotho",
+            "object": "Maseru"
+        },
+        {
+            "subject": "Liberia",
+            "object": "Monrovia"
+        },
+        {
+            "subject": "Libya",
+            "object": "Tripoli"
+        },
+        {
+            "subject": "Madagascar",
+            "object": "Antananarivo"
+        },
+        {
+            "subject": "Malawi",
+            "object": "Lilongwe"
+        },
+        {
+            "subject": "Mali",
+            "object": "Bamako"
+        },
+        {
+            "subject": "Mauritania",
+            "object": "Nouakchott"
+        },
+        {
+            "subject": "Mauritius",
+            "object": "Port Louis"
+        },
+        {
+            "subject": "Morocco",
+            "object": "Rabat"
+        },
+        {
+            "subject": "Mozambique",
+            "object": "Maputo"
+        },
+        {
+            "subject": "Namibia",
+            "object": "Windhoek"
+        },
+        {
+            "subject": "Niger",
+            "object": "Niamey"
+        },
+        {
+            "subject": "Nigeria",
+            "object": "Abuja"
+        },
+        {
+            "subject": "Rwanda",
+            "object": "Kigali"
+        },
+        {
+            "subject": "São Tomé and Príncipe",
+            "object": "São Tomé"
+        },
+        {
+            "subject": "Senegal",
+            "object": "Dakar"
+        },
+        {
+            "subject": "Seychelles",
+            "object": "Victoria"
+        },
+        {
+            "subject": "Sierra Leone",
+            "object": "Freetown"
+        },
+        {
+            "subject": "Somalia",
+            "object": "Mogadishu"
+        },
+        {
+            "subject": "South Africa",
+            "object": "Pretoria"
+        },
+        {
+            "subject": "South Sudan",
+            "object": "Juba"
+        },
+        {
+            "subject": "Sudan",
+            "object": "Khartoum"
+        },
+        {
+            "subject": "Tanzania",
+            "object": "Dodoma"
+        },
+        {
+            "subject": "Togo",
+            "object": "Lomé"
+        },
+        {
+            "subject": "Tunisia",
+            "object": "Tunis"
+        },
+        {
+            "subject": "Uganda",
+            "object": "Kampala"
+        },
+        {
+            "subject": "Zambia",
+            "object": "Lusaka"
+        },
+        {
+            "subject": "Zimbabwe",
+            "object": "Harare"
+        },
+        {
+            "subject": "Afghanistan",
+            "object": "Kabul"
+        },
+        {
+            "subject": "Armenia",
+            "object": "Yerevan"
+        },
+        {
+            "subject": "Azerbaijan",
+            "object": "Baku"
+        },
+        {
+            "subject": "Bahrain",
+            "object": "Manama"
+        },
+        {
+            "subject": "Bangladesh",
+            "object": "Dhaka"
+        },
+        {
+            "subject": "Bhutan",
+            "object": "Thimphu"
+        },
+        {
+            "subject": "Brunei",
+            "object": "Bandar Seri Begawan"
+        },
+        {
+            "subject": "Cambodia",
+            "object": "Phnom Penh"
+        },
+        {
+            "subject": "China",
+            "object": "Beijing"
+        },
+        {
+            "subject": "Cyprus",
+            "object": "Nicosia"
+        },
+        {
+            "subject": "Georgia",
+            "object": "Tbilisi"
+        },
+        {
+            "subject": "India",
+            "object": "New Delhi"
+        },
+        {
+            "subject": "Indonesia",
+            "object": "Jakarta"
+        },
+        {
+            "subject": "Iran",
+            "object": "Tehran"
+        },
+        {
+            "subject": "Iraq",
+            "object": "Baghdad"
+        },
+        {
+            "subject": "Israel",
+            "object": "Jerusalem"
+        },
+        {
+            "subject": "Japan",
+            "object": "Tokyo"
+        },
+        {
+            "subject": "Jordan",
+            "object": "Amman"
+        },
+        {
+            "subject": "Kazakhstan",
+            "object": "Astana"
+        },
+        {
+            "subject": "Kuwait",
+            "object": "Kuwait City"
+        },
+        {
+            "subject": "Kyrgyzstan",
+            "object": "Bishkek"
+        },
+        {
+            "subject": "Laos",
+            "object": "Vientiane"
+        },
+        {
+            "subject": "Lebanon",
+            "object": "Beirut"
+        },
+        {
+            "subject": "Malaysia",
+            "object": "Kuala Lumpur"
+        },
+        {
+            "subject": "Maldives",
+            "object": "Malé"
+        },
+        {
+            "subject": "Mongolia",
+            "object": "Ulaanbaatar"
+        },
+        {
+            "subject": "Myanmar",
+            "object": "Naypyidaw"
+        },
+        {
+            "subject": "Nepal",
+            "object": "Kathmandu"
+        },
+        {
+            "subject": "North Korea",
+            "object": "Pyongyang"
+        },
+        {
+            "subject": "Oman",
+            "object": "Muscat"
+        },
+        {
+            "subject": "Pakistan",
+            "object": "Islamabad"
+        },
+        {
+            "subject": "Palestine",
+            "object": "East Jerusalem"
+        },
+        {
+            "subject": "Philippines",
+            "object": "Manila"
+        },
+        {
+            "subject": "Qatar",
+            "object": "Doha"
+        },
+        {
+            "subject": "Saudi Arabia",
+            "object": "Riyadh"
+        },
+        {
+            "subject": "Singapore",
+            "object": "Singapore"
+        },
+        {
+            "subject": "South Korea",
+            "object": "Seoul"
+        },
+        {
+            "subject": "Sri Lanka",
+            "object": "Sri Jayawardenepura Kotte"
+        },
+        {
+            "subject": "Syria",
+            "object": "Damascus"
+        },
+        {
+            "subject": "Tajikistan",
+            "object": "Dushanbe"
+        },
+        {
+            "subject": "Thailand",
+            "object": "Bangkok"
+        },
+        {
+            "subject": "Timor-Leste",
+            "object": "Dili"
+        },
+        {
+            "subject": "Turkey",
+            "object": "Ankara"
+        },
+        {
+            "subject": "Turkmenistan",
+            "object": "Ashgabat"
+        },
+        {
+            "subject": "United Arab Emirates",
+            "object": "Abu Dhabi"
+        },
+        {
+            "subject": "Uzbekistan",
+            "object": "Tashkent"
+        },
+        {
+            "subject": "Vietnam",
+            "object": "Hanoi"
+        },
+        {
+            "subject": "Yemen",
+            "object": "Sana'a"
+        },
+        {
+            "subject": "Albania",
+            "object": "Tirana"
+        },
+        {
+            "subject": "Andorra",
+            "object": "Andorra la Vella"
+        },
+        {
+            "subject": "Austria",
+            "object": "Vienna"
+        },
+        {
+            "subject": "Belarus",
+            "object": "Minsk"
+        },
+        {
+            "subject": "Belgium",
+            "object": "Brussels"
+        },
+        {
+            "subject": "Bosnia and Herzegovina",
+            "object": "Sarajevo"
+        },
+        {
+            "subject": "Bulgaria",
+            "object": "Sofia"
+        },
+        {
+            "subject": "Croatia",
+            "object": "Zagreb"
+        },
+        {
+            "subject": "Czech Republic",
+            "object": "Prague"
+        },
+        {
+            "subject": "Denmark",
+            "object": "Copenhagen"
+        },
+        {
+            "subject": "Estonia",
+            "object": "Tallinn"
+        },
+        {
+            "subject": "Finland",
+            "object": "Helsinki"
+        },
+        {
+            "subject": "France",
+            "object": "Paris"
+        },
+        {
+            "subject": "Germany",
+            "object": "Berlin"
+        },
+        {
+            "subject": "Greece",
+            "object": "Athens"
+        },
+        {
+            "subject": "Hungary",
+            "object": "Budapest"
+        },
+        {
+            "subject": "Iceland",
+            "object": "Reykjavik"
+        },
+        {
+            "subject": "Ireland",
+            "object": "Dublin"
+        },
+        {
+            "subject": "Italy",
+            "object": "Rome"
+        },
+        {
+            "subject": "Kosovo",
+            "object": "Pristina"
+        },
+        {
+            "subject": "Latvia",
+            "object": "Riga"
+        },
+        {
+            "subject": "Liechtenstein",
+            "object": "Vaduz"
+        },
+        {
+            "subject": "Lithuania",
+            "object": "Vilnius"
+        },
+        {
+            "subject": "Luxembourg",
+            "object": "Luxembourg (City)"
+        },
+        {
+            "subject": "Malta",
+            "object": "Valletta"
+        },
+        {
+            "subject": "Moldova",
+            "object": "Chișinău"
+        },
+        {
+            "subject": "Monaco",
+            "object": "Monaco"
+        },
+        {
+            "subject": "Montenegro",
+            "object": "Podgorica"
+        },
+        {
+            "subject": "Netherlands",
+            "object": "Amsterdam"
+        },
+        {
+            "subject": "North Macedonia",
+            "object": "Skopje"
+        },
+        {
+            "subject": "Norway",
+            "object": "Oslo"
+        },
+        {
+            "subject": "Poland",
+            "object": "Warsaw"
+        },
+        {
+            "subject": "Portugal",
+            "object": "Lisbon"
+        },
+        {
+            "subject": "Romania",
+            "object": "Bucharest"
+        },
+        {
+            "subject": "Russia",
+            "object": "Moscow"
+        },
+        {
+            "subject": "San Marino",
+            "object": "San Marino"
+        },
+        {
+            "subject": "Serbia",
+            "object": "Belgrade"
+        },
+        {
+            "subject": "Slovakia",
+            "object": "Bratislava"
+        },
+        {
+            "subject": "Slovenia",
+            "object": "Ljubljana"
+        },
+        {
+            "subject": "Spain",
+            "object": "Madrid"
+        },
+        {
+            "subject": "Sweden",
+            "object": "Stockholm"
+        },
+        {
+            "subject": "Switzerland",
+            "object": "Bern"
+        },
+        {
+            "subject": "Ukraine",
+            "object": "Kyiv"
+        },
+        {
+            "subject": "United Kingdom",
+            "object": "London"
+        },
+        {
+            "subject": "Vatican City",
+            "object": "Vatican City"
+        },
+        {
+            "subject": "Antigua and Barbuda",
+            "object": "St. John's"
+        },
+        {
+            "subject": "Argentina",
+            "object": "Buenos Aires"
+        },
+        {
+            "subject": "Bahamas",
+            "object": "Nassau"
+        },
+        {
+            "subject": "Barbados",
+            "object": "Bridgetown"
+        },
+        {
+            "subject": "Belize",
+            "object": "Belmopan"
+        },
+        {
+            "subject": "Bolivia",
+            "object": "Sucre"
+        },
+        {
+            "subject": "Brazil",
+            "object": "Brasília"
+        },
+        {
+            "subject": "Canada",
+            "object": "Ottawa"
+        },
+        {
+            "subject": "Chile",
+            "object": "Santiago"
+        },
+        {
+            "subject": "Colombia",
+            "object": "Bogotá"
+        },
+        {
+            "subject": "Costa Rica",
+            "object": "San José"
+        },
+        {
+            "subject": "Cuba",
+            "object": "Havana"
+        },
+        {
+            "subject": "Dominica",
+            "object": "Roseau"
+        },
+        {
+            "subject": "Dominican Republic",
+            "object": "Santo Domingo"
+        },
+        {
+            "subject": "Ecuador",
+            "object": "Quito"
+        },
+        {
+            "subject": "El Salvador",
+            "object": "San Salvador"
+        },
+        {
+            "subject": "Grenada",
+            "object": "St. George's"
+        },
+        {
+            "subject": "Guatemala",
+            "object": "Guatemala City"
+        },
+        {
+            "subject": "Guyana",
+            "object": "Georgetown"
+        },
+        {
+            "subject": "Haiti",
+            "object": "Port-au-Prince"
+        },
+        {
+            "subject": "Honduras",
+            "object": "Tegucigalpa"
+        },
+        {
+            "subject": "Jamaica",
+            "object": "Kingston"
+        },
+        {
+            "subject": "Mexico",
+            "object": "Mexico City"
+        },
+        {
+            "subject": "Nicaragua",
+            "object": "Managua"
+        },
+        {
+            "subject": "Panama",
+            "object": "Panama City"
+        },
+        {
+            "subject": "Paraguay",
+            "object": "Asunción"
+        },
+        {
+            "subject": "Peru",
+            "object": "Lima"
+        },
+        {
+            "subject": "Saint Kitts and Nevis",
+            "object": "Basseterre"
+        },
+        {
+            "subject": "Saint Lucia",
+            "object": "Castries"
+        },
+        {
+            "subject": "Saint Vincent and the Grenadines",
+            "object": "Kingstown"
+        },
+        {
+            "subject": "Suriname",
+            "object": "Paramaribo"
+        },
+        {
+            "subject": "Trinidad and Tobago",
+            "object": "Port of Spain"
+        },
+        {
+            "subject": "United States",
+            "object": "Washington, D.C."
+        },
+        {
+            "subject": "Uruguay",
+            "object": "Montevideo"
+        },
+        {
+            "subject": "Venezuela",
+            "object": "Caracas"
+        },
+        {
+            "subject": "Australia",
+            "object": "Canberra"
+        },
+        {
+            "subject": "Fiji",
+            "object": "Suva"
+        },
+        {
+            "subject": "Kiribati",
+            "object": "Tarawa"
+        },
+        {
+            "subject": "Marshall Islands",
+            "object": "Majuro"
+        },
+        {
+            "subject": "Micronesia",
+            "object": "Palikir"
+        },
+        {
+            "subject": "Nauru",
+            "object": "Yaren"
+        },
+        {
+            "subject": "New Zealand",
+            "object": "Wellington"
+        },
+        {
+            "subject": "Palau",
+            "object": "Ngerulmud"
+        },
+        {
+            "subject": "Papua New Guinea",
+            "object": "Port Moresby"
+        },
+        {
+            "subject": "Samoa",
+            "object": "Apia"
+        },
+        {
+            "subject": "Solomon Islands",
+            "object": "Honiara"
+        },
+        {
+            "subject": "Tonga",
+            "object": "Nuku'alofa"
+        },
+        {
+            "subject": "Tuvalu",
+            "object": "Funafuti"
+        },
+        {
+            "subject": "Vanuatu",
+            "object": "Port Vila"
+        }
+    ]
+}
