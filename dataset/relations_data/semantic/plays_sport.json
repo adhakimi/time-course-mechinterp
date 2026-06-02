@@ -1,0 +1,56 @@
+{
+    "name": "plays_sport",
+    "prompt_templates": [
+        "{} plays professionally in the sport of"
+    ],
+    "samples": [
+        {
+            "subject": "Babe Ruth",
+            "object": "baseball"
+        },
+        {
+            "subject": "Kobe Bryant",
+            "object": "basketball"
+        },
+        {
+            "subject": "Stephen Curry",
+            "object": "basketball"
+        },
+        {
+            "subject": "LeBron James",
+            "object": "basketball"
+        },
+        {
+            "subject": "Roger Federer",
+            "object": "tennis"
+        },
+        {
+            "subject": "Rafael Nadal",
+            "object": "tennis"
+        },
+        {
+            "subject": "Serena Williams",
+            "object": "tennis"
+        },
+        {
+            "subject": "Steffi Graf",
+            "object": "tennis"
+        },
+        {
+            "subject": "Tiger Woods",
+            "object": "golf"
+        },
+        {
+            "subject": "Karrie Webb",
+            "object": "golf"
+        },
+        {
+            "subject": "Novak Djokovic",
+            "object": "tennis"
+        },
+        {
+            "subject": "Sabrina Ionescu",
+            "object": "basketball"
+        }
+    ]
+}

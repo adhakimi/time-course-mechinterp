@@ -1,0 +1,18 @@
+{
+    "allow_loading_dataset_files": true,
+    "preloaded_dataset_filename": "sample_input.txt",
+    "debug": true,
+    "models": {
+        "": null,
+
+        "gpt2": null,
+        "meta-llama/Llama-2-7b-hf": null,
+        "meta-llama/Llama-2-7b-chat-hf": null,
+        "allenai/OLMo-7B-0424-hf": null,
+        "mistralai/Mistral-7B-v0.3": null,
+        "meta-llama/Meta-Llama-3-8B": null
+        
+    },
+    "default_model": "",
+    "demo_mode": false
+}

@@ -1,0 +1,64 @@
+{
+    "name": "official_language",
+    "prompt_templates": [
+        "In {}, the official language is"
+    ],
+    "samples": [
+        {
+            "subject": "France",
+            "object": "French"
+        },
+        {
+            "subject": "Germany",
+            "object": "German"
+        },
+        {
+            "subject": "Japan",
+            "object": "Japanese"
+        },
+        {
+            "subject": "Brazil",
+            "object": "Portuguese"
+        },
+        {
+            "subject": "Italy",
+            "object": "Italian"
+        },
+        {
+            "subject": "Russia",
+            "object": "Russian"
+        },
+        {
+            "subject": "South Korea",
+            "object": "Korean"
+        },
+        {
+            "subject": "Egypt",
+            "object": "Arabic"
+        },
+        {
+            "subject": "Mexico",
+            "object": "Spanish"
+        },
+        {
+            "subject": "Australia",
+            "object": "English"
+        },
+        {
+            "subject": "Saudi Arabia",
+            "object": "Arabic"
+        },
+        {
+            "subject": "Norway",
+            "object": "Norwegian"
+        },
+        {
+            "subject": "Argentina",
+            "object": "Spanish"
+        },
+        {
+            "subject": "Turkey",
+            "object": "Turkish"
+        }
+    ]
+}

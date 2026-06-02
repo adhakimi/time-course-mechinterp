@@ -1,0 +1,76 @@
+{
+    "name": "movie_directed",
+    "prompt_templates": [
+        "The Movie {} was directed by the director with the name of"
+    ],
+    "samples": [
+        {
+            "subject": "The Godfather",
+            "object": "Francis Ford Coppola"
+        },
+        {
+            "subject": "The Shawshank Redemption",
+            "object": "Frank Darabont"
+        },
+        {
+            "subject": "Schindler's List",
+            "object": "Steven Spielberg"
+        },
+        {
+            "subject": "Raging Bull",
+            "object": "Martin Scorsese"
+        },
+        {
+            "subject": "Lawrence of Arabia",
+            "object": "David Lean"
+        },
+        {
+            "subject": "Vertigo",
+            "object": "Alfred Hitchcock"
+        },
+        {
+            "subject": "The Godfather Part II",
+            "object": "Francis Ford Coppola"
+        },
+        {
+            "subject": "On the Waterfront",
+            "object": "Elia Kazan"
+        },
+        {
+            "subject": "Forrest Gump",
+            "object": "Robert Zemeckis"
+        },
+        {
+            "subject": "12 Angry Men",
+            "object": "Sidney Lumet"
+        },
+        {
+            "subject": "The Power of the Dog",
+            "object": "Jane Campion"
+        },
+        {
+            "subject": "Top Gun: Maverick",
+            "object": "Joseph Kosinski"
+        },
+        {
+            "subject": "The Trial of the Chicago 7",
+            "object": "Aaron Sorkin"
+        },
+        {
+            "subject": "Promising Young Woman",
+            "object": "Emerald Fennell"
+        },
+        {
+            "subject": "The French Dispatch",
+            "object": "Wes Anderson"
+        },
+        {
+            "subject": "The Green Knight",
+            "object": "David Lowery"
+        },
+        {
+            "subject": "The Fabelmans",
+            "object": "Steven Spielberg"
+        }
+    ]
+}

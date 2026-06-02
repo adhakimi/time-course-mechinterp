@@ -1,0 +1,60 @@
+{
+    "name": "books_written",
+    "prompt_templates": [
+        "The Book {} was written by the author with the name of"
+    ],
+    "samples": [
+        {
+            "subject": "The Fault in Our Stars",
+            "object": "John Green"
+        },
+        {
+            "subject": "Gone Girl",
+            "object": "Gillian Flynn"
+        },
+        {
+            "subject": "The Goldfinch",
+            "object": "Donna Tartt"
+        },
+        {
+            "subject": "The Night Circus",
+            "object": "Erin Morgenstern"
+        },
+        {
+            "subject": "The Martian",
+            "object": "Andy Weir"
+        },
+        {
+            "subject": "The Immortal Life of Henrietta Lacks",
+            "object": "Rebecca Skloot"
+        },
+        {
+            "subject": "The Hunger Games",
+            "object": "Suzanne Collins"
+        },
+        {
+            "subject": "Life of Pi",
+            "object": "Yann Martel"
+        },
+        {
+            "subject": "The Kite Runner",
+            "object": "Khaled Hosseini"
+        },
+        {
+            "subject": "The Da Vinci Code",
+            "object": "Dan Brown"
+        },
+        {
+            "subject": "Educated",
+            "object": "Tara Westover"
+        },
+        {
+            "subject": "Just Mercy",
+            "object": "Bryan Stevenson"
+        },
+        {
+            "subject": "White Fragility",
+            "object": "Robin DiAngelo"
+        }
+    ]
+}

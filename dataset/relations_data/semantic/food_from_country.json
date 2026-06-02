@@ -1,0 +1,76 @@
+{
+    "name": "food_from_country",
+    "prompt_templates": [
+        "{} is from the country of"
+    ],
+    "samples": [
+        {
+            "subject": "Sushi",
+            "object": "Japan"
+        },
+        {
+            "subject": "Tacos",
+            "object": "Mexico"
+        },
+        {
+            "subject": "Baguette",
+            "object": "France"
+        },
+        {
+            "subject": "Paella",
+            "object": "Spain"
+        },
+        {
+            "subject": "Feijoada",
+            "object": "Brazil"
+        },
+        {
+            "subject": "Pierogi",
+            "object": "Poland"
+        },
+        {
+            "subject": "Moussaka",
+            "object": "Greece"
+        },
+        {
+            "subject": "Ceviche",
+            "object": "Peru"
+        },
+        {
+            "subject": "Wiener Schnitzel",
+            "object": "Austria"
+        },
+        {
+            "subject": "Pad Thai",
+            "object": "Thailand"
+        },
+        {
+            "subject": "Miso Soup",
+            "object": "Japan"
+        },
+        {
+            "subject": "Tandoori Chicken",
+            "object": "India"
+        },
+        {
+            "subject": "Tempura",
+            "object": "Japan"
+        },
+        {
+            "subject": "Croissant",
+            "object": "France"
+        },
+        {
+            "subject": "Couscous",
+            "object": "Morocco"
+        },
+        {
+            "subject": "Khachapuri",
+            "object": "Georgia"
+        },
+        {
+            "subject": "Fajitas",
+            "object": "Mexico"
+        }
+    ]
+}

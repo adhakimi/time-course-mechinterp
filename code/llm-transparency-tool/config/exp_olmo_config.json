@@ -1,0 +1,15 @@
+{
+    "model_name": "allenai/OLMo-7B-0424-hf",
+    "_model_path": "${DATA_ROOT}/revisions_temp/",
+    "device": "gpu",
+    "dtype": "torch.bfloat16",
+    "amp_enabled": true,
+    "renormalize_after_threshold": true,
+    "normalize_before_unembedding": true,
+    "prepend_bos": false,
+    "do_head_level": true,
+    "do_neuron_level": false,
+    "contribution_threshold": 0.01,
+    "logit_lens_topK": 10,
+    "logit_lens_topK_neurons": 10
+}
