@@ -64,7 +64,7 @@ def load_models(model_name, device='cuda', checkpoint=""):
         #fold_ln=True,
         device=device,
         trust_remote_code=True,
-        cache_dir="/mounts/data/proj/hypersum",
+        cache_dir=os.environ.get("HF_CACHE_DIR") or None,
         checkpoint_value=checkpoint,
     )
 
